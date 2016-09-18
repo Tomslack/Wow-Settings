@@ -1,0 +1,90 @@
+VER 3 0100000000000014 "ath" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover][] Marked for Death
+END
+VER 3 0100000000000004 "blind" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] Blind
+END
+VER 3 0100000000000008 "burst" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Vendetta
+/cast Shadow Reflection
+/use Wild Combatant's Badge of Adaptation
+/use Draenic Agility Potion
+END
+VER 3 0100000000000001 "cm" "INV_MISC_QUESTIONMARK"
+.item 3 90125
+.item 5 90122
+.item 7 90124
+.item 10 90123
+.item 6 90119
+.item 8 90121
+.item 19 98162
+END
+VER 3 0100000000000006 "Dance" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Shadow Dance
+/cast Shadow Reflection
+/yell SEE YA IDIOT!
+/use Warmongering Combatant's Badge of Conquest
+/use Draenic Agility Potion
+END
+VER 3 010000000000000A "deadly" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] Kick
+END
+VER 3 010000000000000E "goughe" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] Gouge
+END
+VER 3 0100000000000016 "IGNORE" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:7/2]Shadow Reflection; [talent:7/3]Death from Above
+END
+VER 3 0100000000000007 "kick" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] Shadowstep
+/cast [@focus] Kick
+END
+VER 3 010000000000000D "kidney" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] Kidney Shot
+END
+VER 3 0100000000000015 "ks" "INV_MISC_QUESTIONMARK"
+#showtooltip kILLING Spree
+/use Wild Gladiator's Badge of Adaptation
+/cast Killing Spree
+END
+VER 3 0100000000000012 "party1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@party1] Shadowstep
+END
+VER 3 0100000000000013 "party2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@party2] Shadowstep
+END
+VER 3 0100000000000003 "rhythm" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Adrenaline Rush
+/use Wild Gladiator's Badge of Adaptation
+/cast Shadow Reflection
+END
+VER 3 0100000000000005 "Sap" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget
+/targetenemyplayer
+/cast Sap
+END
+VER 3 010000000000000C "step" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@party1] Shadowstep
+END
+VER 3 0100000000000011 "step" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] Shadowstep
+END
+VER 3 0100000000000009 "throw" "INV_MISC_QUESTIONMARK"
+#showtoolip
+/cast [@focus] Throw
+END

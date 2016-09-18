@@ -1,0 +1,98 @@
+VER 3 0100000000000015 "BEAR" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast !Bear Form
+/cast Frenzied Regeneration
+END
+VER 3 0100000000000005 "Boost" "INV_MISC_QUESTIONMARK"
+#showtooltip 6
+/use 6
+END
+VER 3 0100000000000001 "cat" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast !Cat Form
+END
+VER 3 010000000000000F "Cenarion1" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast Honorable Medallion
+/cast Gladiator's Medallion
+END
+VER 3 010000000000000D "Clone" "INV_MISC_QUESTIONMARK"
+#showtooltip Cyclone
+/cast [@focus] Cyclone
+END
+VER 3 0100000000000012 "focus bash" "INV_MISC_QUESTIONMARK"
+#showtooltip Mighty Bash
+/stopcasting
+/cast [@target,nomod] Mighty Bash
+/cast [@focus,mod:alt] Mighty Bash
+END
+VER 3 010000000000000B "Heal" "INV_MISC_QUESTIONMARK"
+/run if InCombatLockdown() then SetCVar("autounshift",0) end
+/cast [@mouseover, help, dead] Rebirth
+/cast [@mouseover, help] [@player] Healing Touch
+/console autounshift 1
+END
+VER 3 0100000000000008 "Heal" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@focus] Skull Bash
+//party kicking focus
+END
+VER 3 0100000000000013 "HT1" "INV_MISC_QUESTIONMARK"
+#showtooltip Healing Touch
+/cast [@shoe] Healing touch
+END
+VER 3 0100000000000009 "Kick" "INV_MISC_QUESTIONMARK"
+#showtooltip Skull Bash
+/stopcasting
+/cast [@target,nomod] Skull Bash
+/cast [@focus,mod:shift] Skull Bash
+//Party kicking %t
+END
+VER 3 0100000000000004 "noform" "134177"
+/cancelaura Cat Form
+/cancelaura Bear Form
+/cancelaura Travel Form
+/cancelaura Flight Form
+/cancelaura Moonkin Form
+/cancelaura Claws of Shirvallah
+/dismount
+END
+VER 3 0100000000000014 "pounce" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Rake
+/cancelaura Hand of Protection
+END
+VER 3 010000000000000A "root" "INV_MISC_QUESTIONMARK"
+#showtooltip Entangling Roots
+/stopcasting
+/cast [@focus] Entangling Roots
+END
+VER 3 0100000000000006 "Tiger's Fury" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Tiger's Fury
+/use 10
+END
+VER 3 0100000000000010 "Tmorph Wings" "252270"
+.spell 183927 148957
+///.spell 182057 148954
+/.race 4
+/.gender
+END
+VER 3 0100000000000003 "travel" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast !travel Form
+END
+VER 3 010000000000000C "Wild Charge" "INV_MISC_QUESTIONMARK"
+#showtooltipp [talent:2/2] Displacer Beast; [talent:2/3] Wild Charge; [talent: 2/1] Renewal
+/cast Displacer Beast
+/cast Renewal
+/stopcasting
+/cancelform [@target,help,nostance:0]
+/cast [@target,exists,help] Wild Charge
+/cast Wild Charge
+END
+VER 3 0100000000000007 "Zerk" "INV_MISC_QUESTIONMARK"
+#showtooltip Berserk
+/cast Berserk
+/cast Tiger's Fury
+END
