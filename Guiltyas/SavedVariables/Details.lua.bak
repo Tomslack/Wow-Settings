@@ -13,14 +13,14 @@ _detalhes_database = {
 		["reverse"] = false,
 	},
 	["active_profile"] = "Guiltyas-Auchindoun",
-	["last_day"] = "02",
+	["last_day"] = "07",
 	["ignore_nicktag"] = false,
-	["combat_counter"] = 27,
+	["combat_counter"] = 2,
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_DAMAGE_RANK"] = {
 			["lasttry"] = {
 			},
-			["annouce"] = false,
+			["annouce"] = true,
 			["dpshistory"] = {
 			},
 			["dps"] = 0,
@@ -44,7 +44,7 @@ _detalhes_database = {
 			["max_segments_for_current"] = 2,
 			["max_deaths_for_current"] = 15,
 			["last_player"] = false,
-			["InstalledAt"] = 1467483392,
+			["InstalledAt"] = 1467916462,
 			["last_encounter_hash"] = false,
 			["showing_type"] = 4,
 			["timeline_cutoff_time"] = 3,
@@ -101,7 +101,7 @@ _detalhes_database = {
 			},
 			["show_inc_bars"] = false,
 			["author"] = "Details! Team",
-			["first_run"] = true,
+			["first_run"] = false,
 			["tank_block_size"] = 150,
 		},
 		["DETAILS_PLUGIN_TIME_ATTACK"] = {
@@ -195,817 +195,33 @@ _detalhes_database = {
 	},
 	["savedbuffs"] = {
 	},
-	["last_instance_time"] = 0,
 	["character_data"] = {
 		["logons"] = 1,
 	},
-	["tabela_pets"] = {
-		["Creature-0-1463-1159-27256-94852-000078089A"] = {
-			"Guiltyas", -- [1]
-			"Player-1597-090F1929", -- [2]
-			1297, -- [3]
-			1467484311, -- [4]
-			false, -- [5]
-			"Fey Moonwing", -- [6]
-			"Creature-0-1463-1159-27256-94852-000078089A", -- [7]
-		},
-		["Creature-0-1463-1159-27256-94852-00007808B0"] = {
-			"Guiltyas", -- [1]
-			"Player-1597-090F1929", -- [2]
-			1297, -- [3]
-			1467484333, -- [4]
-			false, -- [5]
-			"Fey Moonwing", -- [6]
-			"Creature-0-1463-1159-27256-94852-00007808B0", -- [7]
-		},
-		["Creature-0-1463-1159-27256-94852-00007808BA"] = {
-			"Guiltyas", -- [1]
-			"Player-1597-090F1929", -- [2]
-			1297, -- [3]
-			1467484343, -- [4]
-			false, -- [5]
-			"Fey Moonwing", -- [6]
-			"Creature-0-1463-1159-27256-94852-00007808BA", -- [7]
-		},
-		["Creature-0-1463-1159-27256-94852-00007808CB"] = {
-			"Guiltyas", -- [1]
-			"Player-1597-090F1929", -- [2]
-			1297, -- [3]
-			1467484361, -- [4]
-			false, -- [5]
-			"Fey Moonwing", -- [6]
-			"Creature-0-1463-1159-27256-94852-00007808CB", -- [7]
-		},
-	},
+	["last_instance_time"] = 0,
 	["tabela_historico"] = {
 		["tabelas"] = {
-			{
-				{
-					["combatId"] = 1,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["Training Dummy"] = 3400066,
-							},
-							["pets"] = {
-								"Fey Moonwing <Guiltyas>", -- [1]
-							},
-							["friendlyfire"] = {
-							},
-							["classe"] = "DRUID",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 3214937.001355,
-							["spec"] = 102,
-							["colocacao"] = 1,
-							["dps_started"] = false,
-							["end_time"] = 1467484368,
-							["friendlyfire_total"] = 0,
-							["on_hold"] = false,
-							["nome"] = "Guiltyas",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									[2912] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 163072,
-										["targets"] = {
-											["Training Dummy"] = 1193384,
-										},
-										["m_dmg"] = 82456,
-										["n_dmg"] = 1110928,
-										["n_min"] = 55550,
-										["g_dmg"] = 0,
-										["counter"] = 9,
-										["total"] = 1193384,
-										["c_max"] = 0,
-										["id"] = 2912,
-										["r_dmg"] = 0,
-										["spellschool"] = 64,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 3,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 9,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[78674] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 147545,
-										["targets"] = {
-											["Training Dummy"] = 552901,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 552901,
-										["n_min"] = 129221,
-										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 552901,
-										["c_max"] = 0,
-										["id"] = 78674,
-										["r_dmg"] = 0,
-										["spellschool"] = 72,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[50288] = {
-										["c_amt"] = 3,
-										["b_amt"] = 0,
-										["c_dmg"] = 75431,
-										["g_amt"] = 0,
-										["n_max"] = 16786,
-										["targets"] = {
-											["Training Dummy"] = 731047,
-										},
-										["m_dmg"] = 56319,
-										["n_dmg"] = 599297,
-										["n_min"] = 3078,
-										["g_dmg"] = 0,
-										["counter"] = 60,
-										["total"] = 731047,
-										["c_max"] = 30929,
-										["id"] = 50288,
-										["r_dmg"] = 0,
-										["spellschool"] = 64,
-										["a_dmg"] = 0,
-										["m_crit"] = 3,
-										["a_amt"] = 0,
-										["m_amt"] = 17,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 57,
-										["r_amt"] = 0,
-										["c_min"] = 18735,
-									},
-									[164815] = {
-										["c_amt"] = 2,
-										["b_amt"] = 0,
-										["c_dmg"] = 28331,
-										["g_amt"] = 0,
-										["n_max"] = 20500,
-										["targets"] = {
-											["Training Dummy"] = 329645,
-										},
-										["m_dmg"] = 29698,
-										["n_dmg"] = 271616,
-										["n_min"] = 2471,
-										["g_dmg"] = 0,
-										["counter"] = 32,
-										["total"] = 329645,
-										["c_max"] = 19722,
-										["id"] = 164815,
-										["r_dmg"] = 0,
-										["spellschool"] = 8,
-										["a_dmg"] = 0,
-										["m_crit"] = 2,
-										["a_amt"] = 0,
-										["m_amt"] = 13,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 30,
-										["r_amt"] = 0,
-										["c_min"] = 8609,
-									},
-									[164812] = {
-										["c_amt"] = 4,
-										["b_amt"] = 0,
-										["c_dmg"] = 91541,
-										["g_amt"] = 0,
-										["n_max"] = 20499,
-										["targets"] = {
-											["Training Dummy"] = 407960,
-										},
-										["m_dmg"] = 42794,
-										["n_dmg"] = 273625,
-										["n_min"] = 3329,
-										["g_dmg"] = 0,
-										["counter"] = 34,
-										["total"] = 407960,
-										["c_max"] = 31373,
-										["id"] = 164812,
-										["r_dmg"] = 0,
-										["spellschool"] = 64,
-										["a_dmg"] = 0,
-										["m_crit"] = 3,
-										["a_amt"] = 0,
-										["m_amt"] = 15,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 30,
-										["r_amt"] = 0,
-										["c_min"] = 6898,
-									},
-								},
-							},
-							["grupo"] = true,
-							["total"] = 3400066.001355,
-							["serial"] = "Player-1597-090F1929",
-							["last_dps"] = 57956.3290722895,
-							["custom"] = 0,
-							["last_event"] = 1467484363,
-							["damage_taken"] = 0.001355,
-							["start_time"] = 1467484309,
-							["delay"] = 0,
-							["tipo"] = 1,
-						}, -- [1]
-						{
-							["flag_original"] = 8465,
-							["serial"] = "Creature-0-1463-1159-27256-94852-000078089A",
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["Training Dummy"] = 185129,
-							},
-							["pets"] = {
-							},
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 185129.002654,
-							["dps_started"] = false,
-							["total"] = 185129.002654,
-							["classe"] = "PET",
-							["ownerName"] = "Guiltyas",
-							["nome"] = "Fey Moonwing <Guiltyas>",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									[188046] = {
-										["c_amt"] = 5,
-										["b_amt"] = 0,
-										["c_dmg"] = 52183,
-										["g_amt"] = 0,
-										["n_max"] = 5805,
-										["targets"] = {
-											["Training Dummy"] = 185129,
-										},
-										["m_dmg"] = 18651,
-										["n_dmg"] = 114295,
-										["n_min"] = 4339,
-										["g_dmg"] = 0,
-										["counter"] = 29,
-										["total"] = 185129,
-										["c_max"] = 11609,
-										["id"] = 188046,
-										["r_dmg"] = 0,
-										["spellschool"] = 72,
-										["a_dmg"] = 0,
-										["m_crit"] = 1,
-										["a_amt"] = 0,
-										["m_amt"] = 12,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 24,
-										["r_amt"] = 0,
-										["c_min"] = 8678,
-									},
-								},
-							},
-							["friendlyfire"] = {
-							},
-							["end_time"] = 1467484368,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 0.002654,
-							["start_time"] = 1467484316,
-							["delay"] = 0,
-							["last_event"] = 1467484363,
-						}, -- [2]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 1,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorb"] = 0.00468,
-							["last_hps"] = 0,
-							["healing_from"] = {
-							},
-							["targets"] = {
-							},
-							["last_event"] = 1467484367,
-							["pets"] = {
-							},
-							["totalover_without_pet"] = 0.00468,
-							["targets_overheal"] = {
-								["Guiltyas"] = 875170,
-							},
-							["healing_taken"] = 0.00468,
-							["totalover"] = 875170.00468,
-							["total_without_pet"] = 0.00468,
-							["iniciar_hps"] = false,
-							["spec"] = 102,
-							["classe"] = "DRUID",
-							["total"] = 0.00468,
-							["heal_enemy_amt"] = 0,
-							["end_time"] = 1467484368,
-							["nome"] = "Guiltyas",
-							["targets_absorbs"] = {
-							},
-							["grupo"] = true,
-							["heal_enemy"] = {
-							},
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[124988] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Guiltyas"] = 778813,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Guiltyas"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 33,
-										["overheal"] = 778813,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 124988,
-										["targets_absorbs"] = {
-										},
-										["m_crit"] = 0,
-										["c_curado"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["n_curado"] = 0,
-										["m_healed"] = 0,
-										["n_amt"] = 33,
-										["absorbed"] = 0,
-									},
-									[774] = {
-										["c_amt"] = 4,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Guiltyas"] = 92595,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Guiltyas"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 17,
-										["overheal"] = 92595,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 774,
-										["targets_absorbs"] = {
-										},
-										["m_crit"] = 1,
-										["c_curado"] = 0,
-										["m_amt"] = 2,
-										["c_min"] = 0,
-										["n_curado"] = 0,
-										["m_healed"] = 0,
-										["n_amt"] = 13,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["custom"] = 0,
-							["tipo"] = 2,
-							["on_hold"] = false,
-							["start_time"] = 1467484309,
-							["delay"] = 0,
-							["serial"] = "Player-1597-090F1929",
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["combatId"] = 1,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["combatId"] = 1,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[164812] = {
-										["uptime"] = 59,
-										["activedamt"] = 1,
-										["id"] = 164812,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[164815] = {
-										["uptime"] = 48,
-										["activedamt"] = 0,
-										["id"] = 164815,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-								},
-							},
-							["buff_uptime"] = 537,
-							["classe"] = "DRUID",
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[137452] = {
-										["uptime"] = 4,
-										["activedamt"] = 1,
-										["id"] = 137452,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[24858] = {
-										["uptime"] = 57,
-										["activedamt"] = 2,
-										["id"] = 24858,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[124974] = {
-										["uptime"] = 30,
-										["activedamt"] = 1,
-										["id"] = 124974,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[164547] = {
-										["uptime"] = 22,
-										["activedamt"] = 4,
-										["id"] = 164547,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[171743] = {
-										["uptime"] = 10,
-										["activedamt"] = 2,
-										["id"] = 171743,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[24907] = {
-										["actived_at"] = 1467484348,
-										["uptime"] = 0,
-										["activedamt"] = 1,
-										["id"] = 24907,
-										["actived"] = true,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[72968] = {
-										["uptime"] = 59,
-										["activedamt"] = 3,
-										["id"] = 72968,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[156426] = {
-										["uptime"] = 20,
-										["activedamt"] = 1,
-										["id"] = 156426,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[171744] = {
-										["uptime"] = 10,
-										["activedamt"] = 2,
-										["id"] = 171744,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[112071] = {
-										["uptime"] = 15,
-										["activedamt"] = 1,
-										["id"] = 112071,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[184989] = {
-										["uptime"] = 30,
-										["activedamt"] = 1,
-										["id"] = 184989,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[102560] = {
-										["uptime"] = 26,
-										["activedamt"] = 1,
-										["id"] = 102560,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[183924] = {
-										["uptime"] = 32,
-										["activedamt"] = 2,
-										["id"] = 183924,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[768] = {
-										["uptime"] = 2,
-										["activedamt"] = 1,
-										["id"] = 768,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[188086] = {
-										["uptime"] = 57,
-										["activedamt"] = 1,
-										["id"] = 188086,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[58984] = {
-										["uptime"] = 3,
-										["activedamt"] = 1,
-										["id"] = 58984,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[1126] = {
-										["uptime"] = 59,
-										["activedamt"] = 1,
-										["id"] = 1126,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[93400] = {
-										["uptime"] = 8,
-										["activedamt"] = 3,
-										["id"] = 93400,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[186403] = {
-										["uptime"] = 59,
-										["activedamt"] = 1,
-										["id"] = 186403,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[774] = {
-										["uptime"] = 34,
-										["activedamt"] = 2,
-										["id"] = 774,
-										["actived"] = false,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-								},
-							},
-							["debuff_uptime"] = 107,
-							["debuff_uptime_targets"] = {
-							},
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 102,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[93402] = 1,
-								[1126] = 1,
-								[2912] = 8,
-								[774] = 3,
-								[112071] = 1,
-								[58984] = 1,
-								[72968] = 2,
-								[24858] = 1,
-								[8921] = 2,
-								[102280] = 1,
-								[78674] = 4,
-							},
-							["colocacao"] = 1,
-							["last_event"] = 1467484368,
-							["nome"] = "Guiltyas",
-							["pets"] = {
-								"Fey Moonwing <Guiltyas>", -- [1]
-							},
-							["serial"] = "Player-1597-090F1929",
-							["tipo"] = 4,
-						}, -- [1]
-						{
-							["flag_original"] = 8465,
-							["ownerName"] = "Guiltyas",
-							["nome"] = "Fey Moonwing <Guiltyas>",
-							["pets"] = {
-							},
-							["classe"] = "PET",
-							["tipo"] = 4,
-							["spell_cast"] = {
-								[188046] = 30,
-							},
-							["serial"] = "Creature-0-1463-1159-27256-94852-000078089A",
-							["last_event"] = 0,
-						}, -- [2]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 1,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Guiltyas"] = true,
-				},
-				["last_events_tables"] = {
-				},
-				["enemy"] = "Training Dummy",
-				["combat_counter"] = 27,
-				["playing_solo"] = true,
-				["totals"] = {
-					3400065.978354, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = false,
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Guiltyas"] = 0.00468,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Guiltyas"] = 3400066.001355,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 9175.665,
-				["combat_id"] = 1,
-				["instance_type"] = "none",
-				["totals_grupo"] = {
-					3214937, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["frags"] = {
-				},
-				["data_fim"] = "19:32:48",
-				["data_inicio"] = "19:31:50",
-				["CombatSkillCache"] = {
-				},
-				["PlayerLeechTrinket"] = {
-				},
-				["start_time"] = 9116.999,
-				["TimeData"] = {
-				},
-				["pvp"] = true,
-			}, -- [1]
 		},
 	},
 	["nick_tag_cache"] = {
+		["nextreset"] = 1469212462,
 		["last_version"] = 7,
-		[151984425] = {
-			"Guiltyas", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-TyrandeWhisperwind", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
-			{
-				0.129609375, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			2, -- [7]
-		},
-		["nextreset"] = 1468779392,
 	},
 	["tabela_instancias"] = {
 	},
-	["combat_id"] = 1,
+	["combat_id"] = 0,
 	["savedStyles"] = {
 	},
 	["last_version"] = "v4.5c",
 	["cached_talents"] = {
-		["Player-1597-090F1929"] = {
-			18571, -- [1]
-			18586, -- [2]
-			21649, -- [3]
-			18572, -- [4]
+		["Player-1096-0736053D"] = {
+			18572, -- [1]
+			21649, -- [2]
+			18586, -- [3]
+			18583, -- [4]
 			21705, -- [5]
 			18577, -- [6]
-			18583, -- [7]
+			18570, -- [7]
 		},
 	},
 	["announce_deaths"] = {
@@ -1056,7 +272,7 @@ _detalhes_database = {
 		},
 		["start_time"] = 0,
 		["data_inicio"] = 0,
-		["combat_counter"] = 26,
+		["combat_counter"] = 1,
 		["last_events_tables"] = {
 		},
 		["raid_roster"] = {
@@ -1112,8 +328,6 @@ _detalhes_database = {
 		},
 		["frags_need_refresh"] = false,
 		["TimeData"] = {
-			["Raid Damage Done"] = {
-			},
 		},
 		["__call"] = {
 		},
@@ -1125,14 +339,13 @@ _detalhes_database = {
 			["sub_attribute"] = 1,
 			["horizontalSnap"] = false,
 			["verticalSnap"] = false,
-			["last_raid_plugin"] = "DETAILS_PLUGIN_TINY_THREAT",
 			["is_open"] = true,
 			["isLocked"] = true,
 			["sub_atributo_last"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
-				8, -- [4]
+				1, -- [4]
 				1, -- [5]
 			},
 			["snap"] = {
@@ -1141,10 +354,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -457.50032043457,
-					["x"] = 622.00146484375,
+					["y"] = -429.999816894531,
+					["x"] = 631.001586914063,
 					["w"] = 286.000030517578,
-					["h"] = 129.000213623047,
+					["h"] = 192.000244140625,
 				},
 				["solo"] = {
 					["y"] = 139.000244140625,
@@ -1172,6 +385,6 @@ _detalhes_database = {
 	},
 	["last_instance_id"] = 0,
 	["cached_specs"] = {
-		["Player-1597-090F1929"] = 103,
+		["Player-1096-0736053D"] = 103,
 	},
 }

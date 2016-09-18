@@ -1,0 +1,351 @@
+
+SVUI_Profile = {
+	["SAFEDATA"] = {
+		["dualSpecEnabled"] = false,
+		["NEEDSLIVEUPDATE"] = false,
+		["FightOMatic"] = {
+			["enable"] = false,
+		},
+		["install_version"] = "5.4.2",
+		["ChatOMatic"] = {
+			["enable"] = false,
+		},
+		["CraftOMatic"] = {
+			["enable"] = false,
+		},
+		["StyleOMatic"] = {
+			["enable"] = true,
+		},
+		["TrackOMatic"] = {
+			["enable"] = false,
+		},
+		["LogOMatic"] = {
+			["enable"] = false,
+		},
+	},
+	["STORED"] = {
+		{
+			["SVTip"] = {
+			},
+			["SVChat"] = {
+			},
+			["general"] = {
+			},
+			["SVPlate"] = {
+			},
+			["SVTools"] = {
+			},
+			["screen"] = {
+			},
+			["SVOverride"] = {
+			},
+			["SVHenchmen"] = {
+			},
+			["SVAura"] = {
+				["wrapAfter"] = 10,
+			},
+			["SVQuest"] = {
+			},
+			["Dock"] = {
+			},
+			["SVBag"] = {
+			},
+			["SVMap"] = {
+			},
+			["SVUnit"] = {
+				["healthclass"] = true,
+				["assist"] = {
+					["grid"] = {
+						["enable"] = true,
+					},
+				},
+				["player"] = {
+					["portrait"] = {
+						["style"] = "2D",
+						["overlay"] = false,
+					},
+					["classbar"] = {
+						["detachFromFrame"] = true,
+					},
+				},
+				["targettarget"] = {
+					["debuffs"] = {
+						["enable"] = true,
+					},
+					["portrait"] = {
+						["style"] = "2D",
+						["enable"] = false,
+						["overlay"] = false,
+					},
+					["buffs"] = {
+						["enable"] = true,
+					},
+				},
+				["pet"] = {
+					["portrait"] = {
+						["style"] = "2D",
+						["overlay"] = false,
+					},
+				},
+				["boss"] = {
+					["portrait"] = {
+						["style"] = "2D",
+						["overlay"] = false,
+					},
+				},
+				["party"] = {
+					["showBy"] = "RIGHT_DOWN",
+					["portrait"] = {
+						["width"] = 35,
+					},
+					["wrapYOffset"] = 13,
+					["icons"] = {
+						["roleIcon"] = {
+							["attachTo"] = "INNERBOTTOMRIGHT",
+							["yOffset"] = 0,
+						},
+					},
+					["width"] = 75,
+					["name"] = {
+						["font"] = "SVUI Default Font",
+						["position"] = "INNERTOPLEFT",
+						["fontOutline"] = "OUTLINE",
+						["yOffset"] = 0,
+					},
+					["height"] = 60,
+				},
+				["raidpet"] = {
+					["showBy"] = "RIGHT_DOWN",
+					["wrapXOffset"] = 6,
+					["wrapYOffset"] = 6,
+					["grid"] = {
+						["enable"] = true,
+						["size"] = 34,
+					},
+				},
+				["tank"] = {
+					["grid"] = {
+						["enable"] = true,
+					},
+				},
+				["focus"] = {
+					["debuffs"] = {
+						["anchorPoint"] = "TOPRIGHT",
+						["attachTo"] = "BUFFS",
+					},
+					["aurabar"] = {
+						["attachTo"] = "DEBUFFS",
+					},
+				},
+				["raid"] = {
+					["wrapXOffset"] = 9,
+					["grid"] = {
+						["size"] = 34,
+					},
+					["wrapYOffset"] = 13,
+					["icons"] = {
+						["roleIcon"] = {
+							["yOffset"] = 1,
+						},
+					},
+				},
+				["focustarget"] = {
+					["debuffs"] = {
+						["anchorPoint"] = "TOPRIGHT",
+						["attachTo"] = "BUFFS",
+					},
+				},
+				["target"] = {
+					["portrait"] = {
+						["style"] = "2D",
+						["overlay"] = false,
+					},
+				},
+			},
+			["font"] = {
+			},
+			["LAYOUT"] = {
+			},
+			["totems"] = {
+			},
+			["SVBar"] = {
+				["Bar3"] = {
+					["buttons"] = 12,
+				},
+				["Bar2"] = {
+					["enable"] = true,
+				},
+				["Bar5"] = {
+					["buttons"] = 12,
+				},
+			},
+			["SVGear"] = {
+			},
+			["media"] = {
+				["textures"] = {
+					["unitlarge"] = "SVUI Unit BG 1",
+					["unitsmall"] = "SVUI Small BG 1",
+					["comic"] = "SVUI Comic 1",
+				},
+				["colors"] = {
+					["specialdark"] = {
+						0.23, -- [1]
+						0.22, -- [2]
+						0.21, -- [3]
+					},
+				},
+				["unitframes"] = {
+					["buff_bars"] = {
+						0.91, -- [1]
+						0.91, -- [2]
+						nil, -- [3]
+						1, -- [4]
+					},
+					["spark"] = {
+						nil, -- [1]
+						nil, -- [2]
+						nil, -- [3]
+						1, -- [4]
+					},
+					["health"] = {
+						0.1, -- [1]
+						0.6, -- [2]
+						0.02, -- [3]
+						1, -- [4]
+					},
+					["casting"] = {
+						nil, -- [1]
+						nil, -- [2]
+						nil, -- [3]
+						1, -- [4]
+					},
+				},
+			},
+		}, -- [1]
+		{
+			["Core"] = {
+			},
+		}, -- [2]
+		{
+			["Core"] = {
+			},
+		}, -- [3]
+		{
+			["Core"] = {
+			},
+		}, -- [4]
+	},
+}
+SVUI_Cache = {
+	["STORED"] = {
+		{
+			["Anchors"] = {
+				["SVUI_TargetTarget_MOVE"] = "BOTTOMSVUIParentBOTTOM0210",
+				["BattleNetToasts_MOVE"] = "TOPRIGHTSVUIParentTOPRIGHT-4-248",
+				["SVUI_BossHolder_MOVE"] = "RIGHTSVUIParentRIGHT-1050",
+				["SVUI_Focus_MOVE"] = "BOTTOMSVUIParentBOTTOM310432",
+				["SVUI_StanceBar_MOVE"] = "BOTTOMRIGHTSVUI_ActionBar2TOPRIGHT04",
+				["SVUI_Raid40_MOVE"] = "BOTTOMLEFTSVUIParentBOTTOMLEFT4300",
+				["SVUI_Raid25_MOVE"] = "BOTTOMLEFTSVUIParentBOTTOMLEFT4300",
+				["SVUI_Raidpet_MOVE"] = "TOPLEFTSVUIParentTOPLEFT4-325",
+				["SVUI_PetActionBar_MOVE"] = "BOTTOMLEFTSVUI_ActionBar2TOPLEFT04",
+				["SVUI_ActionBar5_MOVE"] = "BOTTOMRIGHTSVUI_ActionBar1BOTTOMLEFT-40",
+				["SVUI_Assist_MOVE"] = "TOPLEFTSVUIParentTOPLEFT4-250",
+				["SVUI_Target_MOVE"] = "BOTTOMSVUIParentBOTTOM278210",
+				["SVUI_ActionBar2_MOVE"] = "BOTTOMSVUI_ActionBar1TOP0-2",
+				["SVUI_PlayerCastbar_MOVE"] = "BOTTOMSVUIParentBOTTOM-278150",
+				["SVUI_LootFrame_MOVE"] = "BOTTOMSVUIParentBOTTOM0254",
+				["SVUI_ActionBar3_MOVE"] = "BOTTOMLEFTSVUI_ActionBar1BOTTOMRIGHT40",
+				["SVUI_Tank_MOVE"] = "TOPLEFTSVUIParentTOPLEFT4-175",
+				["SVUI_ThreatBar_MOVE"] = "BOTTOMRIGHTSVUIParentBOTTOMRIGHT-495210",
+				["Tooltip_MOVE"] = "BOTTOMRIGHTSVUIParentBOTTOMRIGHT-284240",
+				["LoC_MOVE"] = "BOTTOMSVUIParentBOTTOM0443",
+				["SVUI_ArenaHolder_MOVE"] = "RIGHTSVUIParentRIGHT-1050",
+				["SVUI_AltPowerBar_MOVE"] = "TOPSVUIParentTOP0-39",
+				["SVUI_Party_MOVE"] = "BOTTOMLEFTSVUIParentBOTTOMLEFT4300",
+				["SVUI_Player_MOVE"] = "BOTTOMSVUIParentBOTTOM-278210",
+				["GM_MOVE"] = "TOPLEFTSVUIParentTOPLEFT344-25",
+				["SVUI_Raid10_MOVE"] = "BOTTOMLEFTSVUIParentBOTTOMLEFT4300",
+				["SVUI_SpecialAbility_MOVE"] = "BOTTOMSVUIParentBOTTOM0340",
+				["SVUI_TargetCastbar_MOVE"] = "BOTTOMSVUIParentBOTTOM278150",
+			},
+			["Docks"] = {
+				["LeftFaded"] = false,
+				["Locations"] = {
+					["SVUI_QuestTracker"] = "BottomRight",
+					["SVUI_Hearth"] = "BottomLeft",
+					["SVUI_ChatFrameDock"] = "BottomLeft",
+					["SVUI_Henchmen"] = "BottomRight",
+					["SVUI_Archaeology"] = "BottomRight",
+					["SVUI_Cooking"] = "BottomRight",
+					["SVUI_Garrison"] = "TopLeft",
+					["SVUI_Jewelcrafting"] = "BottomRight",
+					["SVUI_Engineering"] = "BottomRight",
+					["SVUI_QuestTrackerButton"] = "BottomRight",
+					["SVUI_First Aid"] = "BottomRight",
+				},
+				["RightExpanded"] = false,
+				["Order"] = {
+					["TopLeft"] = {
+						"SVUI_Garrison", -- [1]
+					},
+					["BottomRight"] = {
+						"SVUI_Henchmen", -- [1]
+						"SVUI_QuestTrackerButton", -- [2]
+						"SVUI_First Aid", -- [3]
+						"SVUI_Archaeology", -- [4]
+						"SVUI_Cooking", -- [5]
+						"SVUI_Jewelcrafting", -- [6]
+						"SVUI_Engineering", -- [7]
+					},
+					["TopRight"] = {
+					},
+					["BottomLeft"] = {
+						"SVUI_Hearth", -- [1]
+					},
+				},
+				["RightFaded"] = false,
+				["LeftExpanded"] = false,
+				["AllFaded"] = false,
+			},
+			["Mounts"] = {
+				["names"] = {
+					["SWIMMING"] = "",
+					["GROUND"] = "",
+					["FLYING"] = "",
+					["SPECIAL"] = "",
+				},
+				["types"] = {
+					["SWIMMING"] = false,
+					["GROUND"] = false,
+					["FLYING"] = false,
+					["SPECIAL"] = false,
+				},
+			},
+			["VendorMarks"] = {
+			},
+		}, -- [1]
+		{
+		}, -- [2]
+		{
+		}, -- [3]
+		{
+		}, -- [4]
+	},
+}
+SVUI_Filters = {
+	["BlackList"] = {
+	},
+	["Defense"] = {
+	},
+	["CC"] = {
+	},
+	["PetBuffWatch"] = {
+	},
+	["BuffWatch"] = {
+	},
+	["AuraBars"] = {
+	},
+}
+SVUI_Layouts = {
+}

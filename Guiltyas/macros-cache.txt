@@ -1,7 +1,6 @@
 VER 3 0100000000000015 "BEAR" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast !Bear Form
-/cast Frenzied Regeneration
 END
 VER 3 0100000000000005 "Boost" "INV_MISC_QUESTIONMARK"
 #showtooltip 6
@@ -27,10 +26,10 @@ VER 3 0100000000000012 "focus bash" "INV_MISC_QUESTIONMARK"
 /cast [@focus,mod:alt] Mighty Bash
 END
 VER 3 010000000000000B "Heal" "INV_MISC_QUESTIONMARK"
-/run if InCombatLockdown() then SetCVar("autounshift",0) end
-/cast [@mouseover, help, dead] Rebirth
-/cast [@mouseover, help] [@player] Healing Touch
-/console autounshift 1
+#showtooltip Healing Touch
+/run SetCVar("autoUnshift",0)
+/cast Healing Touch
+/run SetCVar("autoUnshift",1)
 END
 VER 3 0100000000000008 "Heal" "INV_MISC_QUESTIONMARK"
 #showtooltip 
@@ -73,7 +72,7 @@ VER 3 0100000000000006 "Tiger's Fury" "INV_MISC_QUESTIONMARK"
 /use 10
 END
 VER 3 0100000000000010 "Tmorph Wings" "252270"
-.spell 183927 148957
+.spell 190026 148957
 ///.spell 182057 148954
 /.race 4
 /.gender
@@ -83,16 +82,20 @@ VER 3 0100000000000003 "travel" "INV_MISC_QUESTIONMARK"
 /cast !travel Form
 END
 VER 3 010000000000000C "Wild Charge" "INV_MISC_QUESTIONMARK"
-#showtooltipp [talent:2/2] Displacer Beast; [talent:2/3] Wild Charge; [talent: 2/1] Renewal
+#showtooltipp [talent:1/2] Displacer Beast; [talent:1/3] Wild Charge; [talent: 1/1] Feline Swiftness
 /cast Displacer Beast
-/cast Renewal
 /stopcasting
-/cancelform [@target,help,nostance:0]
-/cast [@target,exists,help] Wild Charge
-/cast Wild Charge
+/cast [@target,nomod] Wild Charge
+/cast [@focus,mod:alt] Wild Charge
+/cancelaura hand of protection
 END
 VER 3 0100000000000007 "Zerk" "INV_MISC_QUESTIONMARK"
 #showtooltip Berserk
+//party bursting on %t
+/cast Incarnation: King of the Jungle(Talent, Shapeshift)
 /cast Berserk
 /cast Tiger's Fury
+/use //Kafa Press
+/use Beating Heart of the Mountain
+/use Nature's Vigil
 END

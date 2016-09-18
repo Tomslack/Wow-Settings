@@ -1,7742 +1,3539 @@
 
 DeathGraphsDBDeaths = {
-	["139516"] = {
-		["hash"] = "139516",
-		["type"] = "deaths",
-		["name"] = "Mannoroth",
-		["id"] = 1395,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 12,
-			["zone"] = "Hellfire Citadel",
-			["encounter"] = "Mannoroth",
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Mannoroth",
-			["diff"] = 16,
-			["ej_instance_id"] = 669,
-			["id"] = 1795,
-			["killed"] = true,
-		},
-		["player_db"] = {
-			["Waitrose"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Waitrose",
-				["overall"] = {
-					[182088] = 95100,
-					[186350] = 35960,
-					[181134] = 336612,
-				},
-			},
-			["Guiltyas"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Guiltyas",
-				["overall"] = {
-					[181617] = 438319,
-					[186350] = 294829,
-					[181192] = 97153,
-					[181134] = 195505,
-					[182011] = 1590504,
-					[182031] = 58980,
-				},
-			},
-			["Nekobabe"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[182088] = 117585,
-				},
-				["name"] = "Nekobabe",
-			},
-			["Nerxedion"] = {
-				["name"] = "Nerxedion",
-				["class"] = "WARLOCK",
-				["overall"] = {
-					[186350] = 467213,
-				},
-				["deaths"] = {
-				},
-			},
-			["Delìverer"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Delìverer",
-				["overall"] = {
-					852856, -- [1]
-					[181359] = 1910527,
-					[182088] = 4426,
-					[181566] = 51127,
-					[187720] = 25312,
-					[186350] = 98487,
-				},
-			},
-			["Cutepets-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Cutepets-Silvermoon",
-				["overall"] = {
-					[189280] = 32697,
-					[182031] = 33131,
-					[181841] = 124172,
-					[182011] = 371873,
-				},
-			},
-			["Demonxl"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Demonxl",
-				["overall"] = {
-					[182011] = 444337,
-					[181134] = 69386,
-					[186350] = 456966,
-					[182031] = 65487,
-				},
-			},
-			["Sparkshíne-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Sparkshíne-Silvermoon",
-				["overall"] = {
-					[182011] = 180294,
-					[182031] = 66329,
-					[186350] = 389046,
-				},
-			},
-			["Zel"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[182011] = 796363,
-				},
-				["name"] = "Zel",
-			},
-			["Gavriiel"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Gavriiel",
-				["overall"] = {
-					578153, -- [1]
-					[181192] = 238849,
-					[181134] = 174812,
-					[181841] = 144536,
-					[182076] = 46441,
-					[189280] = 68023,
-					[182011] = 1132001,
-					[182031] = 65418,
-					[186350] = 263567,
-					[182077] = 47184,
-				},
-			},
-			["Zanhunt"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[182088] = 93773,
-					[186350] = 29953,
-				},
-				["name"] = "Zanhunt",
-			},
-			["Dlest-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Dlest-Silvermoon",
-				["overall"] = {
-					[186350] = 547786,
-					[181255] = 29290,
-				},
-			},
-			["Verene"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Verene",
-				["overall"] = {
-				},
-			},
-			["Rid"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Rid",
-				["overall"] = {
-					[181617] = 355613,
-					[186350] = 1154893,
-					[182011] = 296900,
-					[186458] = 238269,
-					[182088] = 329001,
-					[182031] = 32944,
-				},
-			},
-			["Everly"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Everly",
-				["overall"] = {
-					[181617] = 877530,
-				},
-			},
-			["Dramai-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Dramai-Silvermoon",
-				["overall"] = {
-					[186350] = 302363,
-				},
-			},
-			["Antalios"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Antalios",
-				["overall"] = {
-					[182011] = 1625705,
-					[182031] = 33473,
-					[186350] = 82309,
-					[181134] = 316573,
-				},
-			},
-			["Morphx-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Morphx-Silvermoon",
-				["overall"] = {
-					[182088] = 72189,
-					[182031] = 65919,
-				},
-			},
-			["Mortaro-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Mortaro-Silvermoon",
-				["overall"] = {
-					[181841] = 248106,
-				},
-			},
-			["Mysernst"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Mysernst",
-				["overall"] = {
-					[182011] = 871383,
-					[181134] = 114934,
-					[186350] = 49465,
-					[181255] = 33930,
-				},
-			},
-			["Cadz-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Cadz-Silvermoon",
-				["overall"] = {
-					[186350] = 432279,
-				},
-			},
-			["Aynis-Kazzak"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Aynis-Kazzak",
-				["overall"] = {
-					[181134] = 83090,
-					[186350] = 1259933,
-					[181617] = 226969,
-				},
-			},
-			["Pennypácker"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Pennypácker",
-				["overall"] = {
-					[181255] = 32983,
-				},
-			},
-			["Icétouch"] = {
-				["name"] = "Icétouch",
-				["class"] = "MAGE",
-				["overall"] = {
-					[182011] = 520702,
-					[182040] = 74645,
-					[181134] = 36066,
-					[182031] = 100102,
-				},
-				["deaths"] = {
-				},
-			},
-			["Drixei-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Drixei-Silvermoon",
-				["overall"] = {
-					[182088] = 96971,
-					[182031] = 33616,
-				},
-			},
-			["Numian-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Numian-Silvermoon",
-				["overall"] = {
-					[181134] = 83674,
-					[186350] = 374450,
-					[182011] = 672439,
-					[186458] = 149106,
-					[189280] = 32713,
-					[182031] = 66306,
-					[182088] = 60334,
-				},
-			},
-			["Aeis-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Aeis-Silvermoon",
-				["overall"] = {
-					[181359] = 770606,
-					[185847] = 312470,
-					[191231] = 106647,
-					[190070] = 81135,
-					[189280] = 13542,
-				},
-			},
-			["Taliza"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Taliza",
-				["overall"] = {
-				},
-			},
-			["Holdor"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Holdor",
-				["overall"] = {
-					805647, -- [1]
-					[181134] = 62944,
-					[186350] = 80130,
-					[181192] = 223245,
-					[181255] = 23905,
-					[182088] = 124353,
-					[181617] = 870108,
-				},
-			},
-			["Vapsu"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Vapsu",
-				["overall"] = {
-					[181134] = 49553,
-					[186458] = 349175,
-					[181793] = 139641,
-				},
-			},
-			["Demii"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Demii",
-				["overall"] = {
-					134991, -- [1]
-					[186350] = 241185,
-					[185847] = 342302,
-					[191231] = 32065,
-					[181566] = 51816,
-					[187720] = 85980,
-					[181359] = 3025349,
-				},
-			},
-			["Kitarah"] = {
-				["name"] = "Kitarah",
-				["class"] = "MONK",
-				["overall"] = {
-					[182088] = 141569,
-					[186350] = 521669,
-				},
-				["deaths"] = {
-				},
-			},
-			["Nollie-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Nollie-Silvermoon",
-				["overall"] = {
-					[182088] = 58459,
-					[190070] = 493650,
-					[182031] = 80306,
-				},
-			},
-			["Barbaróssa"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Barbaróssa",
-				["overall"] = {
-					[181134] = 209102,
-					[182031] = 31239,
-					[182011] = 859044,
-					[182088] = 120626,
-					[186350] = 117919,
-				},
-			},
-			["Crwd"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Crwd",
-				["overall"] = {
-					[181134] = 80203,
-					[182031] = 64233,
-					[181255] = 34127,
-					[186458] = 495586,
-					[189280] = 52991,
-					[186350] = 500504,
-					[182088] = 40147,
-				},
-			},
-			["Ailith-Nethersturm"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Ailith-Nethersturm",
-				["overall"] = {
-					[181617] = 111141,
-					[186350] = 225739,
-					[182011] = 878161,
-					[186458] = 181595,
-					[189280] = 33148,
-					[182088] = 72207,
-					[182031] = 80317,
-				},
-			},
-			["Falrodil-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Falrodil-Silvermoon",
-				["overall"] = {
-					[182011] = 412494,
-					[182031] = 34131,
-					[186350] = 496422,
-				},
-			},
-			["Zanis"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[181841] = 205209,
-				},
-				["name"] = "Zanis",
-			},
-			["Nekonabe"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[189280] = 30876,
-					[111400] = 21547,
-					[182088] = 38260,
-				},
-				["name"] = "Nekonabe",
-			},
-			["Dungeonravor"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Dungeonravor",
-				["overall"] = {
-					[181134] = 136654,
-					[186350] = 158497,
-				},
-			},
-			["Taikapena"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Taikapena",
-				["overall"] = {
-					[181617] = 702139,
-					[182031] = 64902,
-					[182088] = 280690,
-					[181134] = 124329,
-					[189280] = 37842,
-					[186350] = 37929,
-					[181255] = 35199,
-				},
-			},
-			["Callmeopo-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Callmeopo-Silvermoon",
-				["overall"] = {
-					[181134] = 75020,
-					[186350] = 551327,
-					[196917] = 27557,
-				},
-			},
-			["Zethhx"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Zethhx",
-				["overall"] = {
-					[189280] = 52278,
-					[181134] = 68231,
-					[182011] = 581934,
-				},
-			},
-			["Eiie"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Eiie",
-				["overall"] = {
-					[181617] = 580703,
-					[186350] = 153737,
-					[182011] = 579024,
-					[181566] = 126319,
-					[182031] = 32392,
-					[181134] = 199947,
-				},
-			},
-			["Gróz-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Gróz-Silvermoon",
-				["overall"] = {
-					[182011] = 671008,
-					[181134] = 83161,
-					[182031] = 130900,
-					[189280] = 64643,
-				},
-			},
-			["Evilshooter"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[182011] = 965066,
-				},
-				["name"] = "Evilshooter",
-			},
-		},
-		["diff"] = 16,
-	},
-	["143815"] = {
-		["hash"] = "143815",
-		["type"] = "deaths",
-		["name"] = "Archimonde",
-		["id"] = 1438,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 13,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1799,
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Archimonde",
-			["diff"] = 15,
-			["ej_instance_id"] = 669,
-			["encounter"] = "Archimonde",
-		},
-		["player_db"] = {
-			["Heerø-Outland"] = {
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[187078] = 103082,
-					[189891] = 22493,
-				},
-				["name"] = "Heerø-Outland",
-			},
-			["Cringelord-DefiasBrotherhood"] = {
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[184867] = 23735,
-					[189203] = 275909,
-					[183586] = 659034,
-				},
-				["name"] = "Cringelord-DefiasBrotherhood",
-			},
-			["Matusoin-Doomhammer"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[183795] = 485032,
-				},
-				["name"] = "Matusoin-Doomhammer",
-			},
-			["Nuc-Aggramar"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[184867] = 69322,
-					[183795] = 402621,
-					[183586] = 24529,
-				},
-				["name"] = "Nuc-Aggramar",
-			},
-			["Håwkeye-Frostmane"] = {
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[183586] = 197523,
-				},
-				["name"] = "Håwkeye-Frostmane",
-			},
-			["Vaìolo-Nemesis"] = {
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[183795] = 812950,
-					[183586] = 25082,
-				},
-				["name"] = "Vaìolo-Nemesis",
-			},
-			["Levosin-Aggramar"] = {
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[189891] = 22092,
-					[187078] = 110677,
-				},
-				["name"] = "Levosin-Aggramar",
-			},
-			["Russíanblue-DefiasBrotherhood"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[187180] = 44614,
-					[189203] = 219981,
-				},
-				["name"] = "Russíanblue-DefiasBrotherhood",
-			},
-			["Диметродон-Ясеневыйлес"] = {
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-				["overall"] = {
-					150982, -- [1]
-					[183828] = 290001,
-					[184867] = 41913,
-				},
-				["name"] = "Диметродон-Ясеневыйлес",
-			},
-			["Xontrompalou-Bloodhoof"] = {
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[187078] = 118176,
-				},
-				["name"] = "Xontrompalou-Bloodhoof",
-			},
-			["Octopaw-DarkmoonFaire"] = {
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[184867] = 69333,
-					[183795] = 302015,
-					[183586] = 24867,
-				},
-				["name"] = "Octopaw-DarkmoonFaire",
-			},
-			["Kalvei-ArgentDawn"] = {
-				["name"] = "Kalvei-ArgentDawn",
-				["class"] = "SHAMAN",
-				["overall"] = {
-					[188796] = 297761,
-					[8] = 25897,
-				},
-				["deaths"] = {
-				},
-			},
-			["Ahya-Antonidas"] = {
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[187078] = 198905,
-				},
-				["name"] = "Ahya-Antonidas",
-			},
-			["Anserk-TheMaelstrom"] = {
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[189891] = 46534,
-					[187078] = 77082,
-				},
-				["name"] = "Anserk-TheMaelstrom",
-			},
-			["Asmodeûs-Alleria"] = {
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[187244] = 32535,
-					[185008] = 54286,
-				},
-				["name"] = "Asmodeûs-Alleria",
-			},
-			["Driztd-Wildhammer"] = {
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[187078] = 94090,
-					[185008] = 98022,
-					[98021] = 19390,
-					[186124] = 115332,
-				},
-				["name"] = "Driztd-Wildhammer",
-			},
-			["Choktai-Silvermoon"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[187078] = 114616,
-					[189891] = 23048,
-				},
-				["name"] = "Choktai-Silvermoon",
-			},
-			["Firdarrig-Dalaran"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[183795] = 469764,
-					[184867] = 71494,
-				},
-				["name"] = "Firdarrig-Dalaran",
-			},
-			["Nightbanê-Dragonblight"] = {
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[183586] = 299963,
-				},
-				["name"] = "Nightbanê-Dragonblight",
-			},
-			["Dîst-Mal'Ganis"] = {
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[187180] = 45507,
-					[189203] = 225078,
-				},
-				["name"] = "Dîst-Mal'Ganis",
-			},
-		},
-		["diff"] = 15,
-	},
-	["139416"] = {
-		["hash"] = "139416",
-		["type"] = "deaths",
-		["name"] = "Tyrant Velhari",
-		["id"] = 1394,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 11,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1784,
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Tyrant Velhari",
-			["diff"] = 16,
-			["ej_instance_id"] = 669,
-			["encounter"] = "Tyrant Velhari",
-		},
-		["player_db"] = {
-			["Guiltyas"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[184990] = 4552,
-					[180608] = 32741,
-					[188176] = 6607,
-				},
-				["name"] = "Guiltyas",
-			},
-			["Evilshooter"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[184990] = 8371,
-					[98021] = 5784,
-					[180161] = 299821,
-					[189493] = 25460,
-				},
-				["name"] = "Evilshooter",
-			},
-			["Zanis"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Zanis",
-				["overall"] = {
-					[180161] = 1448722,
-					[184990] = 24977,
-				},
-			},
-			["Rid"] = {
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[184990] = 9067,
-					[188176] = 1815,
-				},
-				["name"] = "Rid",
-			},
-			["Pennypácker"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Pennypácker",
-				["overall"] = {
-					[189493] = 33962,
-					[180161] = 80794,
-					[184990] = 19213,
-				},
-			},
-			["Eiie"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[188176] = 7410,
-					[180161] = 364144,
-					[184990] = 16990,
-				},
-				["name"] = "Eiie",
-			},
-			["Taikapena"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[180161] = 364814,
-					[184990] = 25533,
-				},
-				["name"] = "Taikapena",
-			},
-			["Delìverer"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Delìverer",
-				["overall"] = {
-					348345, -- [1]
-					[184990] = 17964,
-				},
-			},
-			["Hóldor"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Hóldor",
-				["overall"] = {
-					[184990] = 45878,
-					[180161] = 85771,
-					[189493] = 68250,
-				},
-			},
-			["Falcogg"] = {
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-					466650, -- [1]
-					[184990] = 7314,
-					[180161] = 59177,
-				},
-				["name"] = "Falcogg",
-			},
-			["Belsarion"] = {
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[184990] = 92957,
-				},
-				["name"] = "Belsarion",
-			},
-			["Mysernst"] = {
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[180604] = 28837,
-					[189493] = 32039,
-					[184990] = 18855,
-				},
-				["name"] = "Mysernst",
-			},
-		},
-		["diff"] = 16,
-	},
-	["143316"] = {
-		["hash"] = "143316",
-		["type"] = "deaths",
-		["name"] = "Shadow-Lord Iskar",
-		["id"] = 1433,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 7,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1788,
-			["mapid"] = 1448,
-			["name"] = "Shadow-Lord Iskar",
-			["diff"] = 16,
-			["encounter"] = "Shadow-Lord Iskar",
-			["ej_instance_id"] = 669,
-		},
-		["player_db"] = {
-			["Waitrose"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185630] = 2824760,
-					[185510] = 87890,
-				},
-				["name"] = "Waitrose",
-			},
-			["Guiltyas"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					541460, -- [1]
-				},
-				["name"] = "Guiltyas",
-			},
-			["Evilshooter"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185803] = 500389,
-					[181913] = 105415,
-					[185510] = 52296,
-					[185630] = 1497283,
-				},
-				["name"] = "Evilshooter",
-			},
-			["Barbaróssa"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Barbaróssa",
-				["overall"] = {
-					[185239] = 2067,
-					[181913] = 104929,
-					[182600] = 867160,
-					[185803] = 184479,
-				},
-			},
-			["Demii"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185803] = 181322,
-					[98021] = 283514,
-					[182600] = 263649,
-				},
-				["name"] = "Demii",
-			},
-			["Gavriiel"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185803] = 466608,
-					[98021] = 62719,
-					[185239] = 3562,
-				},
-				["name"] = "Gavriiel",
-			},
-			["Zanis"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Zanis",
-				["overall"] = {
-					[185803] = 85794,
-					[185510] = 46695,
-					[181913] = 111967,
-					[182600] = 192886,
-					[185630] = 1335627,
-				},
-			},
-			["Pennypácker"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Pennypácker",
-				["overall"] = {
-				},
-			},
-			["Eiie"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185630] = 1528204,
-					[185510] = 35383,
-				},
-				["name"] = "Eiie",
-			},
-			["Kitarah"] = {
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185803] = 281449,
-					[185510] = 33844,
-					[98021] = 12494,
-				},
-				["name"] = "Kitarah",
-			},
-			["Mysernst"] = {
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185239] = 61530,
-					[182600] = 316440,
-				},
-				["name"] = "Mysernst",
-			},
-			["Zethhx"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185803] = 588868,
-					[181913] = 123476,
-				},
-				["name"] = "Zethhx",
-			},
-			["Demonxl"] = {
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185803] = 260293,
-					[185510] = 33685,
-					[185239] = 2821,
-				},
-				["name"] = "Demonxl",
-			},
-			["Belsarion"] = {
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Belsarion",
-			},
-			["Despia"] = {
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[182600] = 221574,
-				},
-				["name"] = "Despia",
-			},
-		},
-		["diff"] = 16,
-	},
-	["139216"] = {
-		["hash"] = "139216",
-		["type"] = "deaths",
-		["name"] = "Kormrok",
-		["id"] = 1392,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 3,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1787,
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Kormrok",
-			["diff"] = 16,
-			["ej_instance_id"] = 669,
-			["encounter"] = "Kormrok",
-		},
-		["player_db"] = {
-		},
-		["diff"] = 16,
-	},
-	["143816"] = {
-		["hash"] = "143816",
-		["type"] = "deaths",
-		["name"] = "Archimonde",
-		["id"] = 1438,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 13,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1799,
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Archimonde",
-			["diff"] = 16,
-			["ej_instance_id"] = 669,
-			["encounter"] = "Archimonde",
-		},
-		["player_db"] = {
-			["Waitrose"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					686864, -- [1]
-					[186562] = 15820,
-					[187078] = 423030,
-					[190530] = 2036671,
-					[190399] = 3418020,
-					[188796] = 503460,
-					[187244] = 290459,
-					[186663] = 143904,
-					[185008] = 1765099,
-					[186124] = 387278,
-				},
-				["name"] = "Waitrose",
-			},
-			["Guiltyas"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					1825359, -- [1]
-					[190706] = 318297,
-					[185008] = 3441713,
-					[190530] = 542176,
-					[190397] = 248551,
-					[8] = 101618,
-					[188796] = 385695,
-					[186124] = 506640,
-					[184964] = 138996,
-					[187244] = 390492,
-					[183591] = 195246,
-					[190398] = 313181,
-					[187078] = 219404,
-					[190399] = 3358057,
-				},
-				["name"] = "Guiltyas",
-			},
-			["Azmodius"] = {
-				["name"] = "Azmodius",
-				["class"] = "WARLOCK",
-				["overall"] = {
-					[188796] = 280000,
-					[8] = 5595,
-				},
-				["deaths"] = {
-				},
-			},
-			["Nerxedion"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-					500804, -- [1]
-					[190530] = 807617,
-					[190706] = 200534,
-					[111400] = 15277,
-					[186124] = 296905,
-					[185008] = 882533,
-				},
-				["name"] = "Nerxedion",
-			},
-			["Delìverer"] = {
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-				["overall"] = {
-					2684292, -- [1]
-					[183864] = 427178,
-					[190706] = 2293374,
-					[185008] = 870334,
-					[190530] = 1451647,
-					[186124] = 155141,
-					[183591] = 116356,
-					[187720] = 44363,
-					[187244] = 155141,
-					[183828] = 1480008,
-					[190399] = 616439,
-					[187078] = 87308,
-				},
-				["name"] = "Delìverer",
-			},
-			["Cutepets-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Cutepets-Silvermoon",
-				["overall"] = {
-					[190399] = 494712,
-				},
-			},
-			["Demonxl"] = {
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-					593473, -- [1]
-					[190399] = 492487,
-					[190530] = 915994,
-					[190706] = 33217,
-				},
-				["name"] = "Demonxl",
-			},
-			["Zel"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[190530] = 555714,
-				},
-				["name"] = "Zel",
-			},
-			["Evilshooter"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[184964] = 114809,
-					[183586] = 282051,
-					[185008] = 2232889,
-					[190399] = 6662314,
-					[190530] = 563964,
-				},
-				["name"] = "Evilshooter",
-			},
-			["Zanhunt"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[190399] = 675408,
-					[190530] = 920034,
-					[187078] = 314926,
-				},
-				["name"] = "Zanhunt",
-			},
-			["Kyx"] = {
-				["overall"] = {
-					[188796] = 1176509,
-					[8] = 127233,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Kyx",
-				["class"] = "ROGUE",
-			},
-			["Dlest-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Dlest-Silvermoon",
-				["overall"] = {
-				},
-			},
-			["Mirkmissen-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Mirkmissen-Silvermoon",
-				["overall"] = {
-					[187244] = 123121,
-					[190399] = 362380,
-				},
-			},
-			["Verene"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Verene",
-				["overall"] = {
-					34172, -- [1]
-					[186124] = 325857,
-					[185008] = 1041188,
-				},
-			},
-			["Rid"] = {
-				["name"] = "Rid",
-				["class"] = "ROGUE",
-				["overall"] = {
-					[183586] = 104324,
-					[190399] = 2336591,
-					[186124] = 129479,
-				},
-				["deaths"] = {
-				},
-			},
-			["Gróz-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Gróz-Silvermoon",
-				["overall"] = {
-					[190399] = 484414,
-				},
-			},
-			["Everly"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Everly",
-				["class"] = "WARLOCK",
-			},
-			["Dramai-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Dramai-Silvermoon",
-				["overall"] = {
-					[190399] = 1467116,
-				},
-			},
-			["Mysernst"] = {
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-				["overall"] = {
-					29335, -- [1]
-					[184867] = 98500,
-					[190706] = 39526,
-					[185008] = 1132024,
-					[190530] = 945462,
-					[8] = 54143,
-					[188796] = 177300,
-					[190399] = 1097879,
-					[183586] = 652582,
-					[186663] = 138069,
-					[98021] = 147300,
-					[187078] = 90595,
-				},
-				["name"] = "Mysernst",
-			},
-			["Antalios"] = {
-				["overall"] = {
-					[190399] = 7100000,
-					[190530] = 557182,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Antalios",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Aynis-Kazzak"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Aynis-Kazzak",
-				["overall"] = {
-					[187244] = 178097,
-					[190399] = 296827,
-				},
-			},
-			["Aleksej-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-				["name"] = "Aleksej-Silvermoon",
-				["overall"] = {
-					[183828] = 164192,
-					[124255] = 19268,
-				},
-			},
-			["Mortaro-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Mortaro-Silvermoon",
-				["overall"] = {
-					[190399] = 492442,
-				},
-			},
-			["Numian-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Numian-Silvermoon",
-				["overall"] = {
-					[190399] = 734790,
-				},
-			},
-			["Aeis-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Aeis-Silvermoon",
-				["overall"] = {
-					129761, -- [1]
-					[185008] = 525005,
-					[190530] = 527077,
-					[190706] = 157604,
-				},
-			},
-			["Päronsaft"] = {
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[8] = 434647,
-					[188796] = 2074133,
-					[184867] = 283938,
-				},
-				["name"] = "Päronsaft",
-			},
-			["Pennypácker"] = {
-				["overall"] = {
-					[190399] = 289362,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Pennypácker",
-				["class"] = "PRIEST",
-			},
-			["Icétouch"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185008] = 969104,
-					[187244] = 359965,
-				},
-				["name"] = "Icétouch",
-			},
-			["Belsarion"] = {
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[184867] = 58881,
-					[188796] = 922466,
-					[8] = 139187,
-				},
-				["name"] = "Belsarion",
-			},
-			["Thailuna"] = {
-				["overall"] = {
-					[185008] = 777424,
-					[184964] = 102321,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Thailuna",
-				["class"] = "SHAMAN",
-			},
-			["Taliza"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Taliza",
-				["overall"] = {
-					[188796] = 551600,
-					[8] = 30103,
-				},
-			},
-			["Falrodil-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Falrodil-Silvermoon",
-				["overall"] = {
-					[187244] = 126000,
-				},
-			},
-			["Holdor"] = {
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-				["overall"] = {
-					526747, -- [1]
-					[8] = 49804,
-					[187078] = 563816,
-					[190530] = 947346,
-					[185008] = 1106157,
-					[188796] = 664200,
-					[186124] = 98000,
-					[187244] = 516206,
-					[190399] = 5385000,
-				},
-				["name"] = "Holdor",
-			},
-			["Zanis"] = {
-				["overall"] = {
-					[183591] = 102940,
-					[184867] = 102941,
-					[188796] = 274508,
-					[8] = 56447,
-					[190399] = 428919,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Zanis",
-				["class"] = "DRUID",
-			},
-			["Demii"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					4804977, -- [1]
-					[186562] = 210569,
-					[187078] = 304099,
-					[187244] = 236167,
-					[185008] = 2557019,
-					[190399] = 145451,
-					[186124] = 822471,
-					[187720] = 48784,
-					[190706] = 1928343,
-				},
-				["name"] = "Demii",
-			},
-			["Kitarah"] = {
-				["overall"] = {
-					[183586] = 27907,
-					[188796] = 178132,
-					[190530] = 559213,
-					[186124] = 110837,
-					[190399] = 296884,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Kitarah",
-				["class"] = "MONK",
-			},
-			["Zhunt"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Zhunt",
-				["class"] = "HUNTER",
-			},
-			["Barbaróssa"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185008] = 2028952,
-					[184964] = 202383,
-				},
-				["name"] = "Barbaróssa",
-			},
-			["Crwd"] = {
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-				["overall"] = {
-					263385, -- [1]
-					[190706] = 66294,
-					[187078] = 392966,
-					[187742] = 132343,
-					[190399] = 1947308,
-					[188796] = 249899,
-					[187244] = 313969,
-					[185008] = 1407728,
-					[98021] = 110707,
-					[8] = 111539,
-				},
-				["name"] = "Crwd",
-			},
-			["Ejje"] = {
-				["name"] = "Ejje",
-				["class"] = "DRUID",
-				["overall"] = {
-					[190399] = 327497,
-				},
-				["deaths"] = {
-				},
-			},
-			["Nekonabe"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185008] = 2048510,
-					[111400] = 33667,
-					[187078] = 152896,
-				},
-				["name"] = "Nekonabe",
-			},
-			["Vapsu"] = {
-				["name"] = "Vapsu",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Gavriiel"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Gavriiel",
-				["overall"] = {
-					[187078] = 335268,
-					[190530] = 646979,
-					[185008] = 1752016,
-					[190399] = 1112769,
-					[186124] = 384924,
-					[184964] = 80862,
-				},
-			},
-			["Dungeonravor"] = {
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-				["overall"] = {
-					1101955, -- [1]
-					[183591] = 98500,
-					[184964] = 415725,
-					[183586] = 62026,
-					[190706] = 80051,
-					[190530] = 924287,
-					[186124] = 197000,
-					[185008] = 1119081,
-				},
-				["name"] = "Dungeonravor",
-			},
-			["Taikapena"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					1028570, -- [1]
-					[183591] = 283096,
-					[184964] = 96831,
-					[184867] = 59079,
-					[186562] = 400021,
-					[190399] = 2206270,
-					[186124] = 583431,
-					[187078] = 607384,
-				},
-				["name"] = "Taikapena",
-			},
-			["Callmeopo-Silvermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Callmeopo-Silvermoon",
-				["overall"] = {
-					[190399] = 219909,
-					[196917] = 61281,
-				},
-			},
-			["Zethhx"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					548574, -- [1]
-					[98021] = 133889,
-					[190397] = 240209,
-					[185008] = 1127281,
-					[188796] = 347165,
-					[190399] = 4523422,
-					[186124] = 771477,
-					[186562] = 190439,
-				},
-				["name"] = "Zethhx",
-			},
-			["Eiie"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					563012, -- [1]
-					[190399] = 843803,
-					[190706] = 492963,
-					[187078] = 440891,
-				},
-				["name"] = "Eiie",
-			},
-			["Ràsputin"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[183591] = 195247,
-					[186562] = 157318,
-					[188796] = 136672,
-					[187244] = 342403,
-					[185008] = 1385169,
-				},
-				["name"] = "Ràsputin",
-			},
-			["Nekobabe"] = {
-				["overall"] = {
-					[184867] = 58710,
-					[183591] = 88065,
-					[190399] = 1458462,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Nekobabe",
-				["class"] = "HUNTER",
-			},
-		},
-		["diff"] = 16,
-	},
-	["143216"] = {
-		["hash"] = "143216",
-		["type"] = "deaths",
-		["name"] = "Hellfire High Council",
-		["id"] = 1432,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 4,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1798,
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Hellfire High Council",
-			["diff"] = 16,
-			["ej_instance_id"] = 669,
-			["encounter"] = "Hellfire High Council",
-		},
-		["player_db"] = {
-			["Waitrose"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[189829] = 29372,
-					[184652] = 209003,
-					[184450] = 11117,
-					[183226] = 144135,
-					[184355] = 73176,
-				},
-				["name"] = "Waitrose",
-			},
-			["Despia"] = {
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[184450] = 35986,
-					[189829] = 27990,
-					[183226] = 142591,
-				},
-				["name"] = "Despia",
-			},
-			["Evilshooter"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185066] = 119585,
-					[184355] = 93821,
-					[184652] = 200902,
-				},
-				["name"] = "Evilshooter",
-			},
-			["Nekobabe"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-					183569, -- [1]
-					[183226] = 144791,
-					[184355] = 69975,
-					[184450] = 18208,
-				},
-				["name"] = "Nekobabe",
-			},
-			["Zel"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185065] = 45848,
-					[184355] = 29380,
-				},
-				["name"] = "Zel",
-			},
-			["Holdor"] = {
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[184450] = 16224,
-					[184355] = 56805,
-					[183703] = 26116,
-				},
-				["name"] = "Holdor",
-			},
-			["Mysernst"] = {
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[184674] = 25042,
-					[184355] = 47823,
-				},
-				["name"] = "Mysernst",
-			},
-			["Rid"] = {
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[183703] = 24160,
-					[185066] = 92630,
-					[189829] = 28314,
-				},
-				["name"] = "Rid",
-			},
-			["Icétouch"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[184449] = 9532,
-					[184355] = 44228,
-					[184674] = 11777,
-				},
-				["name"] = "Icétouch",
-			},
-			["Taikapena"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185065] = 89322,
-					[189829] = 28898,
-				},
-				["name"] = "Taikapena",
-			},
-			["Delibear"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					107346, -- [1]
-					[184674] = 12192,
-					[184652] = 61890,
-					[184355] = 198673,
-				},
-				["name"] = "Delibear",
-			},
-			["Zethhx"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185065] = 63677,
-					[184355] = 79281,
-					[184652] = 205707,
-				},
-				["name"] = "Zethhx",
-			},
-			["Falcogg"] = {
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-					88521, -- [1]
-					[184847] = 75373,
-					[185066] = 297053,
-				},
-				["name"] = "Falcogg",
-			},
-			["Belsarion"] = {
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[184676] = 13561,
-					[189829] = 28612,
-					[184652] = 336653,
-					[184674] = 10219,
-					[184355] = 7860,
-					[184450] = 38973,
-				},
-				["name"] = "Belsarion",
-			},
-			["Zanis"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185065] = 23040,
-					[184652] = 182967,
-					[189829] = 25248,
-				},
-				["name"] = "Zanis",
-			},
-		},
-		["diff"] = 16,
-	},
-	["139616"] = {
-		["hash"] = "139616",
-		["type"] = "deaths",
-		["name"] = "Kilrogg Deadeye",
-		["id"] = 1396,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 5,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1786,
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Kilrogg Deadeye",
-			["diff"] = 16,
-			["ej_instance_id"] = 669,
-			["encounter"] = "Kilrogg Deadeye",
-		},
-		["player_db"] = {
-			["Pennypácker"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Pennypácker",
-				["overall"] = {
-					[183917] = 33159,
-					[182159] = 9274,
-				},
-			},
-			["Delìverer"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Delìverer",
-				["overall"] = {
-					611451, -- [1]
-					[183917] = 78823,
-					[184396] = 26846,
-				},
-			},
-			["Demonxl"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Demonxl",
-				["overall"] = {
-					[183917] = 16747,
-					[180170] = 310466,
-					[182159] = 4701,
-				},
-			},
-			["Delibear"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					519409, -- [1]
-					[184398] = 66360,
-				},
-				["name"] = "Delibear",
-			},
-			["Barbaróssa"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[180389] = 25691,
-					[182159] = 4428,
-					[188852] = 104966,
-				},
-				["name"] = "Barbaróssa",
-			},
-		},
-		["diff"] = 16,
-	},
-	["142716"] = {
-		["hash"] = "142716",
-		["type"] = "deaths",
-		["name"] = "Socrethar the Eternal",
-		["id"] = 1427,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 8,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1794,
-			["mapid"] = 1448,
-			["name"] = "Socrethar the Eternal",
-			["diff"] = 16,
-			["encounter"] = "Socrethar the Eternal",
-			["ej_instance_id"] = 669,
-		},
-		["player_db"] = {
-			["Waitrose"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[188703] = 57627,
-					[182900] = 138808,
-					[184125] = 356051,
-				},
-				["name"] = "Waitrose",
-			},
-			["Icétouch"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[188668] = 2606575,
-				},
-				["name"] = "Icétouch",
-			},
-			["Taikapena"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[184125] = 214674,
-					[188703] = 55553,
-				},
-				["name"] = "Taikapena",
-			},
-			["Barbaróssa"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[183330] = 29807,
-					[182900] = 136256,
-					[184125] = 62356,
-				},
-				["name"] = "Barbaróssa",
-			},
-			["Nekobabe"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Nekobabe",
-				["overall"] = {
-					[182392] = 29952,
-					[184125] = 144316,
-					[188668] = 2908499,
-					[188703] = 59352,
-				},
-			},
-			["Despia"] = {
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[182392] = 31191,
-				},
-				["name"] = "Despia",
-			},
-			["Belsarion"] = {
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[184125] = 289159,
-				},
-				["name"] = "Belsarion",
-			},
-			["Zanis"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Zanis",
-				["overall"] = {
-					[184239] = 55024,
-					[184125] = 130112,
-					[183330] = 27989,
-				},
-			},
-		},
-		["diff"] = 16,
-	},
-	["144716"] = {
-		["hash"] = "144716",
-		["type"] = "deaths",
-		["name"] = "Xhul'horac",
-		["id"] = 1447,
-		["diff"] = 16,
-		["player_db"] = {
-			["Guiltyas"] = {
-				["overall"] = {
-					[188939] = 61086,
-					[98021] = 9235,
-					[186407] = 120063,
-					[188208] = 115493,
-					[185656] = 2593514,
-					[187204] = 116545,
-					[186073] = 24013,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Guiltyas",
-				["class"] = "DRUID",
-			},
-			["Nekobabe"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Nekobabe",
-				["overall"] = {
-					[185656] = 30986,
-					[187204] = 172564,
-					[189781] = 900000,
-					[186549] = 900000,
-					[186333] = 137427,
-					[188208] = 31688,
-					[186547] = 78424,
-				},
-			},
-			["Nerxedion"] = {
-				["overall"] = {
-					[185656] = 2210353,
-					[186407] = 112384,
-					[186549] = 300000,
-					[186547] = 30768,
-					[188208] = 37836,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Nerxedion",
-				["class"] = "WARLOCK",
-			},
-			["Pennypácker"] = {
-				["overall"] = {
-					[185656] = 2969271,
-					[187204] = 132682,
-					[186547] = 30078,
-					[188208] = 36824,
-					[186073] = 13672,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Pennypácker",
-				["class"] = "PRIEST",
-			},
-			["Vapsu"] = {
-				["overall"] = {
-					[185656] = 274153,
-					[186549] = 1200000,
-					[186547] = 28340,
-					[186073] = 4676,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Vapsu",
-				["class"] = "HUNTER",
-			},
-			["Demonxl"] = {
-				["overall"] = {
-					[186547] = 20587,
-					[185656] = 4290854,
-					[98021] = 88806,
-					[186407] = 141031,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Demonxl",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Holdor"] = {
-				["overall"] = {
-					[185656] = 512883,
-					[186073] = 29767,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Holdor",
-				["class"] = "PALADIN",
-			},
-			["Kitarah"] = {
-				["overall"] = {
-					[185656] = 2324278,
-					[186407] = 149629,
-					[186073] = 9351,
-					[186547] = 29677,
-					[188208] = 423155,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Kitarah",
-				["class"] = "MONK",
-			},
-			["Gavriiel"] = {
-				["overall"] = {
-					[185656] = 2922302,
-					[188208] = 50073,
-					[186407] = 88594,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Gavriiel",
-				["class"] = "DRUID",
-			},
-			["Despia"] = {
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Despia",
-			},
-			["Crwd"] = {
-				["overall"] = {
-					[185656] = 1614461,
-					[188208] = 36695,
-					[186073] = 27249,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Crwd",
-				["class"] = "PALADIN",
-			},
-			["Ejje"] = {
-				["overall"] = {
-					[186547] = 18763,
-					[186549] = 300000,
-					[185656] = 206063,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Ejje",
-				["class"] = "DRUID",
-			},
-			["Belsarion"] = {
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Belsarion",
-			},
-			["Zanis"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Zanis",
-				["overall"] = {
-					[186547] = 28285,
-					[187204] = 135616,
-					[185656] = 209712,
-				},
-			},
-			["Zethhx"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185656] = 276063,
-					[187204] = 142008,
-					[186547] = 24395,
-					[186549] = 450000,
-					[186333] = 223982,
-				},
-				["name"] = "Zethhx",
-			},
-			["Zhunt"] = {
-				["overall"] = {
-					[185656] = 1153575,
-					[186063] = 9212,
-					[186547] = 80338,
-					[186073] = 4606,
-					[186333] = 100756,
-					[186549] = 450000,
-					[188939] = 229723,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Zhunt",
-				["class"] = "HUNTER",
-			},
-			["Thailuna"] = {
-				["overall"] = {
-					[185656] = 720915,
-					[187204] = 131488,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Thailuna",
-				["class"] = "SHAMAN",
-			},
-			["Mysernst"] = {
-				["overall"] = {
-					[185656] = 1569788,
-					[187204] = 129976,
-					[186407] = 45466,
-					[186547] = 27529,
-					[186073] = 50012,
-					[186063] = 9093,
-					[188939] = 155241,
-					[188208] = 73472,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Mysernst",
-				["class"] = "SHAMAN",
-			},
-			["Rid"] = {
-				["overall"] = {
-					[186547] = 39066,
-					[186073] = 17758,
-					[186407] = 44398,
-					[187204] = 281781,
-					[188939] = 66917,
-					[185656] = 2745079,
-					[188208] = 54912,
-					[98021] = 69858,
-					[189781] = 900000,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Rid",
-				["class"] = "ROGUE",
-			},
-			["Delìverer"] = {
-				["overall"] = {
-					77430, -- [1]
-					[185656] = 2035209,
-					[188208] = 36141,
-					[186271] = 306365,
-					[186292] = 162360,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Delìverer",
-				["class"] = "PALADIN",
-			},
-			["Everly"] = {
-				["overall"] = {
-					[187204] = 145590,
-					[185656] = 709494,
-					[186073] = 4644,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Everly",
-				["class"] = "WARLOCK",
-			},
-			["Demii"] = {
-				["overall"] = {
-					[186292] = 291430,
-					[188208] = 16443,
-					[98021] = 67199,
-					[185656] = 2276595,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Demii",
-				["class"] = "DRUID",
-			},
-		},
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 10,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1800,
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Xhul'horac",
-			["encounter"] = "Xhul'horac",
-			["ej_instance_id"] = 669,
-			["diff"] = 16,
-		},
-	},
-	["142616"] = {
-		["hash"] = "142616",
+	["142615"] = {
+		["hash"] = "142615",
 		["type"] = "deaths",
 		["name"] = "Hellfire Assault",
 		["id"] = 1426,
+		["player_db"] = {
+		},
 		["boss_table"] = {
-			["diff_string"] = "Mythic",
+			["diff_string"] = "Heroic",
 			["index"] = 1,
 			["zone"] = "Hellfire Citadel",
 			["encounter"] = "Hellfire Assault",
 			["mapid"] = 1448,
 			["try_number"] = 1,
 			["name"] = "Hellfire Assault",
-			["diff"] = 16,
+			["diff"] = 15,
 			["ej_instance_id"] = 669,
 			["id"] = 1778,
 			["killed"] = true,
 		},
+		["diff"] = 15,
+	},
+	["139115"] = {
+		["hash"] = "139115",
+		["type"] = "deaths",
+		["name"] = "Fel Lord Zakuun",
+		["id"] = 1391,
+		["diff"] = 15,
 		["player_db"] = {
-			["Waitrose"] = {
+			["Caka-Outland"] = {
+				["overall"] = {
+					408877, -- [1]
+					[181498] = 694841,
+					[179623] = 58916,
+					[188900] = 64912,
+					[181825] = 275149,
+					[179583] = 47400,
+				},
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
-				["name"] = "Waitrose",
-				["overall"] = {
-					486252, -- [1]
-				},
+				["name"] = "Caka-Outland",
+				["class"] = "PRIEST",
 			},
-			["Gavriiel"] = {
+			["Guiltyas"] = {
+				["overall"] = {
+					290529, -- [1]
+					[188900] = 13871,
+					[181825] = 66007,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Guiltyas",
 				["class"] = "DRUID",
+			},
+			["Loss"] = {
+				["overall"] = {
+					[181825] = 301800,
+					[181498] = 309010,
+					[1454] = 35034,
+					[188900] = 5348,
+				},
 				["deaths"] = {
 				},
-				["overall"] = {
-					324459, -- [1]
-					[184243] = 72652,
-					[184238] = 35550,
-				},
-				["name"] = "Gavriiel",
+				["name"] = "Loss",
+				["class"] = "WARLOCK",
 			},
-			["Delìverer"] = {
-				["class"] = "PALADIN",
+			["Qnz"] = {
+				["name"] = "Qnz",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+					[181825] = 152323,
+					[188900] = 15918,
+					[179428] = 88432,
+				},
 				["deaths"] = {
 				},
-				["overall"] = {
-					269251, -- [1]
-				},
-				["name"] = "Delìverer",
 			},
-			["Nekobabe"] = {
+			["Fabuloso-ArgentDawn"] = {
+				["overall"] = {
+					146354, -- [1]
+					[181498] = 167713,
+					[179406] = 172062,
+					[188900] = 28707,
+					[124255] = 131328,
+					[156138] = 90332,
+					[179623] = 26801,
+				},
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
-				["name"] = "Nekobabe",
-				["overall"] = {
-					430454, -- [1]
-					[184243] = 71426,
-				},
+				["name"] = "Fabuloso-ArgentDawn",
+				["class"] = "MONK",
 			},
-			["Demonxl"] = {
+			["Darastus"] = {
+				["overall"] = {
+					363379, -- [1]
+					[181498] = 311555,
+					[179623] = 29570,
+					[188900] = 53475,
+					[181825] = 220355,
+					[156138] = 359370,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Darastus",
 				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-					456813, -- [1]
-					[184238] = 34724,
-				},
-				["name"] = "Demonxl",
 			},
-			["Demii"] = {
+			["Xianka"] = {
+				["overall"] = {
+					[179623] = 93297,
+					[181825] = 616789,
+					[188900] = 21485,
+					[181498] = 138301,
+				},
 				["deaths"] = {
 				},
-				["class"] = "DRUID",
-				["name"] = "Demii",
+				["name"] = "Xianka",
+				["class"] = "PRIEST",
+			},
+			["Darkéner"] = {
 				["overall"] = {
-					949209, -- [1]
-					[183449] = 29480,
+					[181498] = 137138,
+					[179623] = 31679,
+					[179428] = 59012,
+					[188900] = 58282,
+					[181825] = 295700,
+					[156138] = 270441,
 				},
+				["deaths"] = {
+				},
+				["name"] = "Darkéner",
+				["class"] = "ROGUE",
+			},
+			["Dagran"] = {
+				["overall"] = {
+					[181825] = 371138,
+					[179623] = 60073,
+					[188900] = 47674,
+					[181498] = 577392,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Dagran",
+				["class"] = "MONK",
+			},
+			["Tallula"] = {
+				["overall"] = {
+					[181825] = 191662,
+					[188900] = 13111,
+					[181498] = 290813,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Tallula",
+				["class"] = "PALADIN",
+			},
+			["Inhide"] = {
+				["overall"] = {
+					[179623] = 148919,
+					[181825] = 427016,
+					[188900] = 35762,
+					[181498] = 281149,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Inhide",
+				["class"] = "HUNTER",
+			},
+			["Vaghiner-Outland"] = {
+				["overall"] = {
+					[181498] = 536751,
+					[181825] = 261091,
+					[188900] = 28643,
+					[179623] = 28225,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Vaghiner-Outland",
+				["class"] = "HUNTER",
+			},
+			["Sleepan"] = {
+				["overall"] = {
+					122547, -- [1]
+					[181498] = 1167997,
+					[181825] = 564278,
+					[188900] = 51628,
+					[179623] = 29316,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Sleepan",
+				["class"] = "SHAMAN",
+			},
+			["Relaxing"] = {
+				["overall"] = {
+					[181825] = 412251,
+					[181498] = 1309547,
+					[188900] = 41614,
+					[179623] = 46941,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Relaxing",
+				["class"] = "DRUID",
+			},
+			["Suspéct"] = {
+				["overall"] = {
+					[181498] = 1029075,
+					[179623] = 62299,
+					[188900] = 42154,
+					[181825] = 709113,
+					[179583] = 54517,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Suspéct",
+				["class"] = "DRUID",
+			},
+			["Saltwater"] = {
+				["overall"] = {
+					149573, -- [1]
+					[181498] = 154862,
+					[179623] = 64104,
+					[188900] = 58585,
+					[181825] = 302162,
+					[179583] = 55482,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Saltwater",
+				["class"] = "ROGUE",
+			},
+			["Blackmessiah"] = {
+				["overall"] = {
+					339542, -- [1]
+					[181825] = 436755,
+					[179623] = 125432,
+					[188900] = 51206,
+					[181498] = 301981,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Blackmessiah",
+				["class"] = "DEATHKNIGHT",
+			},
+			["Volavus"] = {
+				["overall"] = {
+					307004, -- [1]
+					[181498] = 870615,
+					[181825] = 521537,
+					[188900] = 42929,
+					[179623] = 29568,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Volavus",
+				["class"] = "WARLOCK",
 			},
 		},
-		["diff"] = 16,
-	},
-	["139515"] = {
-		["hash"] = "139515",
-		["type"] = "deaths",
-		["name"] = "Mannoroth",
-		["id"] = 1395,
-		["diff"] = 15,
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
-			["index"] = 12,
+			["index"] = 9,
 			["zone"] = "Hellfire Citadel",
-			["encounter"] = "Mannoroth",
+			["id"] = 1777,
 			["mapid"] = 1448,
 			["try_number"] = 1,
-			["name"] = "Mannoroth",
-			["diff"] = 15,
-			["id"] = 1795,
+			["name"] = "Fel Lord Zakuun",
+			["encounter"] = "Fel Lord Zakuun",
 			["ej_instance_id"] = 669,
-			["killed"] = true,
+			["diff"] = 15,
 		},
+	},
+	["143215"] = {
+		["hash"] = "143215",
+		["type"] = "deaths",
+		["name"] = "Hellfire High Council",
+		["id"] = 1432,
 		["player_db"] = {
-			["Pearlnebula-Ravencrest"] = {
-				["name"] = "Pearlnebula-Ravencrest",
-				["class"] = "PALADIN",
+			["Chickén-Outland"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Chickén-Outland",
 				["overall"] = {
-					[183610] = 1983635,
+					[186993] = 64195,
+					[184652] = 119442,
+				},
+			},
+			["Guiltyas"] = {
+				["overall"] = {
+					137742, -- [1]
 				},
 				["deaths"] = {
 				},
+				["name"] = "Guiltyas",
+				["class"] = "DRUID",
+			},
+			["Suspéct"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Suspéct",
+				["overall"] = {
+					[184681] = 92935,
+					[184674] = 7598,
+					[185066] = 238897,
+					[185065] = 33317,
+				},
+			},
+			["Xianka"] = {
+				["overall"] = {
+					[184681] = 93126,
+					[184674] = 15240,
+					[186993] = 55882,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Xianka",
+				["class"] = "PRIEST",
+			},
+			["Darkéner"] = {
+				["overall"] = {
+					[184652] = 168847,
+					[184674] = 15583,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Darkéner",
+				["class"] = "ROGUE",
+			},
+			["Potatorc"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+				["name"] = "Potatorc",
+				["overall"] = {
+					[185065] = 48046,
+					[184674] = 15803,
+				},
+			},
+			["Volavus"] = {
+				["overall"] = {
+					[184652] = 169201,
+					[184674] = 7935,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Volavus",
+				["class"] = "WARLOCK",
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 4,
+			["zone"] = "Hellfire Citadel",
+			["encounter"] = "Hellfire High Council",
+			["mapid"] = 1448,
+			["try_number"] = 1,
+			["name"] = "Hellfire High Council",
+			["diff"] = 15,
+			["ej_instance_id"] = 669,
+			["id"] = 1798,
+			["killed"] = true,
+		},
+		["diff"] = 15,
 	},
-	["142516"] = {
-		["hash"] = "142516",
+	["142515"] = {
+		["hash"] = "142515",
 		["type"] = "deaths",
 		["name"] = "Iron Reaver",
 		["id"] = 1425,
+		["player_db"] = {
+			["Potatorc"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+				["name"] = "Potatorc",
+				["overall"] = {
+					111453, -- [1]
+					[182022] = 13647,
+					[182074] = 22080,
+				},
+			},
+			["Guiltyas"] = {
+				["name"] = "Guiltyas",
+				["class"] = "DRUID",
+				["overall"] = {
+					[185284] = 141486,
+					[182001] = 12972,
+					[182074] = 35521,
+				},
+				["deaths"] = {
+				},
+			},
+			["Suspéct"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Suspéct",
+				["overall"] = {
+					[179897] = 22110,
+					[182074] = 6780,
+				},
+			},
+			["Qnz"] = {
+				["name"] = "Qnz",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+					[182074] = 74577,
+					[182001] = 29713,
+					[182108] = 194133,
+				},
+				["deaths"] = {
+				},
+			},
+			["Fabuloso-ArgentDawn"] = {
+				["name"] = "Fabuloso-ArgentDawn",
+				["class"] = "MONK",
+				["overall"] = {
+					86970, -- [1]
+					[124255] = 12154,
+					[182074] = 32713,
+				},
+				["deaths"] = {
+				},
+			},
+			["Zpan"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+				["name"] = "Zpan",
+				["overall"] = {
+					[182362] = 1057205,
+					[182523] = 58304,
+					[182108] = 135044,
+				},
+			},
+			["Xianka"] = {
+				["overall"] = {
+					[182074] = 27268,
+					[182022] = 16859,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Xianka",
+				["class"] = "PRIEST",
+			},
+			["Darkéner"] = {
+				["name"] = "Darkéner",
+				["class"] = "ROGUE",
+				["overall"] = {
+					[182074] = 20229,
+					[182022] = 15288,
+					[182108] = 238636,
+					[182001] = 59098,
+				},
+				["deaths"] = {
+				},
+			},
+			["Dagran"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Dagran",
+				["overall"] = {
+					[182108] = 687006,
+					[182074] = 67771,
+					[185284] = 166382,
+					[182001] = 52227,
+					[179897] = 37079,
+				},
+			},
+			["Tallula"] = {
+				["name"] = "Tallula",
+				["class"] = "PALADIN",
+				["overall"] = {
+					[182074] = 122361,
+					[182523] = 420695,
+					[182108] = 211261,
+					[182001] = 7056,
+				},
+				["deaths"] = {
+				},
+			},
+			["Blackmessiah"] = {
+				["name"] = "Blackmessiah",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+					[182108] = 260216,
+					[179897] = 96734,
+					[182523] = 56865,
+					[182001] = 21731,
+					[182074] = 5288,
+				},
+				["deaths"] = {
+				},
+			},
+			["Vaghiner-Outland"] = {
+				["overall"] = {
+					[182074] = 14163,
+					[182001] = 5173,
+					[179897] = 10263,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Vaghiner-Outland",
+				["class"] = "HUNTER",
+			},
+			["Sleepan"] = {
+				["overall"] = {
+					[179897] = 121898,
+					[182074] = 13387,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Sleepan",
+				["class"] = "SHAMAN",
+			},
+			["Zafiriel"] = {
+				["name"] = "Zafiriel",
+				["class"] = "DRUID",
+				["overall"] = {
+					[182001] = 19574,
+					[179897] = 38836,
+					[182108] = 210765,
+				},
+				["deaths"] = {
+				},
+			},
+			["Relaxing"] = {
+				["name"] = "Relaxing",
+				["class"] = "DRUID",
+				["overall"] = {
+					[182362] = 31295,
+					[182001] = 6543,
+					[182523] = 430947,
+					[182074] = 89571,
+				},
+				["deaths"] = {
+				},
+			},
+			["Saltwater"] = {
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Saltwater",
+				["overall"] = {
+					[182074] = 27112,
+					[182001] = 7368,
+					[179897] = 29238,
+					[182362] = 1029652,
+				},
+			},
+			["Zeynaa"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Zeynaa",
+				["overall"] = {
+					[182074] = 12304,
+					[182001] = 6740,
+					[179897] = 26748,
+				},
+			},
+			["Caka-Outland"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Caka-Outland",
+				["overall"] = {
+					[182074] = 25494,
+					[179897] = 13856,
+				},
+			},
+			["Miyoki"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Miyoki",
+				["overall"] = {
+					[182001] = 43671,
+					[185284] = 159775,
+				},
+			},
+			["Volavus"] = {
+				["name"] = "Volavus",
+				["class"] = "WARLOCK",
+				["overall"] = {
+					299789, -- [1]
+					[182074] = 13713,
+					[182523] = 448306,
+					[182108] = 48537,
+					[182001] = 75126,
+				},
+				["deaths"] = {
+				},
+			},
+		},
 		["boss_table"] = {
-			["diff_string"] = "Mythic",
+			["diff_string"] = "Heroic",
 			["index"] = 2,
 			["zone"] = "Hellfire Citadel",
 			["encounter"] = "Iron Reaver",
 			["mapid"] = 1448,
 			["try_number"] = 1,
 			["name"] = "Iron Reaver",
-			["diff"] = 16,
+			["diff"] = 15,
 			["ej_instance_id"] = 669,
 			["id"] = 1785,
 			["killed"] = true,
 		},
-		["player_db"] = {
-			["Taikapena"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185284] = 463883,
-					[182001] = 42537,
-				},
-				["name"] = "Taikapena",
-			},
-			["Zanis"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[185284] = 394239,
-					[182001] = 37093,
-				},
-				["name"] = "Zanis",
-			},
-		},
-		["diff"] = 16,
+		["diff"] = 15,
 	},
-	["139514"] = {
-		["hash"] = "139514",
-		["type"] = "deaths",
-		["name"] = "Mannoroth",
-		["id"] = 1395,
-		["boss_table"] = {
-			["diff_string"] = "Normal",
-			["index"] = 12,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1795,
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Mannoroth",
-			["diff"] = 14,
-			["ej_instance_id"] = 669,
-			["encounter"] = "Mannoroth",
-		},
-		["player_db"] = {
-			["Guiltyas"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					35719, -- [1]
-					[181134] = 15891,
-					[181126] = 30569,
-				},
-				["name"] = "Guiltyas",
-			},
-		},
-		["diff"] = 14,
-	},
-	["137216"] = {
-		["hash"] = "137216",
+	["137215"] = {
+		["hash"] = "137215",
 		["type"] = "deaths",
 		["name"] = "Gorefiend",
 		["id"] = 1372,
+		["player_db"] = {
+			["Caka-Outland"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Caka-Outland",
+				["overall"] = {
+					[182052] = 59081,
+					[179995] = 196378,
+					[180146] = 4920022,
+					[182189] = 77800,
+					[179978] = 93802,
+					[184437] = 41182,
+				},
+			},
+			["Suspéct"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Suspéct",
+				["overall"] = {
+					[182052] = 254547,
+					[180093] = 25666,
+					[180017] = 162566,
+					[180146] = 3525230,
+					[179978] = 176724,
+				},
+			},
+			["Fabuloso-ArgentDawn"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Fabuloso-ArgentDawn",
+				["overall"] = {
+					94557, -- [1]
+					[179995] = 63018,
+					[124255] = 66144,
+					[185189] = 6740,
+				},
+			},
+			["Zpan"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+				["name"] = "Zpan",
+				["overall"] = {
+					[179995] = 210304,
+					[180093] = 27808,
+					[180146] = 1789823,
+					[185053] = 32264,
+				},
+			},
+			["Chickén-Outland"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Chickén-Outland",
+				["overall"] = {
+					[179978] = 55088,
+					[180146] = 1711592,
+					[182273] = 81335,
+				},
+			},
+			["Xianka"] = {
+				["overall"] = {
+					[179995] = 312410,
+					[182052] = 198693,
+					[179978] = 17421,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Xianka",
+				["class"] = "PRIEST",
+			},
+			["Yumzo"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Yumzo",
+				["overall"] = {
+					[179995] = 145886,
+					[180093] = 8800,
+					[180146] = 1773692,
+					[182189] = 18525,
+				},
+			},
+			["Dagran"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Dagran",
+				["overall"] = {
+					[185053] = 63341,
+					[180093] = 76899,
+					[179978] = 51212,
+					[179995] = 206437,
+				},
+			},
+			["Tallula"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Tallula",
+				["overall"] = {
+					[180093] = 13736,
+					[180146] = 1662577,
+					[182273] = 83129,
+				},
+			},
+			["Loss"] = {
+				["overall"] = {
+					[179995] = 202137,
+					[185053] = 62913,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Loss",
+				["class"] = "WARLOCK",
+			},
+			["Blackmessiah"] = {
+				["overall"] = {
+					[180146] = 1719346,
+					[179978] = 52739,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Blackmessiah",
+				["class"] = "DEATHKNIGHT",
+			},
+			["Vaghiner-Outland"] = {
+				["overall"] = {
+					[182052] = 179457,
+					[179995] = 103366,
+					[180146] = 1759430,
+					[179978] = 102058,
+					[185053] = 32172,
+					[180093] = 48280,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Vaghiner-Outland",
+				["class"] = "HUNTER",
+			},
+			["Darkéner"] = {
+				["overall"] = {
+					[180146] = 1770369,
+					[179978] = 52197,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Darkéner",
+				["class"] = "ROGUE",
+			},
+			["Saltwater"] = {
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Saltwater",
+				["overall"] = {
+					131273, -- [1]
+					[180093] = 34542,
+					[180017] = 199261,
+					[185053] = 31137,
+					[180146] = 1727306,
+					[179978] = 98302,
+					[179995] = 202958,
+				},
+			},
+			["Relaxing"] = {
+				["overall"] = {
+					[182052] = 108311,
+					[179978] = 14205,
+					[180093] = 15216,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Relaxing",
+				["class"] = "DRUID",
+			},
+			["Potatorc"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+				["name"] = "Potatorc",
+				["overall"] = {
+					[179995] = 105750,
+					[179978] = 47980,
+					[186770] = 95100,
+				},
+			},
+			["Katieperry-Outland"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Katieperry-Outland",
+				["overall"] = {
+					[182052] = 123774,
+					[180093] = 15799,
+					[180017] = 201776,
+					[182273] = 85790,
+					[3] = 83166,
+				},
+			},
+			["Darastus"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Darastus",
+				["overall"] = {
+					[179995] = 104726,
+					[180093] = 58993,
+					[179978] = 101411,
+					[180017] = 207274,
+				},
+			},
+			["Zeynaa"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Zeynaa",
+				["overall"] = {
+					[181295] = 1500000,
+					[180093] = 32842,
+					[180017] = 130357,
+					[179907] = 102603,
+					[185053] = 20251,
+					[180146] = 1123387,
+				},
+			},
+			["Inhide"] = {
+				["overall"] = {
+					[179995] = 200096,
+					[179978] = 61060,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Inhide",
+				["class"] = "HUNTER",
+			},
+			["Miyoki"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Miyoki",
+				["overall"] = {
+					[182052] = 126245,
+					[179995] = 614024,
+					[180017] = 196579,
+					[180093] = 10920,
+					[182189] = 52984,
+					[185053] = 94200,
+					[179978] = 84775,
+				},
+			},
+			["Volavus"] = {
+				["overall"] = {
+					[179995] = 105087,
+					[182052] = 133092,
+					[179978] = 185824,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Volavus",
+				["class"] = "WARLOCK",
+			},
+		},
 		["boss_table"] = {
-			["diff_string"] = "Mythic",
+			["diff_string"] = "Heroic",
 			["index"] = 6,
 			["zone"] = "Hellfire Citadel",
 			["id"] = 1783,
 			["mapid"] = 1448,
 			["try_number"] = 1,
 			["name"] = "Gorefiend",
-			["diff"] = 16,
+			["diff"] = 15,
 			["ej_instance_id"] = 669,
 			["encounter"] = "Gorefiend",
 		},
-		["player_db"] = {
-		},
-		["diff"] = 16,
+		["diff"] = 15,
 	},
-	["139116"] = {
-		["hash"] = "139116",
+	["139615"] = {
+		["hash"] = "139615",
 		["type"] = "deaths",
-		["name"] = "Fel Lord Zakuun",
-		["id"] = 1391,
-		["diff"] = 16,
+		["name"] = "Kilrogg Deadeye",
+		["id"] = 1396,
 		["player_db"] = {
-			["Waitrose"] = {
+			["Potatorc"] = {
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
-				["name"] = "Waitrose",
+				["class"] = "WARRIOR",
+				["name"] = "Potatorc",
 				["overall"] = {
-					[181498] = 199717,
-					[188900] = 14240,
-					[179623] = 42266,
+					[180225] = 11736,
+					[182382] = 121892,
+					[182159] = 10920,
+					[180389] = 68291,
+					[180170] = 327658,
+					[180143] = 60480,
 				},
 			},
 			["Guiltyas"] = {
-				["overall"] = {
-					278404, -- [1]
-					[181498] = 359725,
-					[179623] = 44075,
-					[179583] = 33522,
-					[181825] = 535687,
-					[188900] = 27897,
-				},
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
 				["name"] = "Guiltyas",
+				["overall"] = {
+					183113, -- [1]
+					[184396] = 10156,
+					[184398] = 6952,
+					[180170] = 304843,
+				},
+			},
+			["Suspéct"] = {
+				["deaths"] = {
+				},
 				["class"] = "DRUID",
-			},
-			["Pennypácker"] = {
+				["name"] = "Suspéct",
 				["overall"] = {
-					[181825] = 445959,
-					[188900] = 8204,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Pennypácker",
-				["class"] = "PRIEST",
-			},
-			["Icétouch"] = {
-				["overall"] = {
-					204650, -- [1]
-					[181498] = 168938,
-					[181825] = 516751,
-					[188900] = 6334,
-					[179623] = 38707,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Icétouch",
-				["class"] = "MAGE",
-			},
-			["Thailuna"] = {
-				["overall"] = {
-					[188900] = 16861,
-					[181825] = 297043,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Thailuna",
-				["class"] = "SHAMAN",
-			},
-			["Hóldor"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Hóldor",
-				["overall"] = {
-					[181498] = 182602,
-					[179428] = 38603,
-					[188900] = 34910,
-					[181825] = 565184,
-					[181921] = 191533,
+					[182382] = 151832,
+					[180389] = 77829,
+					[183917] = 49842,
 				},
 			},
-			["Demonxl"] = {
-				["overall"] = {
-					[181825] = 591416,
-					[181498] = 611810,
-					[188900] = 31430,
-					[179623] = 53675,
-				},
+			["Fabuloso-ArgentDawn"] = {
 				["deaths"] = {
 				},
-				["name"] = "Demonxl",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Delìverer"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Delìverer",
-				["overall"] = {
-					160983, -- [1]
-					[156138] = 270723,
-					[188900] = 6128,
-				},
-			},
-			["Belsarion"] = {
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[181498] = 198490,
-					[179583] = 68486,
-					[188900] = 7009,
-					[179623] = 42438,
-				},
-				["name"] = "Belsarion",
-			},
-			["Delibear"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					253202, -- [1]
-					[188900] = 6349,
-					[179583] = 63326,
-				},
-				["name"] = "Delibear",
-			},
-			["Kitarah"] = {
-				["overall"] = {
-					[181498] = 155561,
-					[188900] = 6733,
-					[181825] = 239017,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Kitarah",
 				["class"] = "MONK",
-			},
-			["Evilshooter"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
+				["name"] = "Fabuloso-ArgentDawn",
 				["overall"] = {
-					[181498] = 340837,
-					[181825] = 232907,
+					325593, -- [1]
+					[184396] = 5286,
+					[124255] = 53525,
+					[182159] = 6058,
+					[183917] = 18578,
 				},
-				["name"] = "Evilshooter",
 			},
-			["Barbaróssa"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[181498] = 190641,
-					[188900] = 6575,
-					[181825] = 264468,
-				},
-				["name"] = "Barbaróssa",
-			},
-			["Zethhx"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[181498] = 190101,
-					[188900] = 7089,
-					[181825] = 291075,
-				},
-				["name"] = "Zethhx",
-			},
-			["Ejje"] = {
-				["overall"] = {
-					[179623] = 37106,
-					[179583] = 58274,
-					[181825] = 236327,
-				},
-				["deaths"] = {
-				},
-				["name"] = "Ejje",
-				["class"] = "DRUID",
-			},
-			["Despia"] = {
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-				["overall"] = {
-					[181825] = 556890,
-					[188900] = 20592,
-					[179623] = 42194,
-				},
-				["name"] = "Despia",
-			},
-			["Antalios"] = {
+			["Darastus"] = {
 				["deaths"] = {
 				},
 				["class"] = "DEATHKNIGHT",
-				["name"] = "Antalios",
+				["name"] = "Darastus",
 				["overall"] = {
-					[181498] = 196438,
-					[188900] = 14580,
-					[179623] = 45510,
+					[184396] = 15284,
+					[180225] = 39181,
+					[182382] = 122490,
+					[182159] = 3326,
+					[183917] = 30815,
+					[188852] = 39917,
+					[180389] = 73662,
 				},
 			},
-			["Demii"] = {
+			["Chickén-Outland"] = {
 				["deaths"] = {
 				},
-				["class"] = "DRUID",
-				["name"] = "Demii",
+				["class"] = "MONK",
+				["name"] = "Chickén-Outland",
 				["overall"] = {
-					[181498] = 359888,
-					[156138] = 245887,
-					[188900] = 6277,
+					[180127] = 81335,
+					[184396] = 23963,
 				},
 			},
-			["Zanis"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Zanis",
+			["Xianka"] = {
 				["overall"] = {
-					[181498] = 171674,
-					[156138] = 176477,
-					[188900] = 18773,
-					[181825] = 262325,
-					[179623] = 36393,
-				},
-			},
-			["Taikapena"] = {
-				["overall"] = {
-					606450, -- [1]
-					[181825] = 263972,
-					[179583] = 78115,
-					[188900] = 7178,
-					[179623] = 41530,
+					[188852] = 82718,
+					[180389] = 39390,
 				},
 				["deaths"] = {
 				},
-				["name"] = "Taikapena",
-				["class"] = "MAGE",
+				["name"] = "Xianka",
+				["class"] = "PRIEST",
 			},
-			["Mysernst"] = {
+			["Dagran"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Dagran",
 				["overall"] = {
-					[179623] = 123944,
-					[181498] = 190231,
-					[188900] = 21640,
-					[181825] = 140341,
+					[180225] = 19212,
+					[182382] = 354877,
+					[180389] = 78086,
+					[188852] = 245969,
+					[183917] = 33152,
+				},
+			},
+			["Inhide-Outland"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Inhide-Outland",
+				["overall"] = {
+					[184396] = 5645,
+					[180225] = 39303,
+					[184398] = 26405,
+					[180143] = 90681,
+					[188852] = 56446,
+					[180243] = 73335,
+					[183917] = 16222,
+				},
+			},
+			["Blackmessiah"] = {
+				["overall"] = {
+					[182382] = 311727,
+					[182159] = 3358,
+					[180225] = 23317,
 				},
 				["deaths"] = {
 				},
-				["name"] = "Mysernst",
-				["class"] = "SHAMAN",
+				["name"] = "Blackmessiah",
+				["class"] = "DEATHKNIGHT",
 			},
-			["Rid"] = {
+			["Saltwater"] = {
 				["deaths"] = {
 				},
 				["class"] = "ROGUE",
-				["name"] = "Rid",
+				["name"] = "Saltwater",
 				["overall"] = {
-					[179623] = 41656,
-					[156138] = 174325,
-					[188900] = 13484,
+					[180389] = 57891,
+					[182159] = 3411,
 				},
 			},
-			["Falcogg"] = {
-				["class"] = "DEATHKNIGHT",
+			["Relaxing"] = {
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
+				["name"] = "Relaxing",
 				["overall"] = {
-					320032, -- [1]
-					[156138] = 161632,
-					[188900] = 7010,
+					[180225] = 9126,
+					[183917] = 14927,
+					[180389] = 104625,
 				},
-				["name"] = "Falcogg",
 			},
-			["Everly"] = {
-				["overall"] = {
-					[181825] = 444633,
-					[181921] = 233271,
-				},
+			["Katieperry-Outland"] = {
 				["deaths"] = {
 				},
-				["name"] = "Everly",
-				["class"] = "WARLOCK",
+				["class"] = "DRUID",
+				["name"] = "Katieperry-Outland",
+				["overall"] = {
+					[180389] = 56937,
+					[180225] = 33583,
+				},
 			},
-			["Nekonabe"] = {
+			["Caka-Outland"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Caka-Outland",
 				["overall"] = {
-					[181825] = 242229,
-					[188900] = 6946,
-					[181498] = 159888,
+					191521, -- [1]
+					[182382] = 481830,
+					[180225] = 12809,
+					[180389] = 88016,
+					[183917] = 78483,
+				},
+			},
+			["Zeynaa"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Zeynaa",
+				["overall"] = {
+					[184396] = 5243,
+					[180127] = 160484,
+					[180170] = 167461,
+					[182159] = 8426,
+					[180389] = 42368,
+					[188852] = 26212,
+				},
+			},
+			["Zpan"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+				["name"] = "Zpan",
+				["overall"] = {
+					[184396] = 49280,
+					[180225] = 47522,
+					[180143] = 139607,
+					[183917] = 99525,
+					[182159] = 6960,
+					[180389] = 39376,
+				},
+			},
+			["Miyoki"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Miyoki",
+				["overall"] = {
+					[180225] = 25630,
+					[182382] = 118116,
+					[180143] = 103979,
+					[180389] = 114377,
+					[188852] = 80872,
+					[183917] = 65347,
+				},
+			},
+			["Volavus"] = {
+				["overall"] = {
+					[182382] = 436257,
+					[180225] = 12598,
 				},
 				["deaths"] = {
 				},
-				["name"] = "Nekonabe",
+				["name"] = "Volavus",
 				["class"] = "WARLOCK",
 			},
 		},
 		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 9,
+			["diff_string"] = "Heroic",
+			["index"] = 5,
 			["zone"] = "Hellfire Citadel",
-			["id"] = 1777,
+			["id"] = 1786,
 			["mapid"] = 1448,
-			["name"] = "Fel Lord Zakuun",
+			["try_number"] = 1,
+			["name"] = "Kilrogg Deadeye",
+			["diff"] = 15,
 			["ej_instance_id"] = 669,
-			["encounter"] = "Fel Lord Zakuun",
-			["diff"] = 16,
+			["encounter"] = "Kilrogg Deadeye",
+		},
+		["diff"] = 15,
+	},
+	["139215"] = {
+		["hash"] = "139215",
+		["type"] = "deaths",
+		["name"] = "Kormrok",
+		["id"] = 1392,
+		["player_db"] = {
+			["Katieperry-Outland"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Katieperry-Outland",
+				["overall"] = {
+					[180377] = 309206,
+					[180246] = 45887,
+				},
+			},
+			["Tallula"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Tallula",
+				["overall"] = {
+					[180377] = 452041,
+					[180246] = 21122,
+				},
+			},
+			["Suspéct"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Suspéct",
+				["overall"] = {
+					[186559] = 143828,
+					[180246] = 25037,
+					[180377] = 478360,
+					[7] = 40799,
+				},
+			},
+			["Fabuloso-ArgentDawn"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Fabuloso-ArgentDawn",
+				["overall"] = {
+					[180377] = 567918,
+					[124255] = 547,
+				},
+			},
+			["Zpan"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+				["name"] = "Zpan",
+				["overall"] = {
+					[180377] = 489422,
+					[180246] = 23111,
+				},
+			},
+			["Relaxing"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Relaxing",
+				["overall"] = {
+					[180377] = 426497,
+					[180246] = 19979,
+				},
+			},
+			["Caka-Outland"] = {
+				["overall"] = {
+					[8] = 37735,
+					[186560] = 104962,
+					[187819] = 33704,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Caka-Outland",
+				["class"] = "PRIEST",
+			},
+			["Miyoki"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Miyoki",
+				["overall"] = {
+					[180377] = 316495,
+					[180246] = 45444,
+				},
+			},
+			["Zeynaa"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Zeynaa",
+				["overall"] = {
+					[180377] = 296137,
+					[180246] = 41464,
+				},
+			},
+			["Darastus"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Darastus",
+				["overall"] = {
+					[180377] = 308113,
+					[180246] = 43587,
+				},
+			},
+			["Dagran"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Dagran",
+				["overall"] = {
+					[180377] = 322021,
+					[180246] = 47716,
+				},
+			},
+			["Volavus"] = {
+				["overall"] = {
+					[8] = 35938,
+					[186560] = 122905,
+					[187819] = 36221,
+				},
+				["deaths"] = {
+				},
+				["name"] = "Volavus",
+				["class"] = "WARLOCK",
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 3,
+			["zone"] = "Hellfire Citadel",
+			["id"] = 1787,
+			["mapid"] = 1448,
+			["try_number"] = 1,
+			["name"] = "Kormrok",
+			["diff"] = 15,
+			["ej_instance_id"] = 669,
+			["encounter"] = "Kormrok",
+		},
+		["diff"] = 15,
+	},
+	["143315"] = {
+		["hash"] = "143315",
+		["type"] = "deaths",
+		["name"] = "Shadow-Lord Iskar",
+		["id"] = 1433,
+		["diff"] = 15,
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 7,
+			["zone"] = "Hellfire Citadel",
+			["id"] = 1788,
+			["mapid"] = 1448,
+			["try_number"] = 3,
+			["name"] = "Shadow-Lord Iskar",
+			["encounter"] = "Shadow-Lord Iskar",
+			["ej_instance_id"] = 669,
+			["diff"] = 15,
+		},
+		["player_db"] = {
+			["Guiltyas"] = {
+				["name"] = "Guiltyas",
+				["class"] = "DRUID",
+				["overall"] = {
+					571795, -- [1]
+					[182325] = 47511,
+					[181913] = 530916,
+					[185239] = 288279,
+					[182202] = 27455,
+					[181748] = 106891,
+					[184874] = 62461,
+					[181832] = 67376,
+				},
+				["deaths"] = {
+				},
+			},
+			["Tallula"] = {
+				["name"] = "Tallula",
+				["class"] = "PALADIN",
+				["overall"] = {
+					78862, -- [1]
+					[187694] = 210843,
+					[185239] = 114336,
+					[181748] = 115084,
+					[181832] = 332750,
+					[182600] = 235204,
+				},
+				["deaths"] = {
+				},
+			},
+			["Blackmessiah"] = {
+				["name"] = "Blackmessiah",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+					87960, -- [1]
+					[185803] = 71697,
+					[182325] = 45851,
+					[181913] = 184717,
+					[182600] = 240961,
+					[181748] = 662719,
+					[181832] = 340151,
+					[184874] = 173852,
+					[187694] = 215931,
+				},
+				["deaths"] = {
+				},
+			},
+			["Qnz"] = {
+				["name"] = "Qnz",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+					[187694] = 49325,
+					[181913] = 1940803,
+					[182600] = 383795,
+					[181748] = 359379,
+					[181832] = 406823,
+					[182325] = 47164,
+				},
+				["deaths"] = {
+				},
+			},
+			["Fabuloso-ArgentDawn"] = {
+				["name"] = "Fabuloso-ArgentDawn",
+				["class"] = "MONK",
+				["overall"] = {
+					124275, -- [1]
+					[185803] = 173538,
+					[124255] = 108590,
+					[181913] = 305595,
+					[187694] = 59499,
+				},
+				["deaths"] = {
+				},
+			},
+			["Darastus"] = {
+				["name"] = "Darastus",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+					[185239] = 485250,
+					[182325] = 95069,
+					[181748] = 360394,
+					[181913] = 104849,
+				},
+				["deaths"] = {
+				},
+			},
+			["Zafiriel"] = {
+				["name"] = "Zafiriel",
+				["class"] = "DRUID",
+				["overall"] = {
+					73029, -- [1]
+					[185803] = 32171,
+					[187694] = 544603,
+					[181913] = 240975,
+					[182600] = 579061,
+					[182202] = 35474,
+					[181832] = 340594,
+					[181748] = 467522,
+					[182325] = 10357,
+				},
+				["deaths"] = {
+				},
+			},
+			["Relaxing"] = {
+				["name"] = "Relaxing",
+				["class"] = "DRUID",
+				["overall"] = {
+					[187694] = 624360,
+					[181913] = 1862007,
+					[182600] = 1090430,
+					[182202] = 127044,
+					[181832] = 260702,
+					[182325] = 83080,
+					[184874] = 78753,
+				},
+				["deaths"] = {
+				},
+			},
+			["Saltwater"] = {
+				["name"] = "Saltwater",
+				["class"] = "ROGUE",
+				["overall"] = {
+					[187694] = 568573,
+					[181913] = 380904,
+					[182600] = 165461,
+					[182202] = 87939,
+					[181748] = 1063282,
+					[182325] = 140406,
+					[181832] = 444588,
+				},
+				["deaths"] = {
+				},
+			},
+			["Darkéner"] = {
+				["name"] = "Darkéner",
+				["class"] = "ROGUE",
+				["overall"] = {
+					[185803] = 69711,
+					[187694] = 441478,
+					[181913] = 452870,
+					[182600] = 328324,
+					[181748] = 356243,
+					[181832] = 286484,
+				},
+				["deaths"] = {
+				},
+			},
+			["Dagran"] = {
+				["name"] = "Dagran",
+				["class"] = "MONK",
+				["overall"] = {
+					[182325] = 70480,
+					[181913] = 104686,
+					[182600] = 249171,
+					[181748] = 345376,
+					[187694] = 124090,
+				},
+				["deaths"] = {
+				},
+			},
+			["Volavus"] = {
+				["name"] = "Volavus",
+				["class"] = "WARLOCK",
+				["overall"] = {
+					[182600] = 2470818,
+					[182325] = 95399,
+				},
+				["deaths"] = {
+				},
+			},
 		},
 	},
 }
 DeathGraphsDBEndurance = {
-	["139516"] = {
-		["hash"] = "139516",
-		["type"] = "endurance",
-		["name"] = "Mannoroth",
-		["id"] = 1395,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 12,
-			["zone"] = "Hellfire Citadel",
-			["encounter"] = "Mannoroth",
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Mannoroth",
-			["diff"] = 16,
-			["ej_instance_id"] = 669,
-			["id"] = 1795,
-			["killed"] = true,
-		},
-		["player_db"] = {
-			["Waitrose"] = {
-				["encounters"] = 10,
-				["points"] = 1000,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Zanis"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						2, -- [1]
-						92.094000000041, -- [2]
-						"Shadowforce |cFFFF333352,447|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Nekobabe"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Nerxedion"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-					{
-						2, -- [1]
-						187.265000000014, -- [2]
-						"Gripping Shadows |cFFFF3333129,470|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Nekonabe"] = {
-				["encounters"] = 8,
-				["points"] = 790,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-					{
-						1, -- [1]
-						225.641999999993, -- [2]
-						"Empowered Fel Hellstorm |cFFFF333330,876|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Cutepets-Silvermoon"] = {
-				["encounters"] = 4,
-				["points"] = 390,
-				["class"] = "HUNTER",
-				["deaths"] = {
-					{
-						2, -- [1]
-						84.0779999999941, -- [2]
-						"Shadowforce |cFFFF333349,619|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Demonxl"] = {
-				["encounters"] = 11,
-				["points"] = 1100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Sparkshíne-Silvermoon"] = {
-				["encounters"] = 4,
-				["points"] = 390,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						3, -- [1]
-						73.7189999999973, -- [2]
-						"Gripping Shadows |cFFFF333394,391|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Zel"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						1, -- [1]
-						135.719, -- [2]
-						"Empowered Mannoroth's Gaze |cFFFF3333796,363|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Gavriiel"] = {
-				["encounters"] = 12,
-				["points"] = 1150,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						3, -- [1]
-						31.4889999999432, -- [2]
-						"Melee |cFFFF3333382,787|r", -- [3]
-					}, -- [1]
-					{
-						3, -- [1]
-						97.5699999999488, -- [2]
-						"Gripping Shadows |cFFFF333336,354|r", -- [3]
-					}, -- [2]
-					{
-						1, -- [1]
-						93.1879999999656, -- [2]
-						"Gripping Shadows |cFFFF333386,898|r", -- [3]
-					}, -- [3]
-					{
-						1, -- [1]
-						145.234000000171, -- [2]
-						"Empowered Mannoroth's Gaze |cFFFF3333275,987|r", -- [3]
-					}, -- [4]
-				},
-			},
-			["Zanhunt"] = {
-				["encounters"] = 7,
-				["points"] = 700,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Dlest-Silvermoon"] = {
-				["encounters"] = 4,
-				["points"] = 390,
-				["class"] = "PRIEST",
-				["deaths"] = {
-					{
-						1, -- [1]
-						89.1879999999947, -- [2]
-						"Gripping Shadows |cFFFF333381,622|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Morphx-Silvermoon"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Gróz-Silvermoon"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Evilshooter"] = {
-				["encounters"] = 5,
-				["points"] = 490,
-				["class"] = "HUNTER",
-				["deaths"] = {
-					{
-						1, -- [1]
-						145.234000000171, -- [2]
-						"Empowered Mannoroth's Gaze |cFFFF3333243,293|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Aynis-Kazzak"] = {
-				["encounters"] = 4,
-				["points"] = 360,
-				["class"] = "HUNTER",
-				["deaths"] = {
-					{
-						1, -- [1]
-						96.0160000000033, -- [2]
-						"Mannoroth's Gaze |cFFFF333397,245|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						92.0939999999973, -- [2]
-						"Gripping Shadows |cFFFF3333110,438|r", -- [3]
-					}, -- [2]
-					{
-						3, -- [1]
-						94.8600000000006, -- [2]
-						"Fel Blast |cFFFF333341,831|r", -- [3]
-					}, -- [3]
-					{
-						4, -- [1]
-						91.7649999999994, -- [2]
-						"Gripping Shadows |cFFFF3333119,609|r", -- [3]
-					}, -- [4]
-				},
-			},
-			["Mysernst"] = {
-				["encounters"] = 10,
-				["points"] = 1000,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Rid"] = {
-				["encounters"] = 15,
-				["points"] = 1470,
-				["class"] = "ROGUE",
-				["deaths"] = {
-					{
-						5, -- [1]
-						226.70299999998, -- [2]
-						"Empowered Shadowforce |cFFFF333339,127|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						99.1089999999968, -- [2]
-						"Gripping Shadows |cFFFF3333155,999|r", -- [3]
-					}, -- [2]
-					{
-						3, -- [1]
-						89.875, -- [2]
-						"Gripping Shadows |cFFFF3333155,154|r", -- [3]
-					}, -- [3]
-				},
-			},
-			["Callmeopo-Silvermoon"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Everly"] = {
-				["encounters"] = 2,
-				["points"] = 180,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-					{
-						1, -- [1]
-						74.0940000000119, -- [2]
-						"Mannoroth's Gaze |cFFFF3333877,530|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						146.281000000017, -- [2]
-						"Fel Hellstorm |cFFFF333344,852|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Dramai-Silvermoon"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Numian-Silvermoon"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Antalios"] = {
-				["encounters"] = 10,
-				["points"] = 990,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						1, -- [1]
-						135.485000000001, -- [2]
-						"Empowered Mannoroth's Gaze |cFFFF3333355,005|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Aeis-Silvermoon"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Aleksej-Silvermoon"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Mortaro-Silvermoon"] = {
-				["encounters"] = 4,
-				["points"] = 390,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						4, -- [1]
-						84.375, -- [2]
-						"Shadowforce |cFFFF333375,496|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Thaliunaqt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Cadz-Silvermoon"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Mirkmissen-Silvermoon"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Pennypácker"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Icétouch"] = {
-				["encounters"] = 7,
-				["points"] = 700,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Ailith-Nethersturm"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-			},
-			["Thailuna"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Guiltyas"] = {
-				["encounters"] = 16,
-				["points"] = 1580,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						1, -- [1]
-						28.3270000000484, -- [2]
-						"", -- [3]
-					}, -- [1]
-					{
-						1, -- [1]
-						90.4070000000002, -- [2]
-						"Mannoroth's Gaze |cFFFF3333438,319|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Taliza"] = {
-				["encounters"] = 5,
-				["points"] = 460,
-				["class"] = "HUNTER",
-				["deaths"] = {
-					{
-						2, -- [1]
-						21.5740000000224, -- [2]
-						"", -- [3]
-					}, -- [1]
-					{
-						3, -- [1]
-						22.2140000000363, -- [2]
-						"", -- [3]
-					}, -- [2]
-					{
-						4, -- [1]
-						22.6929999999702, -- [2]
-						"", -- [3]
-					}, -- [3]
-					{
-						5, -- [1]
-						22.4449999999488, -- [2]
-						"", -- [3]
-					}, -- [4]
-				},
-			},
-			["Holdor"] = {
-				["encounters"] = 12,
-				["points"] = 1180,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						1, -- [1]
-						21.4030000000494, -- [2]
-						"Melee |cFFFF3333399,300|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						69.2879999999423, -- [2]
-						"Mannoroth's Gaze |cFFFF3333870,108|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Falrodil-Silvermoon"] = {
-				["encounters"] = 4,
-				["points"] = 380,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						1, -- [1]
-						74.0629999999947, -- [2]
-						"Gripping Shadows |cFFFF3333135,175|r", -- [3]
-					}, -- [1]
-					{
-						4, -- [1]
-						143.842999999993, -- [2]
-						"Gazing Shadows (DoT) |cFFFF333334,131|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Belsarion"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Kitarah"] = {
-				["encounters"] = 6,
-				["points"] = 600,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Nollie-Silvermoon"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-			},
-			["Barbaróssa"] = {
-				["encounters"] = 9,
-				["points"] = 890,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						4, -- [1]
-						224.069999999949, -- [2]
-						"Empowered Mannoroth's Gaze |cFFFF3333644,636|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Crwd"] = {
-				["encounters"] = 12,
-				["points"] = 1180,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						2, -- [1]
-						205.421000000002, -- [2]
-						"Gripping Shadows |cFFFF3333131,058|r", -- [3]
-					}, -- [1]
-					{
-						1, -- [1]
-						98.234999999986, -- [2]
-						"Gripping Shadows |cFFFF3333126,521|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Demii"] = {
-				["encounters"] = 12,
-				["points"] = 1190,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						4, -- [1]
-						182.984999999986, -- [2]
-						"Massive Blast |cFFFF33332,323,521|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Verene"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Zhunt"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Delìverer"] = {
-				["encounters"] = 12,
-				["points"] = 1190,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						2, -- [1]
-						75.3580000000075, -- [2]
-						"Massive Blast |cFFFF33331,910,527|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Dungeonravor"] = {
-				["encounters"] = 6,
-				["points"] = 600,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-			},
-			["Taikapena"] = {
-				["encounters"] = 12,
-				["points"] = 1170,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						5, -- [1]
-						229.967999999993, -- [2]
-						"Empowered Shadowforce |cFFFF333346,673|r", -- [3]
-					}, -- [1]
-					{
-						1, -- [1]
-						101.532000000007, -- [2]
-						"Mannoroth's Gaze |cFFFF3333227,019|r", -- [3]
-					}, -- [2]
-					{
-						1, -- [1]
-						92.8910000000615, -- [2]
-						"Mannoroth's Gaze |cFFFF333396,863|r", -- [3]
-					}, -- [3]
-				},
-			},
-			["Drixei-Silvermoon"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Zethhx"] = {
-				["encounters"] = 8,
-				["points"] = 790,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						1, -- [1]
-						29.5219999999972, -- [2]
-						"", -- [3]
-					}, -- [1]
-				},
-			},
-			["Eiie"] = {
-				["encounters"] = 10,
-				["points"] = 990,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						1, -- [1]
-						74.0940000000119, -- [2]
-						"Mannoroth's Gaze |cFFFF3333434,894|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Ràsputin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Vapsu"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "HUNTER",
-				["deaths"] = {
-					{
-						1, -- [1]
-						58.1879999999947, -- [2]
-						"Felseeker |cFFFF3333139,641|r", -- [3]
-					}, -- [1]
-				},
-			},
-		},
-		["diff"] = 16,
-	},
-	["143815"] = {
-		["hash"] = "143815",
-		["type"] = "endurance",
-		["name"] = "Archimonde",
-		["id"] = 1438,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 13,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1799,
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Archimonde",
-			["diff"] = 15,
-			["ej_instance_id"] = 669,
-			["encounter"] = "Archimonde",
-		},
-		["player_db"] = {
-			["Heerø-Outland"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Guiltyas"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Matusoin-Doomhammer"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						1, -- [1]
-						48.530999999959, -- [2]
-						"Shadowfel Burst |cFFFF3333485,032|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Nuc-Aggramar"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Jïl-Elune"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Guila-DefiasBrotherhood"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Håwkeye-Frostmane"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-			},
-			["Vaìolo-Nemesis"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Bakko-Forscherliga"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Nelsonblaze-Frostmane"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Demonxl"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Xontrompalou-Bloodhoof"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-			},
-			["Octopaw-DarkmoonFaire"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Nøctùrne-Varimathras"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Klzn-TheMaelstrom"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Ahya-Antonidas"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-			},
-			["Anserk-TheMaelstrom"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Nerilla-TheMaelstrom"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Udikael-Suramar"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Coltaìne-Outland"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Driztd-Wildhammer"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-					{
-						3, -- [1]
-						203.64000000013, -- [2]
-						"Wrought Chaos |cFFFF3333115,332|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Waitrose"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Grabmytots-TheMaelstrom"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Rid"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Cringelord-DefiasBrotherhood"] = {
-				["encounters"] = 3,
-				["points"] = 280,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						1, -- [1]
-						25.1089999999385, -- [2]
-						"Doomfire (DoT) |cFFFF3333149,606|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						182.296999999788, -- [2]
-						"Demonic Feedback |cFFFF333367,502|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Renokk-Forscherliga"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Firdarrig-Dalaran"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Levosin-Aggramar"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Russíanblue-DefiasBrotherhood"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						2, -- [1]
-						182.296999999788, -- [2]
-						"Demonic Feedback |cFFFF333344,614|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Senjewni-Outland"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Zylroc-Kargath"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Drezzy-Lightbringer"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Choktai-Silvermoon"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Диметродон-Ясеневыйлес"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-			},
-			["Realto-DerRatvonDalaran"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Asmodeûs-Alleria"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "PRIEST",
-				["deaths"] = {
-					{
-						3, -- [1]
-						166.45299999998, -- [2]
-						"Rain of Chaos |cFFFF33338,670|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Hågeye-Frostmane"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Kalvei-ArgentDawn"] = {
-				["encounters"] = 2,
-				["points"] = 170,
-				["deaths"] = {
-					{
-						1, -- [1]
-						4.93700000003446, -- [2]
-						"Fel Corruption (DoT) |cFFFF333399,254|r", -- [3]
-					}, -- [1]
-					{
-						1, -- [1]
-						142.937000000034, -- [2]
-						"Fel Corruption (DoT) |cFFFF333359,552|r", -- [3]
-					}, -- [2]
-				},
-				["class"] = "SHAMAN",
-			},
-			["Pororoka-Antonidas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Haxhel-DunModr"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Pearlnebula-Ravencrest"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Crwd"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Barbaróssa"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Nightbanê-Dragonblight"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						1, -- [1]
-						70.2180000001099, -- [2]
-						"Doomfire (DoT) |cFFFF333383,990|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Sense-SteamwheedleCartel"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Lorith-DefiasBrotherhood"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Legendzz-Darksorrow"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-			},
-			["Tcsbalazs-Ragnaros"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-			},
-			["Dimag-TheMaelstrom"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Kezmo-Mal'Ganis"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Klasadam-Ravencrest"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Wolfilein-Kargath"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Dîst-Mal'Ganis"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "MONK",
-				["deaths"] = {
-					{
-						2, -- [1]
-						182.296999999788, -- [2]
-						"Demonic Feedback |cFFFF333345,507|r", -- [3]
-					}, -- [1]
-				},
-			},
-		},
-		["diff"] = 15,
-	},
-	["139416"] = {
-		["hash"] = "139416",
-		["type"] = "endurance",
-		["name"] = "Tyrant Velhari",
-		["id"] = 1394,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 11,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1784,
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Tyrant Velhari",
-			["diff"] = 16,
-			["ej_instance_id"] = 669,
-			["encounter"] = "Tyrant Velhari",
-		},
-		["player_db"] = {
-			["Waitrose"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Zanis"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						1, -- [1]
-						128.015999999945, -- [2]
-						"Edict of Condemnation |cFFFF33331,448,722|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Nekobabe"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Nerxedion"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Nekonabe"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Hóldor"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						1, -- [1]
-						126.718999999808, -- [2]
-						"Edict of Condemnation |cFFFF333385,771|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Demonxl"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Zel"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Evilshooter"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["class"] = "HUNTER",
-				["deaths"] = {
-					{
-						2, -- [1]
-						123.969000000001, -- [2]
-						"Edict of Condemnation |cFFFF3333299,821|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Zanhunt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Mysernst"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Rid"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Everly"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Antalios"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Pennypácker"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "PRIEST",
-				["deaths"] = {
-					{
-						1, -- [1]
-						125.108999999939, -- [2]
-						"Edict of Condemnation |cFFFF333380,794|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Icétouch"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Holdor"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Guiltyas"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Despia"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Kitarah"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Eiie"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						2, -- [1]
-						123.969000000001, -- [2]
-						"Edict of Condemnation |cFFFF3333364,144|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Barbaróssa"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Crwd"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Demii"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Zethhx"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Delibear"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Belsarion"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						1, -- [1]
-						26.1719999997877, -- [2]
-						"Aura of Oppression |cFFFF333323,239|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Delìverer"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						1, -- [1]
-						103.530999999959, -- [2]
-						"Melee |cFFFF3333127,359|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Taikapena"] = {
-				["encounters"] = 4,
-				["points"] = 390,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						2, -- [1]
-						123.969000000001, -- [2]
-						"Edict of Condemnation |cFFFF3333364,814|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Vapsu"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Zhunt"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Falcogg"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						1, -- [1]
-						122.515999999829, -- [2]
-						"Melee |cFFFF3333258,777|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Ejje"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Gavriiel"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-		},
-		["diff"] = 16,
-	},
-	["143316"] = {
-		["hash"] = "143316",
-		["type"] = "endurance",
-		["name"] = "Shadow-Lord Iskar",
-		["id"] = 1433,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 7,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1788,
-			["mapid"] = 1448,
-			["name"] = "Shadow-Lord Iskar",
-			["diff"] = 16,
-			["encounter"] = "Shadow-Lord Iskar",
-			["ej_instance_id"] = 669,
-		},
-		["player_db"] = {
-			["Waitrose"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Zanis"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						2, -- [1]
-						133.687000000034, -- [2]
-						"Fel Fire (DoT) |cFFFF3333192,886|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Nekobabe"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Nerxedion"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Nekonabe"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Hóldor"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Demonxl"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Zel"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Evilshooter"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["class"] = "HUNTER",
-				["deaths"] = {
-					{
-						2, -- [1]
-						126.608999999999, -- [2]
-						"Phantasmal Nova |cFFFF3333255,730|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Zanhunt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Mysernst"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Rid"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Everly"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Antalios"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Pennypácker"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "PRIEST",
-				["deaths"] = {
-					{
-						2, -- [1]
-						117.25, -- [2]
-						"", -- [3]
-					}, -- [1]
-				},
-			},
-			["Icétouch"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Holdor"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Guiltyas"] = {
-				["encounters"] = 4,
-				["points"] = 390,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						3, -- [1]
-						16.7819999998901, -- [2]
-						"Melee |cFFFF333370,017|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Despia"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "PRIEST",
-				["deaths"] = {
-					{
-						3, -- [1]
-						100.015999999829, -- [2]
-						"Fel Fire (DoT) |cFFFF3333110,787|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Kitarah"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Eiie"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Barbaróssa"] = {
-				["encounters"] = 4,
-				["points"] = 380,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						2, -- [1]
-						136.70299999998, -- [2]
-						"Fel Fire (DoT) |cFFFF3333223,206|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						124.233999999999, -- [2]
-						"Fel Fire (DoT) |cFFFF3333208,193|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Crwd"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Demii"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Zethhx"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						2, -- [1]
-						126.608999999999, -- [2]
-						"Phantasmal Nova |cFFFF3333300,362|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Vapsu"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Belsarion"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						3, -- [1]
-						8.92200000002049, -- [2]
-						"", -- [3]
-					}, -- [1]
-				},
-			},
-			["Delìverer"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Taikapena"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Delibear"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Zhunt"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Falcogg"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Ejje"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Gavriiel"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-		},
-		["diff"] = 16,
-	},
-	["139216"] = {
-		["hash"] = "139216",
-		["type"] = "endurance",
-		["name"] = "Kormrok",
-		["id"] = 1392,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 3,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1787,
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Kormrok",
-			["diff"] = 16,
-			["ej_instance_id"] = 669,
-			["encounter"] = "Kormrok",
-		},
-		["player_db"] = {
-			["Waitrose"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Guiltyas"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Nekobabe"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Pennypácker"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Icétouch"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Delìverer"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Hóldor"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Demonxl"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Zanis"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Gavriiel"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Zel"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Kitarah"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Evilshooter"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Barbaróssa"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Crwd"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Demii"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Zethhx"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Zhunt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Delibear"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Antalios"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Taikapena"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Mysernst"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Rid"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Falcogg"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Belsarion"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Despia"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-		},
-		["diff"] = 16,
-	},
-	["143816"] = {
-		["hash"] = "143816",
-		["type"] = "endurance",
-		["name"] = "Archimonde",
-		["id"] = 1438,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 13,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1799,
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Archimonde",
-			["diff"] = 16,
-			["ej_instance_id"] = 669,
-			["encounter"] = "Archimonde",
-		},
-		["player_db"] = {
-			["Waitrose"] = {
-				["encounters"] = 21,
-				["points"] = 2080,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						8, -- [1]
-						121.554000000004, -- [2]
-						"Fel Corruption (DoT) |cFFFF3333154,910|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						57.9379999998491, -- [2]
-						"Unleashed Torment |cFFFF3333658,954|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Guiltyas"] = {
-				["encounters"] = 26,
-				["points"] = 2560,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						4, -- [1]
-						119.804000000004, -- [2]
-						"Unleashed Torment |cFFFF33331,111,094|r", -- [3]
-					}, -- [1]
-					{
-						5, -- [1]
-						60.4439999999595, -- [2]
-						"Unleashed Torment |cFFFF33331,139,352|r", -- [3]
-					}, -- [2]
-					{
-						9, -- [1]
-						208.460999999952, -- [2]
-						"Source of Chaos |cFFFF333382,051|r", -- [3]
-					}, -- [3]
-					{
-						9, -- [1]
-						108.410000000033, -- [2]
-						"Unleashed Torment |cFFFF33331,191,267|r", -- [3]
-					}, -- [4]
-				},
-			},
-			["Azmodius"] = {
-				["encounters"] = 2,
-				["points"] = 180,
-				["deaths"] = {
-					{
-						1, -- [1]
-						15.0939999999973, -- [2]
-						"Fel Corruption (DoT) |cFFFF333380,000|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						16.375, -- [2]
-						"Fel Corruption (DoT) |cFFFF333380,000|r", -- [3]
-					}, -- [2]
-				},
-				["class"] = "WARLOCK",
-			},
-			["Nerxedion"] = {
-				["encounters"] = 16,
-				["points"] = 1600,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Delìverer"] = {
-				["encounters"] = 25,
-				["points"] = 2400,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						3, -- [1]
-						207.11599999998, -- [2]
-						"Melee |cFFFF3333175,397|r", -- [3]
-					}, -- [1]
-					{
-						7, -- [1]
-						204.32699999999, -- [2]
-						"Source of Chaos |cFFFF333383,890|r", -- [3]
-					}, -- [2]
-					{
-						10, -- [1]
-						43.2700000000186, -- [2]
-						"Shadow Blast |cFFFF3333206,877|r", -- [3]
-					}, -- [3]
-					{
-						12, -- [1]
-						205.351000000024, -- [2]
-						"Source of Chaos |cFFFF333384,619|r", -- [3]
-					}, -- [4]
-					{
-						12, -- [1]
-						263.263999999966, -- [2]
-						"Source of Chaos |cFFFF333380,443|r", -- [3]
-					}, -- [5]
-					{
-						1, -- [1]
-						121.281000000017, -- [2]
-						"Death Brand |cFFFF3333126,660|r", -- [3]
-					}, -- [6]
-					{
-						2, -- [1]
-						169.718999999925, -- [2]
-						"Source of Chaos |cFFFF333351,191|r", -- [3]
-					}, -- [7]
-					{
-						4, -- [1]
-						167.905999999959, -- [2]
-						"Source of Chaos |cFFFF333358,069|r", -- [3]
-					}, -- [8]
-					{
-						1, -- [1]
-						105.532, -- [2]
-						"Mark of the Legion |cFFFF3333616,439|r", -- [3]
-					}, -- [9]
-				},
-			},
-			["Cutepets-Silvermoon"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Demonxl"] = {
-				["encounters"] = 18,
-				["points"] = 1800,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Sparkshíne-Silvermoon"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Zel"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Mirkmissen-Silvermoon"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Gavriiel"] = {
-				["encounters"] = 16,
-				["points"] = 1570,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						2, -- [1]
-						69.8589999999967, -- [2]
-						"Unleashed Torment |cFFFF3333663,651|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						133.202999999994, -- [2]
-						"Mark of the Legion |cFFFF3333973,673|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Zanhunt"] = {
-				["encounters"] = 14,
-				["points"] = 1400,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Kyx"] = {
-				["encounters"] = 4,
-				["points"] = 360,
-				["deaths"] = {
-					{
-						1, -- [1]
-						8.92199999990407, -- [2]
-						"Fel Corruption (DoT) |cFFFF3333117,651|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						7.75, -- [2]
-						"Fel Corruption (DoT) |cFFFF3333117,651|r", -- [3]
-					}, -- [2]
-					{
-						3, -- [1]
-						9.5, -- [2]
-						"Fel Corruption (DoT) |cFFFF3333117,650|r", -- [3]
-					}, -- [3]
-					{
-						4, -- [1]
-						9.06299999996554, -- [2]
-						"Fel Corruption (DoT) |cFFFF3333117,651|r", -- [3]
-					}, -- [4]
-				},
-				["class"] = "ROGUE",
-			},
-			["Gróz-Silvermoon"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						1, -- [1]
-						121.172000000006, -- [2]
-						"Mark of the Legion |cFFFF3333484,414|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Dlest-Silvermoon"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Cadz-Silvermoon"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Aynis-Kazzak"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Drixei-Silvermoon"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Numian-Silvermoon"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Verene"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Rid"] = {
-				["encounters"] = 17,
-				["points"] = 1700,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Aeis-Silvermoon"] = {
-				["encounters"] = 3,
-				["points"] = 270,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						2, -- [1]
-						54.4689999999973, -- [2]
-						"Unleashed Torment |cFFFF3333525,005|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						213.796999999991, -- [2]
-						"Seething Corruption |cFFFF3333527,077|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Everly"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Dramai-Silvermoon"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Morphx-Silvermoon"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Antalios"] = {
-				["encounters"] = 8,
-				["points"] = 800,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Zethhx"] = {
-				["encounters"] = 17,
-				["points"] = 1660,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						1, -- [1]
-						100.469999999972, -- [2]
-						"Consume Magic |cFFFF3333158,916|r", -- [3]
-					}, -- [1]
-					{
-						8, -- [1]
-						118.331999999995, -- [2]
-						"Fel Corruption (DoT) |cFFFF3333115,722|r", -- [3]
-					}, -- [2]
-					{
-						2, -- [1]
-						120.23499999987, -- [2]
-						"Mark of the Legion |cFFFF3333486,192|r", -- [3]
-					}, -- [3]
-					{
-						3, -- [1]
-						181.25, -- [2]
-						"Mark of the Legion |cFFFF3333437,573|r", -- [3]
-					}, -- [4]
-				},
-			},
-			["Vapsu"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["deaths"] = {
-					{
-						1, -- [1]
-						134.703999999998, -- [2]
-						"Mark of the Legion |cFFFF3333292,443|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "HUNTER",
-			},
-			["Mortaro-Silvermoon"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						2, -- [1]
-						116.202999999994, -- [2]
-						"Mark of the Legion |cFFFF3333492,442|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Ailith-Nethersturm"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-			},
-			["Aleksej-Silvermoon"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "MONK",
-				["deaths"] = {
-					{
-						1, -- [1]
-						71.9850000000006, -- [2]
-						"Death Brand |cFFFF333382,096|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Päronsaft"] = {
-				["encounters"] = 9,
-				["points"] = 810,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						1, -- [1]
-						13.7320000000182, -- [2]
-						"Environment (Slime) |cFFFF333346,632|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						13.9929999999586, -- [2]
-						"Environment (Slime) |cFFFF333346,678|r", -- [3]
-					}, -- [2]
-					{
-						3, -- [1]
-						15.3589999999967, -- [2]
-						"Environment (Slime) |cFFFF333346,632|r", -- [3]
-					}, -- [3]
-					{
-						4, -- [1]
-						14.6410000000033, -- [2]
-						"Environment (Slime) |cFFFF333347,047|r", -- [3]
-					}, -- [4]
-					{
-						5, -- [1]
-						13.3819999999832, -- [2]
-						"Environment (Slime) |cFFFF333350,992|r", -- [3]
-					}, -- [5]
-					{
-						6, -- [1]
-						16.6100000000442, -- [2]
-						"Environment (Slime) |cFFFF333349,554|r", -- [3]
-					}, -- [6]
-					{
-						7, -- [1]
-						17.2719999999972, -- [2]
-						"Environment (Slime) |cFFFF333349,459|r", -- [3]
-					}, -- [7]
-					{
-						8, -- [1]
-						16.9859999999753, -- [2]
-						"Environment (Slime) |cFFFF333347,901|r", -- [3]
-					}, -- [8]
-					{
-						9, -- [1]
-						16.8259999999427, -- [2]
-						"Environment (Slime) |cFFFF333347,830|r", -- [3]
-					}, -- [9]
-				},
-			},
-			["Pennypácker"] = {
-				["encounters"] = 7,
-				["points"] = 690,
-				["deaths"] = {
-					{
-						1, -- [1]
-						158.79700000002, -- [2]
-						"Mark of the Legion |cFFFF3333289,362|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "PRIEST",
-			},
-			["Icétouch"] = {
-				["encounters"] = 20,
-				["points"] = 2000,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Belsarion"] = {
-				["encounters"] = 3,
-				["points"] = 270,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						1, -- [1]
-						16.063000000082, -- [2]
-						"Fel Corruption (DoT) |cFFFF3333117,761|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						12.1879999998491, -- [2]
-						"Fel Corruption (DoT) |cFFFF3333137,388|r", -- [3]
-					}, -- [2]
-					{
-						3, -- [1]
-						13.2970000000205, -- [2]
-						"Fel Corruption (DoT) |cFFFF3333137,389|r", -- [3]
-					}, -- [3]
-				},
-			},
-			["Thailuna"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						74.4839999999968, -- [2]
-						"Unleashed Torment |cFFFF3333777,424|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "SHAMAN",
-			},
-			["Falrodil-Silvermoon"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Taliza"] = {
-				["encounters"] = 4,
-				["points"] = 360,
-				["class"] = "HUNTER",
-				["deaths"] = {
-					{
-						9, -- [1]
-						3.07600000000093, -- [2]
-						"Fel Corruption (DoT) |cFFFF333378,800|r", -- [3]
-					}, -- [1]
-					{
-						10, -- [1]
-						6.81100000010338, -- [2]
-						"Fel Corruption (DoT) |cFFFF333378,800|r", -- [3]
-					}, -- [2]
-					{
-						11, -- [1]
-						3.55999999993946, -- [2]
-						"Fel Corruption (DoT) |cFFFF333378,800|r", -- [3]
-					}, -- [3]
-					{
-						12, -- [1]
-						4.90599999995902, -- [2]
-						"Fel Corruption (DoT) |cFFFF333378,800|r", -- [3]
-					}, -- [4]
-				},
-			},
-			["Holdor"] = {
-				["encounters"] = 24,
-				["points"] = 2380,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						7, -- [1]
-						215.667000000016, -- [2]
-						"Seething Corruption |cFFFF3333947,346|r", -- [3]
-					}, -- [1]
-					{
-						4, -- [1]
-						130.375, -- [2]
-						"Mark of the Legion |cFFFF33331,500,000|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Nekonabe"] = {
-				["encounters"] = 16,
-				["points"] = 1590,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-					{
-						10, -- [1]
-						125.87200000009, -- [2]
-						"Unleashed Torment |cFFFF33331,007,568|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Zanis"] = {
-				["encounters"] = 4,
-				["points"] = 370,
-				["deaths"] = {
-					{
-						1, -- [1]
-						27.2339999999385, -- [2]
-						"Fel Corruption (DoT) |cFFFF333368,627|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						25.9219999999041, -- [2]
-						"Fel Corruption (DoT) |cFFFF333385,784|r", -- [3]
-					}, -- [2]
-					{
-						3, -- [1]
-						32.594000000041, -- [2]
-						"Allure of Flames |cFFFF333325,735|r", -- [3]
-					}, -- [3]
-				},
-				["class"] = "DRUID",
-			},
-			["Kitarah"] = {
-				["encounters"] = 9,
-				["points"] = 900,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Nollie-Silvermoon"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-			},
-			["Barbaróssa"] = {
-				["encounters"] = 22,
-				["points"] = 2180,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						4, -- [1]
-						119.992000000027, -- [2]
-						"Unleashed Torment |cFFFF33331,006,000|r", -- [3]
-					}, -- [1]
-					{
-						6, -- [1]
-						111.352000000014, -- [2]
-						"Shackled Torment (DoT) |cFFFF333352,567|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Crwd"] = {
-				["encounters"] = 24,
-				["points"] = 2390,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						5, -- [1]
-						115.508999999962, -- [2]
-						"Unleashed Torment |cFFFF33331,407,728|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Ejje"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Demii"] = {
-				["encounters"] = 24,
-				["points"] = 2390,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						1, -- [1]
-						128.062999999995, -- [2]
-						"Sanctus |cFFFF333322,206|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Evilshooter"] = {
-				["encounters"] = 17,
-				["points"] = 1640,
-				["class"] = "HUNTER",
-				["deaths"] = {
-					{
-						1, -- [1]
-						115.811999999976, -- [2]
-						"Unleashed Torment |cFFFF3333832,044|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						61.8239999999642, -- [2]
-						"Unleashed Torment |cFFFF3333844,120|r", -- [3]
-					}, -- [2]
-					{
-						3, -- [1]
-						171.92300000001, -- [2]
-						"Mark of the Legion |cFFFF33331,904,753|r", -- [3]
-					}, -- [3]
-					{
-						6, -- [1]
-						172.5, -- [2]
-						"Mark of the Legion |cFFFF33332,539,671|r", -- [3]
-					}, -- [4]
-					{
-						1, -- [1]
-						54.219000000041, -- [2]
-						"Unleashed Torment |cFFFF3333556,725|r", -- [3]
-					}, -- [5]
-					{
-						1, -- [1]
-						145.032, -- [2]
-						"Seething Corruption |cFFFF3333563,964|r", -- [3]
-					}, -- [6]
-				},
-			},
-			["Mysernst"] = {
-				["encounters"] = 23,
-				["points"] = 2270,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-					{
-						11, -- [1]
-						27.4319999999134, -- [2]
-						"Doomfire (DoT) |cFFFF3333118,773|r", -- [3]
-					}, -- [1]
-					{
-						1, -- [1]
-						64.344000000041, -- [2]
-						"Doomfire (DoT) |cFFFF333372,360|r", -- [3]
-					}, -- [2]
-					{
-						3, -- [1]
-						181.25, -- [2]
-						"Mark of the Legion |cFFFF3333433,004|r", -- [3]
-					}, -- [3]
-				},
-			},
-			["Dungeonravor"] = {
-				["encounters"] = 13,
-				["points"] = 1280,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-					{
-						9, -- [1]
-						108.242000000086, -- [2]
-						"Wrought Chaos |cFFFF3333197,000|r", -- [3]
-					}, -- [1]
-					{
-						11, -- [1]
-						119.349999999977, -- [2]
-						"Shackled Torment (DoT) |cFFFF333370,122|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Taikapena"] = {
-				["encounters"] = 24,
-				["points"] = 2370,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						2, -- [1]
-						136.796999999962, -- [2]
-						"Consume Magic |cFFFF3333200,430|r", -- [3]
-					}, -- [1]
-					{
-						9, -- [1]
-						143.132999999973, -- [2]
-						"Wrought Chaos |cFFFF3333194,477|r", -- [3]
-					}, -- [2]
-					{
-						3, -- [1]
-						34.1410000000615, -- [2]
-						"Desecration |cFFFF333359,079|r", -- [3]
-					}, -- [3]
-				},
-			},
-			["Callmeopo-Silvermoon"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						1, -- [1]
-						118.360000000001, -- [2]
-						"Mark of the Legion |cFFFF3333219,909|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Zhunt"] = {
-				["encounters"] = 7,
-				["points"] = 700,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Eiie"] = {
-				["encounters"] = 17,
-				["points"] = 1700,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Ràsputin"] = {
-				["encounters"] = 9,
-				["points"] = 900,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Nekobabe"] = {
-				["encounters"] = 8,
-				["points"] = 780,
-				["deaths"] = {
-					{
-						1, -- [1]
-						123.358999999939, -- [2]
-						"Mark of the Legion |cFFFF3333489,250|r", -- [3]
-					}, -- [1]
-					{
-						1, -- [1]
-						105.532, -- [2]
-						"Mark of the Legion |cFFFF3333484,327|r", -- [3]
-					}, -- [2]
-				},
-				["class"] = "HUNTER",
-			},
-		},
-		["diff"] = 16,
-	},
-	["143216"] = {
-		["hash"] = "143216",
-		["type"] = "endurance",
-		["name"] = "Hellfire High Council",
-		["id"] = 1432,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 4,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1798,
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Hellfire High Council",
-			["diff"] = 16,
-			["ej_instance_id"] = 669,
-			["encounter"] = "Hellfire High Council",
-		},
-		["player_db"] = {
-			["Waitrose"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Despia"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Nekobabe"] = {
-				["encounters"] = 5,
-				["points"] = 490,
-				["class"] = "HUNTER",
-				["deaths"] = {
-					{
-						1, -- [1]
-						65.6720000000205, -- [2]
-						"Fel Blade |cFFFF3333144,791|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Nerxedion"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Nekonabe"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Hóldor"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Demonxl"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Zel"] = {
-				["encounters"] = 4,
-				["points"] = 390,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						2, -- [1]
-						65.3910000000615, -- [2]
-						"Mark of the Necromancer (DoT) |cFFFF333323,483|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Evilshooter"] = {
-				["encounters"] = 5,
-				["points"] = 490,
-				["class"] = "HUNTER",
-				["deaths"] = {
-					{
-						2, -- [1]
-						46.75, -- [2]
-						"Mark of the Necromancer (DoT) |cFFFF333361,251|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Zanhunt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Mysernst"] = {
-				["encounters"] = 6,
-				["points"] = 600,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Rid"] = {
-				["encounters"] = 6,
-				["points"] = 590,
-				["class"] = "ROGUE",
-				["deaths"] = {
-					{
-						1, -- [1]
-						56.875, -- [2]
-						"Burden of the Necromancer |cFFFF333328,314|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Everly"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Antalios"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Pennypácker"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Icétouch"] = {
-				["encounters"] = 6,
-				["points"] = 600,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Holdor"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						1, -- [1]
-						56.9380000000001, -- [2]
-						"Felstorm |cFFFF333312,911|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Guiltyas"] = {
-				["encounters"] = 6,
-				["points"] = 600,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Kitarah"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Zanis"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Barbaróssa"] = {
-				["encounters"] = 6,
-				["points"] = 600,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Crwd"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Demii"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Falcogg"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						1, -- [1]
-						66.5159999998286, -- [2]
-						"Mark of the Necromancer (DoT) |cFFFF3333152,149|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Zethhx"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Belsarion"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						3, -- [1]
-						137.297000000021, -- [2]
-						"Reap (DoT) |cFFFF333368,159|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Delibear"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Taikapena"] = {
-				["encounters"] = 6,
-				["points"] = 590,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						2, -- [1]
-						65.844000000041, -- [2]
-						"Mark of the Necromancer (DoT) |cFFFF333331,238|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Delìverer"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Zhunt"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Eiie"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Gavriiel"] = {
-				["encounters"] = 6,
-				["points"] = 600,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Vapsu"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-		},
-		["diff"] = 16,
-	},
-	["139616"] = {
-		["hash"] = "139616",
-		["type"] = "endurance",
-		["name"] = "Kilrogg Deadeye",
-		["id"] = 1396,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 5,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1786,
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Kilrogg Deadeye",
-			["diff"] = 16,
-			["ej_instance_id"] = 669,
-			["encounter"] = "Kilrogg Deadeye",
-		},
-		["player_db"] = {
-			["Waitrose"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Despia"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Nekobabe"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Nerxedion"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Vapsu"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Hóldor"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Demonxl"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						1, -- [1]
-						105.015999999945, -- [2]
-						"Savage Strikes |cFFFF3333159,613|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Zel"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Evilshooter"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Zanhunt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Mysernst"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Rid"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Everly"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Antalios"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Pennypácker"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "PRIEST",
-				["deaths"] = {
-					{
-						1, -- [1]
-						105.530999999959, -- [2]
-						"Rending Howl |cFFFF333316,575|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Icétouch"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Holdor"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Guiltyas"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Kitarah"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Zanis"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Barbaróssa"] = {
-				["encounters"] = 4,
-				["points"] = 390,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						1, -- [1]
-						70.469000000041, -- [2]
-						"Blood Splatter (DoT) |cFFFF333352,483|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Crwd"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Demii"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Falcogg"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Zethhx"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Belsarion"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Delìverer"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						1, -- [1]
-						107.20299999998, -- [2]
-						"Melee |cFFFF3333611,451|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Taikapena"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Nekonabe"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Zhunt"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Eiie"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Delibear"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						1, -- [1]
-						76, -- [2]
-						"Melee |cFFFF3333266,784|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Gavriiel"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-		},
-		["diff"] = 16,
-	},
-	["142716"] = {
-		["hash"] = "142716",
-		["type"] = "endurance",
-		["name"] = "Socrethar the Eternal",
-		["id"] = 1427,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 8,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1794,
-			["mapid"] = 1448,
-			["name"] = "Socrethar the Eternal",
-			["diff"] = 16,
-			["encounter"] = "Socrethar the Eternal",
-			["ej_instance_id"] = 669,
-		},
-		["player_db"] = {
-			["Waitrose"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						1, -- [1]
-						58.5, -- [2]
-						"Virulent Haunt (DoT) |cFFFF333369,404|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Zanis"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						1, -- [1]
-						72.8279999999795, -- [2]
-						"Apocalypse |cFFFF333327,989|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Nekobabe"] = {
-				["encounters"] = 3,
-				["points"] = 280,
-				["class"] = "HUNTER",
-				["deaths"] = {
-					{
-						1, -- [1]
-						80.8120000000345, -- [2]
-						"Gift of the Man'ari |cFFFF333367,914|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						41, -- [2]
-						"Devour |cFFFF33332,908,499|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Nerxedion"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Nekonabe"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Hóldor"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Demonxl"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Zel"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Evilshooter"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Zanhunt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Mysernst"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Rid"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Everly"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Antalios"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Pennypácker"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Icétouch"] = {
-				["encounters"] = 4,
-				["points"] = 390,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						2, -- [1]
-						27.25, -- [2]
-						"Devour |cFFFF33332,606,575|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Holdor"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Guiltyas"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Despia"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Kitarah"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Eiie"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Barbaróssa"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Crwd"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Demii"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Zethhx"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Vapsu"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Belsarion"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						2, -- [1]
-						50.2029999999795, -- [2]
-						"Gift of the Man'ari |cFFFF333369,716|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Delìverer"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Taikapena"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Delibear"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Zhunt"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Falcogg"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Ejje"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Gavriiel"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-		},
-		["diff"] = 16,
-	},
-	["144716"] = {
-		["hash"] = "144716",
-		["type"] = "endurance",
-		["name"] = "Xhul'horac",
-		["id"] = 1447,
-		["diff"] = 16,
-		["player_db"] = {
-			["Waitrose"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Zanis"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Nekobabe"] = {
-				["encounters"] = 3,
-				["points"] = 270,
-				["class"] = "HUNTER",
-				["deaths"] = {
-					{
-						1, -- [1]
-						48.7029999999795, -- [2]
-						"Singularity |cFFFF3333450,000|r", -- [3]
-					}, -- [1]
-					{
-						1, -- [1]
-						125.17200000002, -- [2]
-						"Empowered Singularity |cFFFF3333900,000|r", -- [3]
-					}, -- [2]
-					{
-						1, -- [1]
-						45.6720000000005, -- [2]
-						"Singularity |cFFFF3333450,000|r", -- [3]
-					}, -- [3]
-				},
-			},
-			["Nerxedion"] = {
-				["encounters"] = 6,
-				["points"] = 600,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Delìverer"] = {
-				["encounters"] = 8,
-				["points"] = 790,
-				["deaths"] = {
-					{
-						1, -- [1]
-						47.1719999999914, -- [2]
-						"Shadowfel Annihilation |cFFFF3333379,773|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "PALADIN",
-			},
-			["Hóldor"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Demonxl"] = {
-				["encounters"] = 8,
-				["points"] = 780,
-				["deaths"] = {
-					{
-						3, -- [1]
-						84.75, -- [2]
-						"Shadowfel Annihilation |cFFFF3333721,371|r", -- [3]
-					}, -- [1]
-					{
-						4, -- [1]
-						60.2809999999881, -- [2]
-						"Shadowfel Annihilation |cFFFF3333445,367|r", -- [3]
-					}, -- [2]
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Zel"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Gavriiel"] = {
-				["encounters"] = 9,
-				["points"] = 880,
-				["deaths"] = {
-					{
-						1, -- [1]
-						48.8899999999849, -- [2]
-						"Shadowfel Annihilation |cFFFF3333410,728|r", -- [3]
-					}, -- [1]
-					{
-						3, -- [1]
-						84.75, -- [2]
-						"Shadowfel Annihilation |cFFFF3333649,207|r", -- [3]
-					}, -- [2]
-				},
-				["class"] = "DRUID",
-			},
-			["Zanhunt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Mysernst"] = {
-				["encounters"] = 9,
-				["points"] = 880,
-				["deaths"] = {
-					{
-						3, -- [1]
-						84.75, -- [2]
-						"Shadowfel Annihilation |cFFFF3333732,449|r", -- [3]
-					}, -- [1]
-					{
-						4, -- [1]
-						60.5780000000086, -- [2]
-						"Felsinged (DoT) |cFFFF333318,186|r", -- [3]
-					}, -- [2]
-				},
-				["class"] = "SHAMAN",
-			},
-			["Rid"] = {
-				["encounters"] = 9,
-				["points"] = 880,
-				["deaths"] = {
-					{
-						2, -- [1]
-						104.594000000012, -- [2]
-						"Shadowfel Annihilation |cFFFF3333352,571|r", -- [3]
-					}, -- [1]
-					{
-						1, -- [1]
-						100.234999999986, -- [2]
-						"Shadowfel Annihilation |cFFFF3333459,286|r", -- [3]
-					}, -- [2]
-				},
-				["class"] = "ROGUE",
-			},
-			["Everly"] = {
-				["encounters"] = 6,
-				["points"] = 590,
-				["deaths"] = {
-					{
-						2, -- [1]
-						104.594000000012, -- [2]
-						"Shadowfel Annihilation |cFFFF3333463,807|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "WARLOCK",
-			},
-			["Antalios"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Pennypácker"] = {
-				["encounters"] = 7,
-				["points"] = 700,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Icétouch"] = {
-				["encounters"] = 9,
-				["points"] = 900,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Thailuna"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Holdor"] = {
-				["encounters"] = 7,
-				["points"] = 700,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Guiltyas"] = {
-				["encounters"] = 9,
-				["points"] = 870,
-				["deaths"] = {
-					{
-						1, -- [1]
-						47.1719999999914, -- [2]
-						"Shadowfel Annihilation |cFFFF3333438,066|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						104.594000000012, -- [2]
-						"Shadowfel Annihilation |cFFFF3333355,281|r", -- [3]
-					}, -- [2]
-					{
-						4, -- [1]
-						60.2809999999881, -- [2]
-						"Shadowfel Annihilation |cFFFF3333379,200|r", -- [3]
-					}, -- [3]
-				},
-				["class"] = "DRUID",
-			},
-			["Nekonabe"] = {
-				["encounters"] = 6,
-				["points"] = 600,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Kitarah"] = {
-				["encounters"] = 8,
-				["points"] = 800,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Eiie"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Barbaróssa"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Crwd"] = {
-				["encounters"] = 8,
-				["points"] = 790,
-				["deaths"] = {
-					{
-						5, -- [1]
-						57.3589999999967, -- [2]
-						"Shadowfel Annihilation |cFFFF3333485,304|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "PALADIN",
-			},
-			["Ejje"] = {
-				["encounters"] = 6,
-				["points"] = 600,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Zethhx"] = {
-				["encounters"] = 3,
-				["points"] = 270,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						1, -- [1]
-						45.6720000000005, -- [2]
-						"Singularity |cFFFF3333450,000|r", -- [3]
-					}, -- [1]
-					{
-						1, -- [1]
-						75.4060000000009, -- [2]
-						"Shadowfel Annihilation |cFFFF3333243,955|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Delibear"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Despia"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "PRIEST",
-				["deaths"] = {
-					{
-						1, -- [1]
-						72.844000000041, -- [2]
-						"", -- [3]
-					}, -- [1]
-				},
-			},
-			["Belsarion"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						1, -- [1]
-						11.6720000000205, -- [2]
-						"", -- [3]
-					}, -- [1]
-				},
-			},
-			["Taikapena"] = {
-				["encounters"] = 9,
-				["points"] = 900,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Evilshooter"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Zhunt"] = {
-				["encounters"] = 7,
-				["points"] = 680,
-				["deaths"] = {
-					{
-						5, -- [1]
-						57.3589999999967, -- [2]
-						"Shadowfel Annihilation |cFFFF3333413,011|r", -- [3]
-					}, -- [1]
-					{
-						1, -- [1]
-						48.7029999999795, -- [2]
-						"Singularity |cFFFF3333450,000|r", -- [3]
-					}, -- [2]
-				},
-				["class"] = "HUNTER",
-			},
-			["Falcogg"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Demii"] = {
-				["encounters"] = 8,
-				["points"] = 800,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Vapsu"] = {
-				["encounters"] = 6,
-				["points"] = 590,
-				["deaths"] = {
-					{
-						5, -- [1]
-						54.2969999999914, -- [2]
-						"Singularity |cFFFF3333900,000|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "HUNTER",
-			},
-		},
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 10,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1800,
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Xhul'horac",
-			["encounter"] = "Xhul'horac",
-			["ej_instance_id"] = 669,
-			["diff"] = 16,
-		},
-	},
-	["142616"] = {
-		["hash"] = "142616",
+	["142615"] = {
+		["hash"] = "142615",
 		["type"] = "endurance",
 		["name"] = "Hellfire Assault",
 		["id"] = 1426,
+		["player_db"] = {
+			["Katieperry-Outland"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Guiltyas"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Suspéct"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Dzn"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Qnz"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["Fabuloso-ArgentDawn"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Zpan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Chickén-Outland"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Xianka"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["Yumzo"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Dagran"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Inhide-Outland"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Caka-Outland"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Loss"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Tallula"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Darastus"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Blackmessiah"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+			},
+			["Vaghiner-Outland"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Relaxing"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Saltwater"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Zafiriel"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Potatorc"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Darkéner"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+			},
+			["Inhide"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Zeynaa"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Sleepan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["Miyoki"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Volavus"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+		},
 		["boss_table"] = {
-			["diff_string"] = "Mythic",
+			["diff_string"] = "Heroic",
 			["index"] = 1,
 			["zone"] = "Hellfire Citadel",
 			["encounter"] = "Hellfire Assault",
 			["mapid"] = 1448,
 			["try_number"] = 1,
 			["name"] = "Hellfire Assault",
-			["diff"] = 16,
+			["diff"] = 15,
 			["ej_instance_id"] = 669,
 			["id"] = 1778,
 			["killed"] = true,
 		},
+		["diff"] = 15,
+	},
+	["139115"] = {
+		["hash"] = "139115",
+		["type"] = "endurance",
+		["name"] = "Fel Lord Zakuun",
+		["id"] = 1391,
+		["diff"] = 15,
 		["player_db"] = {
-			["Waitrose"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["class"] = "MAGE",
+			["Caka-Outland"] = {
+				["encounters"] = 7,
+				["points"] = 660,
 				["deaths"] = {
 					{
-						1, -- [1]
-						152.187000000034, -- [2]
-						"Melee |cFFFF3333165,067|r", -- [3]
+						5, -- [1]
+						33.4839999999385, -- [2]
+						"Melee |cFFFF3333138,394|r", -- [3]
 					}, -- [1]
+					{
+						6, -- [1]
+						101.57799999998, -- [2]
+						"Wake of Destruction |cFFFF3333138,333|r", -- [3]
+					}, -- [2]
+					{
+						7, -- [1]
+						102.48499999987, -- [2]
+						"Wake of Destruction |cFFFF3333144,749|r", -- [3]
+					}, -- [3]
+					{
+						8, -- [1]
+						44.5, -- [2]
+						"Wake of Destruction |cFFFF3333144,220|r", -- [3]
+					}, -- [4]
 				},
-			},
-			["Despia"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["class"] = "PRIEST",
+			},
+			["Guiltyas"] = {
+				["encounters"] = 10,
+				["points"] = 1000,
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
 			},
-			["Nekobabe"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["class"] = "HUNTER",
+			["Suspéct"] = {
+				["encounters"] = 7,
+				["points"] = 670,
 				["deaths"] = {
 					{
-						1, -- [1]
-						160.359000000055, -- [2]
-						"Melee |cFFFF3333430,454|r", -- [3]
+						7, -- [1]
+						103.98499999987, -- [2]
+						"Unleashed Energy |cFFFF333358,239|r", -- [3]
 					}, -- [1]
+					{
+						10, -- [1]
+						117.687999999849, -- [2]
+						"Unleashed Energy |cFFFF333368,562|r", -- [3]
+					}, -- [2]
+					{
+						11, -- [1]
+						105.937000000151, -- [2]
+						"Unleashed Energy |cFFFF333376,805|r", -- [3]
+					}, -- [3]
 				},
+				["class"] = "DRUID",
 			},
-			["Nerxedion"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Dzn"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["deaths"] = {
+				},
 				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
 			},
-			["Delìverer"] = {
-				["encounters"] = 4,
-				["points"] = 390,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						1, -- [1]
-						405.25, -- [2]
-						"Melee |cFFFF333363,341|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Hóldor"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Demonxl"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						1, -- [1]
-						410.187000000005, -- [2]
-						"Melee |cFFFF3333304,760|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Zel"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Evilshooter"] = {
+			["Qnz"] = {
 				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "HUNTER",
+				["points"] = 280,
+				["deaths"] = {
+					{
+						1, -- [1]
+						138.014999999999, -- [2]
+						"Rumbling Fissure (DoT) |cFFFF333329,477|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						143.718999999999, -- [2]
+						"Fel Crystals |cFFFF33335,306|r", -- [3]
+					}, -- [2]
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["Fabuloso-ArgentDawn"] = {
+				["encounters"] = 10,
+				["points"] = 970,
+				["deaths"] = {
+					{
+						10, -- [1]
+						106.23499999987, -- [2]
+						"Melee |cFFFF333367,252|r", -- [3]
+					}, -- [1]
+					{
+						11, -- [1]
+						107.32799999998, -- [2]
+						"Fel Crystals |cFFFF33334,248|r", -- [3]
+					}, -- [2]
+					{
+						1, -- [1]
+						156.031000000001, -- [2]
+						"Heavy Handed |cFFFF333358,045|r", -- [3]
+					}, -- [3]
+				},
+				["class"] = "MONK",
+			},
+			["Darastus"] = {
+				["encounters"] = 10,
+				["points"] = 990,
+				["deaths"] = {
+					{
+						8, -- [1]
+						92.0779999999795, -- [2]
+						"Fel Explosion |cFFFF333329,570|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DEATHKNIGHT",
+			},
+			["Xianka"] = {
+				["encounters"] = 5,
+				["points"] = 490,
+				["deaths"] = {
+					{
+						8, -- [1]
+						37.25, -- [2]
+						"Unleashed Energy |cFFFF333377,104|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "PRIEST",
+			},
+			["Darkéner"] = {
+				["encounters"] = 10,
+				["points"] = 1000,
 				["deaths"] = {
 				},
-			},
-			["Zanhunt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Mysernst"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Rid"] = {
-				["encounters"] = 4,
-				["points"] = 400,
 				["class"] = "ROGUE",
-				["deaths"] = {
-				},
 			},
-			["Everly"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
+			["Dagran"] = {
+				["encounters"] = 10,
+				["points"] = 990,
 				["deaths"] = {
+					{
+						2, -- [1]
+						170.405999999999, -- [2]
+						"Wake of Destruction |cFFFF3333144,508|r", -- [3]
+					}, -- [1]
 				},
+				["class"] = "MONK",
 			},
-			["Antalios"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DEATHKNIGHT",
+			["Tallula"] = {
+				["encounters"] = 10,
+				["points"] = 990,
 				["deaths"] = {
+					{
+						10, -- [1]
+						115.968999999808, -- [2]
+						"Wake of Destruction |cFFFF3333145,110|r", -- [3]
+					}, -- [1]
 				},
-			},
-			["Pennypácker"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Icétouch"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Holdor"] = {
-				["encounters"] = 2,
-				["points"] = 200,
 				["class"] = "PALADIN",
+			},
+			["Blackmessiah"] = {
+				["encounters"] = 10,
+				["points"] = 980,
 				["deaths"] = {
+					{
+						11, -- [1]
+						107.14000000013, -- [2]
+						"Fel Explosion |cFFFF333331,194|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						118.764999999999, -- [2]
+						"Wake of Destruction |cFFFF3333148,066|r", -- [3]
+					}, -- [2]
+				},
+				["class"] = "DEATHKNIGHT",
+			},
+			["Vaghiner-Outland"] = {
+				["encounters"] = 7,
+				["points"] = 690,
+				["deaths"] = {
+					{
+						7, -- [1]
+						102.937999999849, -- [2]
+						"Wake of Destruction |cFFFF3333140,272|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "HUNTER",
+			},
+			["Sleepan"] = {
+				["encounters"] = 7,
+				["points"] = 690,
+				["deaths"] = {
+					{
+						9, -- [1]
+						37, -- [2]
+						"Wake of Destruction |cFFFF3333152,909|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "SHAMAN",
+			},
+			["Relaxing"] = {
+				["encounters"] = 10,
+				["points"] = 990,
+				["deaths"] = {
+					{
+						9, -- [1]
+						101.5, -- [2]
+						"Wake of Destruction |cFFFF3333117,740|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DRUID",
+			},
+			["Inhide"] = {
+				["encounters"] = 7,
+				["points"] = 690,
+				["deaths"] = {
+					{
+						6, -- [1]
+						101.57799999998, -- [2]
+						"Unleashed Energy |cFFFF333372,835|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "HUNTER",
+			},
+			["Loss"] = {
+				["encounters"] = 7,
+				["points"] = 690,
+				["deaths"] = {
+					{
+						6, -- [1]
+						101.57799999998, -- [2]
+						"Wake of Destruction |cFFFF3333152,354|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "WARLOCK",
+			},
+			["Saltwater"] = {
+				["encounters"] = 10,
+				["points"] = 980,
+				["deaths"] = {
+					{
+						5, -- [1]
+						46.030999999959, -- [2]
+						"Rumbling Fissures |cFFFF333355,482|r", -- [3]
+					}, -- [1]
+					{
+						1, -- [1]
+						142.109, -- [2]
+						"Fel Crystals |cFFFF33335,319|r", -- [3]
+					}, -- [2]
+				},
+				["class"] = "ROGUE",
+			},
+			["Deluz-Outland"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+			},
+			["Volavus"] = {
+				["encounters"] = 10,
+				["points"] = 980,
+				["deaths"] = {
+					{
+						5, -- [1]
+						38.030999999959, -- [2]
+						"Melee |cFFFF3333160,265|r", -- [3]
+					}, -- [1]
+					{
+						9, -- [1]
+						101.5, -- [2]
+						"Wake of Destruction |cFFFF3333140,318|r", -- [3]
+					}, -- [2]
+				},
+				["class"] = "WARLOCK",
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 9,
+			["zone"] = "Hellfire Citadel",
+			["id"] = 1777,
+			["mapid"] = 1448,
+			["try_number"] = 1,
+			["name"] = "Fel Lord Zakuun",
+			["encounter"] = "Fel Lord Zakuun",
+			["ej_instance_id"] = 669,
+			["diff"] = 15,
+		},
+	},
+	["143215"] = {
+		["hash"] = "143215",
+		["type"] = "endurance",
+		["name"] = "Hellfire High Council",
+		["id"] = 1432,
+		["player_db"] = {
+			["Potatorc"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+					{
+						1, -- [1]
+						236.625, -- [2]
+						"Mark of the Necromancer (DoT) |cFFFF333324,609|r", -- [3]
+					}, -- [1]
 				},
 			},
 			["Guiltyas"] = {
-				["encounters"] = 4,
-				["points"] = 400,
+				["encounters"] = 2,
+				["points"] = 190,
 				["class"] = "DRUID",
 				["deaths"] = {
+					{
+						1, -- [1]
+						93.969000000041, -- [2]
+						"Melee |cFFFF333324,713|r", -- [3]
+					}, -- [1]
 				},
 			},
-			["Kitarah"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+			["Suspéct"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						1, -- [1]
+						196.359999999986, -- [2]
+						"Mark of the Necromancer (DoT) |cFFFF333364,164|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Dzn"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Fabuloso-ArgentDawn"] = {
+				["encounters"] = 2,
+				["points"] = 200,
 				["class"] = "MONK",
 				["deaths"] = {
 				},
 			},
-			["Zanis"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DRUID",
+			["Zpan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
 			},
-			["Barbaróssa"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Crwd"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Demii"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["class"] = "DRUID",
+			["Chickén-Outland"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "MONK",
 				["deaths"] = {
 					{
 						1, -- [1]
-						149.342999999993, -- [2]
-						"Melee |cFFFF333383,556|r", -- [3]
+						265.438000000024, -- [2]
+						"Wicked Strike |cFFFF333364,195|r", -- [3]
 					}, -- [1]
 				},
 			},
-			["Eiie"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Zethhx"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Vapsu"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Belsarion"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Taikapena"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Nekonabe"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Zhunt"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Falcogg"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Ejje"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Gavriiel"] = {
-				["encounters"] = 4,
-				["points"] = 390,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						1, -- [1]
-						407.187000000005, -- [2]
-						"Slam |cFFFF333372,652|r", -- [3]
-					}, -- [1]
-				},
-			},
-		},
-		["diff"] = 16,
-	},
-	["139515"] = {
-		["hash"] = "139515",
-		["type"] = "endurance",
-		["name"] = "Mannoroth",
-		["id"] = 1395,
-		["diff"] = 15,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 12,
-			["zone"] = "Hellfire Citadel",
-			["encounter"] = "Mannoroth",
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Mannoroth",
-			["diff"] = 15,
-			["id"] = 1795,
-			["ej_instance_id"] = 669,
-			["killed"] = true,
-		},
-		["player_db"] = {
-			["Waitrose"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Guiltyas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Barbaróssa"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Crwd"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Pearlnebula-Ravencrest"] = {
+			["Xianka"] = {
 				["encounters"] = 1,
 				["points"] = 90,
 				["deaths"] = {
 					{
 						1, -- [1]
-						41.1560000000172, -- [2]
-						"Doomed |cFFFF33331,983,635|r", -- [3]
+						234.5, -- [2]
+						"Wailing Horror |cFFFF333393,126|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "PRIEST",
+			},
+			["Yumzo"] = {
+				["encounters"] = 1,
+				["points"] = 100,
 				["class"] = "PALADIN",
+				["deaths"] = {
+				},
 			},
-			["Rid"] = {
+			["Dagran"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Inhide-Outland"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Loss"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
+				["class"] = "WARLOCK",
 			},
-			["Klasadam-Ravencrest"] = {
+			["Tallula"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Inhide"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
 				["class"] = "HUNTER",
 			},
-			["Coltaìne-Outland"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Demonxl"] = {
+			["Blackmessiah"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
 				["class"] = "DEATHKNIGHT",
 			},
+			["Vaghiner-Outland"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Darastus"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Saltwater"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Relaxing"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Darkéner"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+			},
+			["Caka-Outland"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Katieperry-Outland"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Zeynaa"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Sleepan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["Miyoki"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Volavus"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						1, -- [1]
+						77.375, -- [2]
+						"Reap (DoT) |cFFFF333384,855|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "WARLOCK",
+			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 4,
+			["zone"] = "Hellfire Citadel",
+			["encounter"] = "Hellfire High Council",
+			["mapid"] = 1448,
+			["try_number"] = 1,
+			["name"] = "Hellfire High Council",
+			["diff"] = 15,
+			["ej_instance_id"] = 669,
+			["id"] = 1798,
+			["killed"] = true,
+		},
+		["diff"] = 15,
 	},
-	["142516"] = {
-		["hash"] = "142516",
+	["142515"] = {
+		["hash"] = "142515",
 		["type"] = "endurance",
 		["name"] = "Iron Reaver",
 		["id"] = 1425,
+		["player_db"] = {
+			["Potatorc"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+					{
+						1, -- [1]
+						40.2339999999967, -- [2]
+						"Melee |cFFFF3333111,453|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Guiltyas"] = {
+				["encounters"] = 5,
+				["points"] = 490,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						1, -- [1]
+						60.0469999999987, -- [2]
+						"Barrage |cFFFF3333141,486|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Suspéct"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Dzn"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Qnz"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["deaths"] = {
+					{
+						1, -- [1]
+						62.5319999999993, -- [2]
+						"Unstable Orb |cFFFF333314,857|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["Fabuloso-ArgentDawn"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Zpan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Chickén-Outland"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Xianka"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						1, -- [1]
+						94.2810000001919, -- [2]
+						"Immolation (DoT) |cFFFF333313,634|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "PRIEST",
+			},
+			["Yumzo"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Dagran"] = {
+				["encounters"] = 6,
+				["points"] = 560,
+				["class"] = "MONK",
+				["deaths"] = {
+					{
+						1, -- [1]
+						48.1869999999763, -- [2]
+						"Immolation (DoT) |cFFFF333320,331|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						76.4220000000005, -- [2]
+						"Artillery |cFFFF3333229,203|r", -- [3]
+					}, -- [2]
+					{
+						2, -- [1]
+						85.5619999999999, -- [2]
+						"Artillery |cFFFF3333238,770|r", -- [3]
+					}, -- [3]
+				},
+			},
+			["Inhide-Outland"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Katieperry-Outland"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Loss"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Tallula"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Darastus"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Blackmessiah"] = {
+				["encounters"] = 4,
+				["points"] = 390,
+				["deaths"] = {
+					{
+						3, -- [1]
+						135.454, -- [2]
+						"Blitz |cFFFF333311,497|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DEATHKNIGHT",
+			},
+			["Vaghiner-Outland"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						1, -- [1]
+						133.406000000192, -- [2]
+						"Immolation (DoT) |cFFFF333314,163|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "HUNTER",
+			},
+			["Relaxing"] = {
+				["encounters"] = 5,
+				["points"] = 490,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						3, -- [1]
+						198.968999999999, -- [2]
+						"Falling Slam |cFFFF333331,295|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Saltwater"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Zafiriel"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["deaths"] = {
+					{
+						2, -- [1]
+						80.7659999999996, -- [2]
+						"Blitz |cFFFF333312,945|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DRUID",
+			},
+			["Caka-Outland"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Sleepan"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						1, -- [1]
+						135.51500000013, -- [2]
+						"Blitz |cFFFF333314,551|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "SHAMAN",
+			},
+			["Darkéner"] = {
+				["encounters"] = 4,
+				["points"] = 390,
+				["deaths"] = {
+					{
+						1, -- [1]
+						35.6099999999988, -- [2]
+						"Unstable Orb |cFFFF333329,549|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "ROGUE",
+			},
+			["Zeynaa"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Inhide"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Miyoki"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "PRIEST",
+				["deaths"] = {
+					{
+						1, -- [1]
+						61.9060000000172, -- [2]
+						"Unstable Orb (DoT) |cFFFF333314,557|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Volavus"] = {
+				["encounters"] = 4,
+				["points"] = 390,
+				["deaths"] = {
+					{
+						3, -- [1]
+						87.8439999999992, -- [2]
+						"Immolation (DoT) |cFFFF33336,857|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "WARLOCK",
+			},
+		},
 		["boss_table"] = {
-			["diff_string"] = "Mythic",
+			["diff_string"] = "Heroic",
 			["index"] = 2,
 			["zone"] = "Hellfire Citadel",
 			["encounter"] = "Iron Reaver",
 			["mapid"] = 1448,
 			["try_number"] = 1,
 			["name"] = "Iron Reaver",
-			["diff"] = 16,
+			["diff"] = 15,
 			["ej_instance_id"] = 669,
 			["id"] = 1785,
 			["killed"] = true,
 		},
+		["diff"] = 15,
+	},
+	["137215"] = {
+		["hash"] = "137215",
+		["type"] = "endurance",
+		["name"] = "Gorefiend",
+		["id"] = 1372,
 		["player_db"] = {
-			["Waitrose"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
+			["Potatorc"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
 			},
 			["Guiltyas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+				["encounters"] = 5,
+				["points"] = 500,
 				["class"] = "DRUID",
 				["deaths"] = {
 				},
 			},
-			["Nekobabe"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Suspéct"] = {
+				["encounters"] = 5,
+				["points"] = 480,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						2, -- [1]
+						109.516000000003, -- [2]
+						"Crushing Darkness |cFFFF3333162,566|r", -- [3]
+					}, -- [1]
+					{
+						3, -- [1]
+						251.95299999998, -- [2]
+						"Surging Shadows |cFFFF333362,108|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Dzn"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Fabuloso-ArgentDawn"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Zpan"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Chickén-Outland"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Xianka"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["Yumzo"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						2, -- [1]
+						90, -- [2]
+						"Hunger for Life |cFFFF33331,773,692|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Dagran"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Inhide-Outland"] = {
+				["encounters"] = 3,
+				["points"] = 300,
 				["class"] = "HUNTER",
 				["deaths"] = {
 				},
 			},
-			["Icétouch"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
+			["Darkéner"] = {
+				["encounters"] = 2,
+				["points"] = 200,
 				["deaths"] = {
 				},
+				["class"] = "ROGUE",
 			},
-			["Delibear"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Hóldor"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Zel"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Evilshooter"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Barbaróssa"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Crwd"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Tallula"] = {
+				["encounters"] = 5,
+				["points"] = 500,
 				["class"] = "PALADIN",
 				["deaths"] = {
 				},
 			},
-			["Despia"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
+			["Blackmessiah"] = {
+				["encounters"] = 2,
+				["points"] = 200,
 				["deaths"] = {
 				},
+				["class"] = "DEATHKNIGHT",
 			},
-			["Gavriiel"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Inhide"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Vaghiner-Outland"] = {
+				["encounters"] = 3,
+				["points"] = 270,
+				["deaths"] = {
+					{
+						2, -- [1]
+						101.28199999989, -- [2]
+						"Hunger for Life |cFFFF33331,759,430|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						255.766000000062, -- [2]
+						"Shared Fate |cFFFF333332,172|r", -- [3]
+					}, -- [2]
+				},
+				["class"] = "HUNTER",
+			},
+			["Katieperry-Outland"] = {
+				["encounters"] = 3,
+				["points"] = 300,
 				["class"] = "DRUID",
 				["deaths"] = {
 				},
 			},
-			["Antalios"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Zethhx"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Taikapena"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						1, -- [1]
-						17.811999999918, -- [2]
-						"Barrage |cFFFF3333463,883|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Mysernst"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Rid"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Saltwater"] = {
+				["encounters"] = 5,
+				["points"] = 500,
 				["class"] = "ROGUE",
 				["deaths"] = {
 				},
 			},
-			["Falcogg"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
+			["Relaxing"] = {
+				["encounters"] = 2,
+				["points"] = 190,
 				["deaths"] = {
+					{
+						2, -- [1]
+						275.516000000061, -- [2]
+						"Touch of Doom |cFFFF333314,205|r", -- [3]
+					}, -- [1]
 				},
-			},
-			["Belsarion"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Zanis"] = {
-				["encounters"] = 1,
-				["points"] = 90,
 				["class"] = "DRUID",
+			},
+			["Loss"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Caka-Outland"] = {
+				["encounters"] = 5,
+				["points"] = 480,
+				["class"] = "PRIEST",
 				["deaths"] = {
 					{
 						1, -- [1]
-						17.9210000000894, -- [2]
-						"Barrage |cFFFF3333394,239|r", -- [3]
+						94.6570000000065, -- [2]
+						"Doom Well (DoT) |cFFFF333398,189|r", -- [3]
 					}, -- [1]
+					{
+						1, -- [1]
+						110.405999999959, -- [2]
+						"Hunger for Life |cFFFF33331,591,269|r", -- [3]
+					}, -- [2]
 				},
 			},
-		},
-		["diff"] = 16,
-	},
-	["139514"] = {
-		["hash"] = "139514",
-		["type"] = "endurance",
-		["name"] = "Mannoroth",
-		["id"] = 1395,
-		["boss_table"] = {
-			["diff_string"] = "Normal",
-			["index"] = 12,
-			["zone"] = "Hellfire Citadel",
-			["id"] = 1795,
-			["mapid"] = 1448,
-			["try_number"] = 1,
-			["name"] = "Mannoroth",
-			["diff"] = 14,
-			["ej_instance_id"] = 669,
-			["encounter"] = "Mannoroth",
-		},
-		["player_db"] = {
-			["Guiltyas"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "DRUID",
+			["Darastus"] = {
+				["encounters"] = 5,
+				["points"] = 490,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 					{
 						1, -- [1]
-						48.3129999999947, -- [2]
-						"Melee |cFFFF333335,719|r", -- [3]
+						100.030999999959, -- [2]
+						"Crushing Darkness |cFFFF3333207,274|r", -- [3]
 					}, -- [1]
 				},
 			},
+			["Zeynaa"] = {
+				["encounters"] = 3,
+				["points"] = 280,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						1, -- [1]
+						83.0780000000377, -- [2]
+						"Crushing Darkness |cFFFF3333130,357|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						49.5629999999655, -- [2]
+						"Digest (DoT) |cFFFF33331,500,000|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Sleepan"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["Miyoki"] = {
+				["encounters"] = 4,
+				["points"] = 360,
+				["class"] = "PRIEST",
+				["deaths"] = {
+					{
+						1, -- [1]
+						69.6410000000033, -- [2]
+						"Doom Well (DoT) |cFFFF3333102,338|r", -- [3]
+					}, -- [1]
+					{
+						3, -- [1]
+						128.25, -- [2]
+						"Doom Well (DoT) |cFFFF3333102,337|r", -- [3]
+					}, -- [2]
+					{
+						3, -- [1]
+						251.95299999998, -- [2]
+						"Surging Shadows |cFFFF333362,953|r", -- [3]
+					}, -- [3]
+				},
+			},
+			["Volavus"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["deaths"] = {
+					{
+						1, -- [1]
+						68.8589999999385, -- [2]
+						"Doom Well (DoT) |cFFFF3333105,087|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "WARLOCK",
+			},
 		},
-		["diff"] = 14,
-	},
-	["137216"] = {
-		["hash"] = "137216",
-		["type"] = "endurance",
-		["name"] = "Gorefiend",
-		["id"] = 1372,
 		["boss_table"] = {
-			["diff_string"] = "Mythic",
+			["diff_string"] = "Heroic",
 			["index"] = 6,
 			["zone"] = "Hellfire Citadel",
 			["id"] = 1783,
 			["mapid"] = 1448,
 			["try_number"] = 1,
 			["name"] = "Gorefiend",
-			["diff"] = 16,
+			["diff"] = 15,
 			["ej_instance_id"] = 669,
 			["encounter"] = "Gorefiend",
 		},
-		["player_db"] = {
-		},
-		["diff"] = 16,
+		["diff"] = 15,
 	},
-	["139116"] = {
-		["hash"] = "139116",
+	["139615"] = {
+		["hash"] = "139615",
 		["type"] = "endurance",
-		["name"] = "Fel Lord Zakuun",
-		["id"] = 1391,
-		["diff"] = 16,
+		["name"] = "Kilrogg Deadeye",
+		["id"] = 1396,
 		["player_db"] = {
-			["Waitrose"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Zanis"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["class"] = "DRUID",
+			["Caka-Outland"] = {
+				["encounters"] = 6,
+				["points"] = 590,
+				["class"] = "PRIEST",
 				["deaths"] = {
 					{
-						2, -- [1]
-						38.5620000001509, -- [2]
-						"Wake of Destruction |cFFFF3333171,674|r", -- [3]
+						1, -- [1]
+						38.2339999999967, -- [2]
+						"Rending Howl |cFFFF333315,756|r", -- [3]
 					}, -- [1]
 				},
 			},
-			["Nekobabe"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "HUNTER",
+			["Guiltyas"] = {
+				["encounters"] = 6,
+				["points"] = 590,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						3, -- [1]
+						100.311999999976, -- [2]
+						"Savage Strikes |cFFFF333361,310|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Suspéct"] = {
+				["encounters"] = 6,
+				["points"] = 600,
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
 			},
-			["Nerxedion"] = {
-				["encounters"] = 2,
-				["points"] = 200,
+			["Dzn"] = {
+				["encounters"] = 1,
+				["points"] = 100,
 				["deaths"] = {
 				},
 				["class"] = "WARLOCK",
 			},
-			["Delìverer"] = {
-				["encounters"] = 3,
-				["points"] = 290,
+			["Fabuloso-ArgentDawn"] = {
+				["encounters"] = 6,
+				["points"] = 590,
+				["class"] = "MONK",
+				["deaths"] = {
+					{
+						2, -- [1]
+						122.967999999993, -- [2]
+						"Melee |cFFFF333369,563|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Darastus"] = {
+				["encounters"] = 6,
+				["points"] = 590,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+					{
+						2, -- [1]
+						96.0469999999623, -- [2]
+						"Heart Seeker |cFFFF333318,817|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Chickén-Outland"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Xianka"] = {
+				["encounters"] = 1,
+				["points"] = 90,
 				["deaths"] = {
 					{
 						1, -- [1]
-						37.234000000055, -- [2]
-						"Heavy Handed |cFFFF3333129,592|r", -- [3]
+						171.26500000013, -- [2]
+						"Blood Splatter (DoT) |cFFFF333341,359|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "PRIEST",
+			},
+			["Yumzo"] = {
+				["encounters"] = 5,
+				["points"] = 500,
 				["class"] = "PALADIN",
-			},
-			["Hóldor"] = {
-				["encounters"] = 3,
-				["points"] = 270,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
+				},
+			},
+			["Dagran"] = {
+				["encounters"] = 6,
+				["points"] = 580,
+				["class"] = "MONK",
+				["deaths"] = {
+					{
+						5, -- [1]
+						137.358999999997, -- [2]
+						"Blood Splatter (DoT) |cFFFF333340,995|r", -- [3]
+					}, -- [1]
 					{
 						1, -- [1]
-						24.9529999999795, -- [2]
-						"Foul Explosion |cFFFF3333191,533|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						38.5620000001509, -- [2]
-						"Unleashed Energy |cFFFF3333147,335|r", -- [3]
-					}, -- [2]
-					{
-						3, -- [1]
-						69.3279999999795, -- [2]
-						"Unleashed Energy |cFFFF3333140,931|r", -- [3]
-					}, -- [3]
-				},
-			},
-			["Demonxl"] = {
-				["encounters"] = 3,
-				["points"] = 280,
-				["deaths"] = {
-					{
-						2, -- [1]
-						83.1570000000065, -- [2]
-						"Unleashed Energy |cFFFF3333140,402|r", -- [3]
-					}, -- [1]
-					{
-						4, -- [1]
-						82.3910000000033, -- [2]
-						"Wake of Destruction |cFFFF3333212,379|r", -- [3]
+						49.125, -- [2]
+						"Death Throes |cFFFF3333122,755|r", -- [3]
 					}, -- [2]
 				},
-				["class"] = "DEATHKNIGHT",
 			},
-			["Zel"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Evilshooter"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+			["Inhide-Outland"] = {
+				["encounters"] = 5,
+				["points"] = 500,
 				["class"] = "HUNTER",
 				["deaths"] = {
 				},
 			},
-			["Mysernst"] = {
-				["encounters"] = 5,
-				["points"] = 490,
-				["deaths"] = {
-					{
-						4, -- [1]
-						82.3130000000238, -- [2]
-						"Fel Explosion |cFFFF333342,576|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "SHAMAN",
-			},
-			["Rid"] = {
-				["encounters"] = 5,
-				["points"] = 500,
+			["Darkéner"] = {
+				["encounters"] = 1,
+				["points"] = 100,
 				["deaths"] = {
 				},
 				["class"] = "ROGUE",
 			},
-			["Everly"] = {
-				["encounters"] = 2,
-				["points"] = 190,
+			["Tallula"] = {
+				["encounters"] = 6,
+				["points"] = 600,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Blackmessiah"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+			},
+			["Inhide"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Vaghiner-Outland"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Potatorc"] = {
+				["encounters"] = 5,
+				["points"] = 480,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+					{
+						3, -- [1]
+						101.797000000021, -- [2]
+						"Savage Strikes |cFFFF3333111,383|r", -- [3]
+					}, -- [1]
+					{
+						4, -- [1]
+						104.985000000044, -- [2]
+						"Savage Strikes |cFFFF3333106,542|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Saltwater"] = {
+				["encounters"] = 6,
+				["points"] = 590,
+				["class"] = "ROGUE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						50.4529999999795, -- [2]
+						"Heart Seeker |cFFFF333319,297|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Relaxing"] = {
+				["encounters"] = 6,
+				["points"] = 590,
+				["class"] = "DRUID",
 				["deaths"] = {
 					{
 						2, -- [1]
-						83.1570000000065, -- [2]
-						"Unleashed Energy |cFFFF3333147,836|r", -- [3]
+						176.125, -- [2]
+						"Heart Seeker |cFFFF333317,437|r", -- [3]
 					}, -- [1]
+				},
+			},
+			["Loss"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
 				},
 				["class"] = "WARLOCK",
 			},
-			["Antalios"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Pennypácker"] = {
-				["encounters"] = 3,
-				["points"] = 290,
+			["Zpan"] = {
+				["encounters"] = 5,
+				["points"] = 490,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
-						2, -- [1]
-						83.1570000000065, -- [2]
-						"Unleashed Energy |cFFFF3333146,866|r", -- [3]
+						4, -- [1]
+						97.4530000000377, -- [2]
+						"Heart Seeker |cFFFF333319,688|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "PRIEST",
 			},
-			["Icétouch"] = {
+			["Katieperry-Outland"] = {
 				["encounters"] = 5,
 				["points"] = 500,
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
 			},
-			["Thailuna"] = {
-				["encounters"] = 2,
-				["points"] = 200,
+			["Zeynaa"] = {
+				["encounters"] = 5,
+				["points"] = 480,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						1, -- [1]
+						33, -- [2]
+						"Blood Surge |cFFFF333380,242|r", -- [3]
+					}, -- [1]
+					{
+						3, -- [1]
+						101.281000000017, -- [2]
+						"Savage Strikes |cFFFF333369,404|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Sleepan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
 				["deaths"] = {
 				},
 				["class"] = "SHAMAN",
 			},
-			["Holdor"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Guiltyas"] = {
+			["Miyoki"] = {
 				["encounters"] = 5,
-				["points"] = 480,
+				["points"] = 490,
+				["class"] = "PRIEST",
 				["deaths"] = {
 					{
 						4, -- [1]
-						82.3130000000238, -- [2]
-						"Fel Explosion |cFFFF333322,045|r", -- [3]
-					}, -- [1]
-					{
-						3, -- [1]
-						69.3279999999795, -- [2]
-						"Wake of Destruction |cFFFF3333181,782|r", -- [3]
-					}, -- [2]
-				},
-				["class"] = "DRUID",
-			},
-			["Kitarah"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Despia"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Barbaróssa"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Crwd"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Ejje"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Belsarion"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						3, -- [1]
-						48.375, -- [2]
-						"Rumbling Fissures |cFFFF333368,486|r", -- [3]
+						93.344000000041, -- [2]
+						"Heart Seeker |cFFFF333319,063|r", -- [3]
 					}, -- [1]
 				},
 			},
-			["Zethhx"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						2, -- [1]
-						38.5620000001509, -- [2]
-						"Unleashed Energy |cFFFF3333142,107|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Delibear"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Vapsu"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Taikapena"] = {
-				["encounters"] = 5,
-				["points"] = 490,
+			["Volavus"] = {
+				["encounters"] = 1,
+				["points"] = 90,
 				["deaths"] = {
 					{
 						1, -- [1]
-						43.4679999999935, -- [2]
-						"Melee |cFFFF3333210,933|r", -- [3]
+						172.484000000171, -- [2]
+						"Death Throes |cFFFF3333146,653|r", -- [3]
 					}, -- [1]
-				},
-				["class"] = "MAGE",
-			},
-			["Demii"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Zhunt"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Falcogg"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Gavriiel"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Nekonabe"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
 				},
 				["class"] = "WARLOCK",
 			},
 		},
 		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 9,
+			["diff_string"] = "Heroic",
+			["index"] = 5,
 			["zone"] = "Hellfire Citadel",
-			["id"] = 1777,
+			["id"] = 1786,
 			["mapid"] = 1448,
-			["name"] = "Fel Lord Zakuun",
+			["try_number"] = 1,
+			["name"] = "Kilrogg Deadeye",
+			["diff"] = 15,
 			["ej_instance_id"] = 669,
-			["encounter"] = "Fel Lord Zakuun",
-			["diff"] = 16,
+			["encounter"] = "Kilrogg Deadeye",
+		},
+		["diff"] = 15,
+	},
+	["139215"] = {
+		["hash"] = "139215",
+		["type"] = "endurance",
+		["name"] = "Kormrok",
+		["id"] = 1392,
+		["player_db"] = {
+			["Caka-Outland"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["class"] = "PRIEST",
+				["deaths"] = {
+					{
+						1, -- [1]
+						149.59300000011, -- [2]
+						"Foul Pool (DoT) |cFFFF333354,831|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Guiltyas"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Suspéct"] = {
+				["encounters"] = 3,
+				["points"] = 280,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						2, -- [1]
+						111.593999999983, -- [2]
+						"Explosive Rune |cFFFF3333158,404|r", -- [3]
+					}, -- [1]
+					{
+						1, -- [1]
+						160.780999999959, -- [2]
+						"Fiery Pool (DoT) |cFFFF333352,902|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Dzn"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Fabuloso-ArgentDawn"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Zpan"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+					{
+						2, -- [1]
+						111.593999999983, -- [2]
+						"Explosive Rune |cFFFF3333161,611|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Chickén-Outland"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Xianka"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["Yumzo"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Dagran"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Inhide-Outland"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Loss"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Tallula"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						2, -- [1]
+						111.593999999983, -- [2]
+						"Explosive Rune |cFFFF3333148,642|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Inhide"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Blackmessiah"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+			},
+			["Vaghiner-Outland"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Darastus"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Saltwater"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Relaxing"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Darkéner"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+			},
+			["Potatorc"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Katieperry-Outland"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Zeynaa"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Sleepan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["Miyoki"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Volavus"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						1, -- [1]
+						40.25, -- [2]
+						"Environment (Slime) |cFFFF333335,938|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "WARLOCK",
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 3,
+			["zone"] = "Hellfire Citadel",
+			["id"] = 1787,
+			["mapid"] = 1448,
+			["try_number"] = 1,
+			["name"] = "Kormrok",
+			["diff"] = 15,
+			["ej_instance_id"] = 669,
+			["encounter"] = "Kormrok",
+		},
+		["diff"] = 15,
+	},
+	["143315"] = {
+		["hash"] = "143315",
+		["type"] = "endurance",
+		["name"] = "Shadow-Lord Iskar",
+		["id"] = 1433,
+		["diff"] = 15,
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 7,
+			["zone"] = "Hellfire Citadel",
+			["id"] = 1788,
+			["mapid"] = 1448,
+			["try_number"] = 3,
+			["name"] = "Shadow-Lord Iskar",
+			["encounter"] = "Shadow-Lord Iskar",
+			["ej_instance_id"] = 669,
+			["diff"] = 15,
+		},
+		["player_db"] = {
+			["Guiltyas"] = {
+				["encounters"] = 8,
+				["points"] = 790,
+				["deaths"] = {
+					{
+						9, -- [1]
+						63.2029999999995, -- [2]
+						"Melee |cFFFF333363,018|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DRUID",
+			},
+			["Tallula"] = {
+				["encounters"] = 8,
+				["points"] = 800,
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+			},
+			["Blackmessiah"] = {
+				["encounters"] = 8,
+				["points"] = 780,
+				["deaths"] = {
+					{
+						3, -- [1]
+						32.2189999999991, -- [2]
+						"Fel Chakram |cFFFF333340,490|r", -- [3]
+					}, -- [1]
+					{
+						6, -- [1]
+						147.766000000001, -- [2]
+						"Fel Chain Lightning |cFFFF333397,248|r", -- [3]
+					}, -- [2]
+				},
+				["class"] = "DEATHKNIGHT",
+			},
+			["Qnz"] = {
+				["encounters"] = 8,
+				["points"] = 770,
+				["deaths"] = {
+					{
+						5, -- [1]
+						180.141, -- [2]
+						"Fel Detonation |cFFFF3333116,141|r", -- [3]
+					}, -- [1]
+					{
+						7, -- [1]
+						229.860000000001, -- [2]
+						"Fel Fire (DoT) |cFFFF333353,649|r", -- [3]
+					}, -- [2]
+					{
+						8, -- [1]
+						216, -- [2]
+						"Fel Fire (DoT) |cFFFF333382,536|r", -- [3]
+					}, -- [3]
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["Fabuloso-ArgentDawn"] = {
+				["encounters"] = 8,
+				["points"] = 800,
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+			},
+			["Saltwater"] = {
+				["encounters"] = 8,
+				["points"] = 800,
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+			},
+			["Relaxing"] = {
+				["encounters"] = 9,
+				["points"] = 840,
+				["deaths"] = {
+					{
+						6, -- [1]
+						80.344000000001, -- [2]
+						"Focused Blast |cFFFF3333931,003|r", -- [3]
+					}, -- [1]
+					{
+						7, -- [1]
+						203.844000000001, -- [2]
+						"Phantasmal Wounds |cFFFF333362,310|r", -- [3]
+					}, -- [2]
+					{
+						8, -- [1]
+						195.516, -- [2]
+						"Fel Fire (DoT) |cFFFF333372,696|r", -- [3]
+					}, -- [3]
+					{
+						10, -- [1]
+						123.891, -- [2]
+						"Fel Chakram |cFFFF333378,753|r", -- [3]
+					}, -- [4]
+					{
+						10, -- [1]
+						158.078, -- [2]
+						"Fel Fire (DoT) |cFFFF333372,696|r", -- [3]
+					}, -- [5]
+				},
+				["class"] = "DRUID",
+			},
+			["Zafiriel"] = {
+				["encounters"] = 8,
+				["points"] = 790,
+				["deaths"] = {
+					{
+						5, -- [1]
+						159.828, -- [2]
+						"Focused Blast |cFFFF3333140,842|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DRUID",
+			},
+			["Darastus"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["deaths"] = {
+					{
+						4, -- [1]
+						59.6720000000005, -- [2]
+						"Fel Detonation |cFFFF3333121,449|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DEATHKNIGHT",
+			},
+			["Darkéner"] = {
+				["encounters"] = 8,
+				["points"] = 780,
+				["deaths"] = {
+					{
+						6, -- [1]
+						109.610000000001, -- [2]
+						"", -- [3]
+					}, -- [1]
+					{
+						9, -- [1]
+						142.718999999999, -- [2]
+						"Focused Blast |cFFFF3333125,972|r", -- [3]
+					}, -- [2]
+				},
+				["class"] = "ROGUE",
+			},
+			["Dagran"] = {
+				["encounters"] = 8,
+				["points"] = 780,
+				["deaths"] = {
+					{
+						3, -- [1]
+						29.125, -- [2]
+						"Fel Fire (DoT) |cFFFF333383,057|r", -- [3]
+					}, -- [1]
+					{
+						4, -- [1]
+						59.6720000000005, -- [2]
+						"Fel Detonation |cFFFF3333115,767|r", -- [3]
+					}, -- [2]
+				},
+				["class"] = "MONK",
+			},
+			["Volavus"] = {
+				["encounters"] = 8,
+				["points"] = 730,
+				["deaths"] = {
+					{
+						3, -- [1]
+						30.2189999999991, -- [2]
+						"Fel Fire (DoT) |cFFFF333383,473|r", -- [3]
+					}, -- [1]
+					{
+						4, -- [1]
+						69.5, -- [2]
+						"Fel Fire (DoT) |cFFFF333383,474|r", -- [3]
+					}, -- [2]
+					{
+						5, -- [1]
+						88.875, -- [2]
+						"Fel Fire (DoT) |cFFFF333383,474|r", -- [3]
+					}, -- [3]
+					{
+						7, -- [1]
+						192.656000000001, -- [2]
+						"Fel Fire (DoT) |cFFFF333383,474|r", -- [3]
+					}, -- [4]
+					{
+						8, -- [1]
+						90.2819999999993, -- [2]
+						"Fel Fire (DoT) |cFFFF333383,473|r", -- [3]
+					}, -- [5]
+					{
+						9, -- [1]
+						137.047, -- [2]
+						"Fel Fire (DoT) |cFFFF333366,779|r", -- [3]
+					}, -- [6]
+					{
+						10, -- [1]
+						116.75, -- [2]
+						"Fel Fire (DoT) |cFFFF333383,473|r", -- [3]
+					}, -- [7]
+				},
+				["class"] = "WARLOCK",
+			},
 		},
 	},
 }
@@ -7744,396 +3541,330 @@ DeathGraphsDBCurrent = {
 	{
 		["deaths"] = {
 			{
-				["maxhealth"] = 255780,
-				["timeofdeath"] = 4.93700000003446,
-				["name"] = "Kalvei-ArgentDawn",
-				["time"] = 1472417780.359,
-				["class"] = "SHAMAN",
-				["timestring"] = "0m 4s",
+				["maxhealth"] = 332520,
+				["timeofdeath"] = 87.8439999999992,
+				["name"] = "Volavus",
+				["time"] = 1471381327.031,
+				["class"] = "WARLOCK",
+				["timestring"] = "1m 27s",
 				["events"] = {
 					{
-						true, -- [1]
-						188796, -- [2]
-						59552, -- [3]
-						1472417778.343, -- [4]
-						196228, -- [5]
-						"[*] Fel Corruption", -- [6]
+						false, -- [1]
+						48438, -- [2]
+						5695, -- [3]
+						1471381323.016, -- [4]
+						98642, -- [5]
+						"Relaxing", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [1]
 					{
-						true, -- [1]
-						188796, -- [2]
-						79403, -- [3]
-						1472417779.328, -- [4]
-						116825, -- [5]
-						"[*] Fel Corruption", -- [6]
+						false, -- [1]
+						108366, -- [2]
+						3366, -- [3]
+						1471381323.672, -- [4]
+						98642, -- [5]
+						"Volavus", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [2]
 					{
-						true, -- [1]
-						8, -- [2]
-						25897, -- [3]
-						1472417779.953, -- [4]
-						90928, -- [5]
-						"Environment (Slime)", -- [6]
+						false, -- [1]
+						77220, -- [2]
+						1479, -- [3]
+						1471381323.672, -- [4]
+						98642, -- [5]
+						"Volavus", -- [6]
 						nil, -- [7]
-						3, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [3]
 					{
-						true, -- [1]
-						188796, -- [2]
-						99254, -- [3]
-						1472417780.359, -- [4]
-						1, -- [5]
-						"[*] Fel Corruption", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						8326, -- [10]
-					}, -- [4]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Kalvei-ArgentDawn", -- [6]
-					}, -- [5]
-				},
-			}, -- [1]
-			{
-				["maxhealth"] = 255780,
-				["timeofdeath"] = 142.937000000034,
-				["name"] = "Kalvei-ArgentDawn",
-				["time"] = 1472417918.359,
-				["class"] = "SHAMAN",
-				["timestring"] = "2m 22s",
-				["events"] = {
-					{
-						true, -- [1]
-						188796, -- [2]
-						59552, -- [3]
-						1472417918.328, -- [4]
-						1, -- [5]
-						"[*] Fel Corruption", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						8397, -- [10]
-					}, -- [1]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Kalvei-ArgentDawn", -- [6]
-					}, -- [2]
-				},
-			}, -- [2]
-		},
-		["bossname"] = "Archimonde",
-		["bossicon"] = {
-			0, -- [1]
-			0.25, -- [2]
-			0.75, -- [3]
-			1, -- [4]
-			"Interface\\AddOns\\Details_RaidInfo-HellfireCitadel\\boss_faces", -- [5]
-		},
-		["date"] = 338082.781,
-		["timeelapsed"] = 147.156000000017,
-	}, -- [1]
-	{
-		["deaths"] = {
-			{
-				["maxhealth"] = 336540,
-				["timeofdeath"] = 41.1560000000172,
-				["name"] = "Pearlnebula-Ravencrest",
-				["time"] = 1472417311.234,
-				["class"] = "PALADIN",
-				["timestring"] = "0m 41s",
-				["events"] = {
-					{
 						false, -- [1]
-						203538, -- [2]
-						8893, -- [3]
-						1472417289.375, -- [4]
-						336540, -- [5]
-						"Pearlnebula-Ravencrest", -- [6]
+						108366, -- [2]
+						0, -- [3]
+						1471381323.672, -- [4]
+						98642, -- [5]
+						"Volavus", -- [6]
 						nil, -- [7]
 						0, -- [8]
-					}, -- [1]
-					{
-						true, -- [1]
-						181134, -- [2]
-						21091, -- [3]
-						1472417289.375, -- [4]
-						324342, -- [5]
-						"Fel Imp <[*] Fel Imp-losion>", -- [6]
-						8893, -- [7]
-						4, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						48438, -- [2]
-						8040, -- [3]
-						1472417290, -- [4]
-						332382, -- [5]
-						"Barbaróssa", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [3]
-					{
-						false, -- [1]
-						48438, -- [2]
-						7609, -- [3]
-						1472417290.812, -- [4]
-						336540, -- [5]
-						"Barbaróssa", -- [6]
-						nil, -- [7]
-						0, -- [8]
 					}, -- [4]
 					{
 						true, -- [1]
-						181126, -- [2]
-						78799, -- [3]
-						1472417290.937, -- [4]
-						257741, -- [5]
-						"Doom Lord Usael", -- [6]
-						nil, -- [7]
-						32, -- [8]
+						182001, -- [2]
+						22538, -- [3]
+						1471381323.672, -- [4]
+						80949, -- [5]
+						"Iron Reaver", -- [6]
+						4845, -- [7]
+						4, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [5]
 					{
 						false, -- [1]
 						48438, -- [2]
-						7186, -- [3]
-						1472417291.593, -- [4]
-						264927, -- [5]
-						"Barbaróssa", -- [6]
+						5376, -- [3]
+						1471381323.906, -- [4]
+						86325, -- [5]
+						"Relaxing", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [6]
 					{
 						false, -- [1]
-						48438, -- [2]
-						6756, -- [3]
-						1472417292.406, -- [4]
-						271683, -- [5]
-						"Barbaróssa", -- [6]
+						77220, -- [2]
+						716, -- [3]
+						1471381324.031, -- [4]
+						86325, -- [5]
+						"Volavus", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [7]
 					{
-						false, -- [1]
-						48438, -- [2]
-						12646, -- [3]
-						1472417293.218, -- [4]
-						284329, -- [5]
-						"Barbaróssa", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						182074, -- [2]
+						6857, -- [3]
+						1471381324.031, -- [4]
+						80184, -- [5]
+						"Iron Reaver", -- [6]
+						716, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [8]
 					{
 						false, -- [1]
-						82326, -- [2]
-						101528, -- [3]
-						1472417293.765, -- [4]
-						336540, -- [5]
-						"Crwd", -- [6]
+						114852, -- [2]
+						21756, -- [3]
+						1471381324.312, -- [4]
+						101940, -- [5]
+						"Tallula", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [9]
 					{
 						false, -- [1]
-						48438, -- [2]
-						11792, -- [3]
-						1472417294.015, -- [4]
-						336540, -- [5]
-						"Barbaróssa", -- [6]
+						108366, -- [2]
+						3366, -- [3]
+						1471381324.672, -- [4]
+						101940, -- [5]
+						"Volavus", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [10]
 					{
 						false, -- [1]
-						203538, -- [2]
-						8893, -- [3]
-						1472417294.578, -- [4]
-						336540, -- [5]
-						"Pearlnebula-Ravencrest", -- [6]
+						77220, -- [2]
+						986, -- [3]
+						1471381324.672, -- [4]
+						101940, -- [5]
+						"Volavus", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [11]
 					{
-						true, -- [1]
-						181134, -- [2]
-						24336, -- [3]
-						1472417294.578, -- [4]
-						321097, -- [5]
-						"Fel Imp <[*] Fel Imp-losion>", -- [6]
-						8893, -- [7]
-						4, -- [8]
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1471381324.672, -- [4]
+						101940, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [12]
 					{
-						false, -- [1]
-						48438, -- [2]
-						3952, -- [3]
-						1472417294.593, -- [4]
-						325049, -- [5]
-						"Barbaróssa", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						182001, -- [2]
+						22538, -- [3]
+						1471381324.672, -- [4]
+						83754, -- [5]
+						"Iron Reaver", -- [6]
+						4352, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [13]
 					{
 						false, -- [1]
-						225311, -- [2]
-						28737, -- [3]
-						1472417294.922, -- [4]
-						336540, -- [5]
-						"Crwd", -- [6]
+						48438, -- [2]
+						5056, -- [3]
+						1471381324.781, -- [4]
+						88810, -- [5]
+						"Relaxing", -- [6]
 						nil, -- [7]
 						0, -- [8]
 					}, -- [14]
 					{
 						false, -- [1]
-						143924, -- [2]
-						1808, -- [3]
-						1472417297.64, -- [4]
-						336540, -- [5]
-						"Pearlnebula-Ravencrest", -- [6]
+						77220, -- [2]
+						11, -- [3]
+						1471381325.031, -- [4]
+						88810, -- [5]
+						"Volavus", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [15]
 					{
-						false, -- [1]
-						143924, -- [2]
-						536, -- [3]
-						1472417299.265, -- [4]
-						336540, -- [5]
-						"Pearlnebula-Ravencrest", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						182074, -- [2]
+						6857, -- [3]
+						1471381325.031, -- [4]
+						81964, -- [5]
+						"Iron Reaver", -- [6]
+						11, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [16]
 					{
 						false, -- [1]
-						143924, -- [2]
-						445, -- [3]
-						1472417300.875, -- [4]
-						336540, -- [5]
-						"Pearlnebula-Ravencrest", -- [6]
+						108366, -- [2]
+						4007, -- [3]
+						1471381325.672, -- [4]
+						81964, -- [5]
+						"Volavus", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [17]
 					{
 						false, -- [1]
-						143924, -- [2]
-						1244, -- [3]
-						1472417302.093, -- [4]
-						336540, -- [5]
-						"Pearlnebula-Ravencrest", -- [6]
+						77220, -- [2]
+						1310, -- [3]
+						1471381325.672, -- [4]
+						81964, -- [5]
+						"Volavus", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [18]
 					{
 						false, -- [1]
-						143924, -- [2]
-						278, -- [3]
-						1472417303.703, -- [4]
-						336540, -- [5]
-						"Pearlnebula-Ravencrest", -- [6]
+						108366, -- [2]
+						0, -- [3]
+						1471381325.672, -- [4]
+						81964, -- [5]
+						"Volavus", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [19]
 					{
-						false, -- [1]
-						81269, -- [2]
-						11692, -- [3]
-						1472417303.922, -- [4]
-						336540, -- [5]
-						"Barbaróssa", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						182001, -- [2]
+						22538, -- [3]
+						1471381325.672, -- [4]
+						64743, -- [5]
+						"Iron Reaver", -- [6]
+						5317, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [20]
 					{
 						false, -- [1]
-						143924, -- [2]
-						135, -- [3]
-						1472417304.922, -- [4]
-						336540, -- [5]
-						"Pearlnebula-Ravencrest", -- [6]
+						48438, -- [2]
+						4740, -- [3]
+						1471381325.672, -- [4]
+						69483, -- [5]
+						"Relaxing", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [21]
 					{
 						false, -- [1]
-						81269, -- [2]
-						5846, -- [3]
-						1472417305.547, -- [4]
-						336540, -- [5]
-						"Barbaróssa", -- [6]
+						77220, -- [2]
+						253, -- [3]
+						1471381326.031, -- [4]
+						69483, -- [5]
+						"Volavus", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [22]
 					{
-						false, -- [1]
-						19750, -- [2]
-						220061, -- [3]
-						1472417305.578, -- [4]
-						336540, -- [5]
-						"Crwd", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						182074, -- [2]
+						6856, -- [3]
+						1471381326.031, -- [4]
+						62880, -- [5]
+						"Iron Reaver", -- [6]
+						253, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [23]
 					{
 						false, -- [1]
-						48438, -- [2]
-						8603, -- [3]
-						1472417307.156, -- [4]
-						336540, -- [5]
-						"Barbaróssa", -- [6]
+						77220, -- [2]
+						2107, -- [3]
+						1471381326.156, -- [4]
+						62880, -- [5]
+						"Volavus", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [24]
 					{
-						false, -- [1]
-						48438, -- [2]
-						8190, -- [3]
-						1472417307.953, -- [4]
-						336540, -- [5]
-						"Barbaróssa", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						182108, -- [2]
+						48537, -- [3]
+						1471381326.156, -- [4]
+						16450, -- [5]
+						"Iron Reaver", -- [6]
+						2107, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [25]
 					{
 						false, -- [1]
-						81269, -- [2]
-						6843, -- [3]
-						1472417308.75, -- [4]
-						336540, -- [5]
-						"Barbaróssa", -- [6]
+						48438, -- [2]
+						4422, -- [3]
+						1471381326.547, -- [4]
+						20872, -- [5]
+						"Relaxing", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [26]
 					{
 						false, -- [1]
-						48438, -- [2]
-						7773, -- [3]
-						1472417308.765, -- [4]
-						336540, -- [5]
-						"Barbaróssa", -- [6]
+						108366, -- [2]
+						3366, -- [3]
+						1471381326.656, -- [4]
+						20872, -- [5]
+						"Volavus", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -8141,57 +3872,63 @@ DeathGraphsDBCurrent = {
 					}, -- [27]
 					{
 						false, -- [1]
-						48438, -- [2]
-						7361, -- [3]
-						1472417309.562, -- [4]
-						336540, -- [5]
-						"Barbaróssa", -- [6]
+						77220, -- [2]
+						1448, -- [3]
+						1471381326.656, -- [4]
+						20872, -- [5]
+						"Volavus", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [28]
 					{
 						false, -- [1]
-						48438, -- [2]
-						6947, -- [3]
-						1472417310.359, -- [4]
-						336540, -- [5]
-						"Barbaróssa", -- [6]
+						108366, -- [2]
+						0, -- [3]
+						1471381326.656, -- [4]
+						20872, -- [5]
+						"Volavus", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
-						false, -- [1]
-						48438, -- [2]
-						6531, -- [3]
-						1472417311.172, -- [4]
-						336540, -- [5]
-						"Barbaróssa", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						182001, -- [2]
+						22538, -- [3]
+						1471381326.656, -- [4]
+						3148, -- [5]
+						"Iron Reaver", -- [6]
+						4814, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [30]
 					{
 						false, -- [1]
-						203538, -- [2]
-						8893, -- [3]
-						1472417311.234, -- [4]
-						336540, -- [5]
-						"Pearlnebula-Ravencrest", -- [6]
+						77220, -- [2]
+						727, -- [3]
+						1471381327.031, -- [4]
+						3148, -- [5]
+						"Volavus", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						183610, -- [2]
-						1983635, -- [3]
-						1472417311.234, -- [4]
+						182074, -- [2]
+						6857, -- [3]
+						1471381327.031, -- [4]
 						1, -- [5]
-						"[*] Doomed", -- [6]
-						8893, -- [7]
-						32, -- [8]
+						"Iron Reaver", -- [6]
+						727, -- [7]
+						4, -- [8]
 						false, -- [9]
-						1638202, -- [10]
+						2982, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
@@ -8199,20203 +3936,12103 @@ DeathGraphsDBCurrent = {
 						0, -- [3]
 						0, -- [4]
 						0, -- [5]
-						"Pearlnebula-Ravencrest", -- [6]
+						"Volavus", -- [6]
 					}, -- [33]
 				},
 			}, -- [1]
+			{
+				["maxhealth"] = 352920,
+				["timeofdeath"] = 135.454,
+				["name"] = "Blackmessiah",
+				["time"] = 1471381374.641,
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "2m 15s",
+				["events"] = {
+					{
+						2, -- [1]
+						20484, -- [2]
+						1, -- [3]
+						1471381386.172, -- [4]
+						0, -- [5]
+						"Guiltyas", -- [6]
+					}, -- [1]
+					{
+						false, -- [1]
+						48438, -- [2]
+						4740, -- [3]
+						1471381366.656, -- [4]
+						307231, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						182001, -- [2]
+						6937, -- [3]
+						1471381366.687, -- [4]
+						300294, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						48438, -- [2]
+						4422, -- [3]
+						1471381367.547, -- [4]
+						304716, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						182001, -- [2]
+						6936, -- [3]
+						1471381367.687, -- [4]
+						297780, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						48438, -- [2]
+						4102, -- [3]
+						1471381368.453, -- [4]
+						301882, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						182001, -- [2]
+						6936, -- [3]
+						1471381368.687, -- [4]
+						294946, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						179897, -- [2]
+						89701, -- [3]
+						1471381369.109, -- [4]
+						205245, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3658, -- [3]
+						1471381369.266, -- [4]
+						208903, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						179897, -- [2]
+						6881, -- [3]
+						1471381369.625, -- [4]
+						202022, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						182001, -- [2]
+						6936, -- [3]
+						1471381369.672, -- [4]
+						195086, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						210291, -- [2]
+						2729, -- [3]
+						1471381369.75, -- [4]
+						197815, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						179897, -- [2]
+						6882, -- [3]
+						1471381370.109, -- [4]
+						190933, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7186, -- [3]
+						1471381370.609, -- [4]
+						183747, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						182001, -- [2]
+						7244, -- [3]
+						1471381370.672, -- [4]
+						176503, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6611, -- [3]
+						1471381370.812, -- [4]
+						169892, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7186, -- [3]
+						1471381371.109, -- [4]
+						162706, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7186, -- [3]
+						1471381371.609, -- [4]
+						155520, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						182001, -- [2]
+						7244, -- [3]
+						1471381371.687, -- [4]
+						148276, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1365, -- [3]
+						1471381371.734, -- [4]
+						149641, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6611, -- [3]
+						1471381371.812, -- [4]
+						143030, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7186, -- [3]
+						1471381372.125, -- [4]
+						135844, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						1, -- [1]
+						48792, -- [2]
+						1, -- [3]
+						1471381372.141, -- [4]
+						135844, -- [5]
+						"Blackmessiah", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						179897, -- [2]
+						5749, -- [3]
+						1471381372.609, -- [4]
+						130095, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						182001, -- [2]
+						5795, -- [3]
+						1471381372.687, -- [4]
+						124300, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						182074, -- [2]
+						5289, -- [3]
+						1471381372.828, -- [4]
+						119011, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						179897, -- [2]
+						5748, -- [3]
+						1471381373.125, -- [4]
+						113263, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						179897, -- [2]
+						5749, -- [3]
+						1471381373.609, -- [4]
+						107514, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						182001, -- [2]
+						5794, -- [3]
+						1471381373.687, -- [4]
+						101720, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						182074, -- [2]
+						5288, -- [3]
+						1471381373.797, -- [4]
+						96432, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						179897, -- [2]
+						5748, -- [3]
+						1471381374.109, -- [4]
+						90684, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						179897, -- [2]
+						79489, -- [3]
+						1471381374.219, -- [4]
+						11195, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						179897, -- [2]
+						11497, -- [3]
+						1471381374.609, -- [4]
+						1, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						302, -- [10]
+					}, -- [33]
+					{
+						3, -- [1]
+						48792, -- [2]
+						1, -- [3]
+						1471381372.141, -- [4]
+						0, -- [5]
+						"Blackmessiah", -- [6]
+					}, -- [34]
+				},
+			}, -- [2]
+			{
+				["maxhealth"] = 363420,
+				["timeofdeath"] = 198.968999999999,
+				["name"] = "Relaxing",
+				["time"] = 1471381438.156,
+				["class"] = "DRUID",
+				["timestring"] = "3m 18s",
+				["events"] = {
+					{
+						false, -- [1]
+						8936, -- [2]
+						998, -- [3]
+						1471381426.359, -- [4]
+						283084, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						774, -- [2]
+						6570, -- [3]
+						1471381426.656, -- [4]
+						289654, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						8936, -- [2]
+						388, -- [3]
+						1471381427.031, -- [4]
+						290042, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						33763, -- [2]
+						2535, -- [3]
+						1471381427.125, -- [4]
+						292577, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						48438, -- [2]
+						5268, -- [3]
+						1471381427.172, -- [4]
+						297845, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						182074, -- [2]
+						23886, -- [3]
+						1471381427.172, -- [4]
+						273959, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						33763, -- [2]
+						2535, -- [3]
+						1471381428, -- [4]
+						276897, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						48438, -- [2]
+						4887, -- [3]
+						1471381428.047, -- [4]
+						281784, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						182074, -- [2]
+						23885, -- [3]
+						1471381428.187, -- [4]
+						257899, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						145109, -- [2]
+						10902, -- [3]
+						1471381428.359, -- [4]
+						268801, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						774, -- [2]
+						4198, -- [3]
+						1471381428.484, -- [4]
+						272999, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						33763, -- [2]
+						2331, -- [3]
+						1471381428.875, -- [4]
+						275330, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						48438, -- [2]
+						4009, -- [3]
+						1471381428.875, -- [4]
+						279339, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						182074, -- [2]
+						23886, -- [3]
+						1471381429.187, -- [4]
+						255453, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						33763, -- [2]
+						4257, -- [3]
+						1471381429.812, -- [4]
+						260115, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						33763, -- [2]
+						276, -- [3]
+						1471381429.844, -- [4]
+						260391, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						33778, -- [2]
+						21270, -- [3]
+						1471381429.844, -- [4]
+						281661, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						182074, -- [2]
+						29857, -- [3]
+						1471381430.203, -- [4]
+						251804, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						182108, -- [2]
+						17637, -- [3]
+						1471381431.031, -- [4]
+						234167, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						182074, -- [2]
+						29857, -- [3]
+						1471381431.187, -- [4]
+						204310, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						182108, -- [2]
+						17637, -- [3]
+						1471381431.187, -- [4]
+						186673, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						182108, -- [2]
+						17637, -- [3]
+						1471381431.25, -- [4]
+						169441, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						182074, -- [2]
+						29857, -- [3]
+						1471381432.187, -- [4]
+						139584, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						182074, -- [2]
+						29857, -- [3]
+						1471381433.172, -- [4]
+						109727, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						145109, -- [2]
+						10903, -- [3]
+						1471381433.375, -- [4]
+						121033, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						182074, -- [2]
+						29857, -- [3]
+						1471381434.187, -- [4]
+						91176, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						182074, -- [2]
+						29857, -- [3]
+						1471381435.172, -- [4]
+						61319, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						157982, -- [2]
+						13849, -- [3]
+						1471381435.781, -- [4]
+						75576, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						182074, -- [2]
+						29857, -- [3]
+						1471381436.187, -- [4]
+						45719, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						182074, -- [2]
+						29857, -- [3]
+						1471381437.172, -- [4]
+						15862, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						157982, -- [2]
+						13849, -- [3]
+						1471381437.547, -- [4]
+						30116, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						182362, -- [2]
+						31295, -- [3]
+						1471381438.156, -- [4]
+						1, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						1179, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						22812, -- [2]
+						1, -- [3]
+						1471381382.156, -- [4]
+						0, -- [5]
+						"Relaxing", -- [6]
+					}, -- [33]
+				},
+			}, -- [3]
 		},
-		["bossname"] = "Mannoroth",
+		["bossname"] = "Iron Reaver",
 		["bossicon"] = {
-			0.75, -- [1]
-			1, -- [2]
-			0.5, -- [3]
-			0.75, -- [4]
+			0.25, -- [1]
+			0.5, -- [2]
+			0, -- [3]
+			0.25, -- [4]
 			"Interface\\AddOns\\Details_RaidInfo-HellfireCitadel\\boss_faces", -- [5]
 		},
-		["date"] = 337670.453,
-		["timeelapsed"] = 240.171999999962,
+		["date"] = 15108.546,
+		["timeelapsed"] = 231.25,
+	}, -- [1]
+	{
+		["deaths"] = {
+			{
+				["maxhealth"] = 354480,
+				["timeofdeath"] = 76.4220000000005,
+				["name"] = "Dagran",
+				["time"] = 1471381023.547,
+				["class"] = "MONK",
+				["timestring"] = "1m 16s",
+				["events"] = {
+					{
+						2, -- [1]
+						61999, -- [2]
+						1, -- [3]
+						1471381028.703, -- [4]
+						0, -- [5]
+						"Blackmessiah", -- [6]
+					}, -- [1]
+					{
+						false, -- [1]
+						191840, -- [2]
+						899, -- [3]
+						1471381016.5, -- [4]
+						318330, -- [5]
+						"Dagran", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						198756, -- [2]
+						11245, -- [3]
+						1471381016.594, -- [4]
+						329575, -- [5]
+						"Chi-Ji <Dagran>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						48438, -- [2]
+						4420, -- [3]
+						1471381017.016, -- [4]
+						333995, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6822, -- [3]
+						1471381017.203, -- [4]
+						327173, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						48438, -- [2]
+						8205, -- [3]
+						1471381017.891, -- [4]
+						335378, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						191840, -- [2]
+						900, -- [3]
+						1471381018.172, -- [4]
+						336278, -- [5]
+						"Dagran", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [7]
+					{
+						true, -- [1]
+						179897, -- [2]
+						94062, -- [3]
+						1471381018.187, -- [4]
+						242216, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6822, -- [3]
+						1471381018.203, -- [4]
+						235394, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						198756, -- [2]
+						11245, -- [3]
+						1471381018.531, -- [4]
+						246639, -- [5]
+						"Chi-Ji <Dagran>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7416, -- [3]
+						1471381018.687, -- [4]
+						239223, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3658, -- [3]
+						1471381018.75, -- [4]
+						242881, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7416, -- [3]
+						1471381019.172, -- [4]
+						235465, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6823, -- [3]
+						1471381019.187, -- [4]
+						228642, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7416, -- [3]
+						1471381019.687, -- [4]
+						221226, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						191840, -- [2]
+						899, -- [3]
+						1471381019.844, -- [4]
+						222125, -- [5]
+						"Dagran", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7416, -- [3]
+						1471381020.203, -- [4]
+						214709, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6822, -- [3]
+						1471381020.203, -- [4]
+						207887, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7416, -- [3]
+						1471381020.719, -- [4]
+						200471, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						191840, -- [2]
+						553, -- [3]
+						1471381020.875, -- [4]
+						201024, -- [5]
+						"Dagran", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7415, -- [3]
+						1471381021.203, -- [4]
+						193609, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6822, -- [3]
+						1471381021.203, -- [4]
+						186787, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						182001, -- [2]
+						22425, -- [3]
+						1471381021.406, -- [4]
+						164362, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						198756, -- [2]
+						11245, -- [3]
+						1471381021.453, -- [4]
+						175607, -- [5]
+						"Chi-Ji <Dagran>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7416, -- [3]
+						1471381021.703, -- [4]
+						168191, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7416, -- [3]
+						1471381022.187, -- [4]
+						160775, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6822, -- [3]
+						1471381022.203, -- [4]
+						153953, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						182001, -- [2]
+						22425, -- [3]
+						1471381022.406, -- [4]
+						131528, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						157982, -- [2]
+						13850, -- [3]
+						1471381022.687, -- [4]
+						145378, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7415, -- [3]
+						1471381022.687, -- [4]
+						137963, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7416, -- [3]
+						1471381023.203, -- [4]
+						130547, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						182001, -- [2]
+						22425, -- [3]
+						1471381023.406, -- [4]
+						108122, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						182108, -- [2]
+						229203, -- [3]
+						1471381023.547, -- [4]
+						1, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						121081, -- [10]
+					}, -- [33]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Dagran", -- [6]
+					}, -- [34]
+				},
+			}, -- [1]
+			{
+				["maxhealth"] = 427140,
+				["timeofdeath"] = 80.7659999999996,
+				["name"] = "Zafiriel",
+				["time"] = 1471381027.891,
+				["class"] = "DRUID",
+				["timestring"] = "1m 20s",
+				["events"] = {
+					{
+						true, -- [1]
+						179897, -- [2]
+						12945, -- [3]
+						1471381020.891, -- [4]
+						247612, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						5185, -- [2]
+						77504, -- [3]
+						1471381020.891, -- [4]
+						325116, -- [5]
+						"Zafiriel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1042, -- [3]
+						1471381021.016, -- [4]
+						326158, -- [5]
+						"Zafiriel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						179897, -- [2]
+						12945, -- [3]
+						1471381021.359, -- [4]
+						313213, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						182001, -- [2]
+						19574, -- [3]
+						1471381021.406, -- [4]
+						293639, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						198756, -- [2]
+						11245, -- [3]
+						1471381021.812, -- [4]
+						304884, -- [5]
+						"Chi-Ji <Dagran>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						179897, -- [2]
+						12945, -- [3]
+						1471381021.891, -- [4]
+						291939, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						143924, -- [2]
+						241, -- [3]
+						1471381022.219, -- [4]
+						292180, -- [5]
+						"Zafiriel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						179897, -- [2]
+						12945, -- [3]
+						1471381022.375, -- [4]
+						279235, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						182001, -- [2]
+						19573, -- [3]
+						1471381022.406, -- [4]
+						259662, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						157982, -- [2]
+						13849, -- [3]
+						1471381022.687, -- [4]
+						273511, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						179897, -- [2]
+						12946, -- [3]
+						1471381022.875, -- [4]
+						260565, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						179897, -- [2]
+						12945, -- [3]
+						1471381023.375, -- [4]
+						247620, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						182001, -- [2]
+						19574, -- [3]
+						1471381023.406, -- [4]
+						228046, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						143924, -- [2]
+						550, -- [3]
+						1471381023.422, -- [4]
+						228596, -- [5]
+						"Zafiriel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						182108, -- [2]
+						42153, -- [3]
+						1471381023.531, -- [4]
+						186443, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						179897, -- [2]
+						12945, -- [3]
+						1471381023.859, -- [4]
+						173498, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						179897, -- [2]
+						12945, -- [3]
+						1471381024.375, -- [4]
+						160553, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						182001, -- [2]
+						19573, -- [3]
+						1471381024.406, -- [4]
+						140980, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1042, -- [3]
+						1471381024.641, -- [4]
+						142022, -- [5]
+						"Zafiriel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						179897, -- [2]
+						12945, -- [3]
+						1471381024.875, -- [4]
+						129077, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						179897, -- [2]
+						12946, -- [3]
+						1471381025.375, -- [4]
+						116131, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						182001, -- [2]
+						19573, -- [3]
+						1471381025.422, -- [4]
+						96558, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						143924, -- [2]
+						493, -- [3]
+						1471381025.859, -- [4]
+						97051, -- [5]
+						"Zafiriel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						179897, -- [2]
+						12945, -- [3]
+						1471381025.875, -- [4]
+						84106, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						179897, -- [2]
+						12946, -- [3]
+						1471381026.375, -- [4]
+						71160, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						182001, -- [2]
+						19574, -- [3]
+						1471381026.406, -- [4]
+						51586, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						179897, -- [2]
+						12946, -- [3]
+						1471381026.875, -- [4]
+						38640, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1615, -- [3]
+						1471381027.062, -- [4]
+						40255, -- [5]
+						"Zafiriel", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						179897, -- [2]
+						12945, -- [3]
+						1471381027.375, -- [4]
+						27310, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						182001, -- [2]
+						19574, -- [3]
+						1471381027.406, -- [4]
+						7736, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						179897, -- [2]
+						12945, -- [3]
+						1471381027.875, -- [4]
+						1, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						5209, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						61336, -- [2]
+						1, -- [3]
+						1471381013.906, -- [4]
+						0, -- [5]
+						"Zafiriel", -- [6]
+					}, -- [33]
+				},
+			}, -- [2]
+			{
+				["maxhealth"] = 354480,
+				["timeofdeath"] = 85.5619999999999,
+				["name"] = "Dagran",
+				["time"] = 1471381032.687,
+				["class"] = "MONK",
+				["timestring"] = "1m 25s",
+				["events"] = {
+					{
+						true, -- [1]
+						182108, -- [2]
+						238770, -- [3]
+						1471381032.672, -- [4]
+						1, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						26083, -- [10]
+					}, -- [1]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Dagran", -- [6]
+					}, -- [2]
+				},
+			}, -- [3]
+			{
+				["maxhealth"] = 368280,
+				["timeofdeath"] = 85.5619999999999,
+				["name"] = "Darkéner",
+				["time"] = 1471381032.687,
+				["class"] = "ROGUE",
+				["timestring"] = "1m 25s",
+				["events"] = {
+					{
+						true, -- [1]
+						179897, -- [2]
+						7328, -- [3]
+						1471381026.203, -- [4]
+						11613, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						157982, -- [2]
+						15314, -- [3]
+						1471381026.203, -- [4]
+						26927, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						774, -- [2]
+						10209, -- [3]
+						1471381026.312, -- [4]
+						37136, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6742, -- [3]
+						1471381026.422, -- [4]
+						30394, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7328, -- [3]
+						1471381026.687, -- [4]
+						23066, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						1, -- [1]
+						1966, -- [2]
+						1, -- [3]
+						1471381026.734, -- [4]
+						23066, -- [5]
+						"Darkéner", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7329, -- [3]
+						1471381027.187, -- [4]
+						15737, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6742, -- [3]
+						1471381027.422, -- [4]
+						8995, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7328, -- [3]
+						1471381027.687, -- [4]
+						1667, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						157982, -- [2]
+						15314, -- [3]
+						1471381027.969, -- [4]
+						16981, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						179897, -- [2]
+						7329, -- [3]
+						1471381028.187, -- [4]
+						9652, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						185311, -- [2]
+						18414, -- [3]
+						1471381028.297, -- [4]
+						28066, -- [5]
+						"Darkéner", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6742, -- [3]
+						1471381028.437, -- [4]
+						21324, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						19750, -- [2]
+						51723, -- [3]
+						1471381028.578, -- [4]
+						73047, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						1, -- [1]
+						5277, -- [2]
+						1, -- [3]
+						1471381028.594, -- [4]
+						73047, -- [5]
+						"Darkéner", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						774, -- [2]
+						10210, -- [3]
+						1471381028.953, -- [4]
+						83257, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						185311, -- [2]
+						18414, -- [3]
+						1471381029.281, -- [4]
+						101671, -- [5]
+						"Darkéner", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						173260, -- [2]
+						6742, -- [3]
+						1471381029.422, -- [4]
+						101671, -- [5]
+						"Darkéner", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [18]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6742, -- [3]
+						1471381029.422, -- [4]
+						101671, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						157982, -- [2]
+						15314, -- [3]
+						1471381029.719, -- [4]
+						116985, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						185311, -- [2]
+						18414, -- [3]
+						1471381030.281, -- [4]
+						135399, -- [5]
+						"Darkéner", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						173260, -- [2]
+						6743, -- [3]
+						1471381030.422, -- [4]
+						135399, -- [5]
+						"Darkéner", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [22]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6743, -- [3]
+						1471381030.422, -- [4]
+						135399, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						774, -- [2]
+						3524, -- [3]
+						1471381030.75, -- [4]
+						138923, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						185311, -- [2]
+						18414, -- [3]
+						1471381031.281, -- [4]
+						157337, -- [5]
+						"Darkéner", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						173260, -- [2]
+						6743, -- [3]
+						1471381031.406, -- [4]
+						157337, -- [5]
+						"Darkéner", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [26]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6743, -- [3]
+						1471381031.406, -- [4]
+						157337, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						185311, -- [2]
+						18414, -- [3]
+						1471381032.297, -- [4]
+						175751, -- [5]
+						"Darkéner", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						173260, -- [2]
+						6743, -- [3]
+						1471381032.422, -- [4]
+						175751, -- [5]
+						"Darkéner", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6743, -- [3]
+						1471381032.422, -- [4]
+						175751, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						173260, -- [2]
+						44136, -- [3]
+						1471381032.672, -- [4]
+						175751, -- [5]
+						"Darkéner", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						182108, -- [2]
+						238636, -- [3]
+						1471381032.687, -- [4]
+						1, -- [5]
+						"Iron Reaver", -- [6]
+						44136, -- [7]
+						4, -- [8]
+						false, -- [9]
+						18749, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						5277, -- [2]
+						1, -- [3]
+						1471381028.594, -- [4]
+						0, -- [5]
+						"Darkéner", -- [6]
+					}, -- [33]
+				},
+			}, -- [4]
+			{
+				["maxhealth"] = 362400,
+				["timeofdeath"] = 175.359,
+				["name"] = "Qnz",
+				["time"] = 1471381122.484,
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "2m 55s",
+				["events"] = {
+					{
+						false, -- [1]
+						81269, -- [2]
+						4343, -- [3]
+						1471381093.516, -- [4]
+						256412, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						182108, -- [2]
+						21597, -- [3]
+						1471381106.984, -- [4]
+						234815, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						182108, -- [2]
+						21596, -- [3]
+						1471381107.141, -- [4]
+						213219, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						182108, -- [2]
+						21596, -- [3]
+						1471381107.469, -- [4]
+						191623, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6780, -- [3]
+						1471381114.859, -- [4]
+						184843, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						114852, -- [2]
+						21895, -- [3]
+						1471381115.625, -- [4]
+						206738, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						182074, -- [2]
+						13560, -- [3]
+						1471381115.844, -- [4]
+						193178, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1355, -- [3]
+						1471381116.75, -- [4]
+						194533, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						182074, -- [2]
+						13560, -- [3]
+						1471381116.859, -- [4]
+						180973, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1355, -- [3]
+						1471381117.734, -- [4]
+						182328, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						182074, -- [2]
+						13559, -- [3]
+						1471381117.859, -- [4]
+						168769, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3436, -- [3]
+						1471381117.859, -- [4]
+						172205, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3253, -- [3]
+						1471381118.734, -- [4]
+						175458, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1355, -- [3]
+						1471381118.766, -- [4]
+						176813, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						182074, -- [2]
+						13559, -- [3]
+						1471381118.844, -- [4]
+						163254, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						225311, -- [2]
+						28186, -- [3]
+						1471381119.359, -- [4]
+						191440, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3072, -- [3]
+						1471381119.609, -- [4]
+						194512, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						182074, -- [2]
+						13560, -- [3]
+						1471381119.844, -- [4]
+						180952, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						48438, -- [2]
+						2889, -- [3]
+						1471381120.5, -- [4]
+						183841, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1355, -- [3]
+						1471381120.734, -- [4]
+						185196, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						182074, -- [2]
+						13560, -- [3]
+						1471381120.859, -- [4]
+						171636, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						48438, -- [2]
+						5417, -- [3]
+						1471381121.391, -- [4]
+						177053, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						182074, -- [2]
+						13559, -- [3]
+						1471381121.859, -- [4]
+						163494, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						182108, -- [2]
+						21597, -- [3]
+						1471381122.141, -- [4]
+						141897, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						182108, -- [2]
+						107982, -- [3]
+						1471381122.141, -- [4]
+						33915, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						48438, -- [2]
+						2527, -- [3]
+						1471381122.25, -- [4]
+						36442, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						182108, -- [2]
+						64554, -- [3]
+						1471381122.469, -- [4]
+						1, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						28112, -- [10]
+					}, -- [27]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Qnz", -- [6]
+					}, -- [28]
+				},
+			}, -- [5]
+			{
+				["maxhealth"] = 352920,
+				["timeofdeath"] = 177.530999999999,
+				["name"] = "Blackmessiah",
+				["time"] = 1471381124.656,
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "2m 57s",
+				["events"] = {
+					{
+						false, -- [1]
+						210291, -- [2]
+						2711, -- [3]
+						1471381092.75, -- [4]
+						334287, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						182108, -- [2]
+						105294, -- [3]
+						1471381106.984, -- [4]
+						228993, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						182108, -- [2]
+						71303, -- [3]
+						1471381107.141, -- [4]
+						157690, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						182108, -- [2]
+						21058, -- [3]
+						1471381107.469, -- [4]
+						136632, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						182108, -- [2]
+						77949, -- [3]
+						1471381122.141, -- [4]
+						58683, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						182108, -- [2]
+						21059, -- [3]
+						1471381122.141, -- [4]
+						37624, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						182108, -- [2]
+						21059, -- [3]
+						1471381122.469, -- [4]
+						16565, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						182523, -- [2]
+						56865, -- [3]
+						1471381124.656, -- [4]
+						1, -- [5]
+						"Volatile Firebomb", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						40300, -- [10]
+					}, -- [8]
+					{
+						3, -- [1]
+						48707, -- [2]
+						1, -- [3]
+						1471381077.781, -- [4]
+						0, -- [5]
+						"Blackmessiah", -- [6]
+					}, -- [9]
+				},
+			}, -- [6]
+			{
+				["maxhealth"] = 357540,
+				["timeofdeath"] = 197.405999999999,
+				["name"] = "Saltwater",
+				["time"] = 1471381144.531,
+				["class"] = "ROGUE",
+				["timestring"] = "3m 17s",
+				["events"] = {
+					{
+						false, -- [1]
+						81269, -- [2]
+						4342, -- [3]
+						1471381114.578, -- [4]
+						314313, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						182108, -- [2]
+						21647, -- [3]
+						1471381122.141, -- [4]
+						292666, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						182108, -- [2]
+						101327, -- [3]
+						1471381122.141, -- [4]
+						191339, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						182108, -- [2]
+						42970, -- [3]
+						1471381122.469, -- [4]
+						148369, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6796, -- [3]
+						1471381123.969, -- [4]
+						141573, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						127802, -- [2]
+						5926, -- [3]
+						1471381124.406, -- [4]
+						147499, -- [5]
+						"Saltwater", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						182523, -- [2]
+						60249, -- [3]
+						1471381124.656, -- [4]
+						87250, -- [5]
+						"Volatile Firebomb", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6796, -- [3]
+						1471381124.969, -- [4]
+						80454, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						1, -- [1]
+						31224, -- [2]
+						1, -- [3]
+						1471381125.359, -- [4]
+						80454, -- [5]
+						"Saltwater", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						25914, -- [2]
+						94743, -- [3]
+						1471381125.547, -- [4]
+						175197, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1453, -- [3]
+						1471381127.75, -- [4]
+						176650, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1452, -- [3]
+						1471381128.75, -- [4]
+						178102, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1453, -- [3]
+						1471381129.75, -- [4]
+						179555, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						185311, -- [2]
+						17877, -- [3]
+						1471381130.937, -- [4]
+						197432, -- [5]
+						"Saltwater", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						185311, -- [2]
+						17877, -- [3]
+						1471381131.937, -- [4]
+						215309, -- [5]
+						"Saltwater", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						185311, -- [2]
+						17877, -- [3]
+						1471381132.953, -- [4]
+						233186, -- [5]
+						"Saltwater", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						185311, -- [2]
+						17877, -- [3]
+						1471381133.953, -- [4]
+						251063, -- [5]
+						"Saltwater", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						185311, -- [2]
+						17877, -- [3]
+						1471381134.922, -- [4]
+						268940, -- [5]
+						"Saltwater", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						185311, -- [2]
+						17877, -- [3]
+						1471381135.984, -- [4]
+						286817, -- [5]
+						"Saltwater", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						182108, -- [2]
+						41683, -- [3]
+						1471381137.406, -- [4]
+						245134, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						182108, -- [2]
+						108235, -- [3]
+						1471381137.641, -- [4]
+						136899, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						182108, -- [2]
+						34046, -- [3]
+						1471381137.937, -- [4]
+						102853, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6795, -- [3]
+						1471381140.125, -- [4]
+						96058, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						182523, -- [2]
+						59488, -- [3]
+						1471381140.703, -- [4]
+						36570, -- [5]
+						"Volatile Firebomb", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6795, -- [3]
+						1471381141.125, -- [4]
+						29775, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6795, -- [3]
+						1471381142.125, -- [4]
+						22980, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						18562, -- [2]
+						53858, -- [3]
+						1471381142.375, -- [4]
+						76838, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6796, -- [3]
+						1471381143.109, -- [4]
+						70042, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						182074, -- [2]
+						6796, -- [3]
+						1471381144.125, -- [4]
+						63246, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						31230, -- [2]
+						715080, -- [3]
+						1471381144.5, -- [4]
+						63246, -- [5]
+						"Saltwater", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						182362, -- [2]
+						1029652, -- [3]
+						1471381144.5, -- [4]
+						1, -- [5]
+						"Iron Reaver", -- [6]
+						715080, -- [7]
+						8, -- [8]
+						false, -- [9]
+						251326, -- [10]
+					}, -- [31]
+					{
+						3, -- [1]
+						31224, -- [2]
+						1, -- [3]
+						1471381125.359, -- [4]
+						0, -- [5]
+						"Saltwater", -- [6]
+					}, -- [32]
+				},
+			}, -- [7]
+			{
+				["maxhealth"] = 332520,
+				["timeofdeath"] = 208.687,
+				["name"] = "Volavus",
+				["time"] = 1471381155.812,
+				["class"] = "WARLOCK",
+				["timestring"] = "3m 28s",
+				["events"] = {
+					{
+						false, -- [1]
+						19750, -- [2]
+						43749, -- [3]
+						1471381134.141, -- [4]
+						144433, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						25914, -- [2]
+						39734, -- [3]
+						1471381134.375, -- [4]
+						184167, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						108366, -- [2]
+						19992, -- [3]
+						1471381137.406, -- [4]
+						184167, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						77220, -- [2]
+						26, -- [3]
+						1471381137.406, -- [4]
+						184167, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						182108, -- [2]
+						21842, -- [3]
+						1471381137.406, -- [4]
+						182343, -- [5]
+						"Iron Reaver", -- [6]
+						20018, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						77220, -- [2]
+						4042, -- [3]
+						1471381137.641, -- [4]
+						182343, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						182108, -- [2]
+						30660, -- [3]
+						1471381137.641, -- [4]
+						155725, -- [5]
+						"Iron Reaver", -- [6]
+						4042, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						108366, -- [2]
+						3366, -- [3]
+						1471381137.937, -- [4]
+						155725, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						77220, -- [2]
+						3063, -- [3]
+						1471381137.937, -- [4]
+						155725, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1471381137.937, -- [4]
+						155725, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						182108, -- [2]
+						109207, -- [3]
+						1471381137.937, -- [4]
+						52947, -- [5]
+						"Iron Reaver", -- [6]
+						6429, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						19750, -- [2]
+						50526, -- [3]
+						1471381139.797, -- [4]
+						103473, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						108366, -- [2]
+						6692, -- [3]
+						1471381140.703, -- [4]
+						103473, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						77220, -- [2]
+						5703, -- [3]
+						1471381140.703, -- [4]
+						103473, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						182523, -- [2]
+						89183, -- [3]
+						1471381140.703, -- [4]
+						26685, -- [5]
+						"Volatile Firebomb", -- [6]
+						12395, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						633, -- [2]
+						444843, -- [3]
+						1471381144.234, -- [4]
+						332520, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						108366, -- [2]
+						13342, -- [3]
+						1471381144.5, -- [4]
+						332520, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						77220, -- [2]
+						2860, -- [3]
+						1471381144.5, -- [4]
+						332520, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						182362, -- [2]
+						38755, -- [3]
+						1471381144.5, -- [4]
+						309967, -- [5]
+						"Iron Reaver", -- [6]
+						16202, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1453, -- [3]
+						1471381144.734, -- [4]
+						311420, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						19750, -- [2]
+						110859, -- [3]
+						1471381145.641, -- [4]
+						332520, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						108366, -- [2]
+						44901, -- [3]
+						1471381154.5, -- [4]
+						332520, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						77220, -- [2]
+						5002, -- [3]
+						1471381154.5, -- [4]
+						332520, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						182523, -- [2]
+						118981, -- [3]
+						1471381154.5, -- [4]
+						263442, -- [5]
+						"Volatile Firebomb", -- [6]
+						49903, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						108366, -- [2]
+						3366, -- [3]
+						1471381155.281, -- [4]
+						263442, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						77220, -- [2]
+						20514, -- [3]
+						1471381155.281, -- [4]
+						263442, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1471381155.281, -- [4]
+						263442, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						182523, -- [2]
+						151730, -- [3]
+						1471381155.281, -- [4]
+						135592, -- [5]
+						"Volatile Firebomb", -- [6]
+						23880, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						77220, -- [2]
+						1171, -- [3]
+						1471381155.594, -- [4]
+						135592, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						182001, -- [2]
+						7512, -- [3]
+						1471381155.594, -- [4]
+						129251, -- [5]
+						"Iron Reaver", -- [6]
+						1171, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						77220, -- [2]
+						4568, -- [3]
+						1471381155.75, -- [4]
+						129251, -- [5]
+						"Volavus", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						182523, -- [2]
+						177595, -- [3]
+						1471381155.781, -- [4]
+						1, -- [5]
+						"Volatile Firebomb", -- [6]
+						4568, -- [7]
+						4, -- [8]
+						false, -- [9]
+						43776, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Volavus", -- [6]
+					}, -- [33]
+				},
+			}, -- [8]
+			{
+				["maxhealth"] = 444843,
+				["timeofdeath"] = 208.687,
+				["name"] = "Tallula",
+				["time"] = 1471381155.812,
+				["class"] = "PALADIN",
+				["timestring"] = "3m 28s",
+				["events"] = {
+					{
+						false, -- [1]
+						210291, -- [2]
+						1452, -- [3]
+						1471381137.75, -- [4]
+						290744, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						182108, -- [2]
+						55098, -- [3]
+						1471381137.937, -- [4]
+						235646, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						82326, -- [2]
+						55429, -- [3]
+						1471381138.687, -- [4]
+						291075, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1453, -- [3]
+						1471381138.75, -- [4]
+						292528, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1453, -- [3]
+						1471381139.734, -- [4]
+						293981, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						225311, -- [2]
+						30518, -- [3]
+						1471381140.562, -- [4]
+						324499, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						182523, -- [2]
+						80093, -- [3]
+						1471381140.703, -- [4]
+						244406, -- [5]
+						"Volatile Firebomb", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1453, -- [3]
+						1471381140.734, -- [4]
+						245859, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						25914, -- [2]
+						53730, -- [3]
+						1471381141.703, -- [4]
+						299589, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						210291, -- [2]
+						2905, -- [3]
+						1471381141.75, -- [4]
+						302494, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1453, -- [3]
+						1471381142.734, -- [4]
+						303947, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1453, -- [3]
+						1471381143.75, -- [4]
+						305400, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [12]
+					{
+						false, -- [1]
+						19750, -- [2]
+						55430, -- [3]
+						1471381144, -- [4]
+						360830, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						182362, -- [2]
+						34817, -- [3]
+						1471381144.5, -- [4]
+						326013, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1453, -- [3]
+						1471381144.734, -- [4]
+						327466, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1453, -- [3]
+						1471381145.734, -- [4]
+						328919, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1453, -- [3]
+						1471381146.766, -- [4]
+						330372, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1355, -- [3]
+						1471381147.734, -- [4]
+						331727, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1356, -- [3]
+						1471381148.734, -- [4]
+						333083, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1355, -- [3]
+						1471381149.734, -- [4]
+						334438, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1356, -- [3]
+						1471381150.734, -- [4]
+						335794, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						225311, -- [2]
+						28476, -- [3]
+						1471381151.656, -- [4]
+						364270, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						210291, -- [2]
+						2711, -- [3]
+						1471381151.75, -- [4]
+						366981, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1356, -- [3]
+						1471381152.75, -- [4]
+						368337, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1355, -- [3]
+						1471381153.75, -- [4]
+						369692, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						182523, -- [2]
+						110482, -- [3]
+						1471381154.5, -- [4]
+						259210, -- [5]
+						"Volatile Firebomb", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						210291, -- [2]
+						2712, -- [3]
+						1471381154.719, -- [4]
+						261922, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						82326, -- [2]
+						51722, -- [3]
+						1471381155.125, -- [4]
+						313644, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						182523, -- [2]
+						139213, -- [3]
+						1471381155.281, -- [4]
+						174431, -- [5]
+						"Volatile Firebomb", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						182001, -- [2]
+						7056, -- [3]
+						1471381155.594, -- [4]
+						167375, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						210291, -- [2]
+						1356, -- [3]
+						1471381155.75, -- [4]
+						168731, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						182523, -- [2]
+						171000, -- [3]
+						1471381155.781, -- [4]
+						1, -- [5]
+						"Volatile Firebomb", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						2269, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						498, -- [2]
+						1, -- [3]
+						1471381127.328, -- [4]
+						0, -- [5]
+						"Tallula", -- [6]
+					}, -- [33]
+				},
+			}, -- [9]
+			{
+				["maxhealth"] = 363420,
+				["timeofdeath"] = 209.093999999999,
+				["name"] = "Relaxing",
+				["time"] = 1471381156.219,
+				["class"] = "DRUID",
+				["timestring"] = "3m 29s",
+				["events"] = {
+					{
+						false, -- [1]
+						145109, -- [2]
+						10902, -- [3]
+						1471381128.375, -- [4]
+						181113, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						182074, -- [2]
+						5971, -- [3]
+						1471381128.875, -- [4]
+						175142, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						182074, -- [2]
+						5972, -- [3]
+						1471381129.875, -- [4]
+						169577, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						182074, -- [2]
+						5971, -- [3]
+						1471381130.859, -- [4]
+						163606, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						182074, -- [2]
+						5972, -- [3]
+						1471381131.875, -- [4]
+						158039, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						145109, -- [2]
+						10903, -- [3]
+						1471381133.375, -- [4]
+						168942, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						18562, -- [2]
+						107717, -- [3]
+						1471381133.547, -- [4]
+						276659, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						182108, -- [2]
+						88183, -- [3]
+						1471381137.406, -- [4]
+						189287, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						48503, -- [2]
+						53858, -- [3]
+						1471381137.422, -- [4]
+						243145, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						182108, -- [2]
+						35376, -- [3]
+						1471381137.641, -- [4]
+						208176, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						182108, -- [2]
+						17636, -- [3]
+						1471381137.937, -- [4]
+						190540, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						145109, -- [2]
+						10903, -- [3]
+						1471381138.375, -- [4]
+						201443, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						182523, -- [2]
+						73079, -- [3]
+						1471381140.703, -- [4]
+						128768, -- [5]
+						"Volatile Firebomb", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						8936, -- [2]
+						99174, -- [3]
+						1471381142.375, -- [4]
+						228347, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						145109, -- [2]
+						10903, -- [3]
+						1471381143.375, -- [4]
+						239250, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						8936, -- [2]
+						2328, -- [3]
+						1471381144.141, -- [4]
+						241982, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						182362, -- [2]
+						31294, -- [3]
+						1471381144.5, -- [4]
+						210688, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						8936, -- [2]
+						2328, -- [3]
+						1471381145.891, -- [4]
+						213421, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						8936, -- [2]
+						109664, -- [3]
+						1471381146.062, -- [4]
+						323085, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						114852, -- [2]
+						21285, -- [3]
+						1471381147.25, -- [4]
+						344370, -- [5]
+						"Tallula", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						8936, -- [2]
+						2327, -- [3]
+						1471381147.641, -- [4]
+						346697, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						145109, -- [2]
+						10903, -- [3]
+						1471381148.375, -- [4]
+						358007, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						8936, -- [2]
+						2328, -- [3]
+						1471381149.406, -- [4]
+						360335, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						8936, -- [2]
+						2327, -- [3]
+						1471381151.172, -- [4]
+						363065, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						8936, -- [2]
+						2327, -- [3]
+						1471381152.906, -- [4]
+						363420, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						182523, -- [2]
+						96786, -- [3]
+						1471381154.5, -- [4]
+						266634, -- [5]
+						"Volatile Firebomb", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						8936, -- [2]
+						2328, -- [3]
+						1471381154.672, -- [4]
+						268962, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						182523, -- [2]
+						121099, -- [3]
+						1471381155.281, -- [4]
+						147863, -- [5]
+						"Volatile Firebomb", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						48503, -- [2]
+						104419, -- [3]
+						1471381155.312, -- [4]
+						252282, -- [5]
+						"Relaxing", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						182001, -- [2]
+						6543, -- [3]
+						1471381155.594, -- [4]
+						245739, -- [5]
+						"Iron Reaver", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						182523, -- [2]
+						141216, -- [3]
+						1471381155.781, -- [4]
+						104523, -- [5]
+						"Volatile Firebomb", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						182523, -- [2]
+						168632, -- [3]
+						1471381156.187, -- [4]
+						1, -- [5]
+						"Volatile Firebomb", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						false, -- [9]
+						63708, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						22812, -- [2]
+						1, -- [3]
+						1471381083.187, -- [4]
+						0, -- [5]
+						"Relaxing", -- [6]
+					}, -- [33]
+				},
+			}, -- [10]
+		},
+		["bossname"] = "Iron Reaver",
+		["bossicon"] = {
+			0.25, -- [1]
+			0.5, -- [2]
+			0, -- [3]
+			0.25, -- [4]
+			"Interface\\AddOns\\Details_RaidInfo-HellfireCitadel\\boss_faces", -- [5]
+		},
+		["date"] = 14825.234,
+		["timeelapsed"] = 240,
 	}, -- [2]
 }
 DeathGraphsDBGraph = {
-	["139516"] = {
+	["139615"] = {
 		["deaths"] = {
-			[106] = {
-				1471458464, -- [1]
+			[193] = {
+				1469564960, -- [1]
 			},
-			[179] = {
-				1468433639, -- [1]
-			},
-			[75] = {
-				1468433639, -- [1]
-			},
-			[91] = {
-				1471459403, -- [1]
-			},
-			[182] = {
-				1468434318, -- [1]
-			},
-			[151] = {
-				1470852244, -- [1]
-				1470852244, -- [2]
+			[122] = {
+				1469564960, -- [1]
 			},
 			[93] = {
-				1469644154, -- [1]
+				1469564540, -- [1]
+				1469565781, -- [2]
 			},
-			[94] = {
-				1471459080, -- [1]
-			},
-			[28] = {
-				1468433265, -- [1]
-			},
-			[187] = {
-				1469038739, -- [1]
-			},
-			[219] = {
-				1468433639, -- [1]
-				1469038739, -- [2]
-			},
-			[157] = {
-				1471459403, -- [1]
-				1471459403, -- [2]
-			},
-			[127] = {
-				1471459080, -- [1]
-			},
-			[96] = {
-				1469038219, -- [1]
-				1471458464, -- [2]
-			},
-			[112] = {
-				1471459080, -- [1]
-			},
-			[160] = {
-				1469644154, -- [1]
+			[33] = {
+				1469564540, -- [1]
 			},
 			[97] = {
-				1468433898, -- [1]
-			},
-			[161] = {
-				1470247986, -- [1]
-			},
-			[21] = {
-				1468433265, -- [1]
-				1468433639, -- [2]
-			},
-			[98] = {
-				1469038219, -- [1]
-				1469644154, -- [2]
-			},
-			[29] = {
-				1468433265, -- [1]
-				1468433265, -- [2]
-			},
-			[99] = {
-				1471458797, -- [1]
-			},
-			[58] = {
-				1469038219, -- [1]
-			},
-			[229] = {
-				1468434692, -- [1]
-			},
-			[100] = {
-				1468433898, -- [1]
-				1468433898, -- [2]
-			},
-			[69] = {
-				1468433639, -- [1]
-			},
-			[162] = {
-				1470247986, -- [1]
+				1469565781, -- [1]
 			},
 			[101] = {
-				1469644154, -- [1]
-				1469644154, -- [2]
-				1471458464, -- [3]
-			},
-			[90] = {
-				1470852244, -- [1]
-			},
-			[74] = {
-				1469038219, -- [1]
-				1469038219, -- [2]
-				1471458464, -- [3]
-			},
-			[22] = {
-				1468433898, -- [1]
-				1468434318, -- [2]
-				1468434692, -- [3]
-			},
-			[84] = {
-				1471458797, -- [1]
-				1471459403, -- [2]
-			},
-			[30] = {
-				1468433265, -- [1]
-			},
-			[31] = {
-				1468433898, -- [1]
-			},
-			[135] = {
-				1470852244, -- [1]
-				1470852244, -- [2]
-				1471458797, -- [3]
-			},
-			[141] = {
-				1471458797, -- [1]
-			},
-			[225] = {
-				1467828224, -- [1]
-			},
-			[205] = {
-				1469038739, -- [1]
-				1469038739, -- [2]
-			},
-			[224] = {
-				1468434318, -- [1]
-				1468434318, -- [2]
-			},
-			[143] = {
-				1471459403, -- [1]
-			},
-			[92] = {
-				1469644512, -- [1]
-				1470247986, -- [2]
-				1471458797, -- [3]
-			},
-			[73] = {
-				1471459080, -- [1]
-			},
-			[89] = {
-				1471458464, -- [1]
-				1471459080, -- [2]
-			},
-			[145] = {
-				1470247986, -- [1]
-				1470247986, -- [2]
-			},
-			[226] = {
-				1468434692, -- [1]
-			},
-			[146] = {
-				1469038739, -- [1]
-			},
-			[241] = {
-				1468434318, -- [1]
-			},
-			[259] = {
-				1468434692, -- [1]
-			},
-		},
-		["spells"] = {
-			["Fel Blast"] = {
-				{
-					705, -- [1]
-					1468433265, -- [2]
-				}, -- [1]
-				{
-					705, -- [1]
-					1468433265, -- [2]
-				}, -- [2]
-				{
-					983, -- [1]
-					1468433639, -- [2]
-				}, -- [3]
-				{
-					983, -- [1]
-					1468433639, -- [2]
-				}, -- [4]
-				{
-					986, -- [1]
-					1468433639, -- [2]
-				}, -- [5]
-				{
-					986, -- [1]
-					1468433639, -- [2]
-				}, -- [6]
-				{
-					1033, -- [1]
-					1468433639, -- [2]
-				}, -- [7]
-				{
-					1033, -- [1]
-					1468433639, -- [2]
-				}, -- [8]
-				{
-					1034, -- [1]
-					1468433639, -- [2]
-				}, -- [9]
-				{
-					1034, -- [1]
-					1468433639, -- [2]
-				}, -- [10]
-				{
-					1046, -- [1]
-					1468433639, -- [2]
-				}, -- [11]
-				{
-					1047, -- [1]
-					1468433639, -- [2]
-				}, -- [12]
-				{
-					1047, -- [1]
-					1468433639, -- [2]
-				}, -- [13]
-				{
-					1048, -- [1]
-					1468433639, -- [2]
-				}, -- [14]
-				{
-					1049, -- [1]
-					1468433639, -- [2]
-				}, -- [15]
-				{
-					1049, -- [1]
-					1468433639, -- [2]
-				}, -- [16]
-				{
-					1050, -- [1]
-					1468433639, -- [2]
-				}, -- [17]
-				{
-					1050, -- [1]
-					1468433639, -- [2]
-				}, -- [18]
-				{
-					1051, -- [1]
-					1468433639, -- [2]
-				}, -- [19]
-				{
-					1052, -- [1]
-					1468433639, -- [2]
-				}, -- [20]
-				{
-					1052, -- [1]
-					1468433639, -- [2]
-				}, -- [21]
-				{
-					1053, -- [1]
-					1468433639, -- [2]
-				}, -- [22]
-				{
-					1053, -- [1]
-					1468433639, -- [2]
-				}, -- [23]
-				{
-					1054, -- [1]
-					1468433639, -- [2]
-				}, -- [24]
-				{
-					1054, -- [1]
-					1468433639, -- [2]
-				}, -- [25]
-				{
-					1055, -- [1]
-					1468433639, -- [2]
-				}, -- [26]
-				{
-					1055, -- [1]
-					1468433639, -- [2]
-				}, -- [27]
-				{
-					1056, -- [1]
-					1468433639, -- [2]
-				}, -- [28]
-				{
-					1056, -- [1]
-					1468433639, -- [2]
-				}, -- [29]
-				{
-					1057, -- [1]
-					1468433639, -- [2]
-				}, -- [30]
-				{
-					1057, -- [1]
-					1468433639, -- [2]
-				}, -- [31]
-				{
-					1058, -- [1]
-					1468433639, -- [2]
-				}, -- [32]
-				{
-					1058, -- [1]
-					1468433639, -- [2]
-				}, -- [33]
-				{
-					1059, -- [1]
-					1468433639, -- [2]
-				}, -- [34]
-				{
-					1059, -- [1]
-					1468433639, -- [2]
-				}, -- [35]
-				{
-					1060, -- [1]
-					1468433639, -- [2]
-				}, -- [36]
-				{
-					1060, -- [1]
-					1468433639, -- [2]
-				}, -- [37]
-				{
-					1061, -- [1]
-					1468433639, -- [2]
-				}, -- [38]
-				{
-					1061, -- [1]
-					1468433639, -- [2]
-				}, -- [39]
-				{
-					1062, -- [1]
-					1468433639, -- [2]
-				}, -- [40]
-				{
-					1062, -- [1]
-					1468433639, -- [2]
-				}, -- [41]
-				{
-					1063, -- [1]
-					1468433639, -- [2]
-				}, -- [42]
-				{
-					1066, -- [1]
-					1468433639, -- [2]
-				}, -- [43]
-				{
-					1066, -- [1]
-					1468433639, -- [2]
-				}, -- [44]
-				{
-					1067, -- [1]
-					1468433639, -- [2]
-				}, -- [45]
-				{
-					1068, -- [1]
-					1468433639, -- [2]
-				}, -- [46]
-				{
-					1068, -- [1]
-					1468433639, -- [2]
-				}, -- [47]
-				{
-					1069, -- [1]
-					1468433639, -- [2]
-				}, -- [48]
-				{
-					1070, -- [1]
-					1468433639, -- [2]
-				}, -- [49]
-				{
-					1070, -- [1]
-					1468433639, -- [2]
-				}, -- [50]
-				{
-					1071, -- [1]
-					1468433639, -- [2]
-				}, -- [51]
-				{
-					1071, -- [1]
-					1468433639, -- [2]
-				}, -- [52]
-				{
-					1072, -- [1]
-					1468433639, -- [2]
-				}, -- [53]
-				{
-					1073, -- [1]
-					1468433639, -- [2]
-				}, -- [54]
-				{
-					1073, -- [1]
-					1468433639, -- [2]
-				}, -- [55]
-				{
-					1074, -- [1]
-					1468433639, -- [2]
-				}, -- [56]
-				{
-					1074, -- [1]
-					1468433639, -- [2]
-				}, -- [57]
-				{
-					1075, -- [1]
-					1468433639, -- [2]
-				}, -- [58]
-				{
-					1075, -- [1]
-					1468433639, -- [2]
-				}, -- [59]
-				{
-					1076, -- [1]
-					1468433639, -- [2]
-				}, -- [60]
-				{
-					1076, -- [1]
-					1468433639, -- [2]
-				}, -- [61]
-				{
-					1077, -- [1]
-					1468433639, -- [2]
-				}, -- [62]
-				{
-					1077, -- [1]
-					1468433639, -- [2]
-				}, -- [63]
-				{
-					1079, -- [1]
-					1468433639, -- [2]
-				}, -- [64]
-				{
-					1273, -- [1]
-					1468433898, -- [2]
-				}, -- [65]
-				{
-					1274, -- [1]
-					1468433898, -- [2]
-				}, -- [66]
-				{
-					1274, -- [1]
-					1468433898, -- [2]
-				}, -- [67]
-				{
-					1275, -- [1]
-					1468433898, -- [2]
-				}, -- [68]
-				{
-					1276, -- [1]
-					1468433898, -- [2]
-				}, -- [69]
-				{
-					1276, -- [1]
-					1468433898, -- [2]
-				}, -- [70]
-				{
-					1277, -- [1]
-					1468433898, -- [2]
-				}, -- [71]
-				{
-					1282, -- [1]
-					1468433898, -- [2]
-				}, -- [72]
-				{
-					1282, -- [1]
-					1468433898, -- [2]
-				}, -- [73]
-				{
-					1322, -- [1]
-					1468433898, -- [2]
-				}, -- [74]
-				{
-					1322, -- [1]
-					1468433898, -- [2]
-				}, -- [75]
-				{
-					1323, -- [1]
-					1468433898, -- [2]
-				}, -- [76]
-				{
-					1323, -- [1]
-					1468433898, -- [2]
-				}, -- [77]
-				{
-					1325, -- [1]
-					1468433898, -- [2]
-				}, -- [78]
-				{
-					1325, -- [1]
-					1468433898, -- [2]
-				}, -- [79]
-				{
-					1326, -- [1]
-					1468433898, -- [2]
-				}, -- [80]
-				{
-					1326, -- [1]
-					1468433898, -- [2]
-				}, -- [81]
-				{
-					1327, -- [1]
-					1468433898, -- [2]
-				}, -- [82]
-				{
-					1328, -- [1]
-					1468433898, -- [2]
-				}, -- [83]
-				{
-					1328, -- [1]
-					1468433898, -- [2]
-				}, -- [84]
-				{
-					1331, -- [1]
-					1468433898, -- [2]
-				}, -- [85]
-				{
-					1332, -- [1]
-					1468433898, -- [2]
-				}, -- [86]
-				{
-					1332, -- [1]
-					1468433898, -- [2]
-				}, -- [87]
-				{
-					1334, -- [1]
-					1468433898, -- [2]
-				}, -- [88]
-				{
-					1334, -- [1]
-					1468433898, -- [2]
-				}, -- [89]
-				{
-					1337, -- [1]
-					1468433898, -- [2]
-				}, -- [90]
-				{
-					1338, -- [1]
-					1468433898, -- [2]
-				}, -- [91]
-				{
-					1338, -- [1]
-					1468433898, -- [2]
-				}, -- [92]
-				{
-					1692, -- [1]
-					1468434318, -- [2]
-				}, -- [93]
-				{
-					1692, -- [1]
-					1468434318, -- [2]
-				}, -- [94]
-				{
-					1696, -- [1]
-					1468434318, -- [2]
-				}, -- [95]
-				{
-					1696, -- [1]
-					1468434318, -- [2]
-				}, -- [96]
-				{
-					1697, -- [1]
-					1468434318, -- [2]
-				}, -- [97]
-				{
-					1697, -- [1]
-					1468434318, -- [2]
-				}, -- [98]
-				{
-					1698, -- [1]
-					1468434318, -- [2]
-				}, -- [99]
-				{
-					1699, -- [1]
-					1468434318, -- [2]
-				}, -- [100]
-				{
-					1699, -- [1]
-					1468434318, -- [2]
-				}, -- [101]
-				{
-					1700, -- [1]
-					1468434318, -- [2]
-				}, -- [102]
-				{
-					1700, -- [1]
-					1468434318, -- [2]
-				}, -- [103]
-				{
-					1701, -- [1]
-					1468434318, -- [2]
-				}, -- [104]
-				{
-					1701, -- [1]
-					1468434318, -- [2]
-				}, -- [105]
-				{
-					1702, -- [1]
-					1468434318, -- [2]
-				}, -- [106]
-				{
-					1703, -- [1]
-					1468434318, -- [2]
-				}, -- [107]
-				{
-					1703, -- [1]
-					1468434318, -- [2]
-				}, -- [108]
-				{
-					1704, -- [1]
-					1468434318, -- [2]
-				}, -- [109]
-				{
-					1704, -- [1]
-					1468434318, -- [2]
-				}, -- [110]
-				{
-					1706, -- [1]
-					1468434318, -- [2]
-				}, -- [111]
-				{
-					1706, -- [1]
-					1468434318, -- [2]
-				}, -- [112]
-				{
-					1707, -- [1]
-					1468434318, -- [2]
-				}, -- [113]
-				{
-					1707, -- [1]
-					1468434318, -- [2]
-				}, -- [114]
-				{
-					1708, -- [1]
-					1468434318, -- [2]
-				}, -- [115]
-				{
-					1708, -- [1]
-					1468434318, -- [2]
-				}, -- [116]
-				{
-					1709, -- [1]
-					1468434318, -- [2]
-				}, -- [117]
-				{
-					1710, -- [1]
-					1468434318, -- [2]
-				}, -- [118]
-				{
-					1710, -- [1]
-					1468434318, -- [2]
-				}, -- [119]
-				{
-					1711, -- [1]
-					1468434318, -- [2]
-				}, -- [120]
-				{
-					1711, -- [1]
-					1468434318, -- [2]
-				}, -- [121]
-				{
-					1713, -- [1]
-					1468434318, -- [2]
-				}, -- [122]
-				{
-					1714, -- [1]
-					1468434318, -- [2]
-				}, -- [123]
-				{
-					1715, -- [1]
-					1468434318, -- [2]
-				}, -- [124]
-				{
-					1716, -- [1]
-					1468434318, -- [2]
-				}, -- [125]
-				{
-					1716, -- [1]
-					1468434318, -- [2]
-				}, -- [126]
-				{
-					1718, -- [1]
-					1468434318, -- [2]
-				}, -- [127]
-				{
-					1718, -- [1]
-					1468434318, -- [2]
-				}, -- [128]
-				{
-					1719, -- [1]
-					1468434318, -- [2]
-				}, -- [129]
-				{
-					1720, -- [1]
-					1468434318, -- [2]
-				}, -- [130]
-				{
-					1721, -- [1]
-					1468434318, -- [2]
-				}, -- [131]
-				{
-					1721, -- [1]
-					1468434318, -- [2]
-				}, -- [132]
-				{
-					1723, -- [1]
-					1468434318, -- [2]
-				}, -- [133]
-				{
-					1724, -- [1]
-					1468434318, -- [2]
-				}, -- [134]
-				{
-					1725, -- [1]
-					1468434318, -- [2]
-				}, -- [135]
-				{
-					1725, -- [1]
-					1468434318, -- [2]
-				}, -- [136]
-				{
-					1726, -- [1]
-					1468434318, -- [2]
-				}, -- [137]
-				{
-					1729, -- [1]
-					1468434318, -- [2]
-				}, -- [138]
-				{
-					1730, -- [1]
-					1468434318, -- [2]
-				}, -- [139]
-				{
-					1730, -- [1]
-					1468434318, -- [2]
-				}, -- [140]
-				{
-					1732, -- [1]
-					1468434318, -- [2]
-				}, -- [141]
-				{
-					1732, -- [1]
-					1468434318, -- [2]
-				}, -- [142]
-				{
-					1733, -- [1]
-					1468434318, -- [2]
-				}, -- [143]
-				{
-					1735, -- [1]
-					1468434318, -- [2]
-				}, -- [144]
-				{
-					1735, -- [1]
-					1468434318, -- [2]
-				}, -- [145]
-				{
-					1736, -- [1]
-					1468434318, -- [2]
-				}, -- [146]
-				{
-					1737, -- [1]
-					1468434318, -- [2]
-				}, -- [147]
-				{
-					1738, -- [1]
-					1468434318, -- [2]
-				}, -- [148]
-				{
-					1740, -- [1]
-					1468434318, -- [2]
-				}, -- [149]
-				{
-					1741, -- [1]
-					1468434318, -- [2]
-				}, -- [150]
-				{
-					1742, -- [1]
-					1468434318, -- [2]
-				}, -- [151]
-				{
-					1745, -- [1]
-					1468434318, -- [2]
-				}, -- [152]
-				{
-					1745, -- [1]
-					1468434318, -- [2]
-				}, -- [153]
-				{
-					1746, -- [1]
-					1468434318, -- [2]
-				}, -- [154]
-				{
-					1747, -- [1]
-					1468434318, -- [2]
-				}, -- [155]
-				{
-					1747, -- [1]
-					1468434318, -- [2]
-				}, -- [156]
-				{
-					1748, -- [1]
-					1468434318, -- [2]
-				}, -- [157]
-				{
-					1749, -- [1]
-					1468434318, -- [2]
-				}, -- [158]
-				{
-					1750, -- [1]
-					1468434318, -- [2]
-				}, -- [159]
-				{
-					1750, -- [1]
-					1468434318, -- [2]
-				}, -- [160]
-				{
-					1752, -- [1]
-					1468434318, -- [2]
-				}, -- [161]
-				{
-					1752, -- [1]
-					1468434318, -- [2]
-				}, -- [162]
-				{
-					1753, -- [1]
-					1468434318, -- [2]
-				}, -- [163]
-				{
-					1754, -- [1]
-					1468434318, -- [2]
-				}, -- [164]
-				{
-					1755, -- [1]
-					1468434318, -- [2]
-				}, -- [165]
-				{
-					1755, -- [1]
-					1468434318, -- [2]
-				}, -- [166]
-				{
-					1757, -- [1]
-					1468434318, -- [2]
-				}, -- [167]
-				{
-					1757, -- [1]
-					1468434318, -- [2]
-				}, -- [168]
-				{
-					610, -- [1]
-					1469038219, -- [2]
-				}, -- [169]
-				{
-					610, -- [1]
-					1469038219, -- [2]
-				}, -- [170]
-				{
-					611, -- [1]
-					1469038219, -- [2]
-				}, -- [171]
-				{
-					611, -- [1]
-					1469038219, -- [2]
-				}, -- [172]
-				{
-					613, -- [1]
-					1469038219, -- [2]
-				}, -- [173]
-				{
-					613, -- [1]
-					1469038219, -- [2]
-				}, -- [174]
-				{
-					614, -- [1]
-					1469038219, -- [2]
-				}, -- [175]
-				{
-					614, -- [1]
-					1469038219, -- [2]
-				}, -- [176]
-				{
-					616, -- [1]
-					1469038219, -- [2]
-				}, -- [177]
-				{
-					616, -- [1]
-					1469038219, -- [2]
-				}, -- [178]
-				{
-					617, -- [1]
-					1469038219, -- [2]
-				}, -- [179]
-				{
-					622, -- [1]
-					1469038219, -- [2]
-				}, -- [180]
-				{
-					623, -- [1]
-					1469038219, -- [2]
-				}, -- [181]
-				{
-					660, -- [1]
-					1469038219, -- [2]
-				}, -- [182]
-				{
-					661, -- [1]
-					1469038219, -- [2]
-				}, -- [183]
-				{
-					661, -- [1]
-					1469038219, -- [2]
-				}, -- [184]
-				{
-					663, -- [1]
-					1469038219, -- [2]
-				}, -- [185]
-				{
-					663, -- [1]
-					1469038219, -- [2]
-				}, -- [186]
-				{
-					665, -- [1]
-					1469038219, -- [2]
-				}, -- [187]
-				{
-					47, -- [1]
-					1469038739, -- [2]
-				}, -- [188]
-				{
-					47, -- [1]
-					1469038739, -- [2]
-				}, -- [189]
-				{
-					49, -- [1]
-					1469038739, -- [2]
-				}, -- [190]
-				{
-					49, -- [1]
-					1469038739, -- [2]
-				}, -- [191]
-				{
-					51, -- [1]
-					1469038739, -- [2]
-				}, -- [192]
-				{
-					51, -- [1]
-					1469038739, -- [2]
-				}, -- [193]
-				{
-					106, -- [1]
-					1469038739, -- [2]
-				}, -- [194]
-				{
-					107, -- [1]
-					1469038739, -- [2]
-				}, -- [195]
-				{
-					108, -- [1]
-					1469038739, -- [2]
-				}, -- [196]
-				{
-					109, -- [1]
-					1469038739, -- [2]
-				}, -- [197]
-				{
-					109, -- [1]
-					1469038739, -- [2]
-				}, -- [198]
-				{
-					110, -- [1]
-					1469038739, -- [2]
-				}, -- [199]
-				{
-					111, -- [1]
-					1469038739, -- [2]
-				}, -- [200]
-				{
-					111, -- [1]
-					1469038739, -- [2]
-				}, -- [201]
-				{
-					112, -- [1]
-					1469038739, -- [2]
-				}, -- [202]
-				{
-					114, -- [1]
-					1469038739, -- [2]
-				}, -- [203]
-				{
-					114, -- [1]
-					1469038739, -- [2]
-				}, -- [204]
-				{
-					156, -- [1]
-					1469038739, -- [2]
-				}, -- [205]
-				{
-					156, -- [1]
-					1469038739, -- [2]
-				}, -- [206]
-				{
-					157, -- [1]
-					1469038739, -- [2]
-				}, -- [207]
-				{
-					176, -- [1]
-					1469038739, -- [2]
-				}, -- [208]
-				{
-					176, -- [1]
-					1469038739, -- [2]
-				}, -- [209]
-				{
-					177, -- [1]
-					1469038739, -- [2]
-				}, -- [210]
-				{
-					177, -- [1]
-					1469038739, -- [2]
-				}, -- [211]
-				{
-					178, -- [1]
-					1469038739, -- [2]
-				}, -- [212]
-				{
-					179, -- [1]
-					1469038739, -- [2]
-				}, -- [213]
-				{
-					179, -- [1]
-					1469038739, -- [2]
-				}, -- [214]
-				{
-					181, -- [1]
-					1469038739, -- [2]
-				}, -- [215]
-				{
-					181, -- [1]
-					1469038739, -- [2]
-				}, -- [216]
-				{
-					182, -- [1]
-					1469038739, -- [2]
-				}, -- [217]
-				{
-					182, -- [1]
-					1469038739, -- [2]
-				}, -- [218]
-				{
-					183, -- [1]
-					1469038739, -- [2]
-				}, -- [219]
-				{
-					184, -- [1]
-					1469038739, -- [2]
-				}, -- [220]
-				{
-					186, -- [1]
-					1469038739, -- [2]
-				}, -- [221]
-				{
-					186, -- [1]
-					1469038739, -- [2]
-				}, -- [222]
-				{
-					188, -- [1]
-					1469038739, -- [2]
-				}, -- [223]
-				{
-					188, -- [1]
-					1469038739, -- [2]
-				}, -- [224]
-				{
-					191, -- [1]
-					1469038739, -- [2]
-				}, -- [225]
-				{
-					191, -- [1]
-					1469038739, -- [2]
-				}, -- [226]
-				{
-					193, -- [1]
-					1469038739, -- [2]
-				}, -- [227]
-				{
-					194, -- [1]
-					1469038739, -- [2]
-				}, -- [228]
-				{
-					197, -- [1]
-					1469038739, -- [2]
-				}, -- [229]
-				{
-					197, -- [1]
-					1469038739, -- [2]
-				}, -- [230]
-				{
-					199, -- [1]
-					1469038739, -- [2]
-				}, -- [231]
-				{
-					200, -- [1]
-					1469038739, -- [2]
-				}, -- [232]
-				{
-					202, -- [1]
-					1469038739, -- [2]
-				}, -- [233]
-				{
-					202, -- [1]
-					1469038739, -- [2]
-				}, -- [234]
-				{
-					204, -- [1]
-					1469038739, -- [2]
-				}, -- [235]
-				{
-					205, -- [1]
-					1469038739, -- [2]
-				}, -- [236]
-				{
-					207, -- [1]
-					1469038739, -- [2]
-				}, -- [237]
-				{
-					207, -- [1]
-					1469038739, -- [2]
-				}, -- [238]
-				{
-					209, -- [1]
-					1469038739, -- [2]
-				}, -- [239]
-				{
-					209, -- [1]
-					1469038739, -- [2]
-				}, -- [240]
-				{
-					212, -- [1]
-					1469038739, -- [2]
-				}, -- [241]
-				{
-					212, -- [1]
-					1469038739, -- [2]
-				}, -- [242]
-				{
-					214, -- [1]
-					1469038739, -- [2]
-				}, -- [243]
-				{
-					214, -- [1]
-					1469038739, -- [2]
-				}, -- [244]
-				{
-					216, -- [1]
-					1469038739, -- [2]
-				}, -- [245]
-				{
-					217, -- [1]
-					1469038739, -- [2]
-				}, -- [246]
-				{
-					219, -- [1]
-					1469038739, -- [2]
-				}, -- [247]
-				{
-					219, -- [1]
-					1469038739, -- [2]
-				}, -- [248]
-				{
-					221, -- [1]
-					1469038739, -- [2]
-				}, -- [249]
-				{
-					222, -- [1]
-					1469038739, -- [2]
-				}, -- [250]
-				{
-					225, -- [1]
-					1469038739, -- [2]
-				}, -- [251]
-				{
-					226, -- [1]
-					1469038739, -- [2]
-				}, -- [252]
-				{
-					226, -- [1]
-					1469038739, -- [2]
-				}, -- [253]
-				{
-					227, -- [1]
-					1469038739, -- [2]
-				}, -- [254]
-				{
-					47, -- [1]
-					1469644154, -- [2]
-				}, -- [255]
-				{
-					47, -- [1]
-					1469644154, -- [2]
-				}, -- [256]
-				{
-					50, -- [1]
-					1469644154, -- [2]
-				}, -- [257]
-				{
-					50, -- [1]
-					1469644154, -- [2]
-				}, -- [258]
-				{
-					52, -- [1]
-					1469644154, -- [2]
-				}, -- [259]
-				{
-					52, -- [1]
-					1469644154, -- [2]
-				}, -- [260]
-				{
-					93, -- [1]
-					1469644154, -- [2]
-				}, -- [261]
-				{
-					93, -- [1]
-					1469644154, -- [2]
-				}, -- [262]
-				{
-					94, -- [1]
-					1469644154, -- [2]
-				}, -- [263]
-				{
-					94, -- [1]
-					1469644154, -- [2]
-				}, -- [264]
-				{
-					95, -- [1]
-					1469644154, -- [2]
-				}, -- [265]
-				{
-					95, -- [1]
-					1469644154, -- [2]
-				}, -- [266]
-				{
-					96, -- [1]
-					1469644154, -- [2]
-				}, -- [267]
-				{
-					96, -- [1]
-					1469644154, -- [2]
-				}, -- [268]
-				{
-					97, -- [1]
-					1469644154, -- [2]
-				}, -- [269]
-				{
-					97, -- [1]
-					1469644154, -- [2]
-				}, -- [270]
-				{
-					98, -- [1]
-					1469644154, -- [2]
-				}, -- [271]
-				{
-					98, -- [1]
-					1469644154, -- [2]
-				}, -- [272]
-				{
-					100, -- [1]
-					1469644154, -- [2]
-				}, -- [273]
-				{
-					100, -- [1]
-					1469644154, -- [2]
-				}, -- [274]
-				{
-					103, -- [1]
-					1469644154, -- [2]
-				}, -- [275]
-				{
-					103, -- [1]
-					1469644154, -- [2]
-				}, -- [276]
-				{
-					148, -- [1]
-					1469644154, -- [2]
-				}, -- [277]
-				{
-					148, -- [1]
-					1469644154, -- [2]
-				}, -- [278]
-				{
-					149, -- [1]
-					1469644154, -- [2]
-				}, -- [279]
-				{
-					150, -- [1]
-					1469644154, -- [2]
-				}, -- [280]
-				{
-					150, -- [1]
-					1469644154, -- [2]
-				}, -- [281]
-				{
-					151, -- [1]
-					1469644154, -- [2]
-				}, -- [282]
-				{
-					151, -- [1]
-					1469644154, -- [2]
-				}, -- [283]
-				{
-					152, -- [1]
-					1469644154, -- [2]
-				}, -- [284]
-				{
-					152, -- [1]
-					1469644154, -- [2]
-				}, -- [285]
-				{
-					153, -- [1]
-					1469644154, -- [2]
-				}, -- [286]
-				{
-					154, -- [1]
-					1469644154, -- [2]
-				}, -- [287]
-				{
-					154, -- [1]
-					1469644154, -- [2]
-				}, -- [288]
-				{
-					155, -- [1]
-					1469644154, -- [2]
-				}, -- [289]
-				{
-					155, -- [1]
-					1469644154, -- [2]
-				}, -- [290]
-				{
-					156, -- [1]
-					1469644154, -- [2]
-				}, -- [291]
-				{
-					156, -- [1]
-					1469644154, -- [2]
-				}, -- [292]
-				{
-					157, -- [1]
-					1469644154, -- [2]
-				}, -- [293]
-				{
-					157, -- [1]
-					1469644154, -- [2]
-				}, -- [294]
-				{
-					159, -- [1]
-					1469644154, -- [2]
-				}, -- [295]
-				{
-					159, -- [1]
-					1469644154, -- [2]
-				}, -- [296]
-				{
-					160, -- [1]
-					1469644154, -- [2]
-				}, -- [297]
-				{
-					160, -- [1]
-					1469644154, -- [2]
-				}, -- [298]
-				{
-					161, -- [1]
-					1469644154, -- [2]
-				}, -- [299]
-				{
-					161, -- [1]
-					1469644154, -- [2]
-				}, -- [300]
-				{
-					163, -- [1]
-					1469644154, -- [2]
-				}, -- [301]
-				{
-					164, -- [1]
-					1469644154, -- [2]
-				}, -- [302]
-				{
-					166, -- [1]
-					1469644154, -- [2]
-				}, -- [303]
-				{
-					166, -- [1]
-					1469644154, -- [2]
-				}, -- [304]
-				{
-					169, -- [1]
-					1469644154, -- [2]
-				}, -- [305]
-				{
-					170, -- [1]
-					1469644154, -- [2]
-				}, -- [306]
-				{
-					172, -- [1]
-					1469644154, -- [2]
-				}, -- [307]
-				{
-					172, -- [1]
-					1469644154, -- [2]
-				}, -- [308]
-				{
-					174, -- [1]
-					1469644154, -- [2]
-				}, -- [309]
-				{
-					175, -- [1]
-					1469644154, -- [2]
-				}, -- [310]
-				{
-					177, -- [1]
-					1469644154, -- [2]
-				}, -- [311]
-				{
-					177, -- [1]
-					1469644154, -- [2]
-				}, -- [312]
-				{
-					179, -- [1]
-					1469644154, -- [2]
-				}, -- [313]
-				{
-					180, -- [1]
-					1469644154, -- [2]
-				}, -- [314]
-				{
-					182, -- [1]
-					1469644154, -- [2]
-				}, -- [315]
-				{
-					182, -- [1]
-					1469644154, -- [2]
-				}, -- [316]
-				{
-					184, -- [1]
-					1469644154, -- [2]
-				}, -- [317]
-				{
-					185, -- [1]
-					1469644154, -- [2]
-				}, -- [318]
-				{
-					186, -- [1]
-					1469644154, -- [2]
-				}, -- [319]
-				{
-					187, -- [1]
-					1469644154, -- [2]
-				}, -- [320]
-				{
-					189, -- [1]
-					1469644154, -- [2]
-				}, -- [321]
-				{
-					189, -- [1]
-					1469644154, -- [2]
-				}, -- [322]
-				{
-					191, -- [1]
-					1469644154, -- [2]
-				}, -- [323]
-				{
-					192, -- [1]
-					1469644154, -- [2]
-				}, -- [324]
-				{
-					194, -- [1]
-					1469644154, -- [2]
-				}, -- [325]
-				{
-					194, -- [1]
-					1469644154, -- [2]
-				}, -- [326]
-				{
-					196, -- [1]
-					1469644154, -- [2]
-				}, -- [327]
-				{
-					197, -- [1]
-					1469644154, -- [2]
-				}, -- [328]
-				{
-					198, -- [1]
-					1469644154, -- [2]
-				}, -- [329]
-				{
-					198, -- [1]
-					1469644154, -- [2]
-				}, -- [330]
-				{
-					199, -- [1]
-					1469644154, -- [2]
-				}, -- [331]
-				{
-					199, -- [1]
-					1469644154, -- [2]
-				}, -- [332]
-				{
-					200, -- [1]
-					1469644154, -- [2]
-				}, -- [333]
-				{
-					200, -- [1]
-					1469644154, -- [2]
-				}, -- [334]
-				{
-					201, -- [1]
-					1469644154, -- [2]
-				}, -- [335]
-				{
-					201, -- [1]
-					1469644154, -- [2]
-				}, -- [336]
-				{
-					202, -- [1]
-					1469644154, -- [2]
-				}, -- [337]
-				{
-					202, -- [1]
-					1469644154, -- [2]
-				}, -- [338]
-				{
-					203, -- [1]
-					1469644154, -- [2]
-				}, -- [339]
-				{
-					203, -- [1]
-					1469644154, -- [2]
-				}, -- [340]
-				{
-					477, -- [1]
-					1469644512, -- [2]
-				}, -- [341]
-				{
-					478, -- [1]
-					1469644512, -- [2]
-				}, -- [342]
-				{
-					478, -- [1]
-					1469644512, -- [2]
-				}, -- [343]
-				{
-					479, -- [1]
-					1469644512, -- [2]
-				}, -- [344]
-				{
-					480, -- [1]
-					1469644512, -- [2]
-				}, -- [345]
-				{
-					525, -- [1]
-					1469644512, -- [2]
-				}, -- [346]
-				{
-					526, -- [1]
-					1469644512, -- [2]
-				}, -- [347]
-				{
-					526, -- [1]
-					1469644512, -- [2]
-				}, -- [348]
-				{
-					529, -- [1]
-					1469644512, -- [2]
-				}, -- [349]
-				{
-					529, -- [1]
-					1469644512, -- [2]
-				}, -- [350]
-				{
-					4623, -- [1]
-					1470247986, -- [2]
-				}, -- [351]
-				{
-					4623, -- [1]
-					1470247986, -- [2]
-				}, -- [352]
-				{
-					4625, -- [1]
-					1470247986, -- [2]
-				}, -- [353]
-				{
-					4626, -- [1]
-					1470247986, -- [2]
-				}, -- [354]
-				{
-					4627, -- [1]
-					1470247986, -- [2]
-				}, -- [355]
-				{
-					4627, -- [1]
-					1470247986, -- [2]
-				}, -- [356]
-				{
-					4661, -- [1]
-					1470247986, -- [2]
-				}, -- [357]
-				{
-					4661, -- [1]
-					1470247986, -- [2]
-				}, -- [358]
-				{
-					4662, -- [1]
-					1470247986, -- [2]
-				}, -- [359]
-				{
-					4663, -- [1]
-					1470247986, -- [2]
-				}, -- [360]
-				{
-					4663, -- [1]
-					1470247986, -- [2]
-				}, -- [361]
-				{
-					4664, -- [1]
-					1470247986, -- [2]
-				}, -- [362]
-				{
-					4664, -- [1]
-					1470247986, -- [2]
-				}, -- [363]
-				{
-					4665, -- [1]
-					1470247986, -- [2]
-				}, -- [364]
-				{
-					4665, -- [1]
-					1470247986, -- [2]
-				}, -- [365]
-				{
-					4666, -- [1]
-					1470247986, -- [2]
-				}, -- [366]
-				{
-					4667, -- [1]
-					1470247986, -- [2]
-				}, -- [367]
-				{
-					4667, -- [1]
-					1470247986, -- [2]
-				}, -- [368]
-				{
-					4669, -- [1]
-					1470247986, -- [2]
-				}, -- [369]
-				{
-					4669, -- [1]
-					1470247986, -- [2]
-				}, -- [370]
-				{
-					4670, -- [1]
-					1470247986, -- [2]
-				}, -- [371]
-				{
-					4671, -- [1]
-					1470247986, -- [2]
-				}, -- [372]
-				{
-					4672, -- [1]
-					1470247986, -- [2]
-				}, -- [373]
-				{
-					4674, -- [1]
-					1470247986, -- [2]
-				}, -- [374]
-				{
-					4674, -- [1]
-					1470247986, -- [2]
-				}, -- [375]
-				{
-					4676, -- [1]
-					1470247986, -- [2]
-				}, -- [376]
-				{
-					4677, -- [1]
-					1470247986, -- [2]
-				}, -- [377]
-				{
-					4677, -- [1]
-					1470247986, -- [2]
-				}, -- [378]
-				{
-					4678, -- [1]
-					1470247986, -- [2]
-				}, -- [379]
-				{
-					4680, -- [1]
-					1470247986, -- [2]
-				}, -- [380]
-				{
-					4680, -- [1]
-					1470247986, -- [2]
-				}, -- [381]
-				{
-					4708, -- [1]
-					1470247986, -- [2]
-				}, -- [382]
-				{
-					4709, -- [1]
-					1470247986, -- [2]
-				}, -- [383]
-				{
-					4709, -- [1]
-					1470247986, -- [2]
-				}, -- [384]
-				{
-					4711, -- [1]
-					1470247986, -- [2]
-				}, -- [385]
-				{
-					4711, -- [1]
-					1470247986, -- [2]
-				}, -- [386]
-				{
-					4712, -- [1]
-					1470247986, -- [2]
-				}, -- [387]
-				{
-					4712, -- [1]
-					1470247986, -- [2]
-				}, -- [388]
-				{
-					4713, -- [1]
-					1470247986, -- [2]
-				}, -- [389]
-				{
-					4714, -- [1]
-					1470247986, -- [2]
-				}, -- [390]
-				{
-					4715, -- [1]
-					1470247986, -- [2]
-				}, -- [391]
-				{
-					47, -- [1]
-					1470852244, -- [2]
-				}, -- [392]
-				{
-					47, -- [1]
-					1470852244, -- [2]
-				}, -- [393]
-				{
-					50, -- [1]
-					1470852244, -- [2]
-				}, -- [394]
-				{
-					50, -- [1]
-					1470852244, -- [2]
-				}, -- [395]
-				{
-					52, -- [1]
-					1470852244, -- [2]
-				}, -- [396]
-				{
-					52, -- [1]
-					1470852244, -- [2]
-				}, -- [397]
-				{
-					81, -- [1]
-					1470852244, -- [2]
-				}, -- [398]
-				{
-					81, -- [1]
-					1470852244, -- [2]
-				}, -- [399]
-				{
-					82, -- [1]
-					1470852244, -- [2]
-				}, -- [400]
-				{
-					84, -- [1]
-					1470852244, -- [2]
-				}, -- [401]
-				{
-					84, -- [1]
-					1470852244, -- [2]
-				}, -- [402]
-				{
-					86, -- [1]
-					1470852244, -- [2]
-				}, -- [403]
-				{
-					86, -- [1]
-					1470852244, -- [2]
-				}, -- [404]
-				{
-					88, -- [1]
-					1470852244, -- [2]
-				}, -- [405]
-				{
-					89, -- [1]
-					1470852244, -- [2]
-				}, -- [406]
-				{
-					96, -- [1]
-					1470852244, -- [2]
-				}, -- [407]
-				{
-					96, -- [1]
-					1470852244, -- [2]
-				}, -- [408]
-				{
-					98, -- [1]
-					1470852244, -- [2]
-				}, -- [409]
-				{
-					98, -- [1]
-					1470852244, -- [2]
-				}, -- [410]
-				{
-					123, -- [1]
-					1470852244, -- [2]
-				}, -- [411]
-				{
-					123, -- [1]
-					1470852244, -- [2]
-				}, -- [412]
-				{
-					125, -- [1]
-					1470852244, -- [2]
-				}, -- [413]
-				{
-					125, -- [1]
-					1470852244, -- [2]
-				}, -- [414]
-				{
-					127, -- [1]
-					1470852244, -- [2]
-				}, -- [415]
-				{
-					127, -- [1]
-					1470852244, -- [2]
-				}, -- [416]
-				{
-					130, -- [1]
-					1470852244, -- [2]
-				}, -- [417]
-				{
-					130, -- [1]
-					1470852244, -- [2]
-				}, -- [418]
-				{
-					132, -- [1]
-					1470852244, -- [2]
-				}, -- [419]
-				{
-					132, -- [1]
-					1470852244, -- [2]
-				}, -- [420]
-				{
-					45, -- [1]
-					1471458464, -- [2]
-				}, -- [421]
-				{
-					45, -- [1]
-					1471458464, -- [2]
-				}, -- [422]
-				{
-					46, -- [1]
-					1471458464, -- [2]
-				}, -- [423]
-				{
-					46, -- [1]
-					1471458464, -- [2]
-				}, -- [424]
-				{
-					48, -- [1]
-					1471458464, -- [2]
-				}, -- [425]
-				{
-					48, -- [1]
-					1471458464, -- [2]
-				}, -- [426]
-				{
-					88, -- [1]
-					1471458464, -- [2]
-				}, -- [427]
-				{
-					88, -- [1]
-					1471458464, -- [2]
-				}, -- [428]
-				{
-					89, -- [1]
-					1471458464, -- [2]
-				}, -- [429]
-				{
-					90, -- [1]
-					1471458464, -- [2]
-				}, -- [430]
-				{
-					90, -- [1]
-					1471458464, -- [2]
-				}, -- [431]
-				{
-					91, -- [1]
-					1471458464, -- [2]
-				}, -- [432]
-				{
-					91, -- [1]
-					1471458464, -- [2]
-				}, -- [433]
-				{
-					93, -- [1]
-					1471458464, -- [2]
-				}, -- [434]
-				{
-					93, -- [1]
-					1471458464, -- [2]
-				}, -- [435]
-				{
-					95, -- [1]
-					1471458464, -- [2]
-				}, -- [436]
-				{
-					96, -- [1]
-					1471458464, -- [2]
-				}, -- [437]
-				{
-					98, -- [1]
-					1471458464, -- [2]
-				}, -- [438]
-				{
-					98, -- [1]
-					1471458464, -- [2]
-				}, -- [439]
-				{
-					100, -- [1]
-					1471458464, -- [2]
-				}, -- [440]
-				{
-					100, -- [1]
-					1471458464, -- [2]
-				}, -- [441]
-				{
-					127, -- [1]
-					1471458464, -- [2]
-				}, -- [442]
-				{
-					127, -- [1]
-					1471458464, -- [2]
-				}, -- [443]
-				{
-					128, -- [1]
-					1471458464, -- [2]
-				}, -- [444]
-				{
-					128, -- [1]
-					1471458464, -- [2]
-				}, -- [445]
-				{
-					129, -- [1]
-					1471458464, -- [2]
-				}, -- [446]
-				{
-					129, -- [1]
-					1471458464, -- [2]
-				}, -- [447]
-				{
-					130, -- [1]
-					1471458464, -- [2]
-				}, -- [448]
-				{
-					130, -- [1]
-					1471458464, -- [2]
-				}, -- [449]
-				{
-					131, -- [1]
-					1471458464, -- [2]
-				}, -- [450]
-				{
-					131, -- [1]
-					1471458464, -- [2]
-				}, -- [451]
-				{
-					132, -- [1]
-					1471458464, -- [2]
-				}, -- [452]
-				{
-					132, -- [1]
-					1471458464, -- [2]
-				}, -- [453]
-				{
-					133, -- [1]
-					1471458464, -- [2]
-				}, -- [454]
-				{
-					133, -- [1]
-					1471458464, -- [2]
-				}, -- [455]
-				{
-					134, -- [1]
-					1471458464, -- [2]
-				}, -- [456]
-				{
-					134, -- [1]
-					1471458464, -- [2]
-				}, -- [457]
-				{
-					135, -- [1]
-					1471458464, -- [2]
-				}, -- [458]
-				{
-					135, -- [1]
-					1471458464, -- [2]
-				}, -- [459]
-				{
-					136, -- [1]
-					1471458464, -- [2]
-				}, -- [460]
-				{
-					137, -- [1]
-					1471458464, -- [2]
-				}, -- [461]
-				{
-					137, -- [1]
-					1471458464, -- [2]
-				}, -- [462]
-				{
-					138, -- [1]
-					1471458464, -- [2]
-				}, -- [463]
-				{
-					138, -- [1]
-					1471458464, -- [2]
-				}, -- [464]
-				{
-					139, -- [1]
-					1471458464, -- [2]
-				}, -- [465]
-				{
-					140, -- [1]
-					1471458464, -- [2]
-				}, -- [466]
-				{
-					140, -- [1]
-					1471458464, -- [2]
-				}, -- [467]
-				{
-					141, -- [1]
-					1471458464, -- [2]
-				}, -- [468]
-				{
-					142, -- [1]
-					1471458464, -- [2]
-				}, -- [469]
-				{
-					142, -- [1]
-					1471458464, -- [2]
-				}, -- [470]
-				{
-					143, -- [1]
-					1471458464, -- [2]
-				}, -- [471]
-				{
-					143, -- [1]
-					1471458464, -- [2]
-				}, -- [472]
-				{
-					144, -- [1]
-					1471458464, -- [2]
-				}, -- [473]
-				{
-					145, -- [1]
-					1471458464, -- [2]
-				}, -- [474]
-				{
-					145, -- [1]
-					1471458464, -- [2]
-				}, -- [475]
-				{
-					147, -- [1]
-					1471458464, -- [2]
-				}, -- [476]
-				{
-					147, -- [1]
-					1471458464, -- [2]
-				}, -- [477]
-				{
-					148, -- [1]
-					1471458464, -- [2]
-				}, -- [478]
-				{
-					148, -- [1]
-					1471458464, -- [2]
-				}, -- [479]
-				{
-					149, -- [1]
-					1471458464, -- [2]
-				}, -- [480]
-				{
-					149, -- [1]
-					1471458464, -- [2]
-				}, -- [481]
-				{
-					152, -- [1]
-					1471458464, -- [2]
-				}, -- [482]
-				{
-					152, -- [1]
-					1471458464, -- [2]
-				}, -- [483]
-				{
-					153, -- [1]
-					1471458464, -- [2]
-				}, -- [484]
-				{
-					154, -- [1]
-					1471458464, -- [2]
-				}, -- [485]
-				{
-					155, -- [1]
-					1471458464, -- [2]
-				}, -- [486]
-				{
-					156, -- [1]
-					1471458464, -- [2]
-				}, -- [487]
-				{
-					350, -- [1]
-					1471458797, -- [2]
-				}, -- [488]
-				{
-					350, -- [1]
-					1471458797, -- [2]
-				}, -- [489]
-				{
-					351, -- [1]
-					1471458797, -- [2]
-				}, -- [490]
-				{
-					352, -- [1]
-					1471458797, -- [2]
-				}, -- [491]
-				{
-					352, -- [1]
-					1471458797, -- [2]
-				}, -- [492]
-				{
-					353, -- [1]
-					1471458797, -- [2]
-				}, -- [493]
-				{
-					353, -- [1]
-					1471458797, -- [2]
-				}, -- [494]
-				{
-					388, -- [1]
-					1471458797, -- [2]
-				}, -- [495]
-				{
-					388, -- [1]
-					1471458797, -- [2]
-				}, -- [496]
-				{
-					390, -- [1]
-					1471458797, -- [2]
-				}, -- [497]
-				{
-					390, -- [1]
-					1471458797, -- [2]
-				}, -- [498]
-				{
-					396, -- [1]
-					1471458797, -- [2]
-				}, -- [499]
-				{
-					396, -- [1]
-					1471458797, -- [2]
-				}, -- [500]
-				{
-					399, -- [1]
-					1471458797, -- [2]
-				}, -- [501]
-				{
-					399, -- [1]
-					1471458797, -- [2]
-				}, -- [502]
-				{
-					402, -- [1]
-					1471458797, -- [2]
-				}, -- [503]
-				{
-					403, -- [1]
-					1471458797, -- [2]
-				}, -- [504]
-				{
-					431, -- [1]
-					1471458797, -- [2]
-				}, -- [505]
-				{
-					431, -- [1]
-					1471458797, -- [2]
-				}, -- [506]
-				{
-					432, -- [1]
-					1471458797, -- [2]
-				}, -- [507]
-				{
-					433, -- [1]
-					1471458797, -- [2]
-				}, -- [508]
-				{
-					433, -- [1]
-					1471458797, -- [2]
-				}, -- [509]
-				{
-					434, -- [1]
-					1471458797, -- [2]
-				}, -- [510]
-				{
-					434, -- [1]
-					1471458797, -- [2]
-				}, -- [511]
-				{
-					435, -- [1]
-					1471458797, -- [2]
-				}, -- [512]
-				{
-					435, -- [1]
-					1471458797, -- [2]
-				}, -- [513]
-				{
-					436, -- [1]
-					1471458797, -- [2]
-				}, -- [514]
-				{
-					437, -- [1]
-					1471458797, -- [2]
-				}, -- [515]
-				{
-					438, -- [1]
-					1471458797, -- [2]
-				}, -- [516]
-				{
-					438, -- [1]
-					1471458797, -- [2]
-				}, -- [517]
-				{
-					439, -- [1]
-					1471458797, -- [2]
-				}, -- [518]
-				{
-					439, -- [1]
-					1471458797, -- [2]
-				}, -- [519]
-				{
-					441, -- [1]
-					1471458797, -- [2]
-				}, -- [520]
-				{
-					442, -- [1]
-					1471458797, -- [2]
-				}, -- [521]
-				{
-					444, -- [1]
-					1471458797, -- [2]
-				}, -- [522]
-				{
-					444, -- [1]
-					1471458797, -- [2]
-				}, -- [523]
-				{
-					446, -- [1]
-					1471458797, -- [2]
-				}, -- [524]
-				{
-					447, -- [1]
-					1471458797, -- [2]
-				}, -- [525]
-				{
-					449, -- [1]
-					1471458797, -- [2]
-				}, -- [526]
-				{
-					449, -- [1]
-					1471458797, -- [2]
-				}, -- [527]
-				{
-					453, -- [1]
-					1471458797, -- [2]
-				}, -- [528]
-				{
-					454, -- [1]
-					1471458797, -- [2]
-				}, -- [529]
-				{
-					456, -- [1]
-					1471458797, -- [2]
-				}, -- [530]
-				{
-					456, -- [1]
-					1471458797, -- [2]
-				}, -- [531]
-				{
-					458, -- [1]
-					1471458797, -- [2]
-				}, -- [532]
-				{
-					464, -- [1]
-					1471458797, -- [2]
-				}, -- [533]
-				{
-					465, -- [1]
-					1471458797, -- [2]
-				}, -- [534]
-				{
-					467, -- [1]
-					1471458797, -- [2]
-				}, -- [535]
-				{
-					467, -- [1]
-					1471458797, -- [2]
-				}, -- [536]
-				{
-					469, -- [1]
-					1471458797, -- [2]
-				}, -- [537]
-				{
-					470, -- [1]
-					1471458797, -- [2]
-				}, -- [538]
-				{
-					472, -- [1]
-					1471458797, -- [2]
-				}, -- [539]
-				{
-					472, -- [1]
-					1471458797, -- [2]
-				}, -- [540]
-				{
-					476, -- [1]
-					1471458797, -- [2]
-				}, -- [541]
-				{
-					477, -- [1]
-					1471458797, -- [2]
-				}, -- [542]
-				{
-					480, -- [1]
-					1471458797, -- [2]
-				}, -- [543]
-				{
-					480, -- [1]
-					1471458797, -- [2]
-				}, -- [544]
-				{
-					481, -- [1]
-					1471458797, -- [2]
-				}, -- [545]
-				{
-					482, -- [1]
-					1471458797, -- [2]
-				}, -- [546]
-				{
-					483, -- [1]
-					1471458797, -- [2]
-				}, -- [547]
-				{
-					483, -- [1]
-					1471458797, -- [2]
-				}, -- [548]
-				{
-					485, -- [1]
-					1471458797, -- [2]
-				}, -- [549]
-				{
-					485, -- [1]
-					1471458797, -- [2]
-				}, -- [550]
-				{
-					487, -- [1]
-					1471458797, -- [2]
-				}, -- [551]
-				{
-					488, -- [1]
-					1471458797, -- [2]
-				}, -- [552]
-				{
-					488, -- [1]
-					1471458797, -- [2]
-				}, -- [553]
-				{
-					627, -- [1]
-					1471459080, -- [2]
-				}, -- [554]
-				{
-					628, -- [1]
-					1471459080, -- [2]
-				}, -- [555]
-				{
-					628, -- [1]
-					1471459080, -- [2]
-				}, -- [556]
-				{
-					631, -- [1]
-					1471459080, -- [2]
-				}, -- [557]
-				{
-					631, -- [1]
-					1471459080, -- [2]
-				}, -- [558]
-				{
-					632, -- [1]
-					1471459080, -- [2]
-				}, -- [559]
-				{
-					632, -- [1]
-					1471459080, -- [2]
-				}, -- [560]
-				{
-					634, -- [1]
-					1471459080, -- [2]
-				}, -- [561]
-				{
-					634, -- [1]
-					1471459080, -- [2]
-				}, -- [562]
-				{
-					636, -- [1]
-					1471459080, -- [2]
-				}, -- [563]
-				{
-					637, -- [1]
-					1471459080, -- [2]
-				}, -- [564]
-				{
-					672, -- [1]
-					1471459080, -- [2]
-				}, -- [565]
-				{
-					672, -- [1]
-					1471459080, -- [2]
-				}, -- [566]
-				{
-					673, -- [1]
-					1471459080, -- [2]
-				}, -- [567]
-				{
-					673, -- [1]
-					1471459080, -- [2]
-				}, -- [568]
-				{
-					675, -- [1]
-					1471459080, -- [2]
-				}, -- [569]
-				{
-					675, -- [1]
-					1471459080, -- [2]
-				}, -- [570]
-				{
-					677, -- [1]
-					1471459080, -- [2]
-				}, -- [571]
-				{
-					677, -- [1]
-					1471459080, -- [2]
-				}, -- [572]
-				{
-					678, -- [1]
-					1471459080, -- [2]
-				}, -- [573]
-				{
-					678, -- [1]
-					1471459080, -- [2]
-				}, -- [574]
-				{
-					679, -- [1]
-					1471459080, -- [2]
-				}, -- [575]
-				{
-					680, -- [1]
-					1471459080, -- [2]
-				}, -- [576]
-				{
-					680, -- [1]
-					1471459080, -- [2]
-				}, -- [577]
-				{
-					681, -- [1]
-					1471459080, -- [2]
-				}, -- [578]
-				{
-					682, -- [1]
-					1471459080, -- [2]
-				}, -- [579]
-				{
-					682, -- [1]
-					1471459080, -- [2]
-				}, -- [580]
-				{
-					683, -- [1]
-					1471459080, -- [2]
-				}, -- [581]
-				{
-					683, -- [1]
-					1471459080, -- [2]
-				}, -- [582]
-				{
-					684, -- [1]
-					1471459080, -- [2]
-				}, -- [583]
-				{
-					684, -- [1]
-					1471459080, -- [2]
-				}, -- [584]
-				{
-					687, -- [1]
-					1471459080, -- [2]
-				}, -- [585]
-				{
-					687, -- [1]
-					1471459080, -- [2]
-				}, -- [586]
-				{
-					690, -- [1]
-					1471459080, -- [2]
-				}, -- [587]
-				{
-					690, -- [1]
-					1471459080, -- [2]
-				}, -- [588]
-				{
-					692, -- [1]
-					1471459080, -- [2]
-				}, -- [589]
-				{
-					693, -- [1]
-					1471459080, -- [2]
-				}, -- [590]
-				{
-					695, -- [1]
-					1471459080, -- [2]
-				}, -- [591]
-				{
-					696, -- [1]
-					1471459080, -- [2]
-				}, -- [592]
-				{
-					712, -- [1]
-					1471459080, -- [2]
-				}, -- [593]
-				{
-					712, -- [1]
-					1471459080, -- [2]
-				}, -- [594]
-				{
-					713, -- [1]
-					1471459080, -- [2]
-				}, -- [595]
-				{
-					713, -- [1]
-					1471459080, -- [2]
-				}, -- [596]
-				{
-					714, -- [1]
-					1471459080, -- [2]
-				}, -- [597]
-				{
-					714, -- [1]
-					1471459080, -- [2]
-				}, -- [598]
-				{
-					715, -- [1]
-					1471459080, -- [2]
-				}, -- [599]
-				{
-					715, -- [1]
-					1471459080, -- [2]
-				}, -- [600]
-				{
-					716, -- [1]
-					1471459080, -- [2]
-				}, -- [601]
-				{
-					716, -- [1]
-					1471459080, -- [2]
-				}, -- [602]
-				{
-					717, -- [1]
-					1471459080, -- [2]
-				}, -- [603]
-				{
-					717, -- [1]
-					1471459080, -- [2]
-				}, -- [604]
-				{
-					718, -- [1]
-					1471459080, -- [2]
-				}, -- [605]
-				{
-					718, -- [1]
-					1471459080, -- [2]
-				}, -- [606]
-				{
-					719, -- [1]
-					1471459080, -- [2]
-				}, -- [607]
-				{
-					719, -- [1]
-					1471459080, -- [2]
-				}, -- [608]
-				{
-					720, -- [1]
-					1471459080, -- [2]
-				}, -- [609]
-				{
-					720, -- [1]
-					1471459080, -- [2]
-				}, -- [610]
-				{
-					722, -- [1]
-					1471459080, -- [2]
-				}, -- [611]
-				{
-					722, -- [1]
-					1471459080, -- [2]
-				}, -- [612]
-				{
-					724, -- [1]
-					1471459080, -- [2]
-				}, -- [613]
-				{
-					724, -- [1]
-					1471459080, -- [2]
-				}, -- [614]
-				{
-					726, -- [1]
-					1471459080, -- [2]
-				}, -- [615]
-				{
-					727, -- [1]
-					1471459080, -- [2]
-				}, -- [616]
-				{
-					729, -- [1]
-					1471459080, -- [2]
-				}, -- [617]
-				{
-					729, -- [1]
-					1471459080, -- [2]
-				}, -- [618]
-				{
-					761, -- [1]
-					1471459080, -- [2]
-				}, -- [619]
-				{
-					762, -- [1]
-					1471459080, -- [2]
-				}, -- [620]
-				{
-					762, -- [1]
-					1471459080, -- [2]
-				}, -- [621]
-				{
-					763, -- [1]
-					1471459080, -- [2]
-				}, -- [622]
-				{
-					764, -- [1]
-					1471459080, -- [2]
-				}, -- [623]
-				{
-					764, -- [1]
-					1471459080, -- [2]
-				}, -- [624]
-				{
-					765, -- [1]
-					1471459080, -- [2]
-				}, -- [625]
-				{
-					765, -- [1]
-					1471459080, -- [2]
-				}, -- [626]
-				{
-					766, -- [1]
-					1471459080, -- [2]
-				}, -- [627]
-				{
-					766, -- [1]
-					1471459080, -- [2]
-				}, -- [628]
-				{
-					767, -- [1]
-					1471459080, -- [2]
-				}, -- [629]
-				{
-					767, -- [1]
-					1471459080, -- [2]
-				}, -- [630]
-				{
-					768, -- [1]
-					1471459080, -- [2]
-				}, -- [631]
-				{
-					768, -- [1]
-					1471459080, -- [2]
-				}, -- [632]
-				{
-					769, -- [1]
-					1471459080, -- [2]
-				}, -- [633]
-				{
-					769, -- [1]
-					1471459080, -- [2]
-				}, -- [634]
-				{
-					770, -- [1]
-					1471459080, -- [2]
-				}, -- [635]
-				{
-					771, -- [1]
-					1471459080, -- [2]
-				}, -- [636]
-				{
-					772, -- [1]
-					1471459080, -- [2]
-				}, -- [637]
-				{
-					772, -- [1]
-					1471459080, -- [2]
-				}, -- [638]
-				{
-					977, -- [1]
-					1471459403, -- [2]
-				}, -- [639]
-				{
-					977, -- [1]
-					1471459403, -- [2]
-				}, -- [640]
-				{
-					978, -- [1]
-					1471459403, -- [2]
-				}, -- [641]
-				{
-					980, -- [1]
-					1471459403, -- [2]
-				}, -- [642]
-				{
-					980, -- [1]
-					1471459403, -- [2]
-				}, -- [643]
-				{
-					982, -- [1]
-					1471459403, -- [2]
-				}, -- [644]
-				{
-					982, -- [1]
-					1471459403, -- [2]
-				}, -- [645]
-				{
-					984, -- [1]
-					1471459403, -- [2]
-				}, -- [646]
-				{
-					985, -- [1]
-					1471459403, -- [2]
-				}, -- [647]
-				{
-					985, -- [1]
-					1471459403, -- [2]
-				}, -- [648]
-				{
-					987, -- [1]
-					1471459403, -- [2]
-				}, -- [649]
-				{
-					987, -- [1]
-					1471459403, -- [2]
-				}, -- [650]
-				{
-					988, -- [1]
-					1471459403, -- [2]
-				}, -- [651]
-				{
-					989, -- [1]
-					1471459403, -- [2]
-				}, -- [652]
-				{
-					990, -- [1]
-					1471459403, -- [2]
-				}, -- [653]
-				{
-					991, -- [1]
-					1471459403, -- [2]
-				}, -- [654]
-				{
-					991, -- [1]
-					1471459403, -- [2]
-				}, -- [655]
-				{
-					993, -- [1]
-					1471459403, -- [2]
-				}, -- [656]
-				{
-					994, -- [1]
-					1471459403, -- [2]
-				}, -- [657]
-				{
-					995, -- [1]
-					1471459403, -- [2]
-				}, -- [658]
-				{
-					996, -- [1]
-					1471459403, -- [2]
-				}, -- [659]
-				{
-					998, -- [1]
-					1471459403, -- [2]
-				}, -- [660]
-				{
-					998, -- [1]
-					1471459403, -- [2]
-				}, -- [661]
-				{
-					1000, -- [1]
-					1471459403, -- [2]
-				}, -- [662]
-				{
-					1001, -- [1]
-					1471459403, -- [2]
-				}, -- [663]
-				{
-					1015, -- [1]
-					1471459403, -- [2]
-				}, -- [664]
-				{
-					1015, -- [1]
-					1471459403, -- [2]
-				}, -- [665]
-				{
-					1016, -- [1]
-					1471459403, -- [2]
-				}, -- [666]
-				{
-					1016, -- [1]
-					1471459403, -- [2]
-				}, -- [667]
-				{
-					1017, -- [1]
-					1471459403, -- [2]
-				}, -- [668]
-				{
-					1017, -- [1]
-					1471459403, -- [2]
-				}, -- [669]
-				{
-					1018, -- [1]
-					1471459403, -- [2]
-				}, -- [670]
-				{
-					1018, -- [1]
-					1471459403, -- [2]
-				}, -- [671]
-				{
-					1019, -- [1]
-					1471459403, -- [2]
-				}, -- [672]
-				{
-					1020, -- [1]
-					1471459403, -- [2]
-				}, -- [673]
-				{
-					1020, -- [1]
-					1471459403, -- [2]
-				}, -- [674]
-				{
-					1021, -- [1]
-					1471459403, -- [2]
-				}, -- [675]
-				{
-					1021, -- [1]
-					1471459403, -- [2]
-				}, -- [676]
-				{
-					1023, -- [1]
-					1471459403, -- [2]
-				}, -- [677]
-				{
-					1023, -- [1]
-					1471459403, -- [2]
-				}, -- [678]
-				{
-					1025, -- [1]
-					1471459403, -- [2]
-				}, -- [679]
-				{
-					1026, -- [1]
-					1471459403, -- [2]
-				}, -- [680]
-				{
-					1028, -- [1]
-					1471459403, -- [2]
-				}, -- [681]
-				{
-					1028, -- [1]
-					1471459403, -- [2]
-				}, -- [682]
-				{
-					1030, -- [1]
-					1471459403, -- [2]
-				}, -- [683]
-				{
-					1031, -- [1]
-					1471459403, -- [2]
-				}, -- [684]
-				{
-					1033, -- [1]
-					1471459403, -- [2]
-				}, -- [685]
-				{
-					1033, -- [1]
-					1471459403, -- [2]
-				}, -- [686]
-				{
-					1035, -- [1]
-					1471459403, -- [2]
-				}, -- [687]
-				{
-					1036, -- [1]
-					1471459403, -- [2]
-				}, -- [688]
-				{
-					1038, -- [1]
-					1471459403, -- [2]
-				}, -- [689]
-				{
-					1038, -- [1]
-					1471459403, -- [2]
-				}, -- [690]
-				{
-					1040, -- [1]
-					1471459403, -- [2]
-				}, -- [691]
-				{
-					1041, -- [1]
-					1471459403, -- [2]
-				}, -- [692]
-				{
-					1042, -- [1]
-					1471459403, -- [2]
-				}, -- [693]
-				{
-					1043, -- [1]
-					1471459403, -- [2]
-				}, -- [694]
-				{
-					1045, -- [1]
-					1471459403, -- [2]
-				}, -- [695]
-				{
-					1045, -- [1]
-					1471459403, -- [2]
-				}, -- [696]
-				{
-					1047, -- [1]
-					1471459403, -- [2]
-				}, -- [697]
-				{
-					1048, -- [1]
-					1471459403, -- [2]
-				}, -- [698]
-				{
-					1050, -- [1]
-					1471459403, -- [2]
-				}, -- [699]
-				{
-					1050, -- [1]
-					1471459403, -- [2]
-				}, -- [700]
-				{
-					1052, -- [1]
-					1471459403, -- [2]
-				}, -- [701]
-				{
-					1053, -- [1]
-					1471459403, -- [2]
-				}, -- [702]
-				{
-					1055, -- [1]
-					1471459403, -- [2]
-				}, -- [703]
-				{
-					1055, -- [1]
-					1471459403, -- [2]
-				}, -- [704]
-				{
-					1057, -- [1]
-					1471459403, -- [2]
-				}, -- [705]
-				{
-					1058, -- [1]
-					1471459403, -- [2]
-				}, -- [706]
-				{
-					1059, -- [1]
-					1471459403, -- [2]
-				}, -- [707]
-				{
-					1060, -- [1]
-					1471459403, -- [2]
-				}, -- [708]
-				{
-					1060, -- [1]
-					1471459403, -- [2]
-				}, -- [709]
-				{
-					1061, -- [1]
-					1471459403, -- [2]
-				}, -- [710]
-				{
-					1061, -- [1]
-					1471459403, -- [2]
-				}, -- [711]
-				{
-					1062, -- [1]
-					1471459403, -- [2]
-				}, -- [712]
-				{
-					1062, -- [1]
-					1471459403, -- [2]
-				}, -- [713]
-				{
-					1063, -- [1]
-					1471459403, -- [2]
-				}, -- [714]
-				{
-					1063, -- [1]
-					1471459403, -- [2]
-				}, -- [715]
-				{
-					1064, -- [1]
-					1471459403, -- [2]
-				}, -- [716]
-				{
-					1065, -- [1]
-					1471459403, -- [2]
-				}, -- [717]
-				{
-					1066, -- [1]
-					1471459403, -- [2]
-				}, -- [718]
-				{
-					1066, -- [1]
-					1471459403, -- [2]
-				}, -- [719]
-				{
-					1067, -- [1]
-					1471459403, -- [2]
-				}, -- [720]
-				{
-					1067, -- [1]
-					1471459403, -- [2]
-				}, -- [721]
-				{
-					1068, -- [1]
-					1471459403, -- [2]
-				}, -- [722]
-				{
-					1068, -- [1]
-					1471459403, -- [2]
-				}, -- [723]
-				{
-					1069, -- [1]
-					1471459403, -- [2]
-				}, -- [724]
-				{
-					1070, -- [1]
-					1471459403, -- [2]
-				}, -- [725]
-				{
-					1072, -- [1]
-					1471459403, -- [2]
-				}, -- [726]
-				{
-					1072, -- [1]
-					1471459403, -- [2]
-				}, -- [727]
-				{
-					1074, -- [1]
-					1471459403, -- [2]
-				}, -- [728]
-				{
-					1075, -- [1]
-					1471459403, -- [2]
-				}, -- [729]
-				{
-					1076, -- [1]
-					1471459403, -- [2]
-				}, -- [730]
-				{
-					1077, -- [1]
-					1471459403, -- [2]
-				}, -- [731]
-				{
-					1079, -- [1]
-					1471459403, -- [2]
-				}, -- [732]
-				{
-					1080, -- [1]
-					1471459403, -- [2]
-				}, -- [733]
-				{
-					1082, -- [1]
-					1471459403, -- [2]
-				}, -- [734]
-				{
-					1083, -- [1]
-					1471459403, -- [2]
-				}, -- [735]
-				{
-					1085, -- [1]
-					1471459403, -- [2]
-				}, -- [736]
-				{
-					1085, -- [1]
-					1471459403, -- [2]
-				}, -- [737]
-				{
-					1087, -- [1]
-					1471459403, -- [2]
-				}, -- [738]
-				{
-					1090, -- [1]
-					1471459403, -- [2]
-				}, -- [739]
-				{
-					1091, -- [1]
-					1471459403, -- [2]
-				}, -- [740]
-				{
-					1092, -- [1]
-					1471459403, -- [2]
-				}, -- [741]
-				{
-					1093, -- [1]
-					1471459403, -- [2]
-				}, -- [742]
-			},
-			["Empowered Massive Blast"] = {
-				{
-					699, -- [1]
-					1467828224, -- [2]
-				}, -- [1]
-				{
-					730, -- [1]
-					1467828224, -- [2]
-				}, -- [2]
-				{
-					1051, -- [1]
-					1468433639, -- [2]
-				}, -- [3]
-				{
-					1645, -- [1]
-					1468434318, -- [2]
-				}, -- [4]
-				{
-					1677, -- [1]
-					1468434318, -- [2]
-				}, -- [5]
-				{
-					1708, -- [1]
-					1468434318, -- [2]
-				}, -- [6]
-				{
-					1743, -- [1]
-					1468434318, -- [2]
-				}, -- [7]
-				{
-					2076, -- [1]
-					1468434692, -- [2]
-				}, -- [8]
-				{
-					2107, -- [1]
-					1468434692, -- [2]
-				}, -- [9]
-				{
-					180, -- [1]
-					1469038739, -- [2]
-				}, -- [10]
-				{
-					211, -- [1]
-					1469038739, -- [2]
-				}, -- [11]
-				{
-					152, -- [1]
-					1469644154, -- [2]
-				}, -- [12]
-				{
-					183, -- [1]
-					1469644154, -- [2]
-				}, -- [13]
-				{
-					4712, -- [1]
-					1470247986, -- [2]
-				}, -- [14]
-				{
-					126, -- [1]
-					1470852244, -- [2]
-				}, -- [15]
-				{
-					158, -- [1]
-					1470852244, -- [2]
-				}, -- [16]
-				{
-					131, -- [1]
-					1471458464, -- [2]
-				}, -- [17]
-				{
-					434, -- [1]
-					1471458797, -- [2]
-				}, -- [18]
-				{
-					716, -- [1]
-					1471459080, -- [2]
-				}, -- [19]
-				{
-					748, -- [1]
-					1471459080, -- [2]
-				}, -- [20]
-				{
-					1064, -- [1]
-					1471459403, -- [2]
-				}, -- [21]
-			},
-			["Fel Hellstorm"] = {
-				{
-					529, -- [1]
-					1467828224, -- [2]
-				}, -- [1]
-				{
-					587, -- [1]
-					1467828224, -- [2]
-				}, -- [2]
-				{
-					622, -- [1]
-					1467828224, -- [2]
-				}, -- [3]
-				{
-					658, -- [1]
-					1467828224, -- [2]
-				}, -- [4]
-				{
-					688, -- [1]
-					1468433265, -- [2]
-				}, -- [5]
-				{
-					843, -- [1]
-					1468433639, -- [2]
-				}, -- [6]
-				{
-					883, -- [1]
-					1468433639, -- [2]
-				}, -- [7]
-				{
-					921, -- [1]
-					1468433639, -- [2]
-				}, -- [8]
-				{
-					956, -- [1]
-					1468433639, -- [2]
-				}, -- [9]
-				{
-					991, -- [1]
-					1468433639, -- [2]
-				}, -- [10]
-				{
-					1256, -- [1]
-					1468433898, -- [2]
-				}, -- [11]
-				{
-					1296, -- [1]
-					1468433898, -- [2]
-				}, -- [12]
-				{
-					1461, -- [1]
-					1468434318, -- [2]
-				}, -- [13]
-				{
-					1531, -- [1]
-					1468434318, -- [2]
-				}, -- [14]
-				{
-					1567, -- [1]
-					1468434318, -- [2]
-				}, -- [15]
-				{
-					1602, -- [1]
-					1468434318, -- [2]
-				}, -- [16]
-				{
-					1902, -- [1]
-					1468434692, -- [2]
-				}, -- [17]
-				{
-					1965, -- [1]
-					1468434692, -- [2]
-				}, -- [18]
-				{
-					2000, -- [1]
-					1468434692, -- [2]
-				}, -- [19]
-				{
-					2036, -- [1]
-					1468434692, -- [2]
-				}, -- [20]
-				{
-					593, -- [1]
-					1469038219, -- [2]
-				}, -- [21]
-				{
-					633, -- [1]
-					1469038219, -- [2]
-				}, -- [22]
-				{
-					29, -- [1]
-					1469038739, -- [2]
-				}, -- [23]
-				{
-					94, -- [1]
-					1469038739, -- [2]
-				}, -- [24]
-				{
-					129, -- [1]
-					1469038739, -- [2]
-				}, -- [25]
-				{
-					29, -- [1]
-					1469644154, -- [2]
-				}, -- [26]
-				{
-					82, -- [1]
-					1469644154, -- [2]
-				}, -- [27]
-				{
-					117, -- [1]
-					1469644154, -- [2]
-				}, -- [28]
-				{
-					460, -- [1]
-					1469644512, -- [2]
-				}, -- [29]
-				{
-					511, -- [1]
-					1469644512, -- [2]
-				}, -- [30]
-				{
-					4605, -- [1]
-					1470247986, -- [2]
-				}, -- [31]
-				{
-					4648, -- [1]
-					1470247986, -- [2]
-				}, -- [32]
-				{
-					30, -- [1]
-					1470852244, -- [2]
-				}, -- [33]
-				{
-					69, -- [1]
-					1470852244, -- [2]
-				}, -- [34]
-				{
-					28, -- [1]
-					1471458464, -- [2]
-				}, -- [35]
-				{
-					76, -- [1]
-					1471458464, -- [2]
-				}, -- [36]
-				{
-					333, -- [1]
-					1471458797, -- [2]
-				}, -- [37]
-				{
-					376, -- [1]
-					1471458797, -- [2]
-				}, -- [38]
-				{
-					610, -- [1]
-					1471459080, -- [2]
-				}, -- [39]
-				{
-					660, -- [1]
-					1471459080, -- [2]
-				}, -- [40]
-				{
-					960, -- [1]
-					1471459403, -- [2]
-				}, -- [41]
-				{
-					1003, -- [1]
-					1471459403, -- [2]
-				}, -- [42]
-			},
-			["Empowered Fel Hellstorm"] = {
-				{
-					687, -- [1]
-					1467828224, -- [2]
-				}, -- [1]
-				{
-					1039, -- [1]
-					1468433639, -- [2]
-				}, -- [2]
-				{
-					1634, -- [1]
-					1468434318, -- [2]
-				}, -- [3]
-				{
-					2064, -- [1]
-					1468434692, -- [2]
-				}, -- [4]
-				{
-					168, -- [1]
-					1469038739, -- [2]
-				}, -- [5]
-				{
-					140, -- [1]
-					1469644154, -- [2]
-				}, -- [6]
-				{
-					4701, -- [1]
-					1470247986, -- [2]
-				}, -- [7]
-				{
-					115, -- [1]
-					1470852244, -- [2]
-				}, -- [8]
-				{
-					119, -- [1]
-					1471458464, -- [2]
-				}, -- [9]
-				{
-					423, -- [1]
-					1471458797, -- [2]
-				}, -- [10]
-				{
-					705, -- [1]
-					1471459080, -- [2]
-				}, -- [11]
-				{
-					1053, -- [1]
-					1471459403, -- [2]
-				}, -- [12]
-			},
-			["Glaive Thrust"] = {
-				{
-					543, -- [1]
-					1467828224, -- [2]
-				}, -- [1]
-				{
-					546, -- [1]
-					1467828224, -- [2]
-				}, -- [2]
-				{
-					604, -- [1]
-					1467828224, -- [2]
-				}, -- [3]
-				{
-					607, -- [1]
-					1467828224, -- [2]
-				}, -- [4]
-				{
-					636, -- [1]
-					1467828224, -- [2]
-				}, -- [5]
-				{
-					639, -- [1]
-					1467828224, -- [2]
-				}, -- [6]
-				{
-					702, -- [1]
-					1468433265, -- [2]
-				}, -- [7]
-				{
-					705, -- [1]
-					1468433265, -- [2]
-				}, -- [8]
-				{
-					857, -- [1]
-					1468433639, -- [2]
-				}, -- [9]
-				{
-					860, -- [1]
-					1468433639, -- [2]
-				}, -- [10]
-				{
-					887, -- [1]
-					1468433639, -- [2]
-				}, -- [11]
-				{
-					937, -- [1]
-					1468433639, -- [2]
-				}, -- [12]
-				{
-					940, -- [1]
-					1468433639, -- [2]
-				}, -- [13]
-				{
-					970, -- [1]
-					1468433639, -- [2]
-				}, -- [14]
-				{
-					973, -- [1]
-					1468433639, -- [2]
-				}, -- [15]
-				{
-					1000, -- [1]
-					1468433639, -- [2]
-				}, -- [16]
-				{
-					1003, -- [1]
-					1468433639, -- [2]
-				}, -- [17]
-				{
-					1270, -- [1]
-					1468433898, -- [2]
-				}, -- [18]
-				{
-					1273, -- [1]
-					1468433898, -- [2]
-				}, -- [19]
-				{
-					1300, -- [1]
-					1468433898, -- [2]
-				}, -- [20]
-				{
-					1303, -- [1]
-					1468433898, -- [2]
-				}, -- [21]
-				{
-					1475, -- [1]
-					1468434318, -- [2]
-				}, -- [22]
-				{
-					1478, -- [1]
-					1468434318, -- [2]
-				}, -- [23]
-				{
-					1549, -- [1]
-					1468434318, -- [2]
-				}, -- [24]
-				{
-					1552, -- [1]
-					1468434318, -- [2]
-				}, -- [25]
-				{
-					1581, -- [1]
-					1468434318, -- [2]
-				}, -- [26]
-				{
-					1584, -- [1]
-					1468434318, -- [2]
-				}, -- [27]
-				{
-					1611, -- [1]
-					1468434318, -- [2]
-				}, -- [28]
-				{
-					1916, -- [1]
-					1468434692, -- [2]
-				}, -- [29]
-				{
-					1919, -- [1]
-					1468434692, -- [2]
-				}, -- [30]
-				{
-					1982, -- [1]
-					1468434692, -- [2]
-				}, -- [31]
-				{
-					1985, -- [1]
-					1468434692, -- [2]
-				}, -- [32]
-				{
-					2014, -- [1]
-					1468434692, -- [2]
-				}, -- [33]
-				{
-					2017, -- [1]
-					1468434692, -- [2]
-				}, -- [34]
-				{
-					607, -- [1]
-					1469038219, -- [2]
-				}, -- [35]
-				{
-					610, -- [1]
-					1469038219, -- [2]
-				}, -- [36]
-				{
-					638, -- [1]
-					1469038219, -- [2]
-				}, -- [37]
-				{
-					641, -- [1]
-					1469038219, -- [2]
-				}, -- [38]
-				{
-					43, -- [1]
-					1469038739, -- [2]
-				}, -- [39]
-				{
-					46, -- [1]
-					1469038739, -- [2]
-				}, -- [40]
-				{
-					110, -- [1]
-					1469038739, -- [2]
-				}, -- [41]
-				{
-					113, -- [1]
-					1469038739, -- [2]
-				}, -- [42]
-				{
-					143, -- [1]
-					1469038739, -- [2]
-				}, -- [43]
-				{
-					146, -- [1]
-					1469038739, -- [2]
-				}, -- [44]
-				{
-					43, -- [1]
-					1469644154, -- [2]
-				}, -- [45]
-				{
-					46, -- [1]
-					1469644154, -- [2]
-				}, -- [46]
-				{
-					98, -- [1]
-					1469644154, -- [2]
-				}, -- [47]
-				{
-					101, -- [1]
-					1469644154, -- [2]
-				}, -- [48]
-				{
-					474, -- [1]
-					1469644512, -- [2]
-				}, -- [49]
-				{
-					477, -- [1]
-					1469644512, -- [2]
-				}, -- [50]
-				{
-					529, -- [1]
-					1469644512, -- [2]
-				}, -- [51]
-				{
-					532, -- [1]
-					1469644512, -- [2]
-				}, -- [52]
-				{
-					4666, -- [1]
-					1470247986, -- [2]
-				}, -- [53]
-				{
-					4669, -- [1]
-					1470247986, -- [2]
-				}, -- [54]
-				{
-					87, -- [1]
-					1470852244, -- [2]
-				}, -- [55]
-				{
-					90, -- [1]
-					1470852244, -- [2]
-				}, -- [56]
-				{
-					42, -- [1]
-					1471458464, -- [2]
-				}, -- [57]
-				{
-					45, -- [1]
-					1471458464, -- [2]
-				}, -- [58]
-				{
-					94, -- [1]
-					1471458464, -- [2]
-				}, -- [59]
-				{
-					97, -- [1]
-					1471458464, -- [2]
-				}, -- [60]
-				{
-					393, -- [1]
-					1471458797, -- [2]
-				}, -- [61]
-				{
-					396, -- [1]
-					1471458797, -- [2]
-				}, -- [62]
-				{
-					625, -- [1]
-					1471459080, -- [2]
-				}, -- [63]
-				{
-					628, -- [1]
-					1471459080, -- [2]
-				}, -- [64]
-				{
-					678, -- [1]
-					1471459080, -- [2]
-				}, -- [65]
-				{
-					681, -- [1]
-					1471459080, -- [2]
-				}, -- [66]
-				{
-					1020, -- [1]
-					1471459403, -- [2]
-				}, -- [67]
-				{
-					1023, -- [1]
-					1471459403, -- [2]
-				}, -- [68]
-			},
-			["Empowered Felseeker"] = {
-				{
-					1682, -- [1]
-					1468434318, -- [2]
-				}, -- [1]
-				{
-					1685, -- [1]
-					1468434318, -- [2]
-				}, -- [2]
-				{
-					1687, -- [1]
-					1468434318, -- [2]
-				}, -- [3]
-				{
-					1733, -- [1]
-					1468434318, -- [2]
-				}, -- [4]
-				{
-					1736, -- [1]
-					1468434318, -- [2]
-				}, -- [5]
-				{
-					1738, -- [1]
-					1468434318, -- [2]
-				}, -- [6]
-				{
-					2112, -- [1]
-					1468434692, -- [2]
-				}, -- [7]
-				{
-					2115, -- [1]
-					1468434692, -- [2]
-				}, -- [8]
-				{
-					2117, -- [1]
-					1468434692, -- [2]
-				}, -- [9]
-				{
-					215, -- [1]
-					1469038739, -- [2]
-				}, -- [10]
-				{
-					218, -- [1]
-					1469038739, -- [2]
-				}, -- [11]
-				{
-					220, -- [1]
-					1469038739, -- [2]
-				}, -- [12]
-				{
-					188, -- [1]
-					1469644154, -- [2]
-				}, -- [13]
-				{
-					191, -- [1]
-					1469644154, -- [2]
-				}, -- [14]
-				{
-					193, -- [1]
-					1469644154, -- [2]
-				}, -- [15]
-				{
-					471, -- [1]
-					1471458797, -- [2]
-				}, -- [16]
-				{
-					473, -- [1]
-					1471458797, -- [2]
-				}, -- [17]
-				{
-					476, -- [1]
-					1471458797, -- [2]
-				}, -- [18]
-				{
-					753, -- [1]
-					1471459080, -- [2]
-				}, -- [19]
-				{
-					755, -- [1]
-					1471459080, -- [2]
-				}, -- [20]
-				{
-					758, -- [1]
-					1471459080, -- [2]
-				}, -- [21]
-			},
-			["Fel Hellfire"] = {
-				{
-					886, -- [1]
-					1468433639, -- [2]
-				}, -- [1]
-				{
-					887, -- [1]
-					1468433639, -- [2]
-				}, -- [2]
-				{
-					888, -- [1]
-					1468433639, -- [2]
-				}, -- [3]
-				{
-					889, -- [1]
-					1468433639, -- [2]
-				}, -- [4]
-				{
-					890, -- [1]
-					1468433639, -- [2]
-				}, -- [5]
-				{
-					891, -- [1]
-					1468433639, -- [2]
-				}, -- [6]
-				{
-					892, -- [1]
-					1468433639, -- [2]
-				}, -- [7]
-				{
-					893, -- [1]
-					1468433639, -- [2]
-				}, -- [8]
-				{
-					894, -- [1]
-					1468433639, -- [2]
-				}, -- [9]
-				{
-					895, -- [1]
-					1468433639, -- [2]
-				}, -- [10]
-				{
-					896, -- [1]
-					1468433639, -- [2]
-				}, -- [11]
-				{
-					1299, -- [1]
-					1468433898, -- [2]
-				}, -- [12]
-				{
-					1300, -- [1]
-					1468433898, -- [2]
-				}, -- [13]
-				{
-					1301, -- [1]
-					1468433898, -- [2]
-				}, -- [14]
-				{
-					1302, -- [1]
-					1468433898, -- [2]
-				}, -- [15]
-				{
-					1303, -- [1]
-					1468433898, -- [2]
-				}, -- [16]
-				{
-					1304, -- [1]
-					1468433898, -- [2]
-				}, -- [17]
-				{
-					1305, -- [1]
-					1468433898, -- [2]
-				}, -- [18]
-				{
-					1306, -- [1]
-					1468433898, -- [2]
-				}, -- [19]
-				{
-					1307, -- [1]
-					1468433898, -- [2]
-				}, -- [20]
-				{
-					1308, -- [1]
-					1468433898, -- [2]
-				}, -- [21]
-				{
-					1309, -- [1]
-					1468433898, -- [2]
-				}, -- [22]
-				{
-					1319, -- [1]
-					1468433898, -- [2]
-				}, -- [23]
-				{
-					1320, -- [1]
-					1468433898, -- [2]
-				}, -- [24]
-				{
-					1321, -- [1]
-					1468433898, -- [2]
-				}, -- [25]
-				{
-					1322, -- [1]
-					1468433898, -- [2]
-				}, -- [26]
-				{
-					1323, -- [1]
-					1468433898, -- [2]
-				}, -- [27]
-				{
-					1324, -- [1]
-					1468433898, -- [2]
-				}, -- [28]
-				{
-					1325, -- [1]
-					1468433898, -- [2]
-				}, -- [29]
-				{
-					1326, -- [1]
-					1468433898, -- [2]
-				}, -- [30]
-				{
-					1327, -- [1]
-					1468433898, -- [2]
-				}, -- [31]
-				{
-					1504, -- [1]
-					1468434318, -- [2]
-				}, -- [32]
-				{
-					1505, -- [1]
-					1468434318, -- [2]
-				}, -- [33]
-				{
-					1506, -- [1]
-					1468434318, -- [2]
-				}, -- [34]
-				{
-					1507, -- [1]
-					1468434318, -- [2]
-				}, -- [35]
-				{
-					1508, -- [1]
-					1468434318, -- [2]
-				}, -- [36]
-				{
-					1509, -- [1]
-					1468434318, -- [2]
-				}, -- [37]
-				{
-					1510, -- [1]
-					1468434318, -- [2]
-				}, -- [38]
-				{
-					1511, -- [1]
-					1468434318, -- [2]
-				}, -- [39]
-				{
-					1512, -- [1]
-					1468434318, -- [2]
-				}, -- [40]
-				{
-					1513, -- [1]
-					1468434318, -- [2]
-				}, -- [41]
-				{
-					1514, -- [1]
-					1468434318, -- [2]
-				}, -- [42]
-				{
-					637, -- [1]
-					1469038219, -- [2]
-				}, -- [43]
-				{
-					638, -- [1]
-					1469038219, -- [2]
-				}, -- [44]
-				{
-					639, -- [1]
-					1469038219, -- [2]
-				}, -- [45]
-				{
-					640, -- [1]
-					1469038219, -- [2]
-				}, -- [46]
-				{
-					641, -- [1]
-					1469038219, -- [2]
-				}, -- [47]
-				{
-					642, -- [1]
-					1469038219, -- [2]
-				}, -- [48]
-				{
-					643, -- [1]
-					1469038219, -- [2]
-				}, -- [49]
-				{
-					644, -- [1]
-					1469038219, -- [2]
-				}, -- [50]
-				{
-					645, -- [1]
-					1469038219, -- [2]
-				}, -- [51]
-				{
-					646, -- [1]
-					1469038219, -- [2]
-				}, -- [52]
-				{
-					647, -- [1]
-					1469038219, -- [2]
-				}, -- [53]
-				{
-					657, -- [1]
-					1469038219, -- [2]
-				}, -- [54]
-				{
-					658, -- [1]
-					1469038219, -- [2]
-				}, -- [55]
-				{
-					659, -- [1]
-					1469038219, -- [2]
-				}, -- [56]
-				{
-					660, -- [1]
-					1469038219, -- [2]
-				}, -- [57]
-				{
-					661, -- [1]
-					1469038219, -- [2]
-				}, -- [58]
-				{
-					662, -- [1]
-					1469038219, -- [2]
-				}, -- [59]
-				{
-					663, -- [1]
-					1469038219, -- [2]
-				}, -- [60]
-				{
-					664, -- [1]
-					1469038219, -- [2]
-				}, -- [61]
-				{
-					665, -- [1]
-					1469038219, -- [2]
-				}, -- [62]
-			},
-			["Shadowforce"] = {
-				{
-					592, -- [1]
-					1467828224, -- [2]
-				}, -- [1]
-				{
-					593, -- [1]
-					1467828224, -- [2]
-				}, -- [2]
-				{
-					593, -- [1]
-					1467828224, -- [2]
-				}, -- [3]
-				{
-					595, -- [1]
-					1467828224, -- [2]
-				}, -- [4]
-				{
-					597, -- [1]
-					1467828224, -- [2]
-				}, -- [5]
-				{
-					599, -- [1]
-					1467828224, -- [2]
-				}, -- [6]
-				{
-					645, -- [1]
-					1467828224, -- [2]
-				}, -- [7]
-				{
-					645, -- [1]
-					1467828224, -- [2]
-				}, -- [8]
-				{
-					645, -- [1]
-					1467828224, -- [2]
-				}, -- [9]
-				{
-					647, -- [1]
-					1467828224, -- [2]
-				}, -- [10]
-				{
-					649, -- [1]
-					1467828224, -- [2]
-				}, -- [11]
-				{
-					651, -- [1]
-					1467828224, -- [2]
-				}, -- [12]
-				{
-					926, -- [1]
-					1468433639, -- [2]
-				}, -- [13]
-				{
-					926, -- [1]
-					1468433639, -- [2]
-				}, -- [14]
-				{
-					926, -- [1]
-					1468433639, -- [2]
-				}, -- [15]
-				{
-					927, -- [1]
-					1468433639, -- [2]
-				}, -- [16]
-				{
-					928, -- [1]
-					1468433639, -- [2]
-				}, -- [17]
-				{
-					930, -- [1]
-					1468433639, -- [2]
-				}, -- [18]
-				{
-					932, -- [1]
-					1468433639, -- [2]
-				}, -- [19]
-				{
-					978, -- [1]
-					1468433639, -- [2]
-				}, -- [20]
-				{
-					979, -- [1]
-					1468433639, -- [2]
-				}, -- [21]
-				{
-					979, -- [1]
-					1468433639, -- [2]
-				}, -- [22]
-				{
-					980, -- [1]
-					1468433639, -- [2]
-				}, -- [23]
-				{
-					982, -- [1]
-					1468433639, -- [2]
-				}, -- [24]
-				{
-					985, -- [1]
-					1468433639, -- [2]
-				}, -- [25]
-				{
-					1537, -- [1]
-					1468434318, -- [2]
-				}, -- [26]
-				{
-					1537, -- [1]
-					1468434318, -- [2]
-				}, -- [27]
-				{
-					1537, -- [1]
-					1468434318, -- [2]
-				}, -- [28]
-				{
-					1539, -- [1]
-					1468434318, -- [2]
-				}, -- [29]
-				{
-					1541, -- [1]
-					1468434318, -- [2]
-				}, -- [30]
-				{
-					1543, -- [1]
-					1468434318, -- [2]
-				}, -- [31]
-				{
-					1589, -- [1]
-					1468434318, -- [2]
-				}, -- [32]
-				{
-					1589, -- [1]
-					1468434318, -- [2]
-				}, -- [33]
-				{
-					1589, -- [1]
-					1468434318, -- [2]
-				}, -- [34]
-				{
-					1591, -- [1]
-					1468434318, -- [2]
-				}, -- [35]
-				{
-					1593, -- [1]
-					1468434318, -- [2]
-				}, -- [36]
-				{
-					1595, -- [1]
-					1468434318, -- [2]
-				}, -- [37]
-				{
-					1970, -- [1]
-					1468434692, -- [2]
-				}, -- [38]
-				{
-					1971, -- [1]
-					1468434692, -- [2]
-				}, -- [39]
-				{
-					1971, -- [1]
-					1468434692, -- [2]
-				}, -- [40]
-				{
-					1973, -- [1]
-					1468434692, -- [2]
-				}, -- [41]
-				{
-					1975, -- [1]
-					1468434692, -- [2]
-				}, -- [42]
-				{
-					1976, -- [1]
-					1468434692, -- [2]
-				}, -- [43]
-				{
-					2023, -- [1]
-					1468434692, -- [2]
-				}, -- [44]
-				{
-					2023, -- [1]
-					1468434692, -- [2]
-				}, -- [45]
-				{
-					2023, -- [1]
-					1468434692, -- [2]
-				}, -- [46]
-				{
-					2025, -- [1]
-					1468434692, -- [2]
-				}, -- [47]
-				{
-					2027, -- [1]
-					1468434692, -- [2]
-				}, -- [48]
-				{
-					2029, -- [1]
-					1468434692, -- [2]
-				}, -- [49]
-				{
-					99, -- [1]
-					1469038739, -- [2]
-				}, -- [50]
-				{
-					99, -- [1]
-					1469038739, -- [2]
-				}, -- [51]
-				{
-					99, -- [1]
-					1469038739, -- [2]
-				}, -- [52]
-				{
-					101, -- [1]
-					1469038739, -- [2]
-				}, -- [53]
-				{
-					103, -- [1]
-					1469038739, -- [2]
-				}, -- [54]
-				{
-					87, -- [1]
-					1469644154, -- [2]
-				}, -- [55]
-				{
-					87, -- [1]
-					1469644154, -- [2]
-				}, -- [56]
-				{
-					87, -- [1]
-					1469644154, -- [2]
-				}, -- [57]
-				{
-					89, -- [1]
-					1469644154, -- [2]
-				}, -- [58]
-				{
-					91, -- [1]
-					1469644154, -- [2]
-				}, -- [59]
-				{
-					517, -- [1]
-					1469644512, -- [2]
-				}, -- [60]
-				{
-					517, -- [1]
-					1469644512, -- [2]
-				}, -- [61]
-				{
-					517, -- [1]
-					1469644512, -- [2]
-				}, -- [62]
-				{
-					519, -- [1]
-					1469644512, -- [2]
-				}, -- [63]
-				{
-					521, -- [1]
-					1469644512, -- [2]
-				}, -- [64]
-				{
-					4654, -- [1]
-					1470247986, -- [2]
-				}, -- [65]
-				{
-					4655, -- [1]
-					1470247986, -- [2]
-				}, -- [66]
-				{
-					4655, -- [1]
-					1470247986, -- [2]
-				}, -- [67]
-				{
-					4656, -- [1]
-					1470247986, -- [2]
-				}, -- [68]
-				{
-					4658, -- [1]
-					1470247986, -- [2]
-				}, -- [69]
-				{
-					75, -- [1]
-					1470852244, -- [2]
-				}, -- [70]
-				{
-					75, -- [1]
-					1470852244, -- [2]
-				}, -- [71]
-				{
-					75, -- [1]
-					1470852244, -- [2]
-				}, -- [72]
-				{
-					77, -- [1]
-					1470852244, -- [2]
-				}, -- [73]
-				{
-					79, -- [1]
-					1470852244, -- [2]
-				}, -- [74]
-				{
-					81, -- [1]
-					1470852244, -- [2]
-				}, -- [75]
-				{
-					82, -- [1]
-					1471458464, -- [2]
-				}, -- [76]
-				{
-					82, -- [1]
-					1471458464, -- [2]
-				}, -- [77]
-				{
-					82, -- [1]
-					1471458464, -- [2]
-				}, -- [78]
-				{
-					84, -- [1]
-					1471458464, -- [2]
-				}, -- [79]
-				{
-					86, -- [1]
-					1471458464, -- [2]
-				}, -- [80]
-				{
-					381, -- [1]
-					1471458797, -- [2]
-				}, -- [81]
-				{
-					382, -- [1]
-					1471458797, -- [2]
-				}, -- [82]
-				{
-					382, -- [1]
-					1471458797, -- [2]
-				}, -- [83]
-				{
-					383, -- [1]
-					1471458797, -- [2]
-				}, -- [84]
-				{
-					385, -- [1]
-					1471458797, -- [2]
-				}, -- [85]
-				{
-					386, -- [1]
-					1471458797, -- [2]
-				}, -- [86]
-				{
-					666, -- [1]
-					1471459080, -- [2]
-				}, -- [87]
-				{
-					666, -- [1]
-					1471459080, -- [2]
-				}, -- [88]
-				{
-					666, -- [1]
-					1471459080, -- [2]
-				}, -- [89]
-				{
-					668, -- [1]
-					1471459080, -- [2]
-				}, -- [90]
-				{
-					670, -- [1]
-					1471459080, -- [2]
-				}, -- [91]
-				{
-					671, -- [1]
-					1471459080, -- [2]
-				}, -- [92]
-				{
-					1009, -- [1]
-					1471459403, -- [2]
-				}, -- [93]
-				{
-					1009, -- [1]
-					1471459403, -- [2]
-				}, -- [94]
-				{
-					1009, -- [1]
-					1471459403, -- [2]
-				}, -- [95]
-				{
-					1011, -- [1]
-					1471459403, -- [2]
-				}, -- [96]
-				{
-					1013, -- [1]
-					1471459403, -- [2]
-				}, -- [97]
-			},
-			["Mannoroth's Gaze"] = {
-				{
-					602, -- [1]
-					1467828224, -- [2]
-				}, -- [1]
-				{
-					653, -- [1]
-					1467828224, -- [2]
-				}, -- [2]
-				{
-					881, -- [1]
-					1468433639, -- [2]
-				}, -- [3]
-				{
-					936, -- [1]
-					1468433639, -- [2]
-				}, -- [4]
-				{
-					987, -- [1]
-					1468433639, -- [2]
-				}, -- [5]
-				{
-					1294, -- [1]
-					1468433898, -- [2]
-				}, -- [6]
-				{
-					1499, -- [1]
-					1468434318, -- [2]
-				}, -- [7]
-				{
-					1546, -- [1]
-					1468434318, -- [2]
-				}, -- [8]
-				{
-					1597, -- [1]
-					1468434318, -- [2]
-				}, -- [9]
-				{
-					1980, -- [1]
-					1468434692, -- [2]
-				}, -- [10]
-				{
-					2031, -- [1]
-					1468434692, -- [2]
-				}, -- [11]
-				{
-					631, -- [1]
-					1469038219, -- [2]
-				}, -- [12]
-				{
-					109, -- [1]
-					1469038739, -- [2]
-				}, -- [13]
-				{
-					97, -- [1]
-					1469644154, -- [2]
-				}, -- [14]
-				{
-					526, -- [1]
-					1469644512, -- [2]
-				}, -- [15]
-				{
-					4664, -- [1]
-					1470247986, -- [2]
-				}, -- [16]
-				{
-					86, -- [1]
-					1470852244, -- [2]
-				}, -- [17]
-				{
-					91, -- [1]
-					1471458464, -- [2]
-				}, -- [18]
-				{
-					391, -- [1]
-					1471458797, -- [2]
-				}, -- [19]
-				{
-					675, -- [1]
-					1471459080, -- [2]
-				}, -- [20]
-				{
-					1019, -- [1]
-					1471459403, -- [2]
-				}, -- [21]
-			},
-			["Empowered Shadowforce"] = {
-				{
-					718, -- [1]
-					1467828224, -- [2]
-				}, -- [1]
-				{
-					718, -- [1]
-					1467828224, -- [2]
-				}, -- [2]
-				{
-					720, -- [1]
-					1467828224, -- [2]
-				}, -- [3]
-				{
-					722, -- [1]
-					1467828224, -- [2]
-				}, -- [4]
-				{
-					724, -- [1]
-					1467828224, -- [2]
-				}, -- [5]
-				{
-					1070, -- [1]
-					1468433639, -- [2]
-				}, -- [6]
-				{
-					1070, -- [1]
-					1468433639, -- [2]
-				}, -- [7]
-				{
-					1072, -- [1]
-					1468433639, -- [2]
-				}, -- [8]
-				{
-					1074, -- [1]
-					1468433639, -- [2]
-				}, -- [9]
-				{
-					1076, -- [1]
-					1468433639, -- [2]
-				}, -- [10]
-				{
-					1664, -- [1]
-					1468434318, -- [2]
-				}, -- [11]
-				{
-					1665, -- [1]
-					1468434318, -- [2]
-				}, -- [12]
-				{
-					1666, -- [1]
-					1468434318, -- [2]
-				}, -- [13]
-				{
-					1668, -- [1]
-					1468434318, -- [2]
-				}, -- [14]
-				{
-					1670, -- [1]
-					1468434318, -- [2]
-				}, -- [15]
-				{
-					1717, -- [1]
-					1468434318, -- [2]
-				}, -- [16]
-				{
-					1717, -- [1]
-					1468434318, -- [2]
-				}, -- [17]
-				{
-					1719, -- [1]
-					1468434318, -- [2]
-				}, -- [18]
-				{
-					1721, -- [1]
-					1468434318, -- [2]
-				}, -- [19]
-				{
-					1723, -- [1]
-					1468434318, -- [2]
-				}, -- [20]
-				{
-					2094, -- [1]
-					1468434692, -- [2]
-				}, -- [21]
-				{
-					2095, -- [1]
-					1468434692, -- [2]
-				}, -- [22]
-				{
-					2096, -- [1]
-					1468434692, -- [2]
-				}, -- [23]
-				{
-					2097, -- [1]
-					1468434692, -- [2]
-				}, -- [24]
-				{
-					2099, -- [1]
-					1468434692, -- [2]
-				}, -- [25]
-				{
-					2101, -- [1]
-					1468434692, -- [2]
-				}, -- [26]
-				{
-					199, -- [1]
-					1469038739, -- [2]
-				}, -- [27]
-				{
-					199, -- [1]
-					1469038739, -- [2]
-				}, -- [28]
-				{
-					201, -- [1]
-					1469038739, -- [2]
-				}, -- [29]
-				{
-					202, -- [1]
-					1469038739, -- [2]
-				}, -- [30]
-				{
-					203, -- [1]
-					1469038739, -- [2]
-				}, -- [31]
-				{
-					205, -- [1]
-					1469038739, -- [2]
-				}, -- [32]
-				{
-					171, -- [1]
-					1469644154, -- [2]
-				}, -- [33]
-				{
-					171, -- [1]
-					1469644154, -- [2]
-				}, -- [34]
-				{
-					173, -- [1]
-					1469644154, -- [2]
-				}, -- [35]
-				{
-					175, -- [1]
-					1469644154, -- [2]
-				}, -- [36]
-				{
-					4731, -- [1]
-					1470247986, -- [2]
-				}, -- [37]
-				{
-					4731, -- [1]
-					1470247986, -- [2]
-				}, -- [38]
-				{
-					4733, -- [1]
-					1470247986, -- [2]
-				}, -- [39]
-				{
-					4735, -- [1]
-					1470247986, -- [2]
-				}, -- [40]
-				{
-					4737, -- [1]
-					1470247986, -- [2]
-				}, -- [41]
-				{
-					145, -- [1]
-					1470852244, -- [2]
-				}, -- [42]
-				{
-					145, -- [1]
-					1470852244, -- [2]
-				}, -- [43]
-				{
-					147, -- [1]
-					1470852244, -- [2]
-				}, -- [44]
-				{
-					149, -- [1]
-					1470852244, -- [2]
-				}, -- [45]
-				{
-					150, -- [1]
-					1470852244, -- [2]
-				}, -- [46]
-				{
-					151, -- [1]
-					1470852244, -- [2]
-				}, -- [47]
-				{
-					152, -- [1]
-					1471458464, -- [2]
-				}, -- [48]
-				{
-					152, -- [1]
-					1471458464, -- [2]
-				}, -- [49]
-				{
-					154, -- [1]
-					1471458464, -- [2]
-				}, -- [50]
-				{
-					453, -- [1]
-					1471458797, -- [2]
-				}, -- [51]
-				{
-					453, -- [1]
-					1471458797, -- [2]
-				}, -- [52]
-				{
-					455, -- [1]
-					1471458797, -- [2]
-				}, -- [53]
-				{
-					457, -- [1]
-					1471458797, -- [2]
-				}, -- [54]
-				{
-					459, -- [1]
-					1471458797, -- [2]
-				}, -- [55]
-				{
-					735, -- [1]
-					1471459080, -- [2]
-				}, -- [56]
-				{
-					735, -- [1]
-					1471459080, -- [2]
-				}, -- [57]
-				{
-					737, -- [1]
-					1471459080, -- [2]
-				}, -- [58]
-				{
-					739, -- [1]
-					1471459080, -- [2]
-				}, -- [59]
-				{
-					1083, -- [1]
-					1471459403, -- [2]
-				}, -- [60]
-				{
-					1083, -- [1]
-					1471459403, -- [2]
-				}, -- [61]
-				{
-					1085, -- [1]
-					1471459403, -- [2]
-				}, -- [62]
-				{
-					1087, -- [1]
-					1471459403, -- [2]
-				}, -- [63]
-				{
-					1089, -- [1]
-					1471459403, -- [2]
-				}, -- [64]
-			},
-			["Fel Streak"] = {
-				{
-					1315, -- [1]
-					1468433898, -- [2]
-				}, -- [1]
-				{
-					1315, -- [1]
-					1468433898, -- [2]
-				}, -- [2]
-				{
-					1316, -- [1]
-					1468433898, -- [2]
-				}, -- [3]
-				{
-					653, -- [1]
-					1469038219, -- [2]
-				}, -- [4]
-				{
-					653, -- [1]
-					1469038219, -- [2]
-				}, -- [5]
-			},
-			["Empowered Glaive Thrust"] = {
-				{
-					697, -- [1]
-					1467828224, -- [2]
-				}, -- [1]
-				{
-					700, -- [1]
-					1467828224, -- [2]
-				}, -- [2]
-				{
-					729, -- [1]
-					1467828224, -- [2]
-				}, -- [3]
-				{
-					732, -- [1]
-					1467828224, -- [2]
-				}, -- [4]
-				{
-					1049, -- [1]
-					1468433639, -- [2]
-				}, -- [5]
-				{
-					1052, -- [1]
-					1468433639, -- [2]
-				}, -- [6]
-				{
-					1644, -- [1]
-					1468434318, -- [2]
-				}, -- [7]
-				{
-					1647, -- [1]
-					1468434318, -- [2]
-				}, -- [8]
-				{
-					1676, -- [1]
-					1468434318, -- [2]
-				}, -- [9]
-				{
-					1679, -- [1]
-					1468434318, -- [2]
-				}, -- [10]
-				{
-					1707, -- [1]
-					1468434318, -- [2]
-				}, -- [11]
-				{
-					1710, -- [1]
-					1468434318, -- [2]
-				}, -- [12]
-				{
-					1742, -- [1]
-					1468434318, -- [2]
-				}, -- [13]
-				{
-					1745, -- [1]
-					1468434318, -- [2]
-				}, -- [14]
-				{
-					2074, -- [1]
-					1468434692, -- [2]
-				}, -- [15]
-				{
-					2077, -- [1]
-					1468434692, -- [2]
-				}, -- [16]
-				{
-					2106, -- [1]
-					1468434692, -- [2]
-				}, -- [17]
-				{
-					2109, -- [1]
-					1468434692, -- [2]
-				}, -- [18]
-				{
-					178, -- [1]
-					1469038739, -- [2]
-				}, -- [19]
-				{
-					181, -- [1]
-					1469038739, -- [2]
-				}, -- [20]
-				{
-					210, -- [1]
-					1469038739, -- [2]
-				}, -- [21]
-				{
-					213, -- [1]
-					1469038739, -- [2]
-				}, -- [22]
-				{
-					150, -- [1]
-					1469644154, -- [2]
-				}, -- [23]
-				{
-					153, -- [1]
-					1469644154, -- [2]
-				}, -- [24]
-				{
-					182, -- [1]
-					1469644154, -- [2]
-				}, -- [25]
-				{
-					4711, -- [1]
-					1470247986, -- [2]
-				}, -- [26]
-				{
-					4714, -- [1]
-					1470247986, -- [2]
-				}, -- [27]
-				{
-					4742, -- [1]
-					1470247986, -- [2]
-				}, -- [28]
-				{
-					125, -- [1]
-					1470852244, -- [2]
-				}, -- [29]
-				{
-					128, -- [1]
-					1470852244, -- [2]
-				}, -- [30]
-				{
-					156, -- [1]
-					1470852244, -- [2]
-				}, -- [31]
-				{
-					129, -- [1]
-					1471458464, -- [2]
-				}, -- [32]
-				{
-					433, -- [1]
-					1471458797, -- [2]
-				}, -- [33]
-				{
-					436, -- [1]
-					1471458797, -- [2]
-				}, -- [34]
-				{
-					465, -- [1]
-					1471458797, -- [2]
-				}, -- [35]
-				{
-					468, -- [1]
-					1471458797, -- [2]
-				}, -- [36]
-				{
-					714, -- [1]
-					1471459080, -- [2]
-				}, -- [37]
-				{
-					717, -- [1]
-					1471459080, -- [2]
-				}, -- [38]
-				{
-					746, -- [1]
-					1471459080, -- [2]
-				}, -- [39]
-				{
-					1062, -- [1]
-					1471459403, -- [2]
-				}, -- [40]
-				{
-					1065, -- [1]
-					1471459403, -- [2]
-				}, -- [41]
-				{
-					1094, -- [1]
-					1471459403, -- [2]
-				}, -- [42]
-			},
-			["Curse of the Legion"] = {
-				{
-					522, -- [1]
-					1467828224, -- [2]
-				}, -- [1]
-				{
-					620, -- [1]
-					1467828224, -- [2]
-				}, -- [2]
-				{
-					680, -- [1]
-					1468433265, -- [2]
-				}, -- [3]
-				{
-					836, -- [1]
-					1468433639, -- [2]
-				}, -- [4]
-				{
-					901, -- [1]
-					1468433639, -- [2]
-				}, -- [5]
-				{
-					953, -- [1]
-					1468433639, -- [2]
-				}, -- [6]
-				{
-					1248, -- [1]
-					1468433898, -- [2]
-				}, -- [7]
-				{
-					1313, -- [1]
-					1468433898, -- [2]
-				}, -- [8]
-				{
-					1454, -- [1]
-					1468434318, -- [2]
-				}, -- [9]
-				{
-					1564, -- [1]
-					1468434318, -- [2]
-				}, -- [10]
-				{
-					1895, -- [1]
-					1468434692, -- [2]
-				}, -- [11]
-				{
-					1998, -- [1]
-					1468434692, -- [2]
-				}, -- [12]
-				{
-					586, -- [1]
-					1469038219, -- [2]
-				}, -- [13]
-				{
-					651, -- [1]
-					1469038219, -- [2]
-				}, -- [14]
-				{
-					22, -- [1]
-					1469038739, -- [2]
-				}, -- [15]
-				{
-					127, -- [1]
-					1469038739, -- [2]
-				}, -- [16]
-				{
-					22, -- [1]
-					1469644154, -- [2]
-				}, -- [17]
-				{
-					114, -- [1]
-					1469644154, -- [2]
-				}, -- [18]
-				{
-					453, -- [1]
-					1469644512, -- [2]
-				}, -- [19]
-				{
-					544, -- [1]
-					1469644512, -- [2]
-				}, -- [20]
-				{
-					4598, -- [1]
-					1470247986, -- [2]
-				}, -- [21]
-				{
-					22, -- [1]
-					1470852244, -- [2]
-				}, -- [22]
-				{
-					21, -- [1]
-					1471458464, -- [2]
-				}, -- [23]
-				{
-					325, -- [1]
-					1471458797, -- [2]
-				}, -- [24]
-				{
-					603, -- [1]
-					1471459080, -- [2]
-				}, -- [25]
-				{
-					953, -- [1]
-					1471459403, -- [2]
-				}, -- [26]
-			},
-			["Empowered Mannoroth's Gaze"] = {
-				{
-					703, -- [1]
-					1467828224, -- [2]
-				}, -- [1]
-				{
-					1055, -- [1]
-					1468433639, -- [2]
-				}, -- [2]
-				{
-					1649, -- [1]
-					1468434318, -- [2]
-				}, -- [3]
-				{
-					1697, -- [1]
-					1468434318, -- [2]
-				}, -- [4]
-				{
-					1748, -- [1]
-					1468434318, -- [2]
-				}, -- [5]
-				{
-					2079, -- [1]
-					1468434692, -- [2]
-				}, -- [6]
-				{
-					2127, -- [1]
-					1468434692, -- [2]
-				}, -- [7]
-				{
-					184, -- [1]
-					1469038739, -- [2]
-				}, -- [8]
-				{
-					156, -- [1]
-					1469644154, -- [2]
-				}, -- [9]
-				{
-					4716, -- [1]
-					1470247986, -- [2]
-				}, -- [10]
-				{
-					130, -- [1]
-					1470852244, -- [2]
-				}, -- [11]
-				{
-					135, -- [1]
-					1471458464, -- [2]
-				}, -- [12]
-				{
-					438, -- [1]
-					1471458797, -- [2]
-				}, -- [13]
-				{
-					486, -- [1]
-					1471458797, -- [2]
-				}, -- [14]
-				{
-					720, -- [1]
-					1471459080, -- [2]
-				}, -- [15]
-				{
-					767, -- [1]
-					1471459080, -- [2]
-				}, -- [16]
-				{
-					1068, -- [1]
-					1471459403, -- [2]
-				}, -- [17]
-			},
-			["Felseeker"] = {
-				{
-					627, -- [1]
-					1467828224, -- [2]
-				}, -- [1]
-				{
-					630, -- [1]
-					1467828224, -- [2]
-				}, -- [2]
-				{
-					633, -- [1]
-					1467828224, -- [2]
-				}, -- [3]
-				{
-					872, -- [1]
-					1468433639, -- [2]
-				}, -- [4]
-				{
-					875, -- [1]
-					1468433639, -- [2]
-				}, -- [5]
-				{
-					878, -- [1]
-					1468433639, -- [2]
-				}, -- [6]
-				{
-					961, -- [1]
-					1468433639, -- [2]
-				}, -- [7]
-				{
-					963, -- [1]
-					1468433639, -- [2]
-				}, -- [8]
-				{
-					966, -- [1]
-					1468433639, -- [2]
-				}, -- [9]
-				{
-					1012, -- [1]
-					1468433639, -- [2]
-				}, -- [10]
-				{
-					1014, -- [1]
-					1468433639, -- [2]
-				}, -- [11]
-				{
-					1017, -- [1]
-					1468433639, -- [2]
-				}, -- [12]
-				{
-					1285, -- [1]
-					1468433898, -- [2]
-				}, -- [13]
-				{
-					1287, -- [1]
-					1468433898, -- [2]
-				}, -- [14]
-				{
-					1290, -- [1]
-					1468433898, -- [2]
-				}, -- [15]
-				{
-					1490, -- [1]
-					1468434318, -- [2]
-				}, -- [16]
-				{
-					1493, -- [1]
-					1468434318, -- [2]
-				}, -- [17]
-				{
-					1496, -- [1]
-					1468434318, -- [2]
-				}, -- [18]
-				{
-					1571, -- [1]
-					1468434318, -- [2]
-				}, -- [19]
-				{
-					1574, -- [1]
-					1468434318, -- [2]
-				}, -- [20]
-				{
-					1577, -- [1]
-					1468434318, -- [2]
-				}, -- [21]
-				{
-					1931, -- [1]
-					1468434692, -- [2]
-				}, -- [22]
-				{
-					1934, -- [1]
-					1468434692, -- [2]
-				}, -- [23]
-				{
-					1936, -- [1]
-					1468434692, -- [2]
-				}, -- [24]
-				{
-					2005, -- [1]
-					1468434692, -- [2]
-				}, -- [25]
-				{
-					2008, -- [1]
-					1468434692, -- [2]
-				}, -- [26]
-				{
-					2011, -- [1]
-					1468434692, -- [2]
-				}, -- [27]
-				{
-					622, -- [1]
-					1469038219, -- [2]
-				}, -- [28]
-				{
-					625, -- [1]
-					1469038219, -- [2]
-				}, -- [29]
-				{
-					628, -- [1]
-					1469038219, -- [2]
-				}, -- [30]
-				{
-					58, -- [1]
-					1469038739, -- [2]
-				}, -- [31]
-				{
-					61, -- [1]
-					1469038739, -- [2]
-				}, -- [32]
-				{
-					64, -- [1]
-					1469038739, -- [2]
-				}, -- [33]
-				{
-					134, -- [1]
-					1469038739, -- [2]
-				}, -- [34]
-				{
-					136, -- [1]
-					1469038739, -- [2]
-				}, -- [35]
-				{
-					139, -- [1]
-					1469038739, -- [2]
-				}, -- [36]
-			},
-			["Shadow Bolt Volley"] = {
-				{
-					697, -- [1]
-					1468433265, -- [2]
-				}, -- [1]
-				{
-					31, -- [1]
-					1471458464, -- [2]
-				}, -- [2]
-			},
-			["Massive Blast"] = {
-				{
-					544, -- [1]
-					1467828224, -- [2]
-				}, -- [1]
-				{
-					605, -- [1]
-					1467828224, -- [2]
-				}, -- [2]
-				{
-					638, -- [1]
-					1467828224, -- [2]
-				}, -- [3]
-				{
-					703, -- [1]
-					1468433265, -- [2]
-				}, -- [4]
-				{
-					859, -- [1]
-					1468433639, -- [2]
-				}, -- [5]
-				{
-					889, -- [1]
-					1468433639, -- [2]
-				}, -- [6]
-				{
-					939, -- [1]
-					1468433639, -- [2]
-				}, -- [7]
-				{
-					972, -- [1]
-					1468433639, -- [2]
-				}, -- [8]
-				{
-					1002, -- [1]
-					1468433639, -- [2]
-				}, -- [9]
-				{
-					1271, -- [1]
-					1468433898, -- [2]
-				}, -- [10]
-				{
-					1302, -- [1]
-					1468433898, -- [2]
-				}, -- [11]
-				{
-					1477, -- [1]
-					1468434318, -- [2]
-				}, -- [12]
-				{
-					1550, -- [1]
-					1468434318, -- [2]
-				}, -- [13]
-				{
-					1582, -- [1]
-					1468434318, -- [2]
-				}, -- [14]
-				{
-					1613, -- [1]
-					1468434318, -- [2]
-				}, -- [15]
-				{
-					1917, -- [1]
-					1468434692, -- [2]
-				}, -- [16]
-				{
-					1984, -- [1]
-					1468434692, -- [2]
-				}, -- [17]
-				{
-					2016, -- [1]
-					1468434692, -- [2]
-				}, -- [18]
-				{
-					609, -- [1]
-					1469038219, -- [2]
-				}, -- [19]
-				{
-					639, -- [1]
-					1469038219, -- [2]
-				}, -- [20]
-				{
-					45, -- [1]
-					1469038739, -- [2]
-				}, -- [21]
-				{
-					112, -- [1]
-					1469038739, -- [2]
-				}, -- [22]
-				{
-					144, -- [1]
-					1469038739, -- [2]
-				}, -- [23]
-				{
-					45, -- [1]
-					1469644154, -- [2]
-				}, -- [24]
-				{
-					100, -- [1]
-					1469644154, -- [2]
-				}, -- [25]
-				{
-					476, -- [1]
-					1469644512, -- [2]
-				}, -- [26]
-				{
-					530, -- [1]
-					1469644512, -- [2]
-				}, -- [27]
-				{
-					4667, -- [1]
-					1470247986, -- [2]
-				}, -- [28]
-				{
-					89, -- [1]
-					1470852244, -- [2]
-				}, -- [29]
-				{
-					44, -- [1]
-					1471458464, -- [2]
-				}, -- [30]
-				{
-					96, -- [1]
-					1471458464, -- [2]
-				}, -- [31]
-				{
-					394, -- [1]
-					1471458797, -- [2]
-				}, -- [32]
-				{
-					626, -- [1]
-					1471459080, -- [2]
-				}, -- [33]
-				{
-					679, -- [1]
-					1471459080, -- [2]
-				}, -- [34]
-				{
-					1021, -- [1]
-					1471459403, -- [2]
-				}, -- [35]
-			},
-			["Mark of Doom"] = {
-				{
-					702, -- [1]
-					1468433265, -- [2]
-				}, -- [1]
-				{
-					599, -- [1]
-					1469038219, -- [2]
-				}, -- [2]
-			},
-		},
-		["ids"] = {
-			["Fel Blast"] = 181134,
-			["Empowered Massive Blast"] = 185830,
-			["Fel Hellstorm"] = 181557,
-			["Empowered Fel Hellstorm"] = 181948,
-			["Glaive Thrust"] = 183377,
-			["Empowered Felseeker"] = 182040,
-			["Fel Hellfire"] = 181192,
-			["Shadowforce"] = 181841,
-			["Mannoroth's Gaze"] = 181597,
-			["Empowered Shadowforce"] = 182088,
-			["Fel Streak"] = 181193,
-			["Empowered Glaive Thrust"] = 185831,
-			["Curse of the Legion"] = 181275,
-			["Empowered Mannoroth's Gaze"] = 182006,
-			["Felseeker"] = 181738,
-			["Shadow Bolt Volley"] = 181126,
-			["Massive Blast"] = 183376,
-			["Mark of Doom"] = 181099,
-		},
-	},
-	["139416"] = {
-		["deaths"] = {
-			[103] = {
-				1469648473, -- [1]
-			},
-			[122] = {
-				1470254806, -- [1]
-			},
-			[26] = {
-				1470254806, -- [1]
-			},
-			[123] = {
-				1470856786, -- [1]
-				1470856786, -- [2]
-				1470856786, -- [3]
-			},
-			[135] = {
-				1470254806, -- [1]
-			},
-			[128] = {
-				1469648473, -- [1]
-			},
-			[144] = {
-				1470254806, -- [1]
-			},
-			[125] = {
-				1469648473, -- [1]
-			},
-			[130] = {
-				1469648473, -- [1]
-			},
-			[126] = {
-				1470254806, -- [1]
-			},
-		},
-		["spells"] = {
-			["Bulwark of the Tyrant"] = {
-				{
-					1448, -- [1]
-					1469648473, -- [2]
-				}, -- [1]
-				{
-					1448, -- [1]
-					1469648473, -- [2]
-				}, -- [2]
-				{
-					1458, -- [1]
-					1469648473, -- [2]
-				}, -- [3]
-				{
-					1458, -- [1]
-					1469648473, -- [2]
-				}, -- [4]
-				{
-					1468, -- [1]
-					1469648473, -- [2]
-				}, -- [5]
-				{
-					1468, -- [1]
-					1469648473, -- [2]
-				}, -- [6]
-				{
-					1488, -- [1]
-					1469648473, -- [2]
-				}, -- [7]
-				{
-					1488, -- [1]
-					1469648473, -- [2]
-				}, -- [8]
-				{
-					11497, -- [1]
-					1470254806, -- [2]
-				}, -- [9]
-				{
-					11497, -- [1]
-					1470254806, -- [2]
-				}, -- [10]
-				{
-					11507, -- [1]
-					1470254806, -- [2]
-				}, -- [11]
-				{
-					11507, -- [1]
-					1470254806, -- [2]
-				}, -- [12]
-				{
-					11517, -- [1]
-					1470254806, -- [2]
-				}, -- [13]
-				{
-					11517, -- [1]
-					1470254806, -- [2]
-				}, -- [14]
-				{
-					11537, -- [1]
-					1470254806, -- [2]
-				}, -- [15]
-				{
-					11537, -- [1]
-					1470254806, -- [2]
-				}, -- [16]
-				{
-					11547, -- [1]
-					1470254806, -- [2]
-				}, -- [17]
-				{
-					11547, -- [1]
-					1470254806, -- [2]
-				}, -- [18]
-				{
-					11557, -- [1]
-					1470254806, -- [2]
-				}, -- [19]
-				{
-					11557, -- [1]
-					1470254806, -- [2]
-				}, -- [20]
-				{
-					4642, -- [1]
-					1470856786, -- [2]
-				}, -- [21]
-				{
-					4642, -- [1]
-					1470856786, -- [2]
-				}, -- [22]
-				{
-					4652, -- [1]
-					1470856786, -- [2]
-				}, -- [23]
-				{
-					4652, -- [1]
-					1470856786, -- [2]
-				}, -- [24]
-				{
-					4662, -- [1]
-					1470856786, -- [2]
-				}, -- [25]
-				{
-					4662, -- [1]
-					1470856786, -- [2]
-				}, -- [26]
-				{
-					4682, -- [1]
-					1470856786, -- [2]
-				}, -- [27]
-				{
-					4682, -- [1]
-					1470856786, -- [2]
-				}, -- [28]
-				{
-					4692, -- [1]
-					1470856786, -- [2]
-				}, -- [29]
-				{
-					4692, -- [1]
-					1470856786, -- [2]
-				}, -- [30]
-				{
-					4702, -- [1]
-					1470856786, -- [2]
-				}, -- [31]
-				{
-					4702, -- [1]
-					1470856786, -- [2]
-				}, -- [32]
-			},
-			["Thunderous Crash"] = {
-				{
-					1367, -- [1]
-					1469648473, -- [2]
-				}, -- [1]
-				{
-					1395, -- [1]
-					1469648473, -- [2]
-				}, -- [2]
-				{
-					1452, -- [1]
-					1469648473, -- [2]
-				}, -- [3]
-				{
-					11404, -- [1]
-					1470254806, -- [2]
-				}, -- [4]
-				{
-					11436, -- [1]
-					1470254806, -- [2]
-				}, -- [5]
-				{
-					11507, -- [1]
-					1470254806, -- [2]
-				}, -- [6]
-				{
-					4563, -- [1]
-					1470856786, -- [2]
-				}, -- [7]
-				{
-					4587, -- [1]
-					1470856786, -- [2]
-				}, -- [8]
-				{
-					4651, -- [1]
-					1470856786, -- [2]
-				}, -- [9]
-			},
-			["Harbinger's Mending"] = {
-				{
-					4638, -- [1]
-					1470856786, -- [2]
-				}, -- [1]
-			},
-			["Aura of Oppression"] = {
-				{
-					1363, -- [1]
-					1469648473, -- [2]
-				}, -- [1]
-				{
-					11400, -- [1]
-					1470254806, -- [2]
-				}, -- [2]
-				{
-					4561, -- [1]
-					1470856786, -- [2]
-				}, -- [3]
-			},
-			["Impatient Mind"] = {
-				{
-					1400, -- [1]
-					1469648473, -- [2]
-				}, -- [1]
-				{
-					11440, -- [1]
-					1470254806, -- [2]
-				}, -- [2]
-				{
-					4590, -- [1]
-					1470856786, -- [2]
-				}, -- [3]
-			},
-			["Annihilating Strike"] = {
-				{
-					1371, -- [1]
-					1469648473, -- [2]
-				}, -- [1]
-				{
-					1381, -- [1]
-					1469648473, -- [2]
-				}, -- [2]
-				{
-					11407, -- [1]
-					1470254806, -- [2]
-				}, -- [3]
-				{
-					11417, -- [1]
-					1470254806, -- [2]
-				}, -- [4]
-				{
-					4568, -- [1]
-					1470856786, -- [2]
-				}, -- [5]
-			},
-			["Enforcer's Onslaught"] = {
-				{
-					1381, -- [1]
-					1469648473, -- [2]
-				}, -- [1]
-				{
-					1392, -- [1]
-					1469648473, -- [2]
-				}, -- [2]
-				{
-					11418, -- [1]
-					1470254806, -- [2]
-				}, -- [3]
-				{
-					11429, -- [1]
-					1470254806, -- [2]
-				}, -- [4]
-				{
-					11440, -- [1]
-					1470254806, -- [2]
-				}, -- [5]
-				{
-					4578, -- [1]
-					1470856786, -- [2]
-				}, -- [6]
-				{
-					4589, -- [1]
-					1470856786, -- [2]
-				}, -- [7]
-			},
-			["Font of Corruption"] = {
-				{
-					1407, -- [1]
-					1469648473, -- [2]
-				}, -- [1]
-				{
-					1427, -- [1]
-					1469648473, -- [2]
-				}, -- [2]
-				{
-					11442, -- [1]
-					1470254806, -- [2]
-				}, -- [3]
-				{
-					11462, -- [1]
-					1470254806, -- [2]
-				}, -- [4]
-				{
-					11482, -- [1]
-					1470254806, -- [2]
-				}, -- [5]
-				{
-					4598, -- [1]
-					1470856786, -- [2]
-				}, -- [6]
-				{
-					4618, -- [1]
-					1470856786, -- [2]
-				}, -- [7]
-			},
-			["Aura of Contempt"] = {
-				{
-					1385, -- [1]
-					1469648473, -- [2]
-				}, -- [1]
-				{
-					11420, -- [1]
-					1470254806, -- [2]
-				}, -- [2]
-				{
-					4576, -- [1]
-					1470856786, -- [2]
-				}, -- [3]
-			},
-			["Sovereign's Ward"] = {
-				{
-					1466, -- [1]
-					1469648473, -- [2]
-				}, -- [1]
-				{
-					11520, -- [1]
-					1470254806, -- [2]
-				}, -- [2]
-				{
-					4665, -- [1]
-					1470856786, -- [2]
-				}, -- [3]
-			},
-			["Gavel of the Tyrant"] = {
-				{
-					1481, -- [1]
-					1469648473, -- [2]
-				}, -- [1]
-				{
-					11530, -- [1]
-					1470254806, -- [2]
-				}, -- [2]
-				{
-					4675, -- [1]
-					1470856786, -- [2]
-				}, -- [3]
-			},
-			["Aura of Malice"] = {
-				{
-					1438, -- [1]
-					1469648473, -- [2]
-				}, -- [1]
-				{
-					11487, -- [1]
-					1470254806, -- [2]
-				}, -- [2]
-				{
-					4632, -- [1]
-					1470856786, -- [2]
-				}, -- [3]
-			},
-			["Tainted Shadows"] = {
-				{
-					1391, -- [1]
-					1469648473, -- [2]
-				}, -- [1]
-				{
-					1396, -- [1]
-					1469648473, -- [2]
-				}, -- [2]
-				{
-					1401, -- [1]
-					1469648473, -- [2]
-				}, -- [3]
-				{
-					1411, -- [1]
-					1469648473, -- [2]
-				}, -- [4]
-				{
-					1416, -- [1]
-					1469648473, -- [2]
-				}, -- [5]
-				{
-					1423, -- [1]
-					1469648473, -- [2]
-				}, -- [6]
-				{
-					1431, -- [1]
-					1469648473, -- [2]
-				}, -- [7]
-				{
-					11426, -- [1]
-					1470254806, -- [2]
-				}, -- [8]
-				{
-					11431, -- [1]
-					1470254806, -- [2]
-				}, -- [9]
-				{
-					11436, -- [1]
-					1470254806, -- [2]
-				}, -- [10]
-				{
-					11446, -- [1]
-					1470254806, -- [2]
-				}, -- [11]
-				{
-					11451, -- [1]
-					1470254806, -- [2]
-				}, -- [12]
-				{
-					11456, -- [1]
-					1470254806, -- [2]
-				}, -- [13]
-				{
-					11466, -- [1]
-					1470254806, -- [2]
-				}, -- [14]
-				{
-					11471, -- [1]
-					1470254806, -- [2]
-				}, -- [15]
-				{
-					11476, -- [1]
-					1470254806, -- [2]
-				}, -- [16]
-				{
-					4582, -- [1]
-					1470856786, -- [2]
-				}, -- [17]
-				{
-					4587, -- [1]
-					1470856786, -- [2]
-				}, -- [18]
-				{
-					4592, -- [1]
-					1470856786, -- [2]
-				}, -- [19]
-				{
-					4602, -- [1]
-					1470856786, -- [2]
-				}, -- [20]
-				{
-					4607, -- [1]
-					1470856786, -- [2]
-				}, -- [21]
-				{
-					4612, -- [1]
-					1470856786, -- [2]
-				}, -- [22]
-				{
-					4622, -- [1]
-					1470856786, -- [2]
-				}, -- [23]
-				{
-					4627, -- [1]
-					1470856786, -- [2]
-				}, -- [24]
-			},
-		},
-		["ids"] = {
-			["Bulwark of the Tyrant"] = 180600,
-			["Thunderous Crash"] = 181227,
-			["Harbinger's Mending"] = 180025,
-			["Aura of Oppression"] = 181718,
-			["Impatient Mind"] = 187213,
-			["Annihilating Strike"] = 180260,
-			["Enforcer's Onslaught"] = 180004,
-			["Font of Corruption"] = 180526,
-			["Aura of Contempt"] = 179986,
-			["Sovereign's Ward"] = 180040,
-			["Gavel of the Tyrant"] = 180608,
-			["Aura of Malice"] = 179991,
-			["Tainted Shadows"] = 180533,
-		},
-	},
-	["139116"] = {
-		["deaths"] = {
-			[24] = {
-				1469647044, -- [1]
-			},
-			[48] = {
-				1470253199, -- [1]
-			},
-			[37] = {
-				1469647044, -- [1]
-			},
-			[82] = {
-				1469040282, -- [1]
-				1469040282, -- [2]
-				1469040282, -- [3]
-			},
-			[45] = {
-				1469647044, -- [1]
-				1469647044, -- [2]
-			},
-			[83] = {
-				1469039988, -- [1]
-				1469039988, -- [2]
-				1469039988, -- [3]
-				1469039988, -- [4]
-				1469039988, -- [5]
-			},
-			[38] = {
-				1470253018, -- [1]
-				1470253018, -- [2]
-				1470253018, -- [3]
-				1470253018, -- [4]
-				1470253018, -- [5]
-			},
-			[69] = {
-				1470253199, -- [1]
-				1470253199, -- [2]
-				1470253199, -- [3]
-			},
-			[43] = {
-				1469647044, -- [1]
-			},
-		},
-		["spells"] = {
-			["Enrage"] = {
-				{
-					775, -- [1]
-					1469039988, -- [2]
-				}, -- [1]
-				{
-					1077, -- [1]
-					1469040282, -- [2]
-				}, -- [2]
-				{
-					30, -- [1]
-					1469647044, -- [2]
-				}, -- [3]
-				{
-					9739, -- [1]
-					1470253018, -- [2]
-				}, -- [4]
-				{
-					9924, -- [1]
-					1470253199, -- [2]
-				}, -- [5]
-			},
-			["Seed of Destruction"] = {
-				{
-					801, -- [1]
-					1469039988, -- [2]
-				}, -- [1]
-				{
-					1104, -- [1]
-					1469040282, -- [2]
-				}, -- [2]
-				{
-					57, -- [1]
-					1469647044, -- [2]
-				}, -- [3]
-				{
-					9766, -- [1]
-					1470253018, -- [2]
-				}, -- [4]
-				{
-					9951, -- [1]
-					1470253199, -- [2]
-				}, -- [5]
-			},
-			["Foul"] = {
-				{
-					739, -- [1]
-					1469039988, -- [2]
-				}, -- [1]
-				{
-					792, -- [1]
-					1469039988, -- [2]
-				}, -- [2]
-				{
-					1047, -- [1]
-					1469040282, -- [2]
-				}, -- [3]
-				{
-					1094, -- [1]
-					1469040282, -- [2]
-				}, -- [4]
-				{
-					17, -- [1]
-					1469647044, -- [2]
-				}, -- [5]
-				{
-					47, -- [1]
-					1469647044, -- [2]
-				}, -- [6]
-				{
-					9717, -- [1]
-					1470253018, -- [2]
-				}, -- [7]
-				{
-					9756, -- [1]
-					1470253018, -- [2]
-				}, -- [8]
-				{
-					9903, -- [1]
-					1470253199, -- [2]
-				}, -- [9]
-				{
-					9941, -- [1]
-					1470253199, -- [2]
-				}, -- [10]
-			},
-			["Soul Cleave"] = {
-				{
-					750, -- [1]
-					1469039988, -- [2]
-				}, -- [1]
-				{
-					1058, -- [1]
-					1469040282, -- [2]
-				}, -- [2]
-				{
-					28, -- [1]
-					1469647044, -- [2]
-				}, -- [3]
-				{
-					9729, -- [1]
-					1470253018, -- [2]
-				}, -- [4]
-				{
-					9914, -- [1]
-					1470253199, -- [2]
-				}, -- [5]
-			},
-			["Rumbling Fissure"] = {
-				{
-					729, -- [1]
-					1469039988, -- [2]
-				}, -- [1]
-				{
-					769, -- [1]
-					1469039988, -- [2]
-				}, -- [2]
-				{
-					810, -- [1]
-					1469039988, -- [2]
-				}, -- [3]
-				{
-					1037, -- [1]
-					1469040282, -- [2]
-				}, -- [4]
-				{
-					1076, -- [1]
-					1469040282, -- [2]
-				}, -- [5]
-				{
-					6, -- [1]
-					1469647044, -- [2]
-				}, -- [6]
-				{
-					49, -- [1]
-					1469647044, -- [2]
-				}, -- [7]
-				{
-					9707, -- [1]
-					1470253018, -- [2]
-				}, -- [8]
-				{
-					9748, -- [1]
-					1470253018, -- [2]
-				}, -- [9]
-				{
-					9893, -- [1]
-					1470253199, -- [2]
-				}, -- [10]
-				{
-					9934, -- [1]
-					1470253199, -- [2]
-				}, -- [11]
-			},
-			["Cavitation"] = {
-				{
-					757, -- [1]
-					1469039988, -- [2]
-				}, -- [1]
-				{
-					811, -- [1]
-					1469039988, -- [2]
-				}, -- [2]
-				{
-					1065, -- [1]
-					1469040282, -- [2]
-				}, -- [3]
-				{
-					1113, -- [1]
-					1469040282, -- [2]
-				}, -- [4]
-				{
-					66, -- [1]
-					1469647044, -- [2]
-				}, -- [5]
-				{
-					9736, -- [1]
-					1470253018, -- [2]
-				}, -- [6]
-				{
-					9921, -- [1]
-					1470253199, -- [2]
-				}, -- [7]
-			},
-			["Rumbling Fissures"] = {
-				{
-					729, -- [1]
-					1469039988, -- [2]
-				}, -- [1]
-				{
-					769, -- [1]
-					1469039988, -- [2]
-				}, -- [2]
-				{
-					810, -- [1]
-					1469039988, -- [2]
-				}, -- [3]
-				{
-					1037, -- [1]
-					1469040282, -- [2]
-				}, -- [4]
-				{
-					1076, -- [1]
-					1469040282, -- [2]
-				}, -- [5]
-				{
-					6, -- [1]
-					1469647044, -- [2]
-				}, -- [6]
-				{
-					49, -- [1]
-					1469647044, -- [2]
-				}, -- [7]
-				{
-					9707, -- [1]
-					1470253018, -- [2]
-				}, -- [8]
-				{
-					9748, -- [1]
-					1470253018, -- [2]
-				}, -- [9]
-				{
-					9893, -- [1]
-					1470253199, -- [2]
-				}, -- [10]
-				{
-					9934, -- [1]
-					1470253199, -- [2]
-				}, -- [11]
-			},
-		},
-		["ids"] = {
-			["Enrage"] = 179681,
-			["Seed of Destruction"] = 181515,
-			["Foul"] = 179709,
-			["Soul Cleave"] = 179406,
-			["Rumbling Fissure"] = 179582,
-			["Cavitation"] = 189009,
-			["Rumbling Fissures"] = 179583,
-		},
-	},
-	["143816"] = {
-		["deaths"] = {
-			nil, -- [1]
-			nil, -- [2]
-			{
-				1468435230, -- [1]
-				1468435997, -- [2]
-			}, -- [3]
-			{
-				1468436469, -- [1]
-			}, -- [4]
-			nil, -- [5]
-			{
-				1468435678, -- [1]
-			}, -- [6]
-			{
-				1469645836, -- [1]
-			}, -- [7]
-			{
-				1469645419, -- [1]
-			}, -- [8]
-			{
-				1469646028, -- [1]
-				1469646361, -- [2]
-			}, -- [9]
-			nil, -- [10]
-			nil, -- [11]
-			{
-				1470248747, -- [1]
-			}, -- [12]
-			{
-				1467828842, -- [1]
-				1467829133, -- [2]
-				1467830117, -- [3]
-				1470249163, -- [4]
-			}, -- [13]
-			{
-				1467829870, -- [1]
-			}, -- [14]
-			{
-				1467829523, -- [1]
-				1469124430, -- [2]
-			}, -- [15]
-			{
-				1467830507, -- [1]
-				1467831525, -- [2]
-				1467832109, -- [3]
-				1469124851, -- [4]
-				1470248421, -- [5]
-			}, -- [16]
-			{
-				1467830985, -- [1]
-			}, -- [17]
-			[121] = {
-				1467831525, -- [1]
-				1469039413, -- [2]
-				1471459968, -- [3]
-				1471459968, -- [4]
-				1471459968, -- [5]
-			},
-			[122] = {
-				1470248747, -- [1]
-				1470248747, -- [2]
-			},
-			[123] = {
-				1469645419, -- [1]
-			},
-			[125] = {
-				1468435678, -- [1]
-			},
-			[32] = {
-				1469646028, -- [1]
-			},
-			[128] = {
-				1469124430, -- [1]
-				1469645419, -- [2]
-			},
-			[130] = {
-				1467830117, -- [1]
-				1469646361, -- [2]
-			},
-			[34] = {
-				1469646028, -- [1]
-				1469646028, -- [2]
-			},
-			[136] = {
-				1467829133, -- [1]
-				1467829133, -- [2]
-				1467829133, -- [3]
-			},
-			[142] = {
-				1469124430, -- [1]
-			},
-			[302] = {
-				1467831525, -- [1]
-			},
-			[158] = {
-				1469039413, -- [1]
-			},
-			[43] = {
-				1468435678, -- [1]
-			},
-			[172] = {
-				1467830507, -- [1]
-				1467830507, -- [2]
-			},
-			[176] = {
-				1468435997, -- [1]
-			},
-			[178] = {
-				1469039413, -- [1]
-			},
-			[180] = {
-				1469645836, -- [1]
-			},
-			[196] = {
-				1469124851, -- [1]
-				1470852745, -- [2]
-			},
-			[200] = {
-				1469645836, -- [1]
-			},
-			[51] = {
-				1469646028, -- [1]
-			},
-			[204] = {
-				1467830985, -- [1]
-			},
-			[208] = {
-				1467832109, -- [1]
-				1468435678, -- [2]
-			},
-			[210] = {
-				1470249163, -- [1]
-			},
-			[54] = {
-				1470248421, -- [1]
-				1471460612, -- [2]
-			},
-			[218] = {
-				1469124851, -- [1]
-			},
-			[220] = {
-				1467831525, -- [1]
-			},
-			[57] = {
-				1470248747, -- [1]
-			},
-			[60] = {
-				1467830117, -- [1]
-			},
-			[61] = {
-				1467829133, -- [1]
-			},
-			[367] = {
-				1467832109, -- [1]
-			},
-			[64] = {
-				1470248421, -- [1]
-			},
-			[133] = {
-				1469124851, -- [1]
-			},
-			[69] = {
-				1469124851, -- [1]
-			},
-			[71] = {
-				1471459968, -- [1]
-			},
-			[143] = {
-				1467832109, -- [1]
-			},
-			[145] = {
-				1467829870, -- [1]
-				1470852745, -- [2]
-			},
-			[74] = {
-				1469039413, -- [1]
-			},
-			[153] = {
-				1469645419, -- [1]
-			},
-			[155] = {
-				1469124430, -- [1]
-			},
-			[79] = {
-				1470248421, -- [1]
-			},
-			[165] = {
-				1470852745, -- [1]
-			},
-			[167] = {
-				1469646361, -- [1]
-			},
-			[169] = {
-				1469645836, -- [1]
+				1469565255, -- [1]
+				1469565255, -- [2]
 			},
 			[171] = {
-				1467829523, -- [1]
+				1470773323, -- [1]
 			},
-			[181] = {
-				1470249163, -- [1]
-				1470249163, -- [2]
-			},
-			[183] = {
-				1467829870, -- [1]
-				1468435678, -- [2]
-			},
-			[202] = {
-				1468435997, -- [1]
-			},
-			[199] = {
-				1469646361, -- [1]
-			},
-			[25] = {
-				1469645836, -- [1]
-			},
-			[100] = {
-				1467828842, -- [1]
-			},
-			[345] = {
-				1467832109, -- [1]
-			},
-			[118] = {
-				1467828842, -- [1]
-				1467831525, -- [2]
-				1471459968, -- [3]
-			},
-			[205] = {
-				1468436469, -- [1]
-			},
-			[207] = {
-				1467829523, -- [1]
-			},
-			[105] = {
-				1470852745, -- [1]
-				1470852745, -- [2]
-			},
-			[27] = {
-				1468435997, -- [1]
-				1469645419, -- [2]
-			},
-			[213] = {
-				1471460612, -- [1]
-			},
-			[108] = {
-				1468435230, -- [1]
-				1468435230, -- [2]
-				1468435230, -- [3]
-				1468435230, -- [4]
-			},
-			[116] = {
-				1471460612, -- [1]
-			},
-			[219] = {
-				1470249163, -- [1]
+			[38] = {
+				1469564540, -- [1]
 			},
 			[111] = {
-				1467830507, -- [1]
+				1469565255, -- [1]
 			},
-			[134] = {
-				1469124430, -- [1]
-			},
-			[263] = {
-				1467830985, -- [1]
-				1468436469, -- [2]
-			},
-			[197] = {
-				1469039413, -- [1]
-			},
-			[115] = {
-				1467828842, -- [1]
-				1467830117, -- [2]
-			},
-			[231] = {
-				1467829523, -- [1]
-			},
-			[215] = {
-				1467830507, -- [1]
-				1467830985, -- [2]
-				1467830985, -- [3]
-			},
-			[341] = {
-				1468436469, -- [1]
-			},
-			[119] = {
-				1467828842, -- [1]
-				1467829870, -- [2]
-				1467829870, -- [3]
-				1467830117, -- [4]
-				1468435997, -- [5]
-			},
-			[120] = {
-				1470248421, -- [1]
-				1470248747, -- [2]
-			},
-			[214] = {
-				1467829523, -- [1]
-				1471460612, -- [2]
-			},
-		},
-		["spells"] = {
-			["Wrought Chaos"] = {
-				{
-					1250, -- [1]
-					1467828842, -- [2]
-				}, -- [1]
-				{
-					1302, -- [1]
-					1467828842, -- [2]
-				}, -- [2]
-				{
-					1522, -- [1]
-					1467829133, -- [2]
-				}, -- [3]
-				{
-					1574, -- [1]
-					1467829133, -- [2]
-				}, -- [4]
-				{
-					1626, -- [1]
-					1467829133, -- [2]
-				}, -- [5]
-				{
-					1781, -- [1]
-					1467829523, -- [2]
-				}, -- [6]
-				{
-					1833, -- [1]
-					1467829523, -- [2]
-				}, -- [7]
-				{
-					1885, -- [1]
-					1467829523, -- [2]
-				}, -- [8]
-				{
-					2210, -- [1]
-					1467829870, -- [2]
-				}, -- [9]
-				{
-					2263, -- [1]
-					1467829870, -- [2]
-				}, -- [10]
-				{
-					2315, -- [1]
-					1467829870, -- [2]
-				}, -- [11]
-				{
-					2513, -- [1]
-					1467830117, -- [2]
-				}, -- [12]
-				{
-					2565, -- [1]
-					1467830117, -- [2]
-				}, -- [13]
-				{
-					2618, -- [1]
-					1467830117, -- [2]
-				}, -- [14]
-				{
-					2759, -- [1]
-					1467830507, -- [2]
-				}, -- [15]
-				{
-					2812, -- [1]
-					1467830507, -- [2]
-				}, -- [16]
-				{
-					2863, -- [1]
-					1467830507, -- [2]
-				}, -- [17]
-				{
-					3161, -- [1]
-					1467830985, -- [2]
-				}, -- [18]
-				{
-					3213, -- [1]
-					1467830985, -- [2]
-				}, -- [19]
-				{
-					3265, -- [1]
-					1467830985, -- [2]
-				}, -- [20]
-				{
-					3670, -- [1]
-					1467831525, -- [2]
-				}, -- [21]
-				{
-					3722, -- [1]
-					1467831525, -- [2]
-				}, -- [22]
-				{
-					3774, -- [1]
-					1467831525, -- [2]
-				}, -- [23]
-				{
-					4278, -- [1]
-					1467832109, -- [2]
-				}, -- [24]
-				{
-					4330, -- [1]
-					1467832109, -- [2]
-				}, -- [25]
-				{
-					4383, -- [1]
-					1467832109, -- [2]
-				}, -- [26]
-				{
-					2586, -- [1]
-					1468435230, -- [2]
-				}, -- [27]
-				{
-					2638, -- [1]
-					1468435230, -- [2]
-				}, -- [28]
-				{
-					2806, -- [1]
-					1468435678, -- [2]
-				}, -- [29]
-				{
-					2858, -- [1]
-					1468435678, -- [2]
-				}, -- [30]
-				{
-					2910, -- [1]
-					1468435678, -- [2]
-				}, -- [31]
-				{
-					3267, -- [1]
-					1468435997, -- [2]
-				}, -- [32]
-				{
-					3319, -- [1]
-					1468435997, -- [2]
-				}, -- [33]
-				{
-					3371, -- [1]
-					1468435997, -- [2]
-				}, -- [34]
-				{
-					3591, -- [1]
-					1468436469, -- [2]
-				}, -- [35]
-				{
-					3643, -- [1]
-					1468436469, -- [2]
-				}, -- [36]
-				{
-					43, -- [1]
-					1469039413, -- [2]
-				}, -- [37]
-				{
-					95, -- [1]
-					1469039413, -- [2]
-				}, -- [38]
-				{
-					37, -- [1]
-					1469124430, -- [2]
-				}, -- [39]
-				{
-					89, -- [1]
-					1469124430, -- [2]
-				}, -- [40]
-				{
-					38, -- [1]
-					1469124851, -- [2]
-				}, -- [41]
-				{
-					91, -- [1]
-					1469124851, -- [2]
-				}, -- [42]
-				{
-					31, -- [1]
-					1469645419, -- [2]
-				}, -- [43]
-				{
-					83, -- [1]
-					1469645419, -- [2]
-				}, -- [44]
-				{
-					466, -- [1]
-					1469645836, -- [2]
-				}, -- [45]
-				{
-					518, -- [1]
-					1469645836, -- [2]
-				}, -- [46]
-				{
-					831, -- [1]
-					1469646028, -- [2]
-				}, -- [47]
-				{
-					985, -- [1]
-					1469646361, -- [2]
-				}, -- [48]
-				{
-					1037, -- [1]
-					1469646361, -- [2]
-				}, -- [49]
-				{
-					4997, -- [1]
-					1470248421, -- [2]
-				}, -- [50]
-				{
-					5049, -- [1]
-					1470248421, -- [2]
-				}, -- [51]
-				{
-					5368, -- [1]
-					1470248747, -- [2]
-				}, -- [52]
-				{
-					5420, -- [1]
-					1470248747, -- [2]
-				}, -- [53]
-				{
-					5716, -- [1]
-					1470249163, -- [2]
-				}, -- [54]
-				{
-					5769, -- [1]
-					1470249163, -- [2]
-				}, -- [55]
-				{
-					455, -- [1]
-					1470852745, -- [2]
-				}, -- [56]
-				{
-					1479, -- [1]
-					1471459968, -- [2]
-				}, -- [57]
-				{
-					1531, -- [1]
-					1471459968, -- [2]
-				}, -- [58]
-				{
-					2118, -- [1]
-					1471460612, -- [2]
-				}, -- [59]
-				{
-					2170, -- [1]
-					1471460612, -- [2]
-				}, -- [60]
-			},
-			["Desecration"] = {
-				{
-					1229, -- [1]
-					1467828842, -- [2]
-				}, -- [1]
-				{
-					1229, -- [1]
-					1467828842, -- [2]
-				}, -- [2]
-				{
-					1232, -- [1]
-					1467828842, -- [2]
-				}, -- [3]
-				{
-					1232, -- [1]
-					1467828842, -- [2]
-				}, -- [4]
-				{
-					1502, -- [1]
-					1467829133, -- [2]
-				}, -- [5]
-				{
-					1502, -- [1]
-					1467829133, -- [2]
-				}, -- [6]
-				{
-					1505, -- [1]
-					1467829133, -- [2]
-				}, -- [7]
-				{
-					1505, -- [1]
-					1467829133, -- [2]
-				}, -- [8]
-				{
-					1764, -- [1]
-					1467829523, -- [2]
-				}, -- [9]
-				{
-					1764, -- [1]
-					1467829523, -- [2]
-				}, -- [10]
-				{
-					1767, -- [1]
-					1467829523, -- [2]
-				}, -- [11]
-				{
-					1767, -- [1]
-					1467829523, -- [2]
-				}, -- [12]
-				{
-					2190, -- [1]
-					1467829870, -- [2]
-				}, -- [13]
-				{
-					2190, -- [1]
-					1467829870, -- [2]
-				}, -- [14]
-				{
-					2193, -- [1]
-					1467829870, -- [2]
-				}, -- [15]
-				{
-					2193, -- [1]
-					1467829870, -- [2]
-				}, -- [16]
-				{
-					2496, -- [1]
-					1467830117, -- [2]
-				}, -- [17]
-				{
-					2496, -- [1]
-					1467830117, -- [2]
-				}, -- [18]
-				{
-					2499, -- [1]
-					1467830117, -- [2]
-				}, -- [19]
-				{
-					2499, -- [1]
-					1467830117, -- [2]
-				}, -- [20]
-				{
-					2742, -- [1]
-					1467830507, -- [2]
-				}, -- [21]
-				{
-					2742, -- [1]
-					1467830507, -- [2]
-				}, -- [22]
-				{
-					2745, -- [1]
-					1467830507, -- [2]
-				}, -- [23]
-				{
-					2745, -- [1]
-					1467830507, -- [2]
-				}, -- [24]
-				{
-					3144, -- [1]
-					1467830985, -- [2]
-				}, -- [25]
-				{
-					3144, -- [1]
-					1467830985, -- [2]
-				}, -- [26]
-				{
-					3147, -- [1]
-					1467830985, -- [2]
-				}, -- [27]
-				{
-					3147, -- [1]
-					1467830985, -- [2]
-				}, -- [28]
-				{
-					3652, -- [1]
-					1467831525, -- [2]
-				}, -- [29]
-				{
-					3652, -- [1]
-					1467831525, -- [2]
-				}, -- [30]
-				{
-					3655, -- [1]
-					1467831525, -- [2]
-				}, -- [31]
-				{
-					3655, -- [1]
-					1467831525, -- [2]
-				}, -- [32]
-				{
-					4260, -- [1]
-					1467832109, -- [2]
-				}, -- [33]
-				{
-					4260, -- [1]
-					1467832109, -- [2]
-				}, -- [34]
-				{
-					4263, -- [1]
-					1467832109, -- [2]
-				}, -- [35]
-				{
-					4263, -- [1]
-					1467832109, -- [2]
-				}, -- [36]
-				{
-					2565, -- [1]
-					1468435230, -- [2]
-				}, -- [37]
-				{
-					2565, -- [1]
-					1468435230, -- [2]
-				}, -- [38]
-				{
-					2568, -- [1]
-					1468435230, -- [2]
-				}, -- [39]
-				{
-					2568, -- [1]
-					1468435230, -- [2]
-				}, -- [40]
-				{
-					2785, -- [1]
-					1468435678, -- [2]
-				}, -- [41]
-				{
-					2785, -- [1]
-					1468435678, -- [2]
-				}, -- [42]
-				{
-					2788, -- [1]
-					1468435678, -- [2]
-				}, -- [43]
-				{
-					2788, -- [1]
-					1468435678, -- [2]
-				}, -- [44]
-				{
-					3246, -- [1]
-					1468435997, -- [2]
-				}, -- [45]
-				{
-					3246, -- [1]
-					1468435997, -- [2]
-				}, -- [46]
-				{
-					3249, -- [1]
-					1468435997, -- [2]
-				}, -- [47]
-				{
-					3249, -- [1]
-					1468435997, -- [2]
-				}, -- [48]
-				{
-					3572, -- [1]
-					1468436469, -- [2]
-				}, -- [49]
-				{
-					3572, -- [1]
-					1468436469, -- [2]
-				}, -- [50]
-				{
-					3574, -- [1]
-					1468436469, -- [2]
-				}, -- [51]
-				{
-					3574, -- [1]
-					1468436469, -- [2]
-				}, -- [52]
-				{
-					22, -- [1]
-					1469039413, -- [2]
-				}, -- [53]
-				{
-					22, -- [1]
-					1469039413, -- [2]
-				}, -- [54]
-				{
-					25, -- [1]
-					1469039413, -- [2]
-				}, -- [55]
-				{
-					25, -- [1]
-					1469039413, -- [2]
-				}, -- [56]
-				{
-					22, -- [1]
-					1469124430, -- [2]
-				}, -- [57]
-				{
-					22, -- [1]
-					1469124430, -- [2]
-				}, -- [58]
-				{
-					25, -- [1]
-					1469124430, -- [2]
-				}, -- [59]
-				{
-					25, -- [1]
-					1469124430, -- [2]
-				}, -- [60]
-				{
-					23, -- [1]
-					1469124851, -- [2]
-				}, -- [61]
-				{
-					23, -- [1]
-					1469124851, -- [2]
-				}, -- [62]
-				{
-					25, -- [1]
-					1469124851, -- [2]
-				}, -- [63]
-				{
-					25, -- [1]
-					1469124851, -- [2]
-				}, -- [64]
-				{
-					14, -- [1]
-					1469645419, -- [2]
-				}, -- [65]
-				{
-					14, -- [1]
-					1469645419, -- [2]
-				}, -- [66]
-				{
-					17, -- [1]
-					1469645419, -- [2]
-				}, -- [67]
-				{
-					17, -- [1]
-					1469645419, -- [2]
-				}, -- [68]
-				{
-					449, -- [1]
-					1469645836, -- [2]
-				}, -- [69]
-				{
-					449, -- [1]
-					1469645836, -- [2]
-				}, -- [70]
-				{
-					452, -- [1]
-					1469645836, -- [2]
-				}, -- [71]
-				{
-					452, -- [1]
-					1469645836, -- [2]
-				}, -- [72]
-				{
-					808, -- [1]
-					1469646028, -- [2]
-				}, -- [73]
-				{
-					808, -- [1]
-					1469646028, -- [2]
-				}, -- [74]
-				{
-					811, -- [1]
-					1469646028, -- [2]
-				}, -- [75]
-				{
-					811, -- [1]
-					1469646028, -- [2]
-				}, -- [76]
-				{
-					968, -- [1]
-					1469646361, -- [2]
-				}, -- [77]
-				{
-					968, -- [1]
-					1469646361, -- [2]
-				}, -- [78]
-				{
-					971, -- [1]
-					1469646361, -- [2]
-				}, -- [79]
-				{
-					971, -- [1]
-					1469646361, -- [2]
-				}, -- [80]
-				{
-					4985, -- [1]
-					1470248421, -- [2]
-				}, -- [81]
-				{
-					4985, -- [1]
-					1470248421, -- [2]
-				}, -- [82]
-				{
-					4987, -- [1]
-					1470248421, -- [2]
-				}, -- [83]
-				{
-					4987, -- [1]
-					1470248421, -- [2]
-				}, -- [84]
-				{
-					5356, -- [1]
-					1470248747, -- [2]
-				}, -- [85]
-				{
-					5356, -- [1]
-					1470248747, -- [2]
-				}, -- [86]
-				{
-					5359, -- [1]
-					1470248747, -- [2]
-				}, -- [87]
-				{
-					5359, -- [1]
-					1470248747, -- [2]
-				}, -- [88]
-				{
-					5704, -- [1]
-					1470249163, -- [2]
-				}, -- [89]
-				{
-					5704, -- [1]
-					1470249163, -- [2]
-				}, -- [90]
-				{
-					5707, -- [1]
-					1470249163, -- [2]
-				}, -- [91]
-				{
-					5707, -- [1]
-					1470249163, -- [2]
-				}, -- [92]
-				{
-					444, -- [1]
-					1470852745, -- [2]
-				}, -- [93]
-				{
-					444, -- [1]
-					1470852745, -- [2]
-				}, -- [94]
-				{
-					447, -- [1]
-					1470852745, -- [2]
-				}, -- [95]
-				{
-					447, -- [1]
-					1470852745, -- [2]
-				}, -- [96]
-				{
-					1467, -- [1]
-					1471459968, -- [2]
-				}, -- [97]
-				{
-					1467, -- [1]
-					1471459968, -- [2]
-				}, -- [98]
-				{
-					1470, -- [1]
-					1471459968, -- [2]
-				}, -- [99]
-				{
-					1470, -- [1]
-					1471459968, -- [2]
-				}, -- [100]
-				{
-					2107, -- [1]
-					1471460612, -- [2]
-				}, -- [101]
-				{
-					2107, -- [1]
-					1471460612, -- [2]
-				}, -- [102]
-				{
-					2109, -- [1]
-					1471460612, -- [2]
-				}, -- [103]
-				{
-					2109, -- [1]
-					1471460612, -- [2]
-				}, -- [104]
-			},
-			["Finger of Death"] = {
-				{
-					2033, -- [1]
-					1467829523, -- [2]
-				}, -- [1]
-				{
-					3011, -- [1]
-					1467830507, -- [2]
-				}, -- [2]
-				{
-					3015, -- [1]
-					1467830507, -- [2]
-				}, -- [3]
-				{
-					3016, -- [1]
-					1467830507, -- [2]
-				}, -- [4]
-				{
-					247, -- [1]
-					1469645419, -- [2]
-				}, -- [5]
-				{
-					5503, -- [1]
-					1470248747, -- [2]
-				}, -- [6]
-			},
-			["Heart of Argus"] = {
-				{
-					1306, -- [1]
-					1467828842, -- [2]
-				}, -- [1]
-				{
-					1351, -- [1]
-					1467828842, -- [2]
-				}, -- [2]
-				{
-					1584, -- [1]
-					1467829133, -- [2]
-				}, -- [3]
-				{
-					1629, -- [1]
-					1467829133, -- [2]
-				}, -- [4]
-				{
-					1835, -- [1]
-					1467829523, -- [2]
-				}, -- [5]
-				{
-					1879, -- [1]
-					1467829523, -- [2]
-				}, -- [6]
-				{
-					2268, -- [1]
-					1467829870, -- [2]
-				}, -- [7]
-				{
-					2313, -- [1]
-					1467829870, -- [2]
-				}, -- [8]
-				{
-					2564, -- [1]
-					1467830117, -- [2]
-				}, -- [9]
-				{
-					2608, -- [1]
-					1467830117, -- [2]
-				}, -- [10]
-				{
-					2819, -- [1]
-					1467830507, -- [2]
-				}, -- [11]
-				{
-					2864, -- [1]
-					1467830507, -- [2]
-				}, -- [12]
-				{
-					3221, -- [1]
-					1467830985, -- [2]
-				}, -- [13]
-				{
-					3266, -- [1]
-					1467830985, -- [2]
-				}, -- [14]
-				{
-					3728, -- [1]
-					1467831525, -- [2]
-				}, -- [15]
-				{
-					3773, -- [1]
-					1467831525, -- [2]
-				}, -- [16]
-				{
-					4344, -- [1]
-					1467832109, -- [2]
-				}, -- [17]
-				{
-					4389, -- [1]
-					1467832109, -- [2]
-				}, -- [18]
-				{
-					2646, -- [1]
-					1468435230, -- [2]
-				}, -- [19]
-				{
-					2862, -- [1]
-					1468435678, -- [2]
-				}, -- [20]
-				{
-					2906, -- [1]
-					1468435678, -- [2]
-				}, -- [21]
-				{
-					3325, -- [1]
-					1468435997, -- [2]
-				}, -- [22]
-				{
-					3369, -- [1]
-					1468435997, -- [2]
-				}, -- [23]
-				{
-					3650, -- [1]
-					1468436469, -- [2]
-				}, -- [24]
-				{
-					3695, -- [1]
-					1468436469, -- [2]
-				}, -- [25]
-				{
-					78, -- [1]
-					1469039413, -- [2]
-				}, -- [26]
-				{
-					123, -- [1]
-					1469039413, -- [2]
-				}, -- [27]
-				{
-					61, -- [1]
-					1469124430, -- [2]
-				}, -- [28]
-				{
-					62, -- [1]
-					1469124851, -- [2]
-				}, -- [29]
-				{
-					54, -- [1]
-					1469645419, -- [2]
-				}, -- [30]
-				{
-					498, -- [1]
-					1469645836, -- [2]
-				}, -- [31]
-				{
-					1015, -- [1]
-					1469646361, -- [2]
-				}, -- [32]
-				{
-					5020, -- [1]
-					1470248421, -- [2]
-				}, -- [33]
-				{
-					5385, -- [1]
-					1470248747, -- [2]
-				}, -- [34]
-				{
-					5736, -- [1]
-					1470249163, -- [2]
-				}, -- [35]
-				{
-					467, -- [1]
-					1470852745, -- [2]
-				}, -- [36]
-				{
-					1498, -- [1]
-					1471459968, -- [2]
-				}, -- [37]
-				{
-					2137, -- [1]
-					1471460612, -- [2]
-				}, -- [38]
-			},
-			["Flames of Argus"] = {
-				{
-					2662, -- [1]
-					1468435230, -- [2]
-				}, -- [1]
-				{
-					73, -- [1]
-					1469124430, -- [2]
-				}, -- [2]
-				{
-					5034, -- [1]
-					1470248421, -- [2]
-				}, -- [3]
-				{
-					5392, -- [1]
-					1470248747, -- [2]
-				}, -- [4]
-			},
-			["Death Brand"] = {
-				{
-					1238, -- [1]
-					1467828842, -- [2]
-				}, -- [1]
-				{
-					1280, -- [1]
-					1467828842, -- [2]
-				}, -- [2]
-				{
-					1323, -- [1]
-					1467828842, -- [2]
-				}, -- [3]
-				{
-					1510, -- [1]
-					1467829133, -- [2]
-				}, -- [4]
-				{
-					1553, -- [1]
-					1467829133, -- [2]
-				}, -- [5]
-				{
-					1597, -- [1]
-					1467829133, -- [2]
-				}, -- [6]
-				{
-					1641, -- [1]
-					1467829133, -- [2]
-				}, -- [7]
-				{
-					1772, -- [1]
-					1467829523, -- [2]
-				}, -- [8]
-				{
-					1819, -- [1]
-					1467829523, -- [2]
-				}, -- [9]
-				{
-					1863, -- [1]
-					1467829523, -- [2]
-				}, -- [10]
-				{
-					2198, -- [1]
-					1467829870, -- [2]
-				}, -- [11]
-				{
-					2241, -- [1]
-					1467829870, -- [2]
-				}, -- [12]
-				{
-					2284, -- [1]
-					1467829870, -- [2]
-				}, -- [13]
-				{
-					2504, -- [1]
-					1467830117, -- [2]
-				}, -- [14]
-				{
-					2547, -- [1]
-					1467830117, -- [2]
-				}, -- [15]
-				{
-					2590, -- [1]
-					1467830117, -- [2]
-				}, -- [16]
-				{
-					2750, -- [1]
-					1467830507, -- [2]
-				}, -- [17]
-				{
-					2793, -- [1]
-					1467830507, -- [2]
-				}, -- [18]
-				{
-					2837, -- [1]
-					1467830507, -- [2]
-				}, -- [19]
-				{
-					3152, -- [1]
-					1467830985, -- [2]
-				}, -- [20]
-				{
-					3195, -- [1]
-					1467830985, -- [2]
-				}, -- [21]
-				{
-					3238, -- [1]
-					1467830985, -- [2]
-				}, -- [22]
-				{
-					3661, -- [1]
-					1467831525, -- [2]
-				}, -- [23]
-				{
-					3704, -- [1]
-					1467831525, -- [2]
-				}, -- [24]
-				{
-					3747, -- [1]
-					1467831525, -- [2]
-				}, -- [25]
-				{
-					4268, -- [1]
-					1467832109, -- [2]
-				}, -- [26]
-				{
-					4311, -- [1]
-					1467832109, -- [2]
-				}, -- [27]
-				{
-					4354, -- [1]
-					1467832109, -- [2]
-				}, -- [28]
-				{
-					2573, -- [1]
-					1468435230, -- [2]
-				}, -- [29]
-				{
-					2617, -- [1]
-					1468435230, -- [2]
-				}, -- [30]
-				{
-					2661, -- [1]
-					1468435230, -- [2]
-				}, -- [31]
-				{
-					2780, -- [1]
-					1468435678, -- [2]
-				}, -- [32]
-				{
-					2836, -- [1]
-					1468435678, -- [2]
-				}, -- [33]
-				{
-					2878, -- [1]
-					1468435678, -- [2]
-				}, -- [34]
-				{
-					3254, -- [1]
-					1468435997, -- [2]
-				}, -- [35]
-				{
-					3297, -- [1]
-					1468435997, -- [2]
-				}, -- [36]
-				{
-					3340, -- [1]
-					1468435997, -- [2]
-				}, -- [37]
-				{
-					3580, -- [1]
-					1468436469, -- [2]
-				}, -- [38]
-				{
-					3622, -- [1]
-					1468436469, -- [2]
-				}, -- [39]
-				{
-					3666, -- [1]
-					1468436469, -- [2]
-				}, -- [40]
-				{
-					17, -- [1]
-					1469039413, -- [2]
-				}, -- [41]
-				{
-					73, -- [1]
-					1469039413, -- [2]
-				}, -- [42]
-				{
-					116, -- [1]
-					1469039413, -- [2]
-				}, -- [43]
-				{
-					17, -- [1]
-					1469124430, -- [2]
-				}, -- [44]
-				{
-					67, -- [1]
-					1469124430, -- [2]
-				}, -- [45]
-				{
-					18, -- [1]
-					1469124851, -- [2]
-				}, -- [46]
-				{
-					69, -- [1]
-					1469124851, -- [2]
-				}, -- [47]
-				{
-					22, -- [1]
-					1469645419, -- [2]
-				}, -- [48]
-				{
-					70, -- [1]
-					1469645419, -- [2]
-				}, -- [49]
-				{
-					457, -- [1]
-					1469645836, -- [2]
-				}, -- [50]
-				{
-					500, -- [1]
-					1469645836, -- [2]
-				}, -- [51]
-				{
-					803, -- [1]
-					1469646028, -- [2]
-				}, -- [52]
-				{
-					861, -- [1]
-					1469646028, -- [2]
-				}, -- [53]
-				{
-					976, -- [1]
-					1469646361, -- [2]
-				}, -- [54]
-				{
-					1023, -- [1]
-					1469646361, -- [2]
-				}, -- [55]
-				{
-					5027, -- [1]
-					1470248421, -- [2]
-				}, -- [56]
-				{
-					5398, -- [1]
-					1470248747, -- [2]
-				}, -- [57]
-				{
-					5747, -- [1]
-					1470249163, -- [2]
-				}, -- [58]
-				{
-					485, -- [1]
-					1470852745, -- [2]
-				}, -- [59]
-				{
-					1509, -- [1]
-					1471459968, -- [2]
-				}, -- [60]
-				{
-					2149, -- [1]
-					1471460612, -- [2]
-				}, -- [61]
-			},
-			["Mark of the Legion"] = {
-				{
-					1912, -- [1]
-					1467829523, -- [2]
-				}, -- [1]
-				{
-					1975, -- [1]
-					1467829523, -- [2]
-				}, -- [2]
-				{
-					2349, -- [1]
-					1467829870, -- [2]
-				}, -- [3]
-				{
-					2891, -- [1]
-					1467830507, -- [2]
-				}, -- [4]
-				{
-					2954, -- [1]
-					1467830507, -- [2]
-				}, -- [5]
-				{
-					3014, -- [1]
-					1467830507, -- [2]
-				}, -- [6]
-				{
-					3293, -- [1]
-					1467830985, -- [2]
-				}, -- [7]
-				{
-					3356, -- [1]
-					1467830985, -- [2]
-				}, -- [8]
-				{
-					3416, -- [1]
-					1467830985, -- [2]
-				}, -- [9]
-				{
-					3476, -- [1]
-					1467830985, -- [2]
-				}, -- [10]
-				{
-					3810, -- [1]
-					1467831525, -- [2]
-				}, -- [11]
-				{
-					3873, -- [1]
-					1467831525, -- [2]
-				}, -- [12]
-				{
-					3933, -- [1]
-					1467831525, -- [2]
-				}, -- [13]
-				{
-					3993, -- [1]
-					1467831525, -- [2]
-				}, -- [14]
-				{
-					4416, -- [1]
-					1467832109, -- [2]
-				}, -- [15]
-				{
-					4479, -- [1]
-					1467832109, -- [2]
-				}, -- [16]
-				{
-					4539, -- [1]
-					1467832109, -- [2]
-				}, -- [17]
-				{
-					4599, -- [1]
-					1467832109, -- [2]
-				}, -- [18]
-				{
-					2939, -- [1]
-					1468435678, -- [2]
-				}, -- [19]
-				{
-					3002, -- [1]
-					1468435678, -- [2]
-				}, -- [20]
-				{
-					3062, -- [1]
-					1468435678, -- [2]
-				}, -- [21]
-				{
-					3400, -- [1]
-					1468435997, -- [2]
-				}, -- [22]
-				{
-					3720, -- [1]
-					1468436469, -- [2]
-				}, -- [23]
-				{
-					3783, -- [1]
-					1468436469, -- [2]
-				}, -- [24]
-				{
-					3843, -- [1]
-					1468436469, -- [2]
-				}, -- [25]
-				{
-					3903, -- [1]
-					1468436469, -- [2]
-				}, -- [26]
-				{
-					148, -- [1]
-					1469039413, -- [2]
-				}, -- [27]
-				{
-					212, -- [1]
-					1469039413, -- [2]
-				}, -- [28]
-				{
-					119, -- [1]
-					1469124430, -- [2]
-				}, -- [29]
-				{
-					182, -- [1]
-					1469124430, -- [2]
-				}, -- [30]
-				{
-					122, -- [1]
-					1469124851, -- [2]
-				}, -- [31]
-				{
-					185, -- [1]
-					1469124851, -- [2]
-				}, -- [32]
-				{
-					118, -- [1]
-					1469645419, -- [2]
-				}, -- [33]
-				{
-					182, -- [1]
-					1469645419, -- [2]
-				}, -- [34]
-				{
-					243, -- [1]
-					1469645419, -- [2]
-				}, -- [35]
-				{
-					560, -- [1]
-					1469645836, -- [2]
-				}, -- [36]
-				{
-					623, -- [1]
-					1469645836, -- [2]
-				}, -- [37]
-				{
-					1077, -- [1]
-					1469646361, -- [2]
-				}, -- [38]
-				{
-					1141, -- [1]
-					1469646361, -- [2]
-				}, -- [39]
-				{
-					5084, -- [1]
-					1470248421, -- [2]
-				}, -- [40]
-				{
-					5147, -- [1]
-					1470248421, -- [2]
-				}, -- [41]
-				{
-					5453, -- [1]
-					1470248747, -- [2]
-				}, -- [42]
-				{
-					5800, -- [1]
-					1470249163, -- [2]
-				}, -- [43]
-				{
-					5863, -- [1]
-					1470249163, -- [2]
-				}, -- [44]
-				{
-					526, -- [1]
-					1470852745, -- [2]
-				}, -- [45]
-				{
-					589, -- [1]
-					1470852745, -- [2]
-				}, -- [46]
-				{
-					650, -- [1]
-					1470852745, -- [2]
-				}, -- [47]
-				{
-					1563, -- [1]
-					1471459968, -- [2]
-				}, -- [48]
-				{
-					1626, -- [1]
-					1471459968, -- [2]
-				}, -- [49]
-				{
-					2201, -- [1]
-					1471460612, -- [2]
-				}, -- [50]
-				{
-					2264, -- [1]
-					1471460612, -- [2]
-				}, -- [51]
-			},
-			["Shackled Torment"] = {
-				{
-					1269, -- [1]
-					1467828842, -- [2]
-				}, -- [1]
-				{
-					1310, -- [1]
-					1467828842, -- [2]
-				}, -- [2]
-				{
-					1347, -- [1]
-					1467828842, -- [2]
-				}, -- [3]
-				{
-					1541, -- [1]
-					1467829133, -- [2]
-				}, -- [4]
-				{
-					1581, -- [1]
-					1467829133, -- [2]
-				}, -- [5]
-				{
-					1619, -- [1]
-					1467829133, -- [2]
-				}, -- [6]
-				{
-					1800, -- [1]
-					1467829523, -- [2]
-				}, -- [7]
-				{
-					1840, -- [1]
-					1467829523, -- [2]
-				}, -- [8]
-				{
-					1878, -- [1]
-					1467829523, -- [2]
-				}, -- [9]
-				{
-					2230, -- [1]
-					1467829870, -- [2]
-				}, -- [10]
-				{
-					2270, -- [1]
-					1467829870, -- [2]
-				}, -- [11]
-				{
-					2307, -- [1]
-					1467829870, -- [2]
-				}, -- [12]
-				{
-					2533, -- [1]
-					1467830117, -- [2]
-				}, -- [13]
-				{
-					2573, -- [1]
-					1467830117, -- [2]
-				}, -- [14]
-				{
-					2610, -- [1]
-					1467830117, -- [2]
-				}, -- [15]
-				{
-					2778, -- [1]
-					1467830507, -- [2]
-				}, -- [16]
-				{
-					2818, -- [1]
-					1467830507, -- [2]
-				}, -- [17]
-				{
-					2856, -- [1]
-					1467830507, -- [2]
-				}, -- [18]
-				{
-					3180, -- [1]
-					1467830985, -- [2]
-				}, -- [19]
-				{
-					3220, -- [1]
-					1467830985, -- [2]
-				}, -- [20]
-				{
-					3258, -- [1]
-					1467830985, -- [2]
-				}, -- [21]
-				{
-					3690, -- [1]
-					1467831525, -- [2]
-				}, -- [22]
-				{
-					3729, -- [1]
-					1467831525, -- [2]
-				}, -- [23]
-				{
-					3767, -- [1]
-					1467831525, -- [2]
-				}, -- [24]
-				{
-					4299, -- [1]
-					1467832109, -- [2]
-				}, -- [25]
-				{
-					4338, -- [1]
-					1467832109, -- [2]
-				}, -- [26]
-				{
-					4375, -- [1]
-					1467832109, -- [2]
-				}, -- [27]
-				{
-					2605, -- [1]
-					1468435230, -- [2]
-				}, -- [28]
-				{
-					2645, -- [1]
-					1468435230, -- [2]
-				}, -- [29]
-				{
-					2825, -- [1]
-					1468435678, -- [2]
-				}, -- [30]
-				{
-					2865, -- [1]
-					1468435678, -- [2]
-				}, -- [31]
-				{
-					2903, -- [1]
-					1468435678, -- [2]
-				}, -- [32]
-				{
-					3286, -- [1]
-					1468435997, -- [2]
-				}, -- [33]
-				{
-					3326, -- [1]
-					1468435997, -- [2]
-				}, -- [34]
-				{
-					3364, -- [1]
-					1468435997, -- [2]
-				}, -- [35]
-				{
-					3611, -- [1]
-					1468436469, -- [2]
-				}, -- [36]
-				{
-					3651, -- [1]
-					1468436469, -- [2]
-				}, -- [37]
-				{
-					3688, -- [1]
-					1468436469, -- [2]
-				}, -- [38]
-				{
-					62, -- [1]
-					1469039413, -- [2]
-				}, -- [39]
-				{
-					103, -- [1]
-					1469039413, -- [2]
-				}, -- [40]
-				{
-					56, -- [1]
-					1469124430, -- [2]
-				}, -- [41]
-				{
-					58, -- [1]
-					1469124851, -- [2]
-				}, -- [42]
-				{
-					50, -- [1]
-					1469645419, -- [2]
-				}, -- [43]
-				{
-					90, -- [1]
-					1469645419, -- [2]
-				}, -- [44]
-				{
-					486, -- [1]
-					1469645836, -- [2]
-				}, -- [45]
-				{
-					525, -- [1]
-					1469645836, -- [2]
-				}, -- [46]
-				{
-					850, -- [1]
-					1469646028, -- [2]
-				}, -- [47]
-				{
-					1004, -- [1]
-					1469646361, -- [2]
-				}, -- [48]
-				{
-					1044, -- [1]
-					1469646361, -- [2]
-				}, -- [49]
-				{
-					5016, -- [1]
-					1470248421, -- [2]
-				}, -- [50]
-				{
-					5056, -- [1]
-					1470248421, -- [2]
-				}, -- [51]
-				{
-					5387, -- [1]
-					1470248747, -- [2]
-				}, -- [52]
-				{
-					5736, -- [1]
-					1470249163, -- [2]
-				}, -- [53]
-				{
-					474, -- [1]
-					1470852745, -- [2]
-				}, -- [54]
-				{
-					1498, -- [1]
-					1471459968, -- [2]
-				}, -- [55]
-				{
-					2137, -- [1]
-					1471460612, -- [2]
-				}, -- [56]
-			},
-			["Shadow Blast"] = {
-				{
-					1241, -- [1]
-					1467828842, -- [2]
-				}, -- [1]
-				{
-					1248, -- [1]
-					1467828842, -- [2]
-				}, -- [2]
-				{
-					1256, -- [1]
-					1467828842, -- [2]
-				}, -- [3]
-				{
-					1283, -- [1]
-					1467828842, -- [2]
-				}, -- [4]
-				{
-					1291, -- [1]
-					1467828842, -- [2]
-				}, -- [5]
-				{
-					1326, -- [1]
-					1467828842, -- [2]
-				}, -- [6]
-				{
-					1333, -- [1]
-					1467828842, -- [2]
-				}, -- [7]
-				{
-					1514, -- [1]
-					1467829133, -- [2]
-				}, -- [8]
-				{
-					1521, -- [1]
-					1467829133, -- [2]
-				}, -- [9]
-				{
-					1530, -- [1]
-					1467829133, -- [2]
-				}, -- [10]
-				{
-					1557, -- [1]
-					1467829133, -- [2]
-				}, -- [11]
-				{
-					1565, -- [1]
-					1467829133, -- [2]
-				}, -- [12]
-				{
-					1600, -- [1]
-					1467829133, -- [2]
-				}, -- [13]
-				{
-					1607, -- [1]
-					1467829133, -- [2]
-				}, -- [14]
-				{
-					1615, -- [1]
-					1467829133, -- [2]
-				}, -- [15]
-				{
-					1775, -- [1]
-					1467829523, -- [2]
-				}, -- [16]
-				{
-					1783, -- [1]
-					1467829523, -- [2]
-				}, -- [17]
-				{
-					1823, -- [1]
-					1467829523, -- [2]
-				}, -- [18]
-				{
-					1830, -- [1]
-					1467829523, -- [2]
-				}, -- [19]
-				{
-					1866, -- [1]
-					1467829523, -- [2]
-				}, -- [20]
-				{
-					1874, -- [1]
-					1467829523, -- [2]
-				}, -- [21]
-				{
-					2201, -- [1]
-					1467829870, -- [2]
-				}, -- [22]
-				{
-					2210, -- [1]
-					1467829870, -- [2]
-				}, -- [23]
-				{
-					2244, -- [1]
-					1467829870, -- [2]
-				}, -- [24]
-				{
-					2251, -- [1]
-					1467829870, -- [2]
-				}, -- [25]
-				{
-					2287, -- [1]
-					1467829870, -- [2]
-				}, -- [26]
-				{
-					2295, -- [1]
-					1467829870, -- [2]
-				}, -- [27]
-				{
-					2302, -- [1]
-					1467829870, -- [2]
-				}, -- [28]
-				{
-					2508, -- [1]
-					1467830117, -- [2]
-				}, -- [29]
-				{
-					2515, -- [1]
-					1467830117, -- [2]
-				}, -- [30]
-				{
-					2522, -- [1]
-					1467830117, -- [2]
-				}, -- [31]
-				{
-					2551, -- [1]
-					1467830117, -- [2]
-				}, -- [32]
-				{
-					2558, -- [1]
-					1467830117, -- [2]
-				}, -- [33]
-				{
-					2593, -- [1]
-					1467830117, -- [2]
-				}, -- [34]
-				{
-					2600, -- [1]
-					1467830117, -- [2]
-				}, -- [35]
-				{
-					2754, -- [1]
-					1467830507, -- [2]
-				}, -- [36]
-				{
-					2761, -- [1]
-					1467830507, -- [2]
-				}, -- [37]
-				{
-					2798, -- [1]
-					1467830507, -- [2]
-				}, -- [38]
-				{
-					2806, -- [1]
-					1467830507, -- [2]
-				}, -- [39]
-				{
-					2840, -- [1]
-					1467830507, -- [2]
-				}, -- [40]
-				{
-					2847, -- [1]
-					1467830507, -- [2]
-				}, -- [41]
-				{
-					2854, -- [1]
-					1467830507, -- [2]
-				}, -- [42]
-				{
-					3156, -- [1]
-					1467830985, -- [2]
-				}, -- [43]
-				{
-					3163, -- [1]
-					1467830985, -- [2]
-				}, -- [44]
-				{
-					3171, -- [1]
-					1467830985, -- [2]
-				}, -- [45]
-				{
-					3198, -- [1]
-					1467830985, -- [2]
-				}, -- [46]
-				{
-					3206, -- [1]
-					1467830985, -- [2]
-				}, -- [47]
-				{
-					3242, -- [1]
-					1467830985, -- [2]
-				}, -- [48]
-				{
-					3249, -- [1]
-					1467830985, -- [2]
-				}, -- [49]
-				{
-					3256, -- [1]
-					1467830985, -- [2]
-				}, -- [50]
-				{
-					3664, -- [1]
-					1467831525, -- [2]
-				}, -- [51]
-				{
-					3672, -- [1]
-					1467831525, -- [2]
-				}, -- [52]
-				{
-					3679, -- [1]
-					1467831525, -- [2]
-				}, -- [53]
-				{
-					3707, -- [1]
-					1467831525, -- [2]
-				}, -- [54]
-				{
-					3714, -- [1]
-					1467831525, -- [2]
-				}, -- [55]
-				{
-					3750, -- [1]
-					1467831525, -- [2]
-				}, -- [56]
-				{
-					3758, -- [1]
-					1467831525, -- [2]
-				}, -- [57]
-				{
-					3765, -- [1]
-					1467831525, -- [2]
-				}, -- [58]
-				{
-					4272, -- [1]
-					1467832109, -- [2]
-				}, -- [59]
-				{
-					4279, -- [1]
-					1467832109, -- [2]
-				}, -- [60]
-				{
-					4286, -- [1]
-					1467832109, -- [2]
-				}, -- [61]
-				{
-					4314, -- [1]
-					1467832109, -- [2]
-				}, -- [62]
-				{
-					4321, -- [1]
-					1467832109, -- [2]
-				}, -- [63]
-				{
-					4358, -- [1]
-					1467832109, -- [2]
-				}, -- [64]
-				{
-					4365, -- [1]
-					1467832109, -- [2]
-				}, -- [65]
-				{
-					4373, -- [1]
-					1467832109, -- [2]
-				}, -- [66]
-				{
-					2577, -- [1]
-					1468435230, -- [2]
-				}, -- [67]
-				{
-					2584, -- [1]
-					1468435230, -- [2]
-				}, -- [68]
-				{
-					2592, -- [1]
-					1468435230, -- [2]
-				}, -- [69]
-				{
-					2621, -- [1]
-					1468435230, -- [2]
-				}, -- [70]
-				{
-					2628, -- [1]
-					1468435230, -- [2]
-				}, -- [71]
-				{
-					2783, -- [1]
-					1468435678, -- [2]
-				}, -- [72]
-				{
-					2791, -- [1]
-					1468435678, -- [2]
-				}, -- [73]
-				{
-					2798, -- [1]
-					1468435678, -- [2]
-				}, -- [74]
-				{
-					2805, -- [1]
-					1468435678, -- [2]
-				}, -- [75]
-				{
-					2839, -- [1]
-					1468435678, -- [2]
-				}, -- [76]
-				{
-					2846, -- [1]
-					1468435678, -- [2]
-				}, -- [77]
-				{
-					2882, -- [1]
-					1468435678, -- [2]
-				}, -- [78]
-				{
-					2889, -- [1]
-					1468435678, -- [2]
-				}, -- [79]
-				{
-					2896, -- [1]
-					1468435678, -- [2]
-				}, -- [80]
-				{
-					3258, -- [1]
-					1468435997, -- [2]
-				}, -- [81]
-				{
-					3265, -- [1]
-					1468435997, -- [2]
-				}, -- [82]
-				{
-					3272, -- [1]
-					1468435997, -- [2]
-				}, -- [83]
-				{
-					3300, -- [1]
-					1468435997, -- [2]
-				}, -- [84]
-				{
-					3308, -- [1]
-					1468435997, -- [2]
-				}, -- [85]
-				{
-					3343, -- [1]
-					1468435997, -- [2]
-				}, -- [86]
-				{
-					3350, -- [1]
-					1468435997, -- [2]
-				}, -- [87]
-				{
-					3357, -- [1]
-					1468435997, -- [2]
-				}, -- [88]
-				{
-					3365, -- [1]
-					1468435997, -- [2]
-				}, -- [89]
-				{
-					3584, -- [1]
-					1468436469, -- [2]
-				}, -- [90]
-				{
-					3591, -- [1]
-					1468436469, -- [2]
-				}, -- [91]
-				{
-					3626, -- [1]
-					1468436469, -- [2]
-				}, -- [92]
-				{
-					3635, -- [1]
-					1468436469, -- [2]
-				}, -- [93]
-				{
-					3669, -- [1]
-					1468436469, -- [2]
-				}, -- [94]
-				{
-					3677, -- [1]
-					1468436469, -- [2]
-				}, -- [95]
-				{
-					3684, -- [1]
-					1468436469, -- [2]
-				}, -- [96]
-				{
-					21, -- [1]
-					1469039413, -- [2]
-				}, -- [97]
-				{
-					28, -- [1]
-					1469039413, -- [2]
-				}, -- [98]
-				{
-					35, -- [1]
-					1469039413, -- [2]
-				}, -- [99]
-				{
-					43, -- [1]
-					1469039413, -- [2]
-				}, -- [100]
-				{
-					77, -- [1]
-					1469039413, -- [2]
-				}, -- [101]
-				{
-					84, -- [1]
-					1469039413, -- [2]
-				}, -- [102]
-				{
-					91, -- [1]
-					1469039413, -- [2]
-				}, -- [103]
-				{
-					119, -- [1]
-					1469039413, -- [2]
-				}, -- [104]
-				{
-					21, -- [1]
-					1469124430, -- [2]
-				}, -- [105]
-				{
-					28, -- [1]
-					1469124430, -- [2]
-				}, -- [106]
-				{
-					35, -- [1]
-					1469124430, -- [2]
-				}, -- [107]
-				{
-					71, -- [1]
-					1469124430, -- [2]
-				}, -- [108]
-				{
-					78, -- [1]
-					1469124430, -- [2]
-				}, -- [109]
-				{
-					85, -- [1]
-					1469124430, -- [2]
-				}, -- [110]
-				{
-					92, -- [1]
-					1469124430, -- [2]
-				}, -- [111]
-				{
-					22, -- [1]
-					1469124851, -- [2]
-				}, -- [112]
-				{
-					29, -- [1]
-					1469124851, -- [2]
-				}, -- [113]
-				{
-					37, -- [1]
-					1469124851, -- [2]
-				}, -- [114]
-				{
-					72, -- [1]
-					1469124851, -- [2]
-				}, -- [115]
-				{
-					79, -- [1]
-					1469124851, -- [2]
-				}, -- [116]
-				{
-					86, -- [1]
-					1469124851, -- [2]
-				}, -- [117]
-				{
-					94, -- [1]
-					1469124851, -- [2]
-				}, -- [118]
-				{
-					26, -- [1]
-					1469645419, -- [2]
-				}, -- [119]
-				{
-					33, -- [1]
-					1469645419, -- [2]
-				}, -- [120]
-				{
-					40, -- [1]
-					1469645419, -- [2]
-				}, -- [121]
-				{
-					73, -- [1]
-					1469645419, -- [2]
-				}, -- [122]
-				{
-					80, -- [1]
-					1469645419, -- [2]
-				}, -- [123]
-				{
-					88, -- [1]
-					1469645419, -- [2]
-				}, -- [124]
-				{
-					460, -- [1]
-					1469645836, -- [2]
-				}, -- [125]
-				{
-					468, -- [1]
-					1469645836, -- [2]
-				}, -- [126]
-				{
-					503, -- [1]
-					1469645836, -- [2]
-				}, -- [127]
-				{
-					510, -- [1]
-					1469645836, -- [2]
-				}, -- [128]
-				{
-					806, -- [1]
-					1469646028, -- [2]
-				}, -- [129]
-				{
-					814, -- [1]
-					1469646028, -- [2]
-				}, -- [130]
-				{
-					979, -- [1]
-					1469646361, -- [2]
-				}, -- [131]
-				{
-					987, -- [1]
-					1469646361, -- [2]
-				}, -- [132]
-				{
-					1027, -- [1]
-					1469646361, -- [2]
-				}, -- [133]
-				{
-					1034, -- [1]
-					1469646361, -- [2]
-				}, -- [134]
-				{
-					1041, -- [1]
-					1469646361, -- [2]
-				}, -- [135]
-				{
-					5030, -- [1]
-					1470248421, -- [2]
-				}, -- [136]
-				{
-					5037, -- [1]
-					1470248421, -- [2]
-				}, -- [137]
-				{
-					5045, -- [1]
-					1470248421, -- [2]
-				}, -- [138]
-				{
-					5402, -- [1]
-					1470248747, -- [2]
-				}, -- [139]
-				{
-					5409, -- [1]
-					1470248747, -- [2]
-				}, -- [140]
-				{
-					5416, -- [1]
-					1470248747, -- [2]
-				}, -- [141]
-				{
-					5750, -- [1]
-					1470249163, -- [2]
-				}, -- [142]
-				{
-					5757, -- [1]
-					1470249163, -- [2]
-				}, -- [143]
-				{
-					5765, -- [1]
-					1470249163, -- [2]
-				}, -- [144]
-				{
-					488, -- [1]
-					1470852745, -- [2]
-				}, -- [145]
-				{
-					496, -- [1]
-					1470852745, -- [2]
-				}, -- [146]
-				{
-					1512, -- [1]
-					1471459968, -- [2]
-				}, -- [147]
-				{
-					1520, -- [1]
-					1471459968, -- [2]
-				}, -- [148]
-				{
-					2152, -- [1]
-					1471460612, -- [2]
-				}, -- [149]
-				{
-					2159, -- [1]
-					1471460612, -- [2]
-				}, -- [150]
-			},
-			["Doomfire"] = {
-				{
-					1222, -- [1]
-					1467828842, -- [2]
-				}, -- [1]
-				{
-					1494, -- [1]
-					1467829133, -- [2]
-				}, -- [2]
-				{
-					1756, -- [1]
-					1467829523, -- [2]
-				}, -- [3]
-				{
-					2182, -- [1]
-					1467829870, -- [2]
-				}, -- [4]
-				{
-					2489, -- [1]
-					1467830117, -- [2]
-				}, -- [5]
-				{
-					2735, -- [1]
-					1467830507, -- [2]
-				}, -- [6]
-				{
-					3137, -- [1]
-					1467830985, -- [2]
-				}, -- [7]
-				{
-					3645, -- [1]
-					1467831525, -- [2]
-				}, -- [8]
-				{
-					4253, -- [1]
-					1467832109, -- [2]
-				}, -- [9]
-				{
-					2555, -- [1]
-					1468435230, -- [2]
-				}, -- [10]
-				{
-					2769, -- [1]
-					1468435678, -- [2]
-				}, -- [11]
-				{
-					3236, -- [1]
-					1468435997, -- [2]
-				}, -- [12]
-				{
-					3563, -- [1]
-					1468436469, -- [2]
-				}, -- [13]
-				{
-					7, -- [1]
-					1469039413, -- [2]
-				}, -- [14]
-				{
-					7, -- [1]
-					1469124430, -- [2]
-				}, -- [15]
-				{
-					7, -- [1]
-					1469124851, -- [2]
-				}, -- [16]
-				{
-					7, -- [1]
-					1469645419, -- [2]
-				}, -- [17]
-				{
-					438, -- [1]
-					1469645836, -- [2]
-				}, -- [18]
-				{
-					792, -- [1]
-					1469646028, -- [2]
-				}, -- [19]
-				{
-					959, -- [1]
-					1469646361, -- [2]
-				}, -- [20]
-				{
-					4977, -- [1]
-					1470248421, -- [2]
-				}, -- [21]
-				{
-					5349, -- [1]
-					1470248747, -- [2]
-				}, -- [22]
-				{
-					5697, -- [1]
-					1470249163, -- [2]
-				}, -- [23]
-				{
-					437, -- [1]
-					1470852745, -- [2]
-				}, -- [24]
-				{
-					1459, -- [1]
-					1471459968, -- [2]
-				}, -- [25]
-				{
-					2097, -- [1]
-					1471460612, -- [2]
-				}, -- [26]
-			},
-			["Desecrate"] = {
-				{
-					1229, -- [1]
-					1467828842, -- [2]
-				}, -- [1]
-				{
-					1502, -- [1]
-					1467829133, -- [2]
-				}, -- [2]
-				{
-					1764, -- [1]
-					1467829523, -- [2]
-				}, -- [3]
-				{
-					2190, -- [1]
-					1467829870, -- [2]
-				}, -- [4]
-				{
-					2496, -- [1]
-					1467830117, -- [2]
-				}, -- [5]
-				{
-					2742, -- [1]
-					1467830507, -- [2]
-				}, -- [6]
-				{
-					3144, -- [1]
-					1467830985, -- [2]
-				}, -- [7]
-				{
-					3652, -- [1]
-					1467831525, -- [2]
-				}, -- [8]
-				{
-					4260, -- [1]
-					1467832109, -- [2]
-				}, -- [9]
-				{
-					2565, -- [1]
-					1468435230, -- [2]
-				}, -- [10]
-				{
-					2785, -- [1]
-					1468435678, -- [2]
-				}, -- [11]
-				{
-					3246, -- [1]
-					1468435997, -- [2]
-				}, -- [12]
-				{
-					3572, -- [1]
-					1468436469, -- [2]
-				}, -- [13]
-				{
-					22, -- [1]
-					1469039413, -- [2]
-				}, -- [14]
-				{
-					22, -- [1]
-					1469124430, -- [2]
-				}, -- [15]
-				{
-					23, -- [1]
-					1469124851, -- [2]
-				}, -- [16]
-				{
-					14, -- [1]
-					1469645419, -- [2]
-				}, -- [17]
-				{
-					449, -- [1]
-					1469645836, -- [2]
-				}, -- [18]
-				{
-					808, -- [1]
-					1469646028, -- [2]
-				}, -- [19]
-				{
-					968, -- [1]
-					1469646361, -- [2]
-				}, -- [20]
-				{
-					4985, -- [1]
-					1470248421, -- [2]
-				}, -- [21]
-				{
-					5356, -- [1]
-					1470248747, -- [2]
-				}, -- [22]
-				{
-					5704, -- [1]
-					1470249163, -- [2]
-				}, -- [23]
-				{
-					444, -- [1]
-					1470852745, -- [2]
-				}, -- [24]
-				{
-					1467, -- [1]
-					1471459968, -- [2]
-				}, -- [25]
-				{
-					2106, -- [1]
-					1471460612, -- [2]
-				}, -- [26]
-			},
-			["Nether Ascension"] = {
-				{
-					1890, -- [1]
-					1467829523, -- [2]
-				}, -- [1]
-				{
-					2327, -- [1]
-					1467829870, -- [2]
-				}, -- [2]
-				{
-					2868, -- [1]
-					1467830507, -- [2]
-				}, -- [3]
-				{
-					3272, -- [1]
-					1467830985, -- [2]
-				}, -- [4]
-				{
-					3787, -- [1]
-					1467831525, -- [2]
-				}, -- [5]
-				{
-					4394, -- [1]
-					1467832109, -- [2]
-				}, -- [6]
-				{
-					2916, -- [1]
-					1468435678, -- [2]
-				}, -- [7]
-				{
-					3378, -- [1]
-					1468435997, -- [2]
-				}, -- [8]
-				{
-					3698, -- [1]
-					1468436469, -- [2]
-				}, -- [9]
-				{
-					126, -- [1]
-					1469039413, -- [2]
-				}, -- [10]
-				{
-					97, -- [1]
-					1469124430, -- [2]
-				}, -- [11]
-				{
-					99, -- [1]
-					1469124851, -- [2]
-				}, -- [12]
-				{
-					95, -- [1]
-					1469645419, -- [2]
-				}, -- [13]
-				{
-					538, -- [1]
-					1469645836, -- [2]
-				}, -- [14]
-				{
-					1055, -- [1]
-					1469646361, -- [2]
-				}, -- [15]
-				{
-					5061, -- [1]
-					1470248421, -- [2]
-				}, -- [16]
-				{
-					5430, -- [1]
-					1470248747, -- [2]
-				}, -- [17]
-				{
-					5777, -- [1]
-					1470249163, -- [2]
-				}, -- [18]
-				{
-					503, -- [1]
-					1470852745, -- [2]
-				}, -- [19]
-				{
-					1541, -- [1]
-					1471459968, -- [2]
-				}, -- [20]
-				{
-					2178, -- [1]
-					1471460612, -- [2]
-				}, -- [21]
-			},
-			["Dark Conduit"] = {
-				{
-					1900, -- [1]
-					1467829523, -- [2]
-				}, -- [1]
-				{
-					1901, -- [1]
-					1467829523, -- [2]
-				}, -- [2]
-				{
-					1902, -- [1]
-					1467829523, -- [2]
-				}, -- [3]
-				{
-					1902, -- [1]
-					1467829523, -- [2]
-				}, -- [4]
-				{
-					1904, -- [1]
-					1467829523, -- [2]
-				}, -- [5]
-				{
-					1904, -- [1]
-					1467829523, -- [2]
-				}, -- [6]
-				{
-					2023, -- [1]
-					1467829523, -- [2]
-				}, -- [7]
-				{
-					2024, -- [1]
-					1467829523, -- [2]
-				}, -- [8]
-				{
-					2025, -- [1]
-					1467829523, -- [2]
-				}, -- [9]
-				{
-					2027, -- [1]
-					1467829523, -- [2]
-				}, -- [10]
-				{
-					2028, -- [1]
-					1467829523, -- [2]
-				}, -- [11]
-				{
-					2337, -- [1]
-					1467829870, -- [2]
-				}, -- [12]
-				{
-					2337, -- [1]
-					1467829870, -- [2]
-				}, -- [13]
-				{
-					2339, -- [1]
-					1467829870, -- [2]
-				}, -- [14]
-				{
-					2339, -- [1]
-					1467829870, -- [2]
-				}, -- [15]
-				{
-					2341, -- [1]
-					1467829870, -- [2]
-				}, -- [16]
-				{
-					2341, -- [1]
-					1467829870, -- [2]
-				}, -- [17]
-				{
-					2879, -- [1]
-					1467830507, -- [2]
-				}, -- [18]
-				{
-					2879, -- [1]
-					1467830507, -- [2]
-				}, -- [19]
-				{
-					2881, -- [1]
-					1467830507, -- [2]
-				}, -- [20]
-				{
-					2881, -- [1]
-					1467830507, -- [2]
-				}, -- [21]
-				{
-					2883, -- [1]
-					1467830507, -- [2]
-				}, -- [22]
-				{
-					2883, -- [1]
-					1467830507, -- [2]
-				}, -- [23]
-				{
-					3002, -- [1]
-					1467830507, -- [2]
-				}, -- [24]
-				{
-					3002, -- [1]
-					1467830507, -- [2]
-				}, -- [25]
-				{
-					3004, -- [1]
-					1467830507, -- [2]
-				}, -- [26]
-				{
-					3004, -- [1]
-					1467830507, -- [2]
-				}, -- [27]
-				{
-					3006, -- [1]
-					1467830507, -- [2]
-				}, -- [28]
-				{
-					3006, -- [1]
-					1467830507, -- [2]
-				}, -- [29]
-				{
-					3281, -- [1]
-					1467830985, -- [2]
-				}, -- [30]
-				{
-					3281, -- [1]
-					1467830985, -- [2]
-				}, -- [31]
-				{
-					3283, -- [1]
-					1467830985, -- [2]
-				}, -- [32]
-				{
-					3283, -- [1]
-					1467830985, -- [2]
-				}, -- [33]
-				{
-					3285, -- [1]
-					1467830985, -- [2]
-				}, -- [34]
-				{
-					3285, -- [1]
-					1467830985, -- [2]
-				}, -- [35]
-				{
-					3404, -- [1]
-					1467830985, -- [2]
-				}, -- [36]
-				{
-					3404, -- [1]
-					1467830985, -- [2]
-				}, -- [37]
-				{
-					3406, -- [1]
-					1467830985, -- [2]
-				}, -- [38]
-				{
-					3406, -- [1]
-					1467830985, -- [2]
-				}, -- [39]
-				{
-					3408, -- [1]
-					1467830985, -- [2]
-				}, -- [40]
-				{
-					3408, -- [1]
-					1467830985, -- [2]
-				}, -- [41]
-				{
-					3798, -- [1]
-					1467831525, -- [2]
-				}, -- [42]
-				{
-					3798, -- [1]
-					1467831525, -- [2]
-				}, -- [43]
-				{
-					3800, -- [1]
-					1467831525, -- [2]
-				}, -- [44]
-				{
-					3800, -- [1]
-					1467831525, -- [2]
-				}, -- [45]
-				{
-					3802, -- [1]
-					1467831525, -- [2]
-				}, -- [46]
-				{
-					3802, -- [1]
-					1467831525, -- [2]
-				}, -- [47]
-				{
-					3921, -- [1]
-					1467831525, -- [2]
-				}, -- [48]
-				{
-					3921, -- [1]
-					1467831525, -- [2]
-				}, -- [49]
-				{
-					3923, -- [1]
-					1467831525, -- [2]
-				}, -- [50]
-				{
-					3923, -- [1]
-					1467831525, -- [2]
-				}, -- [51]
-				{
-					3925, -- [1]
-					1467831525, -- [2]
-				}, -- [52]
-				{
-					3925, -- [1]
-					1467831525, -- [2]
-				}, -- [53]
-				{
-					4016, -- [1]
-					1467831525, -- [2]
-				}, -- [54]
-				{
-					4016, -- [1]
-					1467831525, -- [2]
-				}, -- [55]
-				{
-					4018, -- [1]
-					1467831525, -- [2]
-				}, -- [56]
-				{
-					4018, -- [1]
-					1467831525, -- [2]
-				}, -- [57]
-				{
-					4020, -- [1]
-					1467831525, -- [2]
-				}, -- [58]
-				{
-					4020, -- [1]
-					1467831525, -- [2]
-				}, -- [59]
-				{
-					4404, -- [1]
-					1467832109, -- [2]
-				}, -- [60]
-				{
-					4404, -- [1]
-					1467832109, -- [2]
-				}, -- [61]
-				{
-					4406, -- [1]
-					1467832109, -- [2]
-				}, -- [62]
-				{
-					4406, -- [1]
-					1467832109, -- [2]
-				}, -- [63]
-				{
-					4408, -- [1]
-					1467832109, -- [2]
-				}, -- [64]
-				{
-					4408, -- [1]
-					1467832109, -- [2]
-				}, -- [65]
-				{
-					4527, -- [1]
-					1467832109, -- [2]
-				}, -- [66]
-				{
-					4527, -- [1]
-					1467832109, -- [2]
-				}, -- [67]
-				{
-					4529, -- [1]
-					1467832109, -- [2]
-				}, -- [68]
-				{
-					4529, -- [1]
-					1467832109, -- [2]
-				}, -- [69]
-				{
-					4531, -- [1]
-					1467832109, -- [2]
-				}, -- [70]
-				{
-					4531, -- [1]
-					1467832109, -- [2]
-				}, -- [71]
-				{
-					2927, -- [1]
-					1468435678, -- [2]
-				}, -- [72]
-				{
-					2927, -- [1]
-					1468435678, -- [2]
-				}, -- [73]
-				{
-					2929, -- [1]
-					1468435678, -- [2]
-				}, -- [74]
-				{
-					2929, -- [1]
-					1468435678, -- [2]
-				}, -- [75]
-				{
-					2931, -- [1]
-					1468435678, -- [2]
-				}, -- [76]
-				{
-					2931, -- [1]
-					1468435678, -- [2]
-				}, -- [77]
-				{
-					3050, -- [1]
-					1468435678, -- [2]
-				}, -- [78]
-				{
-					3050, -- [1]
-					1468435678, -- [2]
-				}, -- [79]
-				{
-					3052, -- [1]
-					1468435678, -- [2]
-				}, -- [80]
-				{
-					3052, -- [1]
-					1468435678, -- [2]
-				}, -- [81]
-				{
-					3054, -- [1]
-					1468435678, -- [2]
-				}, -- [82]
-				{
-					3054, -- [1]
-					1468435678, -- [2]
-				}, -- [83]
-				{
-					3388, -- [1]
-					1468435997, -- [2]
-				}, -- [84]
-				{
-					3388, -- [1]
-					1468435997, -- [2]
-				}, -- [85]
-				{
-					3390, -- [1]
-					1468435997, -- [2]
-				}, -- [86]
-				{
-					3390, -- [1]
-					1468435997, -- [2]
-				}, -- [87]
-				{
-					3392, -- [1]
-					1468435997, -- [2]
-				}, -- [88]
-				{
-					3392, -- [1]
-					1468435997, -- [2]
-				}, -- [89]
-				{
-					3708, -- [1]
-					1468436469, -- [2]
-				}, -- [90]
-				{
-					3709, -- [1]
-					1468436469, -- [2]
-				}, -- [91]
-				{
-					3710, -- [1]
-					1468436469, -- [2]
-				}, -- [92]
-				{
-					3711, -- [1]
-					1468436469, -- [2]
-				}, -- [93]
-				{
-					3712, -- [1]
-					1468436469, -- [2]
-				}, -- [94]
-				{
-					3713, -- [1]
-					1468436469, -- [2]
-				}, -- [95]
-				{
-					3831, -- [1]
-					1468436469, -- [2]
-				}, -- [96]
-				{
-					3831, -- [1]
-					1468436469, -- [2]
-				}, -- [97]
-				{
-					3833, -- [1]
-					1468436469, -- [2]
-				}, -- [98]
-				{
-					3833, -- [1]
-					1468436469, -- [2]
-				}, -- [99]
-				{
-					3835, -- [1]
-					1468436469, -- [2]
-				}, -- [100]
-				{
-					3835, -- [1]
-					1468436469, -- [2]
-				}, -- [101]
-				{
-					136, -- [1]
-					1469039413, -- [2]
-				}, -- [102]
-				{
-					136, -- [1]
-					1469039413, -- [2]
-				}, -- [103]
-				{
-					138, -- [1]
-					1469039413, -- [2]
-				}, -- [104]
-				{
-					138, -- [1]
-					1469039413, -- [2]
-				}, -- [105]
-				{
-					140, -- [1]
-					1469039413, -- [2]
-				}, -- [106]
-				{
-					140, -- [1]
-					1469039413, -- [2]
-				}, -- [107]
-				{
-					107, -- [1]
-					1469124430, -- [2]
-				}, -- [108]
-				{
-					107, -- [1]
-					1469124430, -- [2]
-				}, -- [109]
-				{
-					109, -- [1]
-					1469124430, -- [2]
-				}, -- [110]
-				{
-					109, -- [1]
-					1469124430, -- [2]
-				}, -- [111]
-				{
-					111, -- [1]
-					1469124430, -- [2]
-				}, -- [112]
-				{
-					111, -- [1]
-					1469124430, -- [2]
-				}, -- [113]
-				{
-					110, -- [1]
-					1469124851, -- [2]
-				}, -- [114]
-				{
-					110, -- [1]
-					1469124851, -- [2]
-				}, -- [115]
-				{
-					112, -- [1]
-					1469124851, -- [2]
-				}, -- [116]
-				{
-					112, -- [1]
-					1469124851, -- [2]
-				}, -- [117]
-				{
-					114, -- [1]
-					1469124851, -- [2]
-				}, -- [118]
-				{
-					114, -- [1]
-					1469124851, -- [2]
-				}, -- [119]
-				{
-					233, -- [1]
-					1469124851, -- [2]
-				}, -- [120]
-				{
-					233, -- [1]
-					1469124851, -- [2]
-				}, -- [121]
-				{
-					235, -- [1]
-					1469124851, -- [2]
-				}, -- [122]
-				{
-					235, -- [1]
-					1469124851, -- [2]
-				}, -- [123]
-				{
-					237, -- [1]
-					1469124851, -- [2]
-				}, -- [124]
-				{
-					237, -- [1]
-					1469124851, -- [2]
-				}, -- [125]
-				{
-					106, -- [1]
-					1469645419, -- [2]
-				}, -- [126]
-				{
-					106, -- [1]
-					1469645419, -- [2]
-				}, -- [127]
-				{
-					108, -- [1]
-					1469645419, -- [2]
-				}, -- [128]
-				{
-					108, -- [1]
-					1469645419, -- [2]
-				}, -- [129]
-				{
-					110, -- [1]
-					1469645419, -- [2]
-				}, -- [130]
-				{
-					110, -- [1]
-					1469645419, -- [2]
-				}, -- [131]
-				{
-					230, -- [1]
-					1469645419, -- [2]
-				}, -- [132]
-				{
-					231, -- [1]
-					1469645419, -- [2]
-				}, -- [133]
-				{
-					232, -- [1]
-					1469645419, -- [2]
-				}, -- [134]
-				{
-					233, -- [1]
-					1469645419, -- [2]
-				}, -- [135]
-				{
-					234, -- [1]
-					1469645419, -- [2]
-				}, -- [136]
-				{
-					235, -- [1]
-					1469645419, -- [2]
-				}, -- [137]
-				{
-					548, -- [1]
-					1469645836, -- [2]
-				}, -- [138]
-				{
-					548, -- [1]
-					1469645836, -- [2]
-				}, -- [139]
-				{
-					550, -- [1]
-					1469645836, -- [2]
-				}, -- [140]
-				{
-					550, -- [1]
-					1469645836, -- [2]
-				}, -- [141]
-				{
-					552, -- [1]
-					1469645836, -- [2]
-				}, -- [142]
-				{
-					552, -- [1]
-					1469645836, -- [2]
-				}, -- [143]
-				{
-					672, -- [1]
-					1469645836, -- [2]
-				}, -- [144]
-				{
-					672, -- [1]
-					1469645836, -- [2]
-				}, -- [145]
-				{
-					1065, -- [1]
-					1469646361, -- [2]
-				}, -- [146]
-				{
-					1066, -- [1]
-					1469646361, -- [2]
-				}, -- [147]
-				{
-					1067, -- [1]
-					1469646361, -- [2]
-				}, -- [148]
-				{
-					1067, -- [1]
-					1469646361, -- [2]
-				}, -- [149]
-				{
-					1069, -- [1]
-					1469646361, -- [2]
-				}, -- [150]
-				{
-					1069, -- [1]
-					1469646361, -- [2]
-				}, -- [151]
-				{
-					1189, -- [1]
-					1469646361, -- [2]
-				}, -- [152]
-				{
-					1189, -- [1]
-					1469646361, -- [2]
-				}, -- [153]
-				{
-					1191, -- [1]
-					1469646361, -- [2]
-				}, -- [154]
-				{
-					1191, -- [1]
-					1469646361, -- [2]
-				}, -- [155]
-				{
-					1193, -- [1]
-					1469646361, -- [2]
-				}, -- [156]
-				{
-					1193, -- [1]
-					1469646361, -- [2]
-				}, -- [157]
-				{
-					5072, -- [1]
-					1470248421, -- [2]
-				}, -- [158]
-				{
-					5072, -- [1]
-					1470248421, -- [2]
-				}, -- [159]
-				{
-					5074, -- [1]
-					1470248421, -- [2]
-				}, -- [160]
-				{
-					5074, -- [1]
-					1470248421, -- [2]
-				}, -- [161]
-				{
-					5076, -- [1]
-					1470248421, -- [2]
-				}, -- [162]
-				{
-					5076, -- [1]
-					1470248421, -- [2]
-				}, -- [163]
-				{
-					5440, -- [1]
-					1470248747, -- [2]
-				}, -- [164]
-				{
-					5440, -- [1]
-					1470248747, -- [2]
-				}, -- [165]
-				{
-					5442, -- [1]
-					1470248747, -- [2]
-				}, -- [166]
-				{
-					5443, -- [1]
-					1470248747, -- [2]
-				}, -- [167]
-				{
-					5444, -- [1]
-					1470248747, -- [2]
-				}, -- [168]
-				{
-					5445, -- [1]
-					1470248747, -- [2]
-				}, -- [169]
-				{
-					5788, -- [1]
-					1470249163, -- [2]
-				}, -- [170]
-				{
-					5788, -- [1]
-					1470249163, -- [2]
-				}, -- [171]
-				{
-					5790, -- [1]
-					1470249163, -- [2]
-				}, -- [172]
-				{
-					5790, -- [1]
-					1470249163, -- [2]
-				}, -- [173]
-				{
-					5792, -- [1]
-					1470249163, -- [2]
-				}, -- [174]
-				{
-					5792, -- [1]
-					1470249163, -- [2]
-				}, -- [175]
-				{
-					5911, -- [1]
-					1470249163, -- [2]
-				}, -- [176]
-				{
-					5911, -- [1]
-					1470249163, -- [2]
-				}, -- [177]
-				{
-					5913, -- [1]
-					1470249163, -- [2]
-				}, -- [178]
-				{
-					5913, -- [1]
-					1470249163, -- [2]
-				}, -- [179]
-				{
-					5915, -- [1]
-					1470249163, -- [2]
-				}, -- [180]
-				{
-					5915, -- [1]
-					1470249163, -- [2]
-				}, -- [181]
-				{
-					514, -- [1]
-					1470852745, -- [2]
-				}, -- [182]
-				{
-					514, -- [1]
-					1470852745, -- [2]
-				}, -- [183]
-				{
-					516, -- [1]
-					1470852745, -- [2]
-				}, -- [184]
-				{
-					516, -- [1]
-					1470852745, -- [2]
-				}, -- [185]
-				{
-					518, -- [1]
-					1470852745, -- [2]
-				}, -- [186]
-				{
-					518, -- [1]
-					1470852745, -- [2]
-				}, -- [187]
-				{
-					638, -- [1]
-					1470852745, -- [2]
-				}, -- [188]
-				{
-					638, -- [1]
-					1470852745, -- [2]
-				}, -- [189]
-				{
-					640, -- [1]
-					1470852745, -- [2]
-				}, -- [190]
-				{
-					640, -- [1]
-					1470852745, -- [2]
-				}, -- [191]
-				{
-					642, -- [1]
-					1470852745, -- [2]
-				}, -- [192]
-				{
-					642, -- [1]
-					1470852745, -- [2]
-				}, -- [193]
-				{
-					1551, -- [1]
-					1471459968, -- [2]
-				}, -- [194]
-				{
-					1551, -- [1]
-					1471459968, -- [2]
-				}, -- [195]
-				{
-					1553, -- [1]
-					1471459968, -- [2]
-				}, -- [196]
-				{
-					1553, -- [1]
-					1471459968, -- [2]
-				}, -- [197]
-				{
-					1555, -- [1]
-					1471459968, -- [2]
-				}, -- [198]
-				{
-					1555, -- [1]
-					1471459968, -- [2]
-				}, -- [199]
-				{
-					2189, -- [1]
-					1471460612, -- [2]
-				}, -- [200]
-				{
-					2189, -- [1]
-					1471460612, -- [2]
-				}, -- [201]
-				{
-					2191, -- [1]
-					1471460612, -- [2]
-				}, -- [202]
-				{
-					2191, -- [1]
-					1471460612, -- [2]
-				}, -- [203]
-				{
-					2193, -- [1]
-					1471460612, -- [2]
-				}, -- [204]
-				{
-					2193, -- [1]
-					1471460612, -- [2]
-				}, -- [205]
-			},
-			["Dark Pursuit"] = {
-				{
-					1972, -- [1]
-					1467829523, -- [2]
-				}, -- [1]
-				{
-					1973, -- [1]
-					1467829523, -- [2]
-				}, -- [2]
-				{
-					1977, -- [1]
-					1467829523, -- [2]
-				}, -- [3]
-				{
-					2951, -- [1]
-					1467830507, -- [2]
-				}, -- [4]
-				{
-					2956, -- [1]
-					1467830507, -- [2]
-				}, -- [5]
-				{
-					3353, -- [1]
-					1467830985, -- [2]
-				}, -- [6]
-				{
-					3431, -- [1]
-					1467830985, -- [2]
-				}, -- [7]
-				{
-					3432, -- [1]
-					1467830985, -- [2]
-				}, -- [8]
-				{
-					3433, -- [1]
-					1467830985, -- [2]
-				}, -- [9]
-				{
-					3473, -- [1]
-					1467830985, -- [2]
-				}, -- [10]
-				{
-					3474, -- [1]
-					1467830985, -- [2]
-				}, -- [11]
-				{
-					3478, -- [1]
-					1467830985, -- [2]
-				}, -- [12]
-				{
-					3479, -- [1]
-					1467830985, -- [2]
-				}, -- [13]
-				{
-					3870, -- [1]
-					1467831525, -- [2]
-				}, -- [14]
-				{
-					3947, -- [1]
-					1467831525, -- [2]
-				}, -- [15]
-				{
-					3948, -- [1]
-					1467831525, -- [2]
-				}, -- [16]
-				{
-					3953, -- [1]
-					1467831525, -- [2]
-				}, -- [17]
-				{
-					3990, -- [1]
-					1467831525, -- [2]
-				}, -- [18]
-				{
-					4030, -- [1]
-					1467831525, -- [2]
-				}, -- [19]
-				{
-					4035, -- [1]
-					1467831525, -- [2]
-				}, -- [20]
-				{
-					4476, -- [1]
-					1467832109, -- [2]
-				}, -- [21]
-				{
-					4477, -- [1]
-					1467832109, -- [2]
-				}, -- [22]
-				{
-					4554, -- [1]
-					1467832109, -- [2]
-				}, -- [23]
-				{
-					4555, -- [1]
-					1467832109, -- [2]
-				}, -- [24]
-				{
-					4596, -- [1]
-					1467832109, -- [2]
-				}, -- [25]
-				{
-					4597, -- [1]
-					1467832109, -- [2]
-				}, -- [26]
-				{
-					2999, -- [1]
-					1468435678, -- [2]
-				}, -- [27]
-				{
-					3004, -- [1]
-					1468435678, -- [2]
-				}, -- [28]
-				{
-					3076, -- [1]
-					1468435678, -- [2]
-				}, -- [29]
-				{
-					3077, -- [1]
-					1468435678, -- [2]
-				}, -- [30]
-				{
-					3078, -- [1]
-					1468435678, -- [2]
-				}, -- [31]
-				{
-					3082, -- [1]
-					1468435678, -- [2]
-				}, -- [32]
-				{
-					3780, -- [1]
-					1468436469, -- [2]
-				}, -- [33]
-				{
-					3781, -- [1]
-					1468436469, -- [2]
-				}, -- [34]
-				{
-					3858, -- [1]
-					1468436469, -- [2]
-				}, -- [35]
-				{
-					3859, -- [1]
-					1468436469, -- [2]
-				}, -- [36]
-				{
-					3901, -- [1]
-					1468436469, -- [2]
-				}, -- [37]
-				{
-					3905, -- [1]
-					1468436469, -- [2]
-				}, -- [38]
-				{
-					3906, -- [1]
-					1468436469, -- [2]
-				}, -- [39]
-				{
-					208, -- [1]
-					1469039413, -- [2]
-				}, -- [40]
-				{
-					209, -- [1]
-					1469039413, -- [2]
-				}, -- [41]
-				{
-					213, -- [1]
-					1469039413, -- [2]
-				}, -- [42]
-				{
-					214, -- [1]
-					1469039413, -- [2]
-				}, -- [43]
-				{
-					179, -- [1]
-					1469124430, -- [2]
-				}, -- [44]
-				{
-					180, -- [1]
-					1469124430, -- [2]
-				}, -- [45]
-				{
-					185, -- [1]
-					1469124430, -- [2]
-				}, -- [46]
-				{
-					182, -- [1]
-					1469124851, -- [2]
-				}, -- [47]
-				{
-					179, -- [1]
-					1469645419, -- [2]
-				}, -- [48]
-				{
-					180, -- [1]
-					1469645419, -- [2]
-				}, -- [49]
-				{
-					620, -- [1]
-					1469645836, -- [2]
-				}, -- [50]
-				{
-					621, -- [1]
-					1469645836, -- [2]
-				}, -- [51]
-				{
-					625, -- [1]
-					1469645836, -- [2]
-				}, -- [52]
-				{
-					1138, -- [1]
-					1469646361, -- [2]
-				}, -- [53]
-				{
-					5144, -- [1]
-					1470248421, -- [2]
-				}, -- [54]
-				{
-					5145, -- [1]
-					1470248421, -- [2]
-				}, -- [55]
-				{
-					5860, -- [1]
-					1470249163, -- [2]
-				}, -- [56]
-				{
-					586, -- [1]
-					1470852745, -- [2]
-				}, -- [57]
-				{
-					587, -- [1]
-					1470852745, -- [2]
-				}, -- [58]
-				{
-					592, -- [1]
-					1470852745, -- [2]
-				}, -- [59]
-				{
-					1623, -- [1]
-					1471459968, -- [2]
-				}, -- [60]
-				{
-					1624, -- [1]
-					1471459968, -- [2]
-				}, -- [61]
-				{
-					1627, -- [1]
-					1471459968, -- [2]
-				}, -- [62]
-				{
-					1629, -- [1]
-					1471459968, -- [2]
-				}, -- [63]
-				{
-					2260, -- [1]
-					1471460612, -- [2]
-				}, -- [64]
-				{
-					2261, -- [1]
-					1471460612, -- [2]
-				}, -- [65]
-				{
-					2265, -- [1]
-					1471460612, -- [2]
-				}, -- [66]
-				{
-					2266, -- [1]
-					1471460612, -- [2]
-				}, -- [67]
-			},
-			["Twisted Darkness"] = {
-				{
-					1967, -- [1]
-					1467829523, -- [2]
-				}, -- [1]
-				{
-					2946, -- [1]
-					1467830507, -- [2]
-				}, -- [2]
-				{
-					3348, -- [1]
-					1467830985, -- [2]
-				}, -- [3]
-				{
-					3426, -- [1]
-					1467830985, -- [2]
-				}, -- [4]
-				{
-					3468, -- [1]
-					1467830985, -- [2]
-				}, -- [5]
-				{
-					3865, -- [1]
-					1467831525, -- [2]
-				}, -- [6]
-				{
-					3943, -- [1]
-					1467831525, -- [2]
-				}, -- [7]
-				{
-					3985, -- [1]
-					1467831525, -- [2]
-				}, -- [8]
-				{
-					4025, -- [1]
-					1467831525, -- [2]
-				}, -- [9]
-				{
-					4471, -- [1]
-					1467832109, -- [2]
-				}, -- [10]
-				{
-					4549, -- [1]
-					1467832109, -- [2]
-				}, -- [11]
-				{
-					4591, -- [1]
-					1467832109, -- [2]
-				}, -- [12]
-				{
-					2994, -- [1]
-					1468435678, -- [2]
-				}, -- [13]
-				{
-					3072, -- [1]
-					1468435678, -- [2]
-				}, -- [14]
-				{
-					3114, -- [1]
-					1468435678, -- [2]
-				}, -- [15]
-				{
-					3775, -- [1]
-					1468436469, -- [2]
-				}, -- [16]
-				{
-					3853, -- [1]
-					1468436469, -- [2]
-				}, -- [17]
-				{
-					3895, -- [1]
-					1468436469, -- [2]
-				}, -- [18]
-				{
-					204, -- [1]
-					1469039413, -- [2]
-				}, -- [19]
-				{
-					174, -- [1]
-					1469124430, -- [2]
-				}, -- [20]
-				{
-					177, -- [1]
-					1469124851, -- [2]
-				}, -- [21]
-				{
-					174, -- [1]
-					1469645419, -- [2]
-				}, -- [22]
-				{
-					253, -- [1]
-					1469645419, -- [2]
-				}, -- [23]
-				{
-					615, -- [1]
-					1469645836, -- [2]
-				}, -- [24]
-				{
-					1133, -- [1]
-					1469646361, -- [2]
-				}, -- [25]
-				{
-					5139, -- [1]
-					1470248421, -- [2]
-				}, -- [26]
-				{
-					5855, -- [1]
-					1470249163, -- [2]
-				}, -- [27]
-				{
-					581, -- [1]
-					1470852745, -- [2]
-				}, -- [28]
-				{
-					660, -- [1]
-					1470852745, -- [2]
-				}, -- [29]
-				{
-					1618, -- [1]
-					1471459968, -- [2]
-				}, -- [30]
-				{
-					2256, -- [1]
-					1471460612, -- [2]
-				}, -- [31]
-			},
-			["Seething Corruption"] = {
-				{
-					1953, -- [1]
-					1467829523, -- [2]
-				}, -- [1]
-				{
-					2011, -- [1]
-					1467829523, -- [2]
-				}, -- [2]
-				{
-					2932, -- [1]
-					1467830507, -- [2]
-				}, -- [3]
-				{
-					2990, -- [1]
-					1467830507, -- [2]
-				}, -- [4]
-				{
-					3334, -- [1]
-					1467830985, -- [2]
-				}, -- [5]
-				{
-					3392, -- [1]
-					1467830985, -- [2]
-				}, -- [6]
-				{
-					3444, -- [1]
-					1467830985, -- [2]
-				}, -- [7]
-				{
-					3851, -- [1]
-					1467831525, -- [2]
-				}, -- [8]
-				{
-					3909, -- [1]
-					1467831525, -- [2]
-				}, -- [9]
-				{
-					3961, -- [1]
-					1467831525, -- [2]
-				}, -- [10]
-				{
-					4031, -- [1]
-					1467831525, -- [2]
-				}, -- [11]
-				{
-					4457, -- [1]
-					1467832109, -- [2]
-				}, -- [12]
-				{
-					4515, -- [1]
-					1467832109, -- [2]
-				}, -- [13]
-				{
-					4567, -- [1]
-					1467832109, -- [2]
-				}, -- [14]
-				{
-					2980, -- [1]
-					1468435678, -- [2]
-				}, -- [15]
-				{
-					3038, -- [1]
-					1468435678, -- [2]
-				}, -- [16]
-				{
-					3090, -- [1]
-					1468435678, -- [2]
-				}, -- [17]
-				{
-					3761, -- [1]
-					1468436469, -- [2]
-				}, -- [18]
-				{
-					3819, -- [1]
-					1468436469, -- [2]
-				}, -- [19]
-				{
-					3871, -- [1]
-					1468436469, -- [2]
-				}, -- [20]
-				{
-					189, -- [1]
-					1469039413, -- [2]
-				}, -- [21]
-				{
-					160, -- [1]
-					1469124430, -- [2]
-				}, -- [22]
-				{
-					219, -- [1]
-					1469124430, -- [2]
-				}, -- [23]
-				{
-					163, -- [1]
-					1469124851, -- [2]
-				}, -- [24]
-				{
-					221, -- [1]
-					1469124851, -- [2]
-				}, -- [25]
-				{
-					160, -- [1]
-					1469645419, -- [2]
-				}, -- [26]
-				{
-					218, -- [1]
-					1469645419, -- [2]
-				}, -- [27]
-				{
-					601, -- [1]
-					1469645836, -- [2]
-				}, -- [28]
-				{
-					660, -- [1]
-					1469645836, -- [2]
-				}, -- [29]
-				{
-					1119, -- [1]
-					1469646361, -- [2]
-				}, -- [30]
-				{
-					1177, -- [1]
-					1469646361, -- [2]
-				}, -- [31]
-				{
-					5125, -- [1]
-					1470248421, -- [2]
-				}, -- [32]
-				{
-					5494, -- [1]
-					1470248747, -- [2]
-				}, -- [33]
-				{
-					5841, -- [1]
-					1470249163, -- [2]
-				}, -- [34]
-				{
-					5900, -- [1]
-					1470249163, -- [2]
-				}, -- [35]
-				{
-					567, -- [1]
-					1470852745, -- [2]
-				}, -- [36]
-				{
-					625, -- [1]
-					1470852745, -- [2]
-				}, -- [37]
-				{
-					1604, -- [1]
-					1471459968, -- [2]
-				}, -- [38]
-				{
-					2242, -- [1]
-					1471460612, -- [2]
-				}, -- [39]
-				{
-					2300, -- [1]
-					1471460612, -- [2]
-				}, -- [40]
-			},
-			["Focused Shadow"] = {
-				{
-					4018, -- [1]
-					1467831525, -- [2]
-				}, -- [1]
-				{
-					233, -- [1]
-					1469645419, -- [2]
-				}, -- [2]
-			},
-			["Eternal Flame"] = {
-				{
-					1926, -- [1]
-					1467829523, -- [2]
-				}, -- [1]
-				{
-					1927, -- [1]
-					1467829523, -- [2]
-				}, -- [2]
-				{
-					1928, -- [1]
-					1467829523, -- [2]
-				}, -- [3]
-				{
-					1989, -- [1]
-					1467829523, -- [2]
-				}, -- [4]
-				{
-					1990, -- [1]
-					1467829523, -- [2]
-				}, -- [5]
-				{
-					1991, -- [1]
-					1467829523, -- [2]
-				}, -- [6]
-				{
-					2363, -- [1]
-					1467829870, -- [2]
-				}, -- [7]
-				{
-					2364, -- [1]
-					1467829870, -- [2]
-				}, -- [8]
-				{
-					2365, -- [1]
-					1467829870, -- [2]
-				}, -- [9]
-				{
-					2904, -- [1]
-					1467830507, -- [2]
-				}, -- [10]
-				{
-					2905, -- [1]
-					1467830507, -- [2]
-				}, -- [11]
-				{
-					2907, -- [1]
-					1467830507, -- [2]
-				}, -- [12]
-				{
-					2967, -- [1]
-					1467830507, -- [2]
-				}, -- [13]
-				{
-					2969, -- [1]
-					1467830507, -- [2]
-				}, -- [14]
-				{
-					3307, -- [1]
-					1467830985, -- [2]
-				}, -- [15]
-				{
-					3308, -- [1]
-					1467830985, -- [2]
-				}, -- [16]
-				{
-					3309, -- [1]
-					1467830985, -- [2]
-				}, -- [17]
-				{
-					3370, -- [1]
-					1467830985, -- [2]
-				}, -- [18]
-				{
-					3371, -- [1]
-					1467830985, -- [2]
-				}, -- [19]
-				{
-					3372, -- [1]
-					1467830985, -- [2]
-				}, -- [20]
-				{
-					3433, -- [1]
-					1467830985, -- [2]
-				}, -- [21]
-				{
-					3434, -- [1]
-					1467830985, -- [2]
-				}, -- [22]
-				{
-					3435, -- [1]
-					1467830985, -- [2]
-				}, -- [23]
-				{
-					3436, -- [1]
-					1467830985, -- [2]
-				}, -- [24]
-				{
-					3488, -- [1]
-					1467830985, -- [2]
-				}, -- [25]
-				{
-					3489, -- [1]
-					1467830985, -- [2]
-				}, -- [26]
-				{
-					3490, -- [1]
-					1467830985, -- [2]
-				}, -- [27]
-				{
-					3491, -- [1]
-					1467830985, -- [2]
-				}, -- [28]
-				{
-					3823, -- [1]
-					1467831525, -- [2]
-				}, -- [29]
-				{
-					3824, -- [1]
-					1467831525, -- [2]
-				}, -- [30]
-				{
-					3825, -- [1]
-					1467831525, -- [2]
-				}, -- [31]
-				{
-					3887, -- [1]
-					1467831525, -- [2]
-				}, -- [32]
-				{
-					3888, -- [1]
-					1467831525, -- [2]
-				}, -- [33]
-				{
-					3949, -- [1]
-					1467831525, -- [2]
-				}, -- [34]
-				{
-					3951, -- [1]
-					1467831525, -- [2]
-				}, -- [35]
-				{
-					3953, -- [1]
-					1467831525, -- [2]
-				}, -- [36]
-				{
-					4005, -- [1]
-					1467831525, -- [2]
-				}, -- [37]
-				{
-					4007, -- [1]
-					1467831525, -- [2]
-				}, -- [38]
-				{
-					4430, -- [1]
-					1467832109, -- [2]
-				}, -- [39]
-				{
-					4431, -- [1]
-					1467832109, -- [2]
-				}, -- [40]
-				{
-					4432, -- [1]
-					1467832109, -- [2]
-				}, -- [41]
-				{
-					4493, -- [1]
-					1467832109, -- [2]
-				}, -- [42]
-				{
-					4494, -- [1]
-					1467832109, -- [2]
-				}, -- [43]
-				{
-					4495, -- [1]
-					1467832109, -- [2]
-				}, -- [44]
-				{
-					4556, -- [1]
-					1467832109, -- [2]
-				}, -- [45]
-				{
-					4557, -- [1]
-					1467832109, -- [2]
-				}, -- [46]
-				{
-					4558, -- [1]
-					1467832109, -- [2]
-				}, -- [47]
-				{
-					4559, -- [1]
-					1467832109, -- [2]
-				}, -- [48]
-				{
-					4611, -- [1]
-					1467832109, -- [2]
-				}, -- [49]
-				{
-					4612, -- [1]
-					1467832109, -- [2]
-				}, -- [50]
-				{
-					4613, -- [1]
-					1467832109, -- [2]
-				}, -- [51]
-				{
-					4614, -- [1]
-					1467832109, -- [2]
-				}, -- [52]
-				{
-					2952, -- [1]
-					1468435678, -- [2]
-				}, -- [53]
-				{
-					2953, -- [1]
-					1468435678, -- [2]
-				}, -- [54]
-				{
-					2954, -- [1]
-					1468435678, -- [2]
-				}, -- [55]
-				{
-					3015, -- [1]
-					1468435678, -- [2]
-				}, -- [56]
-				{
-					3016, -- [1]
-					1468435678, -- [2]
-				}, -- [57]
-				{
-					3017, -- [1]
-					1468435678, -- [2]
-				}, -- [58]
-				{
-					3078, -- [1]
-					1468435678, -- [2]
-				}, -- [59]
-				{
-					3079, -- [1]
-					1468435678, -- [2]
-				}, -- [60]
-				{
-					3080, -- [1]
-					1468435678, -- [2]
-				}, -- [61]
-				{
-					3081, -- [1]
-					1468435678, -- [2]
-				}, -- [62]
-				{
-					3414, -- [1]
-					1468435997, -- [2]
-				}, -- [63]
-				{
-					3416, -- [1]
-					1468435997, -- [2]
-				}, -- [64]
-				{
-					3734, -- [1]
-					1468436469, -- [2]
-				}, -- [65]
-				{
-					3735, -- [1]
-					1468436469, -- [2]
-				}, -- [66]
-				{
-					3736, -- [1]
-					1468436469, -- [2]
-				}, -- [67]
-				{
-					3797, -- [1]
-					1468436469, -- [2]
-				}, -- [68]
-				{
-					3798, -- [1]
-					1468436469, -- [2]
-				}, -- [69]
-				{
-					3799, -- [1]
-					1468436469, -- [2]
-				}, -- [70]
-				{
-					3860, -- [1]
-					1468436469, -- [2]
-				}, -- [71]
-				{
-					3861, -- [1]
-					1468436469, -- [2]
-				}, -- [72]
-				{
-					3862, -- [1]
-					1468436469, -- [2]
-				}, -- [73]
-				{
-					3863, -- [1]
-					1468436469, -- [2]
-				}, -- [74]
-				{
-					162, -- [1]
-					1469039413, -- [2]
-				}, -- [75]
-				{
-					163, -- [1]
-					1469039413, -- [2]
-				}, -- [76]
-				{
-					164, -- [1]
-					1469039413, -- [2]
-				}, -- [77]
-				{
-					225, -- [1]
-					1469039413, -- [2]
-				}, -- [78]
-				{
-					226, -- [1]
-					1469039413, -- [2]
-				}, -- [79]
-				{
-					227, -- [1]
-					1469039413, -- [2]
-				}, -- [80]
-				{
-					133, -- [1]
-					1469124430, -- [2]
-				}, -- [81]
-				{
-					134, -- [1]
-					1469124430, -- [2]
-				}, -- [82]
-				{
-					135, -- [1]
-					1469124430, -- [2]
-				}, -- [83]
-				{
-					196, -- [1]
-					1469124430, -- [2]
-				}, -- [84]
-				{
-					197, -- [1]
-					1469124430, -- [2]
-				}, -- [85]
-				{
-					198, -- [1]
-					1469124430, -- [2]
-				}, -- [86]
-				{
-					135, -- [1]
-					1469124851, -- [2]
-				}, -- [87]
-				{
-					136, -- [1]
-					1469124851, -- [2]
-				}, -- [88]
-				{
-					137, -- [1]
-					1469124851, -- [2]
-				}, -- [89]
-				{
-					199, -- [1]
-					1469124851, -- [2]
-				}, -- [90]
-				{
-					200, -- [1]
-					1469124851, -- [2]
-				}, -- [91]
-				{
-					201, -- [1]
-					1469124851, -- [2]
-				}, -- [92]
-				{
-					131, -- [1]
-					1469645419, -- [2]
-				}, -- [93]
-				{
-					133, -- [1]
-					1469645419, -- [2]
-				}, -- [94]
-				{
-					196, -- [1]
-					1469645419, -- [2]
-				}, -- [95]
-				{
-					197, -- [1]
-					1469645419, -- [2]
-				}, -- [96]
-				{
-					198, -- [1]
-					1469645419, -- [2]
-				}, -- [97]
-				{
-					574, -- [1]
-					1469645836, -- [2]
-				}, -- [98]
-				{
-					575, -- [1]
-					1469645836, -- [2]
-				}, -- [99]
-				{
-					576, -- [1]
-					1469645836, -- [2]
-				}, -- [100]
-				{
-					637, -- [1]
-					1469645836, -- [2]
-				}, -- [101]
-				{
-					638, -- [1]
-					1469645836, -- [2]
-				}, -- [102]
-				{
-					639, -- [1]
-					1469645836, -- [2]
-				}, -- [103]
-				{
-					1091, -- [1]
-					1469646361, -- [2]
-				}, -- [104]
-				{
-					1092, -- [1]
-					1469646361, -- [2]
-				}, -- [105]
-				{
-					1093, -- [1]
-					1469646361, -- [2]
-				}, -- [106]
-				{
-					1155, -- [1]
-					1469646361, -- [2]
-				}, -- [107]
-				{
-					1156, -- [1]
-					1469646361, -- [2]
-				}, -- [108]
-				{
-					5097, -- [1]
-					1470248421, -- [2]
-				}, -- [109]
-				{
-					5098, -- [1]
-					1470248421, -- [2]
-				}, -- [110]
-				{
-					5099, -- [1]
-					1470248421, -- [2]
-				}, -- [111]
-				{
-					5161, -- [1]
-					1470248421, -- [2]
-				}, -- [112]
-				{
-					5163, -- [1]
-					1470248421, -- [2]
-				}, -- [113]
-				{
-					5466, -- [1]
-					1470248747, -- [2]
-				}, -- [114]
-				{
-					5467, -- [1]
-					1470248747, -- [2]
-				}, -- [115]
-				{
-					5468, -- [1]
-					1470248747, -- [2]
-				}, -- [116]
-				{
-					5814, -- [1]
-					1470249163, -- [2]
-				}, -- [117]
-				{
-					5815, -- [1]
-					1470249163, -- [2]
-				}, -- [118]
-				{
-					5877, -- [1]
-					1470249163, -- [2]
-				}, -- [119]
-				{
-					5878, -- [1]
-					1470249163, -- [2]
-				}, -- [120]
-				{
-					5879, -- [1]
-					1470249163, -- [2]
-				}, -- [121]
-				{
-					540, -- [1]
-					1470852745, -- [2]
-				}, -- [122]
-				{
-					541, -- [1]
-					1470852745, -- [2]
-				}, -- [123]
-				{
-					603, -- [1]
-					1470852745, -- [2]
-				}, -- [124]
-				{
-					604, -- [1]
-					1470852745, -- [2]
-				}, -- [125]
-				{
-					605, -- [1]
-					1470852745, -- [2]
-				}, -- [126]
-				{
-					1577, -- [1]
-					1471459968, -- [2]
-				}, -- [127]
-				{
-					1578, -- [1]
-					1471459968, -- [2]
-				}, -- [128]
-				{
-					1579, -- [1]
-					1471459968, -- [2]
-				}, -- [129]
-				{
-					1640, -- [1]
-					1471459968, -- [2]
-				}, -- [130]
-				{
-					1641, -- [1]
-					1471459968, -- [2]
-				}, -- [131]
-				{
-					1642, -- [1]
-					1471459968, -- [2]
-				}, -- [132]
-				{
-					2214, -- [1]
-					1471460612, -- [2]
-				}, -- [133]
-				{
-					2215, -- [1]
-					1471460612, -- [2]
-				}, -- [134]
-				{
-					2216, -- [1]
-					1471460612, -- [2]
-				}, -- [135]
-				{
-					2277, -- [1]
-					1471460612, -- [2]
-				}, -- [136]
-				{
-					2278, -- [1]
-					1471460612, -- [2]
-				}, -- [137]
-				{
-					2279, -- [1]
-					1471460612, -- [2]
-				}, -- [138]
-			},
-			["Allure of Flames"] = {
-				{
-					1285, -- [1]
-					1467828842, -- [2]
-				}, -- [1]
-				{
-					1334, -- [1]
-					1467828842, -- [2]
-				}, -- [2]
-				{
-					1557, -- [1]
-					1467829133, -- [2]
-				}, -- [3]
-				{
-					1605, -- [1]
-					1467829133, -- [2]
-				}, -- [4]
-				{
-					1816, -- [1]
-					1467829523, -- [2]
-				}, -- [5]
-				{
-					1867, -- [1]
-					1467829523, -- [2]
-				}, -- [6]
-				{
-					2245, -- [1]
-					1467829870, -- [2]
-				}, -- [7]
-				{
-					2294, -- [1]
-					1467829870, -- [2]
-				}, -- [8]
-				{
-					2551, -- [1]
-					1467830117, -- [2]
-				}, -- [9]
-				{
-					2599, -- [1]
-					1467830117, -- [2]
-				}, -- [10]
-				{
-					2797, -- [1]
-					1467830507, -- [2]
-				}, -- [11]
-				{
-					2845, -- [1]
-					1467830507, -- [2]
-				}, -- [12]
-				{
-					3199, -- [1]
-					1467830985, -- [2]
-				}, -- [13]
-				{
-					3247, -- [1]
-					1467830985, -- [2]
-				}, -- [14]
-				{
-					3707, -- [1]
-					1467831525, -- [2]
-				}, -- [15]
-				{
-					3755, -- [1]
-					1467831525, -- [2]
-				}, -- [16]
-				{
-					4314, -- [1]
-					1467832109, -- [2]
-				}, -- [17]
-				{
-					4363, -- [1]
-					1467832109, -- [2]
-				}, -- [18]
-				{
-					2621, -- [1]
-					1468435230, -- [2]
-				}, -- [19]
-				{
-					2669, -- [1]
-					1468435230, -- [2]
-				}, -- [20]
-				{
-					2795, -- [1]
-					1468435678, -- [2]
-				}, -- [21]
-				{
-					2843, -- [1]
-					1468435678, -- [2]
-				}, -- [22]
-				{
-					2892, -- [1]
-					1468435678, -- [2]
-				}, -- [23]
-				{
-					3302, -- [1]
-					1468435997, -- [2]
-				}, -- [24]
-				{
-					3351, -- [1]
-					1468435997, -- [2]
-				}, -- [25]
-				{
-					3627, -- [1]
-					1468436469, -- [2]
-				}, -- [26]
-				{
-					3675, -- [1]
-					1468436469, -- [2]
-				}, -- [27]
-				{
-					32, -- [1]
-					1469039413, -- [2]
-				}, -- [28]
-				{
-					81, -- [1]
-					1469039413, -- [2]
-				}, -- [29]
-				{
-					72, -- [1]
-					1469124430, -- [2]
-				}, -- [30]
-				{
-					73, -- [1]
-					1469124851, -- [2]
-				}, -- [31]
-				{
-					66, -- [1]
-					1469645419, -- [2]
-				}, -- [32]
-				{
-					503, -- [1]
-					1469645836, -- [2]
-				}, -- [33]
-				{
-					817, -- [1]
-					1469646028, -- [2]
-				}, -- [34]
-				{
-					1020, -- [1]
-					1469646361, -- [2]
-				}, -- [35]
-				{
-					5032, -- [1]
-					1470248421, -- [2]
-				}, -- [36]
-				{
-					5403, -- [1]
-					1470248747, -- [2]
-				}, -- [37]
-				{
-					5751, -- [1]
-					1470249163, -- [2]
-				}, -- [38]
-				{
-					490, -- [1]
-					1470852745, -- [2]
-				}, -- [39]
-				{
-					1514, -- [1]
-					1471459968, -- [2]
-				}, -- [40]
-				{
-					2154, -- [1]
-					1471460612, -- [2]
-				}, -- [41]
-			},
-			["Summon Source of Chaos"] = {
-				{
-					1942, -- [1]
-					1467829523, -- [2]
-				}, -- [1]
-				{
-					2000, -- [1]
-					1467829523, -- [2]
-				}, -- [2]
-				{
-					2379, -- [1]
-					1467829870, -- [2]
-				}, -- [3]
-				{
-					2920, -- [1]
-					1467830507, -- [2]
-				}, -- [4]
-				{
-					2978, -- [1]
-					1467830507, -- [2]
-				}, -- [5]
-				{
-					3323, -- [1]
-					1467830985, -- [2]
-				}, -- [6]
-				{
-					3381, -- [1]
-					1467830985, -- [2]
-				}, -- [7]
-				{
-					3457, -- [1]
-					1467830985, -- [2]
-				}, -- [8]
-				{
-					3839, -- [1]
-					1467831525, -- [2]
-				}, -- [9]
-				{
-					3897, -- [1]
-					1467831525, -- [2]
-				}, -- [10]
-				{
-					3973, -- [1]
-					1467831525, -- [2]
-				}, -- [11]
-				{
-					4445, -- [1]
-					1467832109, -- [2]
-				}, -- [12]
-				{
-					4503, -- [1]
-					1467832109, -- [2]
-				}, -- [13]
-				{
-					4579, -- [1]
-					1467832109, -- [2]
-				}, -- [14]
-				{
-					2968, -- [1]
-					1468435678, -- [2]
-				}, -- [15]
-				{
-					3026, -- [1]
-					1468435678, -- [2]
-				}, -- [16]
-				{
-					3102, -- [1]
-					1468435678, -- [2]
-				}, -- [17]
-				{
-					3429, -- [1]
-					1468435997, -- [2]
-				}, -- [18]
-				{
-					3750, -- [1]
-					1468436469, -- [2]
-				}, -- [19]
-				{
-					3808, -- [1]
-					1468436469, -- [2]
-				}, -- [20]
-				{
-					3884, -- [1]
-					1468436469, -- [2]
-				}, -- [21]
-				{
-					178, -- [1]
-					1469039413, -- [2]
-				}, -- [22]
-				{
-					236, -- [1]
-					1469039413, -- [2]
-				}, -- [23]
-				{
-					149, -- [1]
-					1469124430, -- [2]
-				}, -- [24]
-				{
-					207, -- [1]
-					1469124430, -- [2]
-				}, -- [25]
-				{
-					151, -- [1]
-					1469124851, -- [2]
-				}, -- [26]
-				{
-					210, -- [1]
-					1469124851, -- [2]
-				}, -- [27]
-				{
-					147, -- [1]
-					1469645419, -- [2]
-				}, -- [28]
-				{
-					207, -- [1]
-					1469645419, -- [2]
-				}, -- [29]
-				{
-					590, -- [1]
-					1469645836, -- [2]
-				}, -- [30]
-				{
-					648, -- [1]
-					1469645836, -- [2]
-				}, -- [31]
-				{
-					1107, -- [1]
-					1469646361, -- [2]
-				}, -- [32]
-				{
-					1165, -- [1]
-					1469646361, -- [2]
-				}, -- [33]
-				{
-					5113, -- [1]
-					1470248421, -- [2]
-				}, -- [34]
-				{
-					5172, -- [1]
-					1470248421, -- [2]
-				}, -- [35]
-				{
-					5482, -- [1]
-					1470248747, -- [2]
-				}, -- [36]
-				{
-					5829, -- [1]
-					1470249163, -- [2]
-				}, -- [37]
-				{
-					5888, -- [1]
-					1470249163, -- [2]
-				}, -- [38]
-				{
-					556, -- [1]
-					1470852745, -- [2]
-				}, -- [39]
-				{
-					614, -- [1]
-					1470852745, -- [2]
-				}, -- [40]
-				{
-					1593, -- [1]
-					1471459968, -- [2]
-				}, -- [41]
-				{
-					1651, -- [1]
-					1471459968, -- [2]
-				}, -- [42]
-				{
-					2230, -- [1]
-					1471460612, -- [2]
-				}, -- [43]
-				{
-					2288, -- [1]
-					1471460612, -- [2]
-				}, -- [44]
-			},
-			["Consume Magic"] = {
-				{
-					1315, -- [1]
-					1467828842, -- [2]
-				}, -- [1]
-				{
-					1316, -- [1]
-					1467828842, -- [2]
-				}, -- [2]
-				{
-					1317, -- [1]
-					1467828842, -- [2]
-				}, -- [3]
-				{
-					1323, -- [1]
-					1467828842, -- [2]
-				}, -- [4]
-				{
-					1325, -- [1]
-					1467828842, -- [2]
-				}, -- [5]
-				{
-					1328, -- [1]
-					1467828842, -- [2]
-				}, -- [6]
-				{
-					1334, -- [1]
-					1467828842, -- [2]
-				}, -- [7]
-				{
-					1338, -- [1]
-					1467828842, -- [2]
-				}, -- [8]
-				{
-					1339, -- [1]
-					1467828842, -- [2]
-				}, -- [9]
-				{
-					1342, -- [1]
-					1467828842, -- [2]
-				}, -- [10]
-				{
-					1343, -- [1]
-					1467828842, -- [2]
-				}, -- [11]
-				{
-					1344, -- [1]
-					1467828842, -- [2]
-				}, -- [12]
-				{
-					1345, -- [1]
-					1467828842, -- [2]
-				}, -- [13]
-				{
-					1346, -- [1]
-					1467828842, -- [2]
-				}, -- [14]
-				{
-					1348, -- [1]
-					1467828842, -- [2]
-				}, -- [15]
-				{
-					1352, -- [1]
-					1467828842, -- [2]
-				}, -- [16]
-				{
-					1593, -- [1]
-					1467829133, -- [2]
-				}, -- [17]
-				{
-					1594, -- [1]
-					1467829133, -- [2]
-				}, -- [18]
-				{
-					1595, -- [1]
-					1467829133, -- [2]
-				}, -- [19]
-				{
-					1604, -- [1]
-					1467829133, -- [2]
-				}, -- [20]
-				{
-					1605, -- [1]
-					1467829133, -- [2]
-				}, -- [21]
-				{
-					1607, -- [1]
-					1467829133, -- [2]
-				}, -- [22]
-				{
-					1617, -- [1]
-					1467829133, -- [2]
-				}, -- [23]
-				{
-					1622, -- [1]
-					1467829133, -- [2]
-				}, -- [24]
-				{
-					1623, -- [1]
-					1467829133, -- [2]
-				}, -- [25]
-				{
-					1624, -- [1]
-					1467829133, -- [2]
-				}, -- [26]
-				{
-					1841, -- [1]
-					1467829523, -- [2]
-				}, -- [27]
-				{
-					1842, -- [1]
-					1467829523, -- [2]
-				}, -- [28]
-				{
-					1844, -- [1]
-					1467829523, -- [2]
-				}, -- [29]
-				{
-					1845, -- [1]
-					1467829523, -- [2]
-				}, -- [30]
-				{
-					1846, -- [1]
-					1467829523, -- [2]
-				}, -- [31]
-				{
-					1851, -- [1]
-					1467829523, -- [2]
-				}, -- [32]
-				{
-					1852, -- [1]
-					1467829523, -- [2]
-				}, -- [33]
-				{
-					1857, -- [1]
-					1467829523, -- [2]
-				}, -- [34]
-				{
-					1859, -- [1]
-					1467829523, -- [2]
-				}, -- [35]
-				{
-					1868, -- [1]
-					1467829523, -- [2]
-				}, -- [36]
-				{
-					1872, -- [1]
-					1467829523, -- [2]
-				}, -- [37]
-				{
-					1873, -- [1]
-					1467829523, -- [2]
-				}, -- [38]
-				{
-					1875, -- [1]
-					1467829523, -- [2]
-				}, -- [39]
-				{
-					1876, -- [1]
-					1467829523, -- [2]
-				}, -- [40]
-				{
-					1877, -- [1]
-					1467829523, -- [2]
-				}, -- [41]
-				{
-					1886, -- [1]
-					1467829523, -- [2]
-				}, -- [42]
-				{
-					2274, -- [1]
-					1467829870, -- [2]
-				}, -- [43]
-				{
-					2275, -- [1]
-					1467829870, -- [2]
-				}, -- [44]
-				{
-					2278, -- [1]
-					1467829870, -- [2]
-				}, -- [45]
-				{
-					2279, -- [1]
-					1467829870, -- [2]
-				}, -- [46]
-				{
-					2280, -- [1]
-					1467829870, -- [2]
-				}, -- [47]
-				{
-					2285, -- [1]
-					1467829870, -- [2]
-				}, -- [48]
-				{
-					2288, -- [1]
-					1467829870, -- [2]
-				}, -- [49]
-				{
-					2290, -- [1]
-					1467829870, -- [2]
-				}, -- [50]
-				{
-					2292, -- [1]
-					1467829870, -- [2]
-				}, -- [51]
-				{
-					2296, -- [1]
-					1467829870, -- [2]
-				}, -- [52]
-				{
-					2298, -- [1]
-					1467829870, -- [2]
-				}, -- [53]
-				{
-					2305, -- [1]
-					1467829870, -- [2]
-				}, -- [54]
-				{
-					2307, -- [1]
-					1467829870, -- [2]
-				}, -- [55]
-				{
-					2308, -- [1]
-					1467829870, -- [2]
-				}, -- [56]
-				{
-					2570, -- [1]
-					1467830117, -- [2]
-				}, -- [57]
-				{
-					2571, -- [1]
-					1467830117, -- [2]
-				}, -- [58]
-				{
-					2573, -- [1]
-					1467830117, -- [2]
-				}, -- [59]
-				{
-					2574, -- [1]
-					1467830117, -- [2]
-				}, -- [60]
-				{
-					2579, -- [1]
-					1467830117, -- [2]
-				}, -- [61]
-				{
-					2584, -- [1]
-					1467830117, -- [2]
-				}, -- [62]
-				{
-					2586, -- [1]
-					1467830117, -- [2]
-				}, -- [63]
-				{
-					2587, -- [1]
-					1467830117, -- [2]
-				}, -- [64]
-				{
-					2592, -- [1]
-					1467830117, -- [2]
-				}, -- [65]
-				{
-					2595, -- [1]
-					1467830117, -- [2]
-				}, -- [66]
-				{
-					2596, -- [1]
-					1467830117, -- [2]
-				}, -- [67]
-				{
-					2600, -- [1]
-					1467830117, -- [2]
-				}, -- [68]
-				{
-					2601, -- [1]
-					1467830117, -- [2]
-				}, -- [69]
-				{
-					2603, -- [1]
-					1467830117, -- [2]
-				}, -- [70]
-				{
-					2604, -- [1]
-					1467830117, -- [2]
-				}, -- [71]
-				{
-					2605, -- [1]
-					1467830117, -- [2]
-				}, -- [72]
-				{
-					2612, -- [1]
-					1467830117, -- [2]
-				}, -- [73]
-				{
-					2613, -- [1]
-					1467830117, -- [2]
-				}, -- [74]
-				{
-					2614, -- [1]
-					1467830117, -- [2]
-				}, -- [75]
-				{
-					2825, -- [1]
-					1467830507, -- [2]
-				}, -- [76]
-				{
-					2828, -- [1]
-					1467830507, -- [2]
-				}, -- [77]
-				{
-					2829, -- [1]
-					1467830507, -- [2]
-				}, -- [78]
-				{
-					2831, -- [1]
-					1467830507, -- [2]
-				}, -- [79]
-				{
-					2837, -- [1]
-					1467830507, -- [2]
-				}, -- [80]
-				{
-					2841, -- [1]
-					1467830507, -- [2]
-				}, -- [81]
-				{
-					2857, -- [1]
-					1467830507, -- [2]
-				}, -- [82]
-				{
-					2858, -- [1]
-					1467830507, -- [2]
-				}, -- [83]
-				{
-					3228, -- [1]
-					1467830985, -- [2]
-				}, -- [84]
-				{
-					3230, -- [1]
-					1467830985, -- [2]
-				}, -- [85]
-				{
-					3231, -- [1]
-					1467830985, -- [2]
-				}, -- [86]
-				{
-					3232, -- [1]
-					1467830985, -- [2]
-				}, -- [87]
-				{
-					3233, -- [1]
-					1467830985, -- [2]
-				}, -- [88]
-				{
-					3240, -- [1]
-					1467830985, -- [2]
-				}, -- [89]
-				{
-					3242, -- [1]
-					1467830985, -- [2]
-				}, -- [90]
-				{
-					3243, -- [1]
-					1467830985, -- [2]
-				}, -- [91]
-				{
-					3245, -- [1]
-					1467830985, -- [2]
-				}, -- [92]
-				{
-					3257, -- [1]
-					1467830985, -- [2]
-				}, -- [93]
-				{
-					3260, -- [1]
-					1467830985, -- [2]
-				}, -- [94]
-				{
-					3736, -- [1]
-					1467831525, -- [2]
-				}, -- [95]
-				{
-					3737, -- [1]
-					1467831525, -- [2]
-				}, -- [96]
-				{
-					3738, -- [1]
-					1467831525, -- [2]
-				}, -- [97]
-				{
-					3739, -- [1]
-					1467831525, -- [2]
-				}, -- [98]
-				{
-					3746, -- [1]
-					1467831525, -- [2]
-				}, -- [99]
-				{
-					3748, -- [1]
-					1467831525, -- [2]
-				}, -- [100]
-				{
-					3750, -- [1]
-					1467831525, -- [2]
-				}, -- [101]
-				{
-					3752, -- [1]
-					1467831525, -- [2]
-				}, -- [102]
-				{
-					3754, -- [1]
-					1467831525, -- [2]
-				}, -- [103]
-				{
-					3756, -- [1]
-					1467831525, -- [2]
-				}, -- [104]
-				{
-					3759, -- [1]
-					1467831525, -- [2]
-				}, -- [105]
-				{
-					3765, -- [1]
-					1467831525, -- [2]
-				}, -- [106]
-				{
-					3767, -- [1]
-					1467831525, -- [2]
-				}, -- [107]
-				{
-					3769, -- [1]
-					1467831525, -- [2]
-				}, -- [108]
-				{
-					3777, -- [1]
-					1467831525, -- [2]
-				}, -- [109]
-				{
-					4351, -- [1]
-					1467832109, -- [2]
-				}, -- [110]
-				{
-					4352, -- [1]
-					1467832109, -- [2]
-				}, -- [111]
-				{
-					4353, -- [1]
-					1467832109, -- [2]
-				}, -- [112]
-				{
-					4354, -- [1]
-					1467832109, -- [2]
-				}, -- [113]
-				{
-					4355, -- [1]
-					1467832109, -- [2]
-				}, -- [114]
-				{
-					4356, -- [1]
-					1467832109, -- [2]
-				}, -- [115]
-				{
-					4361, -- [1]
-					1467832109, -- [2]
-				}, -- [116]
-				{
-					4363, -- [1]
-					1467832109, -- [2]
-				}, -- [117]
-				{
-					4364, -- [1]
-					1467832109, -- [2]
-				}, -- [118]
-				{
-					4365, -- [1]
-					1467832109, -- [2]
-				}, -- [119]
-				{
-					4368, -- [1]
-					1467832109, -- [2]
-				}, -- [120]
-				{
-					4369, -- [1]
-					1467832109, -- [2]
-				}, -- [121]
-				{
-					4382, -- [1]
-					1467832109, -- [2]
-				}, -- [122]
-				{
-					4384, -- [1]
-					1467832109, -- [2]
-				}, -- [123]
-				{
-					2652, -- [1]
-					1468435230, -- [2]
-				}, -- [124]
-				{
-					2653, -- [1]
-					1468435230, -- [2]
-				}, -- [125]
-				{
-					2654, -- [1]
-					1468435230, -- [2]
-				}, -- [126]
-				{
-					2655, -- [1]
-					1468435230, -- [2]
-				}, -- [127]
-				{
-					2656, -- [1]
-					1468435230, -- [2]
-				}, -- [128]
-				{
-					2663, -- [1]
-					1468435230, -- [2]
-				}, -- [129]
-				{
-					2664, -- [1]
-					1468435230, -- [2]
-				}, -- [130]
-				{
-					2667, -- [1]
-					1468435230, -- [2]
-				}, -- [131]
-				{
-					2668, -- [1]
-					1468435230, -- [2]
-				}, -- [132]
-				{
-					2669, -- [1]
-					1468435230, -- [2]
-				}, -- [133]
-				{
-					2870, -- [1]
-					1468435678, -- [2]
-				}, -- [134]
-				{
-					2871, -- [1]
-					1468435678, -- [2]
-				}, -- [135]
-				{
-					2872, -- [1]
-					1468435678, -- [2]
-				}, -- [136]
-				{
-					2873, -- [1]
-					1468435678, -- [2]
-				}, -- [137]
-				{
-					2880, -- [1]
-					1468435678, -- [2]
-				}, -- [138]
-				{
-					2881, -- [1]
-					1468435678, -- [2]
-				}, -- [139]
-				{
-					2882, -- [1]
-					1468435678, -- [2]
-				}, -- [140]
-				{
-					2883, -- [1]
-					1468435678, -- [2]
-				}, -- [141]
-				{
-					2885, -- [1]
-					1468435678, -- [2]
-				}, -- [142]
-				{
-					2900, -- [1]
-					1468435678, -- [2]
-				}, -- [143]
-				{
-					2901, -- [1]
-					1468435678, -- [2]
-				}, -- [144]
-				{
-					2902, -- [1]
-					1468435678, -- [2]
-				}, -- [145]
-				{
-					3334, -- [1]
-					1468435997, -- [2]
-				}, -- [146]
-				{
-					3335, -- [1]
-					1468435997, -- [2]
-				}, -- [147]
-				{
-					3336, -- [1]
-					1468435997, -- [2]
-				}, -- [148]
-				{
-					3337, -- [1]
-					1468435997, -- [2]
-				}, -- [149]
-				{
-					3347, -- [1]
-					1468435997, -- [2]
-				}, -- [150]
-				{
-					3349, -- [1]
-					1468435997, -- [2]
-				}, -- [151]
-				{
-					3364, -- [1]
-					1468435997, -- [2]
-				}, -- [152]
-				{
-					3657, -- [1]
-					1468436469, -- [2]
-				}, -- [153]
-				{
-					3659, -- [1]
-					1468436469, -- [2]
-				}, -- [154]
-				{
-					3660, -- [1]
-					1468436469, -- [2]
-				}, -- [155]
-				{
-					3667, -- [1]
-					1468436469, -- [2]
-				}, -- [156]
-				{
-					3671, -- [1]
-					1468436469, -- [2]
-				}, -- [157]
-				{
-					3672, -- [1]
-					1468436469, -- [2]
-				}, -- [158]
-				{
-					3687, -- [1]
-					1468436469, -- [2]
-				}, -- [159]
-				{
-					3690, -- [1]
-					1468436469, -- [2]
-				}, -- [160]
-				{
-					3691, -- [1]
-					1468436469, -- [2]
-				}, -- [161]
-				{
-					3696, -- [1]
-					1468436469, -- [2]
-				}, -- [162]
-				{
-					87, -- [1]
-					1469039413, -- [2]
-				}, -- [163]
-				{
-					88, -- [1]
-					1469039413, -- [2]
-				}, -- [164]
-				{
-					89, -- [1]
-					1469039413, -- [2]
-				}, -- [165]
-				{
-					91, -- [1]
-					1469039413, -- [2]
-				}, -- [166]
-				{
-					98, -- [1]
-					1469039413, -- [2]
-				}, -- [167]
-				{
-					99, -- [1]
-					1469039413, -- [2]
-				}, -- [168]
-				{
-					100, -- [1]
-					1469039413, -- [2]
-				}, -- [169]
-				{
-					101, -- [1]
-					1469039413, -- [2]
-				}, -- [170]
-				{
-					102, -- [1]
-					1469039413, -- [2]
-				}, -- [171]
-				{
-					115, -- [1]
-					1469039413, -- [2]
-				}, -- [172]
-				{
-					118, -- [1]
-					1469039413, -- [2]
-				}, -- [173]
-				{
-					120, -- [1]
-					1469039413, -- [2]
-				}, -- [174]
-				{
-					121, -- [1]
-					1469039413, -- [2]
-				}, -- [175]
-				{
-					124, -- [1]
-					1469039413, -- [2]
-				}, -- [176]
-				{
-					130, -- [1]
-					1469039413, -- [2]
-				}, -- [177]
-				{
-					134, -- [1]
-					1469039413, -- [2]
-				}, -- [178]
-				{
-					143, -- [1]
-					1469039413, -- [2]
-				}, -- [179]
-				{
-					145, -- [1]
-					1469039413, -- [2]
-				}, -- [180]
-				{
-					147, -- [1]
-					1469039413, -- [2]
-				}, -- [181]
-				{
-					158, -- [1]
-					1469039413, -- [2]
-				}, -- [182]
-				{
-					69, -- [1]
-					1469124430, -- [2]
-				}, -- [183]
-				{
-					70, -- [1]
-					1469124430, -- [2]
-				}, -- [184]
-				{
-					71, -- [1]
-					1469124430, -- [2]
-				}, -- [185]
-				{
-					72, -- [1]
-					1469124430, -- [2]
-				}, -- [186]
-				{
-					73, -- [1]
-					1469124430, -- [2]
-				}, -- [187]
-				{
-					74, -- [1]
-					1469124430, -- [2]
-				}, -- [188]
-				{
-					99, -- [1]
-					1469124430, -- [2]
-				}, -- [189]
-				{
-					105, -- [1]
-					1469124430, -- [2]
-				}, -- [190]
-				{
-					113, -- [1]
-					1469124430, -- [2]
-				}, -- [191]
-				{
-					115, -- [1]
-					1469124430, -- [2]
-				}, -- [192]
-				{
-					117, -- [1]
-					1469124430, -- [2]
-				}, -- [193]
-				{
-					129, -- [1]
-					1469124430, -- [2]
-				}, -- [194]
-				{
-					141, -- [1]
-					1469124430, -- [2]
-				}, -- [195]
-				{
-					68, -- [1]
-					1469124851, -- [2]
-				}, -- [196]
-				{
-					69, -- [1]
-					1469124851, -- [2]
-				}, -- [197]
-				{
-					70, -- [1]
-					1469124851, -- [2]
-				}, -- [198]
-				{
-					72, -- [1]
-					1469124851, -- [2]
-				}, -- [199]
-				{
-					75, -- [1]
-					1469124851, -- [2]
-				}, -- [200]
-				{
-					79, -- [1]
-					1469124851, -- [2]
-				}, -- [201]
-				{
-					82, -- [1]
-					1469124851, -- [2]
-				}, -- [202]
-				{
-					84, -- [1]
-					1469124851, -- [2]
-				}, -- [203]
-				{
-					85, -- [1]
-					1469124851, -- [2]
-				}, -- [204]
-				{
-					86, -- [1]
-					1469124851, -- [2]
-				}, -- [205]
-				{
-					97, -- [1]
-					1469124851, -- [2]
-				}, -- [206]
-				{
-					99, -- [1]
-					1469124851, -- [2]
-				}, -- [207]
-				{
-					100, -- [1]
-					1469124851, -- [2]
-				}, -- [208]
-				{
-					101, -- [1]
-					1469124851, -- [2]
-				}, -- [209]
-				{
-					109, -- [1]
-					1469124851, -- [2]
-				}, -- [210]
-				{
-					110, -- [1]
-					1469124851, -- [2]
-				}, -- [211]
-				{
-					113, -- [1]
-					1469124851, -- [2]
-				}, -- [212]
-				{
-					114, -- [1]
-					1469124851, -- [2]
-				}, -- [213]
-				{
-					118, -- [1]
-					1469124851, -- [2]
-				}, -- [214]
-				{
-					124, -- [1]
-					1469124851, -- [2]
-				}, -- [215]
-				{
-					62, -- [1]
-					1469645419, -- [2]
-				}, -- [216]
-				{
-					64, -- [1]
-					1469645419, -- [2]
-				}, -- [217]
-				{
-					65, -- [1]
-					1469645419, -- [2]
-				}, -- [218]
-				{
-					94, -- [1]
-					1469645419, -- [2]
-				}, -- [219]
-				{
-					96, -- [1]
-					1469645419, -- [2]
-				}, -- [220]
-				{
-					103, -- [1]
-					1469645419, -- [2]
-				}, -- [221]
-				{
-					106, -- [1]
-					1469645419, -- [2]
-				}, -- [222]
-				{
-					109, -- [1]
-					1469645419, -- [2]
-				}, -- [223]
-				{
-					507, -- [1]
-					1469645836, -- [2]
-				}, -- [224]
-				{
-					509, -- [1]
-					1469645836, -- [2]
-				}, -- [225]
-				{
-					515, -- [1]
-					1469645836, -- [2]
-				}, -- [226]
-				{
-					536, -- [1]
-					1469645836, -- [2]
-				}, -- [227]
-				{
-					537, -- [1]
-					1469645836, -- [2]
-				}, -- [228]
-				{
-					538, -- [1]
-					1469645836, -- [2]
-				}, -- [229]
-				{
-					548, -- [1]
-					1469645836, -- [2]
-				}, -- [230]
-				{
-					549, -- [1]
-					1469645836, -- [2]
-				}, -- [231]
-				{
-					550, -- [1]
-					1469645836, -- [2]
-				}, -- [232]
-				{
-					562, -- [1]
-					1469645836, -- [2]
-				}, -- [233]
-				{
-					1024, -- [1]
-					1469646361, -- [2]
-				}, -- [234]
-				{
-					1025, -- [1]
-					1469646361, -- [2]
-				}, -- [235]
-				{
-					1028, -- [1]
-					1469646361, -- [2]
-				}, -- [236]
-				{
-					1033, -- [1]
-					1469646361, -- [2]
-				}, -- [237]
-				{
-					1035, -- [1]
-					1469646361, -- [2]
-				}, -- [238]
-				{
-					1052, -- [1]
-					1469646361, -- [2]
-				}, -- [239]
-				{
-					1054, -- [1]
-					1469646361, -- [2]
-				}, -- [240]
-				{
-					1055, -- [1]
-					1469646361, -- [2]
-				}, -- [241]
-				{
-					1056, -- [1]
-					1469646361, -- [2]
-				}, -- [242]
-				{
-					1063, -- [1]
-					1469646361, -- [2]
-				}, -- [243]
-				{
-					1065, -- [1]
-					1469646361, -- [2]
-				}, -- [244]
-				{
-					1075, -- [1]
-					1469646361, -- [2]
-				}, -- [245]
-				{
-					5028, -- [1]
-					1470248421, -- [2]
-				}, -- [246]
-				{
-					5029, -- [1]
-					1470248421, -- [2]
-				}, -- [247]
-				{
-					5030, -- [1]
-					1470248421, -- [2]
-				}, -- [248]
-				{
-					5039, -- [1]
-					1470248421, -- [2]
-				}, -- [249]
-				{
-					5041, -- [1]
-					1470248421, -- [2]
-				}, -- [250]
-				{
-					5042, -- [1]
-					1470248421, -- [2]
-				}, -- [251]
-				{
-					5052, -- [1]
-					1470248421, -- [2]
-				}, -- [252]
-				{
-					5054, -- [1]
-					1470248421, -- [2]
-				}, -- [253]
-				{
-					5057, -- [1]
-					1470248421, -- [2]
-				}, -- [254]
-				{
-					5058, -- [1]
-					1470248421, -- [2]
-				}, -- [255]
-				{
-					5059, -- [1]
-					1470248421, -- [2]
-				}, -- [256]
-				{
-					5060, -- [1]
-					1470248421, -- [2]
-				}, -- [257]
-				{
-					5061, -- [1]
-					1470248421, -- [2]
-				}, -- [258]
-				{
-					5067, -- [1]
-					1470248421, -- [2]
-				}, -- [259]
-				{
-					5069, -- [1]
-					1470248421, -- [2]
-				}, -- [260]
-				{
-					5081, -- [1]
-					1470248421, -- [2]
-				}, -- [261]
-				{
-					5082, -- [1]
-					1470248421, -- [2]
-				}, -- [262]
-				{
-					5392, -- [1]
-					1470248747, -- [2]
-				}, -- [263]
-				{
-					5394, -- [1]
-					1470248747, -- [2]
-				}, -- [264]
-				{
-					5395, -- [1]
-					1470248747, -- [2]
-				}, -- [265]
-				{
-					5397, -- [1]
-					1470248747, -- [2]
-				}, -- [266]
-				{
-					5422, -- [1]
-					1470248747, -- [2]
-				}, -- [267]
-				{
-					5423, -- [1]
-					1470248747, -- [2]
-				}, -- [268]
-				{
-					5426, -- [1]
-					1470248747, -- [2]
-				}, -- [269]
-				{
-					5436, -- [1]
-					1470248747, -- [2]
-				}, -- [270]
-				{
-					5438, -- [1]
-					1470248747, -- [2]
-				}, -- [271]
-				{
-					5440, -- [1]
-					1470248747, -- [2]
-				}, -- [272]
-				{
-					5743, -- [1]
-					1470249163, -- [2]
-				}, -- [273]
-				{
-					5745, -- [1]
-					1470249163, -- [2]
-				}, -- [274]
-				{
-					5746, -- [1]
-					1470249163, -- [2]
-				}, -- [275]
-				{
-					5747, -- [1]
-					1470249163, -- [2]
-				}, -- [276]
-				{
-					5748, -- [1]
-					1470249163, -- [2]
-				}, -- [277]
-				{
-					5774, -- [1]
-					1470249163, -- [2]
-				}, -- [278]
-				{
-					5775, -- [1]
-					1470249163, -- [2]
-				}, -- [279]
-				{
-					5776, -- [1]
-					1470249163, -- [2]
-				}, -- [280]
-				{
-					5778, -- [1]
-					1470249163, -- [2]
-				}, -- [281]
-				{
-					5785, -- [1]
-					1470249163, -- [2]
-				}, -- [282]
-				{
-					5787, -- [1]
-					1470249163, -- [2]
-				}, -- [283]
-				{
-					5788, -- [1]
-					1470249163, -- [2]
-				}, -- [284]
-				{
-					5795, -- [1]
-					1470249163, -- [2]
-				}, -- [285]
-				{
-					5796, -- [1]
-					1470249163, -- [2]
-				}, -- [286]
-				{
-					5797, -- [1]
-					1470249163, -- [2]
-				}, -- [287]
-				{
-					5798, -- [1]
-					1470249163, -- [2]
-				}, -- [288]
-				{
-					5802, -- [1]
-					1470249163, -- [2]
-				}, -- [289]
-				{
-					473, -- [1]
-					1470852745, -- [2]
-				}, -- [290]
-				{
-					474, -- [1]
-					1470852745, -- [2]
-				}, -- [291]
-				{
-					476, -- [1]
-					1470852745, -- [2]
-				}, -- [292]
-				{
-					477, -- [1]
-					1470852745, -- [2]
-				}, -- [293]
-				{
-					478, -- [1]
-					1470852745, -- [2]
-				}, -- [294]
-				{
-					479, -- [1]
-					1470852745, -- [2]
-				}, -- [295]
-				{
-					484, -- [1]
-					1470852745, -- [2]
-				}, -- [296]
-				{
-					488, -- [1]
-					1470852745, -- [2]
-				}, -- [297]
-				{
-					495, -- [1]
-					1470852745, -- [2]
-				}, -- [298]
-				{
-					504, -- [1]
-					1470852745, -- [2]
-				}, -- [299]
-				{
-					505, -- [1]
-					1470852745, -- [2]
-				}, -- [300]
-				{
-					506, -- [1]
-					1470852745, -- [2]
-				}, -- [301]
-				{
-					511, -- [1]
-					1470852745, -- [2]
-				}, -- [302]
-				{
-					512, -- [1]
-					1470852745, -- [2]
-				}, -- [303]
-				{
-					513, -- [1]
-					1470852745, -- [2]
-				}, -- [304]
-				{
-					526, -- [1]
-					1470852745, -- [2]
-				}, -- [305]
-				{
-					1507, -- [1]
-					1471459968, -- [2]
-				}, -- [306]
-				{
-					1508, -- [1]
-					1471459968, -- [2]
-				}, -- [307]
-				{
-					1510, -- [1]
-					1471459968, -- [2]
-				}, -- [308]
-				{
-					1519, -- [1]
-					1471459968, -- [2]
-				}, -- [309]
-				{
-					1523, -- [1]
-					1471459968, -- [2]
-				}, -- [310]
-				{
-					1536, -- [1]
-					1471459968, -- [2]
-				}, -- [311]
-				{
-					1537, -- [1]
-					1471459968, -- [2]
-				}, -- [312]
-				{
-					1538, -- [1]
-					1471459968, -- [2]
-				}, -- [313]
-				{
-					1546, -- [1]
-					1471459968, -- [2]
-				}, -- [314]
-				{
-					1550, -- [1]
-					1471459968, -- [2]
-				}, -- [315]
-				{
-					1551, -- [1]
-					1471459968, -- [2]
-				}, -- [316]
-				{
-					1557, -- [1]
-					1471459968, -- [2]
-				}, -- [317]
-				{
-					2145, -- [1]
-					1471460612, -- [2]
-				}, -- [318]
-				{
-					2146, -- [1]
-					1471460612, -- [2]
-				}, -- [319]
-				{
-					2147, -- [1]
-					1471460612, -- [2]
-				}, -- [320]
-				{
-					2158, -- [1]
-					1471460612, -- [2]
-				}, -- [321]
-				{
-					2169, -- [1]
-					1471460612, -- [2]
-				}, -- [322]
-				{
-					2174, -- [1]
-					1471460612, -- [2]
-				}, -- [323]
-				{
-					2175, -- [1]
-					1471460612, -- [2]
-				}, -- [324]
-				{
-					2176, -- [1]
-					1471460612, -- [2]
-				}, -- [325]
-				{
-					2177, -- [1]
-					1471460612, -- [2]
-				}, -- [326]
-				{
-					2179, -- [1]
-					1471460612, -- [2]
-				}, -- [327]
-				{
-					2186, -- [1]
-					1471460612, -- [2]
-				}, -- [328]
-				{
-					2187, -- [1]
-					1471460612, -- [2]
-				}, -- [329]
-				{
-					2189, -- [1]
-					1471460612, -- [2]
-				}, -- [330]
-				{
-					2195, -- [1]
-					1471460612, -- [2]
-				}, -- [331]
-				{
-					2198, -- [1]
-					1471460612, -- [2]
-				}, -- [332]
-			},
-		},
-		["ids"] = {
-			["Wrought Chaos"] = 184265,
-			["Desecration"] = 188614,
-			["Finger of Death"] = 190727,
-			["Heart of Argus"] = 186662,
-			["Flames of Argus"] = 186663,
-			["Death Brand"] = 183828,
-			["Mark of the Legion"] = 188514,
-			["Shackled Torment"] = 184931,
-			["Shadow Blast"] = 183864,
-			["Doomfire"] = 189897,
-			["Desecrate"] = 185590,
-			["Nether Ascension"] = 190313,
-			["Dark Conduit"] = 190397,
-			["Dark Pursuit"] = 190018,
-			["Twisted Darkness"] = 190821,
-			["Seething Corruption"] = 190506,
-			["Focused Shadow"] = 190398,
-			["Eternal Flame"] = 187053,
-			["Allure of Flames"] = 183254,
-			["Summon Source of Chaos"] = 190686,
-			["Consume Magic"] = 186562,
-		},
-	},
-	["143216"] = {
-		["deaths"] = {
-			[46] = {
-				1470251408, -- [1]
-			},
-			[66] = {
-				1470251183, -- [1]
-			},
-			[70] = {
-				1470251408, -- [1]
-			},
-			[56] = {
-				1470251183, -- [1]
-				1470854337, -- [2]
-			},
-			[68] = {
-				1470251183, -- [1]
-			},
-			[72] = {
-				1470251408, -- [1]
-			},
-			[65] = {
-				1470251183, -- [1]
-				1470251408, -- [2]
-				1470251408, -- [3]
-			},
-			[69] = {
-				1470251183, -- [1]
+			[191] = {
+				1469564960, -- [1]
 			},
 			[137] = {
-				1470251722, -- [1]
+				1469564540, -- [1]
+				1469566228, -- [2]
 			},
-		},
-		["spells"] = {
-			["Tainted Blood"] = {
-				{
-					7901, -- [1]
-					1470251183, -- [2]
-				}, -- [1]
-				{
-					7916, -- [1]
-					1470251183, -- [2]
-				}, -- [2]
-				{
-					7933, -- [1]
-					1470251183, -- [2]
-				}, -- [3]
-				{
-					8096, -- [1]
-					1470251408, -- [2]
-				}, -- [4]
-				{
-					8112, -- [1]
-					1470251408, -- [2]
-				}, -- [5]
-				{
-					8128, -- [1]
-					1470251408, -- [2]
-				}, -- [6]
-				{
-					8361, -- [1]
-					1470251722, -- [2]
-				}, -- [7]
-				{
-					8377, -- [1]
-					1470251722, -- [2]
-				}, -- [8]
-				{
-					2157, -- [1]
-					1470854337, -- [2]
-				}, -- [9]
-				{
-					2174, -- [1]
-					1470854337, -- [2]
-				}, -- [10]
+			[172] = {
+				1470773323, -- [1]
 			},
-			["Charge"] = {
-				{
-					8142, -- [1]
-					1470251408, -- [2]
-				}, -- [1]
-				{
-					8458, -- [1]
-					1470251722, -- [2]
-				}, -- [2]
-				{
-					2226, -- [1]
-					1470854337, -- [2]
-				}, -- [3]
+			[176] = {
+				1469564960, -- [1]
+				1470773323, -- [2]
 			},
-			["Bloodboil"] = {
-				{
-					7859, -- [1]
-					1470251183, -- [2]
-				}, -- [1]
-				{
-					7867, -- [1]
-					1470251183, -- [2]
-				}, -- [2]
-				{
-					7874, -- [1]
-					1470251183, -- [2]
-				}, -- [3]
-				{
-					7881, -- [1]
-					1470251183, -- [2]
-				}, -- [4]
-				{
-					7888, -- [1]
-					1470251183, -- [2]
-				}, -- [5]
-				{
-					7896, -- [1]
-					1470251183, -- [2]
-				}, -- [6]
-				{
-					7903, -- [1]
-					1470251183, -- [2]
-				}, -- [7]
-				{
-					7910, -- [1]
-					1470251183, -- [2]
-				}, -- [8]
-				{
-					7918, -- [1]
-					1470251183, -- [2]
-				}, -- [9]
-				{
-					7925, -- [1]
-					1470251183, -- [2]
-				}, -- [10]
-				{
-					7932, -- [1]
-					1470251183, -- [2]
-				}, -- [11]
-				{
-					8058, -- [1]
-					1470251408, -- [2]
-				}, -- [12]
-				{
-					8066, -- [1]
-					1470251408, -- [2]
-				}, -- [13]
-				{
-					8073, -- [1]
-					1470251408, -- [2]
-				}, -- [14]
-				{
-					8080, -- [1]
-					1470251408, -- [2]
-				}, -- [15]
-				{
-					8088, -- [1]
-					1470251408, -- [2]
-				}, -- [16]
-				{
-					8095, -- [1]
-					1470251408, -- [2]
-				}, -- [17]
-				{
-					8102, -- [1]
-					1470251408, -- [2]
-				}, -- [18]
-				{
-					8109, -- [1]
-					1470251408, -- [2]
-				}, -- [19]
-				{
-					8117, -- [1]
-					1470251408, -- [2]
-				}, -- [20]
-				{
-					8124, -- [1]
-					1470251408, -- [2]
-				}, -- [21]
-				{
-					8132, -- [1]
-					1470251408, -- [2]
-				}, -- [22]
-				{
-					8345, -- [1]
-					1470251722, -- [2]
-				}, -- [23]
-				{
-					8352, -- [1]
-					1470251722, -- [2]
-				}, -- [24]
-				{
-					8360, -- [1]
-					1470251722, -- [2]
-				}, -- [25]
-				{
-					8367, -- [1]
-					1470251722, -- [2]
-				}, -- [26]
-				{
-					8374, -- [1]
-					1470251722, -- [2]
-				}, -- [27]
-				{
-					2137, -- [1]
-					1470854337, -- [2]
-				}, -- [28]
-				{
-					2144, -- [1]
-					1470854337, -- [2]
-				}, -- [29]
-				{
-					2151, -- [1]
-					1470854337, -- [2]
-				}, -- [30]
-				{
-					2159, -- [1]
-					1470854337, -- [2]
-				}, -- [31]
-				{
-					2166, -- [1]
-					1470854337, -- [2]
-				}, -- [32]
-				{
-					2173, -- [1]
-					1470854337, -- [2]
-				}, -- [33]
-				{
-					2180, -- [1]
-					1470854337, -- [2]
-				}, -- [34]
+			[96] = {
+				1469564960, -- [1]
 			},
-			["Nightmare Visage"] = {
-				{
-					7871, -- [1]
-					1470251183, -- [2]
-				}, -- [1]
-				{
-					7874, -- [1]
-					1470251183, -- [2]
-				}, -- [2]
-				{
-					7904, -- [1]
-					1470251183, -- [2]
-				}, -- [3]
-				{
-					7907, -- [1]
-					1470251183, -- [2]
-				}, -- [4]
-				{
-					7938, -- [1]
-					1470251183, -- [2]
-				}, -- [5]
-				{
-					8069, -- [1]
-					1470251408, -- [2]
-				}, -- [6]
-				{
-					8072, -- [1]
-					1470251408, -- [2]
-				}, -- [7]
-				{
-					8102, -- [1]
-					1470251408, -- [2]
-				}, -- [8]
-				{
-					8105, -- [1]
-					1470251408, -- [2]
-				}, -- [9]
-				{
-					8133, -- [1]
-					1470251408, -- [2]
-				}, -- [10]
-				{
-					8136, -- [1]
-					1470251408, -- [2]
-				}, -- [11]
-				{
-					8355, -- [1]
-					1470251722, -- [2]
-				}, -- [12]
-				{
-					8358, -- [1]
-					1470251722, -- [2]
-				}, -- [13]
-				{
-					8388, -- [1]
-					1470251722, -- [2]
-				}, -- [14]
-				{
-					8392, -- [1]
-					1470251722, -- [2]
-				}, -- [15]
-				{
-					8422, -- [1]
-					1470251722, -- [2]
-				}, -- [16]
-				{
-					8425, -- [1]
-					1470251722, -- [2]
-				}, -- [17]
-				{
-					8455, -- [1]
-					1470251722, -- [2]
-				}, -- [18]
-				{
-					8458, -- [1]
-					1470251722, -- [2]
-				}, -- [19]
-				{
-					2147, -- [1]
-					1470854337, -- [2]
-				}, -- [20]
-				{
-					2150, -- [1]
-					1470854337, -- [2]
-				}, -- [21]
-				{
-					2180, -- [1]
-					1470854337, -- [2]
-				}, -- [22]
-				{
-					2183, -- [1]
-					1470854337, -- [2]
-				}, -- [23]
-				{
-					2213, -- [1]
-					1470854337, -- [2]
-				}, -- [24]
-				{
-					2216, -- [1]
-					1470854337, -- [2]
-				}, -- [25]
-				{
-					2253, -- [1]
-					1470854337, -- [2]
-				}, -- [26]
+			[50] = {
+				1469564540, -- [1]
 			},
-			["Disarm"] = {
-				{
-					8140, -- [1]
-					1470251408, -- [2]
-				}, -- [1]
-				{
-					8141, -- [1]
-					1470251408, -- [2]
-				}, -- [2]
-				{
-					8157, -- [1]
-					1470251408, -- [2]
-				}, -- [3]
-				{
-					8423, -- [1]
-					1470251722, -- [2]
-				}, -- [4]
-				{
-					8434, -- [1]
-					1470251722, -- [2]
-				}, -- [5]
-				{
-					8445, -- [1]
-					1470251722, -- [2]
-				}, -- [6]
-				{
-					8455, -- [1]
-					1470251722, -- [2]
-				}, -- [7]
-				{
-					8456, -- [1]
-					1470251722, -- [2]
-				}, -- [8]
-				{
-					8466, -- [1]
-					1470251722, -- [2]
-				}, -- [9]
-				{
-					8467, -- [1]
-					1470251722, -- [2]
-				}, -- [10]
-				{
-					8477, -- [1]
-					1470251722, -- [2]
-				}, -- [11]
-				{
-					8478, -- [1]
-					1470251722, -- [2]
-				}, -- [12]
-				{
-					2198, -- [1]
-					1470854337, -- [2]
-				}, -- [13]
-				{
-					2199, -- [1]
-					1470854337, -- [2]
-				}, -- [14]
-				{
-					2208, -- [1]
-					1470854337, -- [2]
-				}, -- [15]
-				{
-					2209, -- [1]
-					1470854337, -- [2]
-				}, -- [16]
-				{
-					2219, -- [1]
-					1470854337, -- [2]
-				}, -- [17]
-				{
-					2220, -- [1]
-					1470854337, -- [2]
-				}, -- [18]
-				{
-					2230, -- [1]
-					1470854337, -- [2]
-				}, -- [19]
-				{
-					2231, -- [1]
-					1470854337, -- [2]
-				}, -- [20]
-				{
-					2241, -- [1]
-					1470854337, -- [2]
-				}, -- [21]
-				{
-					2252, -- [1]
-					1470854337, -- [2]
-				}, -- [22]
+			[100] = {
+				1469565255, -- [1]
 			},
-			["Reap"] = {
-				{
-					7923, -- [1]
-					1470251183, -- [2]
-				}, -- [1]
-				{
-					8121, -- [1]
-					1470251408, -- [2]
-				}, -- [2]
-				{
-					8408, -- [1]
-					1470251722, -- [2]
-				}, -- [3]
-				{
-					8472, -- [1]
-					1470251722, -- [2]
-				}, -- [4]
-				{
-					2200, -- [1]
-					1470854337, -- [2]
-				}, -- [5]
-				{
-					2239, -- [1]
-					1470854337, -- [2]
-				}, -- [6]
+			[102] = {
+				1469565255, -- [1]
 			},
-			["Mark of the Necromancer"] = {
-				{
-					7861, -- [1]
-					1470251183, -- [2]
-				}, -- [1]
-				{
-					8058, -- [1]
-					1470251408, -- [2]
-				}, -- [2]
-				{
-					8348, -- [1]
-					1470251722, -- [2]
-				}, -- [3]
-				{
-					2137, -- [1]
-					1470854337, -- [2]
-				}, -- [4]
+			[104] = {
+				1469565781, -- [1]
 			},
-			["Void Bolt"] = {
-				{
-					7866, -- [1]
-					1470251183, -- [2]
-				}, -- [1]
-				{
-					7869, -- [1]
-					1470251183, -- [2]
-				}, -- [2]
-				{
-					7899, -- [1]
-					1470251183, -- [2]
-				}, -- [3]
-				{
-					7901, -- [1]
-					1470251183, -- [2]
-				}, -- [4]
-				{
-					7927, -- [1]
-					1470251183, -- [2]
-				}, -- [5]
-				{
-					7935, -- [1]
-					1470251183, -- [2]
-				}, -- [6]
-				{
-					8067, -- [1]
-					1470251408, -- [2]
-				}, -- [7]
-				{
-					8090, -- [1]
-					1470251408, -- [2]
-				}, -- [8]
-				{
-					8092, -- [1]
-					1470251408, -- [2]
-				}, -- [9]
-				{
-					8094, -- [1]
-					1470251408, -- [2]
-				}, -- [10]
-				{
-					8097, -- [1]
-					1470251408, -- [2]
-				}, -- [11]
-				{
-					8099, -- [1]
-					1470251408, -- [2]
-				}, -- [12]
-				{
-					8124, -- [1]
-					1470251408, -- [2]
-				}, -- [13]
-				{
-					8126, -- [1]
-					1470251408, -- [2]
-				}, -- [14]
-				{
-					8129, -- [1]
-					1470251408, -- [2]
-				}, -- [15]
-				{
-					8131, -- [1]
-					1470251408, -- [2]
-				}, -- [16]
-				{
-					8149, -- [1]
-					1470251408, -- [2]
-				}, -- [17]
-				{
-					8152, -- [1]
-					1470251408, -- [2]
-				}, -- [18]
-				{
-					8158, -- [1]
-					1470251408, -- [2]
-				}, -- [19]
-				{
-					8164, -- [1]
-					1470251408, -- [2]
-				}, -- [20]
-				{
-					8347, -- [1]
-					1470251722, -- [2]
-				}, -- [21]
-				{
-					8371, -- [1]
-					1470251722, -- [2]
-				}, -- [22]
-				{
-					8374, -- [1]
-					1470251722, -- [2]
-				}, -- [23]
-				{
-					8376, -- [1]
-					1470251722, -- [2]
-				}, -- [24]
-				{
-					8379, -- [1]
-					1470251722, -- [2]
-				}, -- [25]
-				{
-					8381, -- [1]
-					1470251722, -- [2]
-				}, -- [26]
-				{
-					8383, -- [1]
-					1470251722, -- [2]
-				}, -- [27]
-				{
-					8417, -- [1]
-					1470251722, -- [2]
-				}, -- [28]
-				{
-					8420, -- [1]
-					1470251722, -- [2]
-				}, -- [29]
-				{
-					8438, -- [1]
-					1470251722, -- [2]
-				}, -- [30]
-				{
-					8445, -- [1]
-					1470251722, -- [2]
-				}, -- [31]
-				{
-					8448, -- [1]
-					1470251722, -- [2]
-				}, -- [32]
-				{
-					8450, -- [1]
-					1470251722, -- [2]
-				}, -- [33]
-				{
-					8453, -- [1]
-					1470251722, -- [2]
-				}, -- [34]
-				{
-					2173, -- [1]
-					1470854337, -- [2]
-				}, -- [35]
-				{
-					2175, -- [1]
-					1470854337, -- [2]
-				}, -- [36]
-				{
-					2178, -- [1]
-					1470854337, -- [2]
-				}, -- [37]
-				{
-					2196, -- [1]
-					1470854337, -- [2]
-				}, -- [38]
-				{
-					2203, -- [1]
-					1470854337, -- [2]
-				}, -- [39]
-				{
-					2206, -- [1]
-					1470854337, -- [2]
-				}, -- [40]
-				{
-					2248, -- [1]
-					1470854337, -- [2]
-				}, -- [41]
-				{
-					2250, -- [1]
-					1470854337, -- [2]
-				}, -- [42]
+			[178] = {
+				1469565781, -- [1]
+				1470773323, -- [2]
 			},
-			["Fel Rage"] = {
-				{
-					7882, -- [1]
-					1470251183, -- [2]
-				}, -- [1]
-				{
-					8082, -- [1]
-					1470251408, -- [2]
-				}, -- [2]
-				{
-					8368, -- [1]
-					1470251722, -- [2]
-				}, -- [3]
-				{
-					2160, -- [1]
-					1470854337, -- [2]
-				}, -- [4]
+			[175] = {
+				1469565781, -- [1]
 			},
-		},
-		["ids"] = {
-			["Tainted Blood"] = 184357,
-			["Charge"] = 184881,
-			["Bloodboil"] = 184355,
-			["Nightmare Visage"] = 184657,
-			["Disarm"] = 41062,
-			["Reap"] = 184476,
-			["Mark of the Necromancer"] = 184449,
-			["Void Bolt"] = 184675,
-			["Fel Rage"] = 184358,
-		},
-	},
-	["139616"] = {
-		["deaths"] = {
-			[70] = {
-				1470252147, -- [1]
-			},
-			[107] = {
-				1469650963, -- [1]
-			},
-			[105] = {
-				1469650963, -- [1]
-				1469650963, -- [2]
-			},
-			[76] = {
-				1470252147, -- [1]
+			[49] = {
+				1470773323, -- [1]
 			},
 		},
 		["spells"] = {
 			["Blood Splatter"] = {
 				{
-					3906, -- [1]
-					1469650963, -- [2]
+					3546, -- [1]
+					1469564540, -- [2]
 				}, -- [1]
 				{
-					3935, -- [1]
-					1469650963, -- [2]
+					3547, -- [1]
+					1469564540, -- [2]
 				}, -- [2]
 				{
-					3960, -- [1]
-					1469650963, -- [2]
+					3576, -- [1]
+					1469564540, -- [2]
 				}, -- [3]
 				{
-					3985, -- [1]
-					1469650963, -- [2]
+					3601, -- [1]
+					1469564540, -- [2]
 				}, -- [4]
 				{
-					3986, -- [1]
-					1469650963, -- [2]
+					3627, -- [1]
+					1469564540, -- [2]
 				}, -- [5]
 				{
-					8857, -- [1]
-					1470252147, -- [2]
+					3657, -- [1]
+					1469564540, -- [2]
 				}, -- [6]
 				{
-					8887, -- [1]
-					1470252147, -- [2]
+					3682, -- [1]
+					1469564540, -- [2]
 				}, -- [7]
-			},
-			["Savage Strikes"] = {
 				{
-					3976, -- [1]
-					1469650963, -- [2]
+					3683, -- [1]
+					1469564540, -- [2]
+				}, -- [8]
+				{
+					3878, -- [1]
+					1469564960, -- [2]
+				}, -- [9]
+				{
+					3908, -- [1]
+					1469564960, -- [2]
+				}, -- [10]
+				{
+					3933, -- [1]
+					1469564960, -- [2]
+				}, -- [11]
+				{
+					3958, -- [1]
+					1469564960, -- [2]
+				}, -- [12]
+				{
+					3959, -- [1]
+					1469564960, -- [2]
+				}, -- [13]
+				{
+					3989, -- [1]
+					1469564960, -- [2]
+				}, -- [14]
+				{
+					4015, -- [1]
+					1469564960, -- [2]
+				}, -- [15]
+				{
+					4039, -- [1]
+					1469564960, -- [2]
+				}, -- [16]
+				{
+					4040, -- [1]
+					1469564960, -- [2]
+				}, -- [17]
+				{
+					4069, -- [1]
+					1469564960, -- [2]
+				}, -- [18]
+				{
+					4095, -- [1]
+					1469564960, -- [2]
+				}, -- [19]
+				{
+					4300, -- [1]
+					1469565255, -- [2]
+				}, -- [20]
+				{
+					4329, -- [1]
+					1469565255, -- [2]
+				}, -- [21]
+				{
+					4354, -- [1]
+					1469565255, -- [2]
+				}, -- [22]
+				{
+					4355, -- [1]
+					1469565255, -- [2]
+				}, -- [23]
+				{
+					4379, -- [1]
+					1469565255, -- [2]
+				}, -- [24]
+				{
+					4380, -- [1]
+					1469565255, -- [2]
+				}, -- [25]
+				{
+					4412, -- [1]
+					1469565255, -- [2]
+				}, -- [26]
+				{
+					4621, -- [1]
+					1469565781, -- [2]
+				}, -- [27]
+				{
+					4650, -- [1]
+					1469565781, -- [2]
+				}, -- [28]
+				{
+					4677, -- [1]
+					1469565781, -- [2]
+				}, -- [29]
+				{
+					4700, -- [1]
+					1469565781, -- [2]
+				}, -- [30]
+				{
+					4732, -- [1]
+					1469565781, -- [2]
+				}, -- [31]
+				{
+					4757, -- [1]
+					1469565781, -- [2]
+				}, -- [32]
+				{
+					4783, -- [1]
+					1469565781, -- [2]
+				}, -- [33]
+				{
+					4812, -- [1]
+					1469565781, -- [2]
+				}, -- [34]
+				{
+					4837, -- [1]
+					1469565781, -- [2]
+				}, -- [35]
+				{
+					4863, -- [1]
+					1469565781, -- [2]
+				}, -- [36]
+				{
+					4892, -- [1]
+					1469565781, -- [2]
+				}, -- [37]
+				{
+					4918, -- [1]
+					1469565781, -- [2]
+				}, -- [38]
+				{
+					5210, -- [1]
+					1469566228, -- [2]
+				}, -- [39]
+				{
+					5239, -- [1]
+					1469566228, -- [2]
+				}, -- [40]
+				{
+					5265, -- [1]
+					1469566228, -- [2]
+				}, -- [41]
+				{
+					5290, -- [1]
+					1469566228, -- [2]
+				}, -- [42]
+				{
+					5320, -- [1]
+					1469566228, -- [2]
+				}, -- [43]
+				{
+					5371, -- [1]
+					1469566228, -- [2]
+				}, -- [44]
+				{
+					2534, -- [1]
+					1470773323, -- [2]
+				}, -- [45]
+				{
+					2563, -- [1]
+					1470773323, -- [2]
+				}, -- [46]
+				{
+					2588, -- [1]
+					1470773323, -- [2]
+				}, -- [47]
+				{
+					2614, -- [1]
+					1470773323, -- [2]
+				}, -- [48]
+				{
+					2645, -- [1]
+					1470773323, -- [2]
+				}, -- [49]
+				{
+					2670, -- [1]
+					1470773323, -- [2]
+				}, -- [50]
+				{
+					2695, -- [1]
+					1470773323, -- [2]
+				}, -- [51]
+			},
+			["Lunar Strike"] = {
+				{
+					4113, -- [1]
+					1469564960, -- [2]
 				}, -- [1]
 				{
-					8855, -- [1]
-					1470252147, -- [2]
+					4115, -- [1]
+					1469564960, -- [2]
 				}, -- [2]
+			},
+			["Regrowth"] = {
+				{
+					4109, -- [1]
+					1469564960, -- [2]
+				}, -- [1]
 			},
 			["Blood Pact"] = {
 				{
-					3977, -- [1]
-					1469650963, -- [2]
+					3631, -- [1]
+					1469564540, -- [2]
 				}, -- [1]
 				{
-					3980, -- [1]
-					1469650963, -- [2]
-				}, -- [2]
-			},
-			["Rending Howl"] = {
-				{
-					3973, -- [1]
-					1469650963, -- [2]
-				}, -- [1]
-				{
-					3985, -- [1]
-					1469650963, -- [2]
+					3686, -- [1]
+					1469564540, -- [2]
 				}, -- [2]
 				{
-					8848, -- [1]
-					1470252147, -- [2]
+					3694, -- [1]
+					1469564540, -- [2]
 				}, -- [3]
+				{
+					4383, -- [1]
+					1469565255, -- [2]
+				}, -- [4]
+				{
+					4768, -- [1]
+					1469565781, -- [2]
+				}, -- [5]
+				{
+					4935, -- [1]
+					1469565781, -- [2]
+				}, -- [6]
+				{
+					4938, -- [1]
+					1469565781, -- [2]
+				}, -- [7]
+			},
+			["Vivify"] = {
+				{
+					4109, -- [1]
+					1469564960, -- [2]
+				}, -- [1]
+			},
+			["Fel Flames"] = {
+				{
+					5350, -- [1]
+					1469566228, -- [2]
+				}, -- [1]
+				{
+					5360, -- [1]
+					1469566228, -- [2]
+				}, -- [2]
+				{
+					5367, -- [1]
+					1469566228, -- [2]
+				}, -- [3]
+				{
+					5368, -- [1]
+					1469566228, -- [2]
+				}, -- [4]
+			},
+			["Renewing Mist"] = {
+				{
+					4112, -- [1]
+					1469564960, -- [2]
+				}, -- [1]
 			},
 			["Death Throes"] = {
 				{
-					3916, -- [1]
-					1469650963, -- [2]
+					3557, -- [1]
+					1469564540, -- [2]
 				}, -- [1]
 				{
-					3963, -- [1]
-					1469650963, -- [2]
+					3603, -- [1]
+					1469564540, -- [2]
 				}, -- [2]
 				{
-					8868, -- [1]
-					1470252147, -- [2]
-				}, -- [3]
-			},
-			["Heart Seeker"] = {
-				{
-					3905, -- [1]
-					1469650963, -- [2]
-				}, -- [1]
-				{
-					3906, -- [1]
-					1469650963, -- [2]
-				}, -- [2]
-				{
-					3934, -- [1]
-					1469650963, -- [2]
+					3644, -- [1]
+					1469564540, -- [2]
 				}, -- [3]
 				{
-					3935, -- [1]
-					1469650963, -- [2]
+					3685, -- [1]
+					1469564540, -- [2]
 				}, -- [4]
 				{
-					3959, -- [1]
-					1469650963, -- [2]
+					3889, -- [1]
+					1469564960, -- [2]
 				}, -- [5]
 				{
-					3960, -- [1]
-					1469650963, -- [2]
+					3935, -- [1]
+					1469564960, -- [2]
 				}, -- [6]
 				{
-					3985, -- [1]
-					1469650963, -- [2]
+					3977, -- [1]
+					1469564960, -- [2]
 				}, -- [7]
 				{
-					3985, -- [1]
-					1469650963, -- [2]
+					4017, -- [1]
+					1469564960, -- [2]
 				}, -- [8]
 				{
-					3986, -- [1]
-					1469650963, -- [2]
+					4057, -- [1]
+					1469564960, -- [2]
 				}, -- [9]
 				{
-					8856, -- [1]
-					1470252147, -- [2]
+					4097, -- [1]
+					1469564960, -- [2]
 				}, -- [10]
 				{
-					8857, -- [1]
-					1470252147, -- [2]
+					4311, -- [1]
+					1469565255, -- [2]
 				}, -- [11]
 				{
-					8885, -- [1]
-					1470252147, -- [2]
+					4357, -- [1]
+					1469565255, -- [2]
 				}, -- [12]
 				{
-					8886, -- [1]
-					1470252147, -- [2]
+					4398, -- [1]
+					1469565255, -- [2]
 				}, -- [13]
+				{
+					4632, -- [1]
+					1469565781, -- [2]
+				}, -- [14]
+				{
+					4678, -- [1]
+					1469565781, -- [2]
+				}, -- [15]
+				{
+					4719, -- [1]
+					1469565781, -- [2]
+				}, -- [16]
+				{
+					4759, -- [1]
+					1469565781, -- [2]
+				}, -- [17]
+				{
+					4799, -- [1]
+					1469565781, -- [2]
+				}, -- [18]
+				{
+					4839, -- [1]
+					1469565781, -- [2]
+				}, -- [19]
+				{
+					4880, -- [1]
+					1469565781, -- [2]
+				}, -- [20]
+				{
+					4920, -- [1]
+					1469565781, -- [2]
+				}, -- [21]
+				{
+					5220, -- [1]
+					1469566228, -- [2]
+				}, -- [22]
+				{
+					5266, -- [1]
+					1469566228, -- [2]
+				}, -- [23]
+				{
+					5306, -- [1]
+					1469566228, -- [2]
+				}, -- [24]
+				{
+					2545, -- [1]
+					1470773323, -- [2]
+				}, -- [25]
+				{
+					2591, -- [1]
+					1470773323, -- [2]
+				}, -- [26]
+				{
+					2632, -- [1]
+					1470773323, -- [2]
+				}, -- [27]
+				{
+					2672, -- [1]
+					1470773323, -- [2]
+				}, -- [28]
+				{
+					2712, -- [1]
+					1470773323, -- [2]
+				}, -- [29]
+			},
+			["Lifebloom"] = {
+				{
+					4117, -- [1]
+					1469564960, -- [2]
+				}, -- [1]
 			},
 			["Fel Blood Surge"] = {
 				{
-					3947, -- [1]
-					1469650963, -- [2]
+					3690, -- [1]
+					1469564540, -- [2]
 				}, -- [1]
+				{
+					3958, -- [1]
+					1469564960, -- [2]
+				}, -- [2]
+				{
+					4039, -- [1]
+					1469564960, -- [2]
+				}, -- [3]
+				{
+					4076, -- [1]
+					1469564960, -- [2]
+				}, -- [4]
+				{
+					4382, -- [1]
+					1469565255, -- [2]
+				}, -- [5]
+				{
+					4623, -- [1]
+					1469565781, -- [2]
+				}, -- [6]
+				{
+					4705, -- [1]
+					1469565781, -- [2]
+				}, -- [7]
 			},
 			["Death's Door"] = {
 				{
-					3922, -- [1]
-					1469650963, -- [2]
+					3563, -- [1]
+					1469564540, -- [2]
 				}, -- [1]
 				{
-					3969, -- [1]
-					1469650963, -- [2]
+					3609, -- [1]
+					1469564540, -- [2]
 				}, -- [2]
 				{
-					8874, -- [1]
-					1470252147, -- [2]
+					3650, -- [1]
+					1469564540, -- [2]
 				}, -- [3]
+				{
+					3691, -- [1]
+					1469564540, -- [2]
+				}, -- [4]
+				{
+					3895, -- [1]
+					1469564960, -- [2]
+				}, -- [5]
+				{
+					3941, -- [1]
+					1469564960, -- [2]
+				}, -- [6]
+				{
+					3983, -- [1]
+					1469564960, -- [2]
+				}, -- [7]
+				{
+					4023, -- [1]
+					1469564960, -- [2]
+				}, -- [8]
+				{
+					4063, -- [1]
+					1469564960, -- [2]
+				}, -- [9]
+				{
+					4103, -- [1]
+					1469564960, -- [2]
+				}, -- [10]
+				{
+					4317, -- [1]
+					1469565255, -- [2]
+				}, -- [11]
+				{
+					4363, -- [1]
+					1469565255, -- [2]
+				}, -- [12]
+				{
+					4404, -- [1]
+					1469565255, -- [2]
+				}, -- [13]
+				{
+					4638, -- [1]
+					1469565781, -- [2]
+				}, -- [14]
+				{
+					4684, -- [1]
+					1469565781, -- [2]
+				}, -- [15]
+				{
+					4725, -- [1]
+					1469565781, -- [2]
+				}, -- [16]
+				{
+					4765, -- [1]
+					1469565781, -- [2]
+				}, -- [17]
+				{
+					4805, -- [1]
+					1469565781, -- [2]
+				}, -- [18]
+				{
+					4845, -- [1]
+					1469565781, -- [2]
+				}, -- [19]
+				{
+					4886, -- [1]
+					1469565781, -- [2]
+				}, -- [20]
+				{
+					4926, -- [1]
+					1469565781, -- [2]
+				}, -- [21]
+				{
+					5226, -- [1]
+					1469566228, -- [2]
+				}, -- [22]
+				{
+					5272, -- [1]
+					1469566228, -- [2]
+				}, -- [23]
+				{
+					5312, -- [1]
+					1469566228, -- [2]
+				}, -- [24]
+				{
+					2550, -- [1]
+					1470773323, -- [2]
+				}, -- [25]
+				{
+					2597, -- [1]
+					1470773323, -- [2]
+				}, -- [26]
+				{
+					2638, -- [1]
+					1470773323, -- [2]
+				}, -- [27]
+				{
+					2678, -- [1]
+					1470773323, -- [2]
+				}, -- [28]
+			},
+			["Rejuvenation"] = {
+				{
+					4110, -- [1]
+					1469564960, -- [2]
+				}, -- [1]
+				{
+					4115, -- [1]
+					1469564960, -- [2]
+				}, -- [2]
+			},
+			["Dash"] = {
+				{
+					4113, -- [1]
+					1469564960, -- [2]
+				}, -- [1]
+			},
+			["Blood Surge"] = {
+				{
+					3548, -- [1]
+					1469564540, -- [2]
+				}, -- [1]
+				{
+					3666, -- [1]
+					1469564540, -- [2]
+				}, -- [2]
+				{
+					3696, -- [1]
+					1469564540, -- [2]
+				}, -- [3]
+				{
+					3885, -- [1]
+					1469564960, -- [2]
+				}, -- [4]
+				{
+					4354, -- [1]
+					1469565255, -- [2]
+				}, -- [5]
+				{
+					4390, -- [1]
+					1469565255, -- [2]
+				}, -- [6]
+				{
+					4772, -- [1]
+					1469565781, -- [2]
+				}, -- [7]
+				{
+					4797, -- [1]
+					1469565781, -- [2]
+				}, -- [8]
+				{
+					4932, -- [1]
+					1469565781, -- [2]
+				}, -- [9]
+			},
+			["Soothing Mist"] = {
+				{
+					4109, -- [1]
+					1469564960, -- [2]
+				}, -- [1]
+			},
+			["Heart Seeker"] = {
+				{
+					3545, -- [1]
+					1469564540, -- [2]
+				}, -- [1]
+				{
+					3545, -- [1]
+					1469564540, -- [2]
+				}, -- [2]
+				{
+					3546, -- [1]
+					1469564540, -- [2]
+				}, -- [3]
+				{
+					3547, -- [1]
+					1469564540, -- [2]
+				}, -- [4]
+				{
+					3574, -- [1]
+					1469564540, -- [2]
+				}, -- [5]
+				{
+					3576, -- [1]
+					1469564540, -- [2]
+				}, -- [6]
+				{
+					3600, -- [1]
+					1469564540, -- [2]
+				}, -- [7]
+				{
+					3601, -- [1]
+					1469564540, -- [2]
+				}, -- [8]
+				{
+					3625, -- [1]
+					1469564540, -- [2]
+				}, -- [9]
+				{
+					3627, -- [1]
+					1469564540, -- [2]
+				}, -- [10]
+				{
+					3656, -- [1]
+					1469564540, -- [2]
+				}, -- [11]
+				{
+					3657, -- [1]
+					1469564540, -- [2]
+				}, -- [12]
+				{
+					3681, -- [1]
+					1469564540, -- [2]
+				}, -- [13]
+				{
+					3682, -- [1]
+					1469564540, -- [2]
+				}, -- [14]
+				{
+					3877, -- [1]
+					1469564960, -- [2]
+				}, -- [15]
+				{
+					3878, -- [1]
+					1469564960, -- [2]
+				}, -- [16]
+				{
+					3907, -- [1]
+					1469564960, -- [2]
+				}, -- [17]
+				{
+					3907, -- [1]
+					1469564960, -- [2]
+				}, -- [18]
+				{
+					3932, -- [1]
+					1469564960, -- [2]
+				}, -- [19]
+				{
+					3933, -- [1]
+					1469564960, -- [2]
+				}, -- [20]
+				{
+					3958, -- [1]
+					1469564960, -- [2]
+				}, -- [21]
+				{
+					3958, -- [1]
+					1469564960, -- [2]
+				}, -- [22]
+				{
+					3988, -- [1]
+					1469564960, -- [2]
+				}, -- [23]
+				{
+					3989, -- [1]
+					1469564960, -- [2]
+				}, -- [24]
+				{
+					4013, -- [1]
+					1469564960, -- [2]
+				}, -- [25]
+				{
+					4015, -- [1]
+					1469564960, -- [2]
+				}, -- [26]
+				{
+					4039, -- [1]
+					1469564960, -- [2]
+				}, -- [27]
+				{
+					4039, -- [1]
+					1469564960, -- [2]
+				}, -- [28]
+				{
+					4040, -- [1]
+					1469564960, -- [2]
+				}, -- [29]
+				{
+					4068, -- [1]
+					1469564960, -- [2]
+				}, -- [30]
+				{
+					4069, -- [1]
+					1469564960, -- [2]
+				}, -- [31]
+				{
+					4094, -- [1]
+					1469564960, -- [2]
+				}, -- [32]
+				{
+					4095, -- [1]
+					1469564960, -- [2]
+				}, -- [33]
+				{
+					4299, -- [1]
+					1469565255, -- [2]
+				}, -- [34]
+				{
+					4300, -- [1]
+					1469565255, -- [2]
+				}, -- [35]
+				{
+					4328, -- [1]
+					1469565255, -- [2]
+				}, -- [36]
+				{
+					4329, -- [1]
+					1469565255, -- [2]
+				}, -- [37]
+				{
+					4353, -- [1]
+					1469565255, -- [2]
+				}, -- [38]
+				{
+					4353, -- [1]
+					1469565255, -- [2]
+				}, -- [39]
+				{
+					4354, -- [1]
+					1469565255, -- [2]
+				}, -- [40]
+				{
+					4379, -- [1]
+					1469565255, -- [2]
+				}, -- [41]
+				{
+					4379, -- [1]
+					1469565255, -- [2]
+				}, -- [42]
+				{
+					4380, -- [1]
+					1469565255, -- [2]
+				}, -- [43]
+				{
+					4409, -- [1]
+					1469565255, -- [2]
+				}, -- [44]
+				{
+					4411, -- [1]
+					1469565255, -- [2]
+				}, -- [45]
+				{
+					4620, -- [1]
+					1469565781, -- [2]
+				}, -- [46]
+				{
+					4620, -- [1]
+					1469565781, -- [2]
+				}, -- [47]
+				{
+					4621, -- [1]
+					1469565781, -- [2]
+				}, -- [48]
+				{
+					4649, -- [1]
+					1469565781, -- [2]
+				}, -- [49]
+				{
+					4650, -- [1]
+					1469565781, -- [2]
+				}, -- [50]
+				{
+					4675, -- [1]
+					1469565781, -- [2]
+				}, -- [51]
+				{
+					4676, -- [1]
+					1469565781, -- [2]
+				}, -- [52]
+				{
+					4700, -- [1]
+					1469565781, -- [2]
+				}, -- [53]
+				{
+					4700, -- [1]
+					1469565781, -- [2]
+				}, -- [54]
+				{
+					4731, -- [1]
+					1469565781, -- [2]
+				}, -- [55]
+				{
+					4732, -- [1]
+					1469565781, -- [2]
+				}, -- [56]
+				{
+					4756, -- [1]
+					1469565781, -- [2]
+				}, -- [57]
+				{
+					4757, -- [1]
+					1469565781, -- [2]
+				}, -- [58]
+				{
+					4782, -- [1]
+					1469565781, -- [2]
+				}, -- [59]
+				{
+					4783, -- [1]
+					1469565781, -- [2]
+				}, -- [60]
+				{
+					4811, -- [1]
+					1469565781, -- [2]
+				}, -- [61]
+				{
+					4811, -- [1]
+					1469565781, -- [2]
+				}, -- [62]
+				{
+					4836, -- [1]
+					1469565781, -- [2]
+				}, -- [63]
+				{
+					4837, -- [1]
+					1469565781, -- [2]
+				}, -- [64]
+				{
+					4862, -- [1]
+					1469565781, -- [2]
+				}, -- [65]
+				{
+					4863, -- [1]
+					1469565781, -- [2]
+				}, -- [66]
+				{
+					4891, -- [1]
+					1469565781, -- [2]
+				}, -- [67]
+				{
+					4892, -- [1]
+					1469565781, -- [2]
+				}, -- [68]
+				{
+					4916, -- [1]
+					1469565781, -- [2]
+				}, -- [69]
+				{
+					4918, -- [1]
+					1469565781, -- [2]
+				}, -- [70]
+				{
+					5208, -- [1]
+					1469566228, -- [2]
+				}, -- [71]
+				{
+					5210, -- [1]
+					1469566228, -- [2]
+				}, -- [72]
+				{
+					5237, -- [1]
+					1469566228, -- [2]
+				}, -- [73]
+				{
+					5239, -- [1]
+					1469566228, -- [2]
+				}, -- [74]
+				{
+					5263, -- [1]
+					1469566228, -- [2]
+				}, -- [75]
+				{
+					5265, -- [1]
+					1469566228, -- [2]
+				}, -- [76]
+				{
+					5288, -- [1]
+					1469566228, -- [2]
+				}, -- [77]
+				{
+					5290, -- [1]
+					1469566228, -- [2]
+				}, -- [78]
+				{
+					5318, -- [1]
+					1469566228, -- [2]
+				}, -- [79]
+				{
+					5319, -- [1]
+					1469566228, -- [2]
+				}, -- [80]
+				{
+					5369, -- [1]
+					1469566228, -- [2]
+				}, -- [81]
+				{
+					5370, -- [1]
+					1469566228, -- [2]
+				}, -- [82]
+				{
+					2533, -- [1]
+					1470773323, -- [2]
+				}, -- [83]
+				{
+					2534, -- [1]
+					1470773323, -- [2]
+				}, -- [84]
+				{
+					2562, -- [1]
+					1470773323, -- [2]
+				}, -- [85]
+				{
+					2563, -- [1]
+					1470773323, -- [2]
+				}, -- [86]
+				{
+					2587, -- [1]
+					1470773323, -- [2]
+				}, -- [87]
+				{
+					2588, -- [1]
+					1470773323, -- [2]
+				}, -- [88]
+				{
+					2613, -- [1]
+					1470773323, -- [2]
+				}, -- [89]
+				{
+					2613, -- [1]
+					1470773323, -- [2]
+				}, -- [90]
+				{
+					2643, -- [1]
+					1470773323, -- [2]
+				}, -- [91]
+				{
+					2644, -- [1]
+					1470773323, -- [2]
+				}, -- [92]
+				{
+					2669, -- [1]
+					1470773323, -- [2]
+				}, -- [93]
+				{
+					2670, -- [1]
+					1470773323, -- [2]
+				}, -- [94]
+				{
+					2694, -- [1]
+					1470773323, -- [2]
+				}, -- [95]
+				{
+					2695, -- [1]
+					1470773323, -- [2]
+				}, -- [96]
+			},
+			["Shadowy Apparition"] = {
+				{
+					4111, -- [1]
+					1469564960, -- [2]
+				}, -- [1]
+			},
+			["Mind Blast"] = {
+				{
+					4113, -- [1]
+					1469564960, -- [2]
+				}, -- [1]
+			},
+			["Void Eruption"] = {
+				{
+					4112, -- [1]
+					1469564960, -- [2]
+				}, -- [1]
+			},
+			["Savage Strikes"] = {
+				{
+					3690, -- [1]
+					1469564540, -- [2]
+				}, -- [1]
+				{
+					3946, -- [1]
+					1469564960, -- [2]
+				}, -- [2]
+				{
+					4103, -- [1]
+					1469564960, -- [2]
+				}, -- [3]
+				{
+					4300, -- [1]
+					1469565255, -- [2]
+				}, -- [4]
+				{
+					4367, -- [1]
+					1469565255, -- [2]
+				}, -- [5]
+				{
+					4695, -- [1]
+					1469565781, -- [2]
+				}, -- [6]
+				{
+					4764, -- [1]
+					1469565781, -- [2]
+				}, -- [7]
+				{
+					4930, -- [1]
+					1469565781, -- [2]
+				}, -- [8]
+				{
+					5277, -- [1]
+					1469566228, -- [2]
+				}, -- [9]
+				{
+					2603, -- [1]
+					1470773323, -- [2]
+				}, -- [10]
+				{
+					2677, -- [1]
+					1470773323, -- [2]
+				}, -- [11]
+			},
+			["Shadow Word: Pain"] = {
+				{
+					4109, -- [1]
+					1469564960, -- [2]
+				}, -- [1]
+			},
+			["Shadow Word: Death"] = {
+				{
+					4116, -- [1]
+					1469564960, -- [2]
+				}, -- [1]
+			},
+			["Starsurge"] = {
+				{
+					4108, -- [1]
+					1469564960, -- [2]
+				}, -- [1]
+			},
+			["Chi Torpedo"] = {
+				{
+					4111, -- [1]
+					1469564960, -- [2]
+				}, -- [1]
 			},
 			["Vision of Death"] = {
 				{
-					3937, -- [1]
-					1469650963, -- [2]
+					3578, -- [1]
+					1469564540, -- [2]
 				}, -- [1]
 				{
-					3944, -- [1]
-					1469650963, -- [2]
+					3580, -- [1]
+					1469564540, -- [2]
 				}, -- [2]
 				{
-					8888, -- [1]
-					1470252147, -- [2]
+					3585, -- [1]
+					1469564540, -- [2]
 				}, -- [3]
 				{
-					8895, -- [1]
-					1470252147, -- [2]
-				}, -- [4]
-			},
-			["Fel Claws"] = {
-				{
-					3890, -- [1]
-					1469650963, -- [2]
-				}, -- [1]
-				{
-					3960, -- [1]
-					1469650963, -- [2]
-				}, -- [2]
-				{
-					3977, -- [1]
-					1469650963, -- [2]
-				}, -- [3]
-				{
-					3980, -- [1]
-					1469650963, -- [2]
+					3659, -- [1]
+					1469564540, -- [2]
 				}, -- [4]
 				{
-					8840, -- [1]
-					1470252147, -- [2]
+					3660, -- [1]
+					1469564540, -- [2]
 				}, -- [5]
+				{
+					3666, -- [1]
+					1469564540, -- [2]
+				}, -- [6]
+				{
+					3910, -- [1]
+					1469564960, -- [2]
+				}, -- [7]
+				{
+					3917, -- [1]
+					1469564960, -- [2]
+				}, -- [8]
+				{
+					3991, -- [1]
+					1469564960, -- [2]
+				}, -- [9]
+				{
+					3998, -- [1]
+					1469564960, -- [2]
+				}, -- [10]
+				{
+					4071, -- [1]
+					1469564960, -- [2]
+				}, -- [11]
+				{
+					4072, -- [1]
+					1469564960, -- [2]
+				}, -- [12]
+				{
+					4078, -- [1]
+					1469564960, -- [2]
+				}, -- [13]
+				{
+					4331, -- [1]
+					1469565255, -- [2]
+				}, -- [14]
+				{
+					4338, -- [1]
+					1469565255, -- [2]
+				}, -- [15]
+				{
+					4412, -- [1]
+					1469565255, -- [2]
+				}, -- [16]
+				{
+					4413, -- [1]
+					1469565255, -- [2]
+				}, -- [17]
+				{
+					4652, -- [1]
+					1469565781, -- [2]
+				}, -- [18]
+				{
+					4653, -- [1]
+					1469565781, -- [2]
+				}, -- [19]
+				{
+					4659, -- [1]
+					1469565781, -- [2]
+				}, -- [20]
+				{
+					4733, -- [1]
+					1469565781, -- [2]
+				}, -- [21]
+				{
+					4734, -- [1]
+					1469565781, -- [2]
+				}, -- [22]
+				{
+					4741, -- [1]
+					1469565781, -- [2]
+				}, -- [23]
+				{
+					4814, -- [1]
+					1469565781, -- [2]
+				}, -- [24]
+				{
+					4816, -- [1]
+					1469565781, -- [2]
+				}, -- [25]
+				{
+					4821, -- [1]
+					1469565781, -- [2]
+				}, -- [26]
+				{
+					4894, -- [1]
+					1469565781, -- [2]
+				}, -- [27]
+				{
+					4901, -- [1]
+					1469565781, -- [2]
+				}, -- [28]
+				{
+					5241, -- [1]
+					1469566228, -- [2]
+				}, -- [29]
+				{
+					5248, -- [1]
+					1469566228, -- [2]
+				}, -- [30]
+				{
+					5321, -- [1]
+					1469566228, -- [2]
+				}, -- [31]
+				{
+					5328, -- [1]
+					1469566228, -- [2]
+				}, -- [32]
+				{
+					2565, -- [1]
+					1470773323, -- [2]
+				}, -- [33]
+				{
+					2572, -- [1]
+					1470773323, -- [2]
+				}, -- [34]
+				{
+					2646, -- [1]
+					1470773323, -- [2]
+				}, -- [35]
+				{
+					2653, -- [1]
+					1470773323, -- [2]
+				}, -- [36]
 			},
 			["Fel Rupture"] = {
 				{
-					3895, -- [1]
-					1469650963, -- [2]
+					3546, -- [1]
+					1469564540, -- [2]
 				}, -- [1]
 				{
-					8864, -- [1]
-					1470252147, -- [2]
+					3617, -- [1]
+					1469564540, -- [2]
 				}, -- [2]
+				{
+					3650, -- [1]
+					1469564540, -- [2]
+				}, -- [3]
+				{
+					3871, -- [1]
+					1469564960, -- [2]
+				}, -- [4]
+				{
+					3956, -- [1]
+					1469564960, -- [2]
+				}, -- [5]
+				{
+					4018, -- [1]
+					1469564960, -- [2]
+				}, -- [6]
+				{
+					4303, -- [1]
+					1469565255, -- [2]
+				}, -- [7]
+				{
+					4377, -- [1]
+					1469565255, -- [2]
+				}, -- [8]
+				{
+					4614, -- [1]
+					1469565781, -- [2]
+				}, -- [9]
+				{
+					4697, -- [1]
+					1469565781, -- [2]
+				}, -- [10]
+				{
+					4771, -- [1]
+					1469565781, -- [2]
+				}, -- [11]
+				{
+					4785, -- [1]
+					1469565781, -- [2]
+				}, -- [12]
+				{
+					4843, -- [1]
+					1469565781, -- [2]
+				}, -- [13]
+				{
+					5204, -- [1]
+					1469566228, -- [2]
+				}, -- [14]
+				{
+					5284, -- [1]
+					1469566228, -- [2]
+				}, -- [15]
+				{
+					2527, -- [1]
+					1470773323, -- [2]
+				}, -- [16]
+				{
+					2605, -- [1]
+					1470773323, -- [2]
+				}, -- [17]
+				{
+					2681, -- [1]
+					1470773323, -- [2]
+				}, -- [18]
+			},
+			["Fel Claws"] = {
+				{
+					3530, -- [1]
+					1469564540, -- [2]
+				}, -- [1]
+				{
+					3600, -- [1]
+					1469564540, -- [2]
+				}, -- [2]
+				{
+					3631, -- [1]
+					1469564540, -- [2]
+				}, -- [3]
+				{
+					3675, -- [1]
+					1469564540, -- [2]
+				}, -- [4]
+				{
+					3686, -- [1]
+					1469564540, -- [2]
+				}, -- [5]
+				{
+					3694, -- [1]
+					1469564540, -- [2]
+				}, -- [6]
+				{
+					3862, -- [1]
+					1469564960, -- [2]
+				}, -- [7]
+				{
+					3932, -- [1]
+					1469564960, -- [2]
+				}, -- [8]
+				{
+					4008, -- [1]
+					1469564960, -- [2]
+				}, -- [9]
+				{
+					4088, -- [1]
+					1469564960, -- [2]
+				}, -- [10]
+				{
+					4283, -- [1]
+					1469565255, -- [2]
+				}, -- [11]
+				{
+					4353, -- [1]
+					1469565255, -- [2]
+				}, -- [12]
+				{
+					4383, -- [1]
+					1469565255, -- [2]
+				}, -- [13]
+				{
+					4604, -- [1]
+					1469565781, -- [2]
+				}, -- [14]
+				{
+					4675, -- [1]
+					1469565781, -- [2]
+				}, -- [15]
+				{
+					4750, -- [1]
+					1469565781, -- [2]
+				}, -- [16]
+				{
+					4768, -- [1]
+					1469565781, -- [2]
+				}, -- [17]
+				{
+					4830, -- [1]
+					1469565781, -- [2]
+				}, -- [18]
+				{
+					4911, -- [1]
+					1469565781, -- [2]
+				}, -- [19]
+				{
+					4935, -- [1]
+					1469565781, -- [2]
+				}, -- [20]
+				{
+					4938, -- [1]
+					1469565781, -- [2]
+				}, -- [21]
+				{
+					5192, -- [1]
+					1469566228, -- [2]
+				}, -- [22]
+				{
+					5263, -- [1]
+					1469566228, -- [2]
+				}, -- [23]
+				{
+					2516, -- [1]
+					1470773323, -- [2]
+				}, -- [24]
+				{
+					2586, -- [1]
+					1470773323, -- [2]
+				}, -- [25]
+				{
+					2663, -- [1]
+					1470773323, -- [2]
+				}, -- [26]
+			},
+			["Displacer Beast"] = {
+				{
+					4112, -- [1]
+					1469564960, -- [2]
+				}, -- [1]
+			},
+			["Sunfire"] = {
+				{
+					4107, -- [1]
+					1469564960, -- [2]
+				}, -- [1]
+			},
+			["Rending Howl"] = {
+				{
+					3543, -- [1]
+					1469564540, -- [2]
+				}, -- [1]
+				{
+					3650, -- [1]
+					1469564540, -- [2]
+				}, -- [2]
+				{
+					3684, -- [1]
+					1469564540, -- [2]
+				}, -- [3]
+				{
+					4096, -- [1]
+					1469564960, -- [2]
+				}, -- [4]
+				{
+					4297, -- [1]
+					1469565255, -- [2]
+				}, -- [5]
+				{
+					4377, -- [1]
+					1469565255, -- [2]
+				}, -- [6]
+				{
+					4391, -- [1]
+					1469565255, -- [2]
+				}, -- [7]
+				{
+					4399, -- [1]
+					1469565255, -- [2]
+				}, -- [8]
+				{
+					4407, -- [1]
+					1469565255, -- [2]
+				}, -- [9]
+				{
+					4918, -- [1]
+					1469565781, -- [2]
+				}, -- [10]
+				{
+					4927, -- [1]
+					1469565781, -- [2]
+				}, -- [11]
+				{
+					2595, -- [1]
+					1470773323, -- [2]
+				}, -- [12]
 			},
 			["Shred Armor"] = {
 				{
-					3887, -- [1]
-					1469650963, -- [2]
+					3527, -- [1]
+					1469564540, -- [2]
 				}, -- [1]
 				{
-					3909, -- [1]
-					1469650963, -- [2]
+					3549, -- [1]
+					1469564540, -- [2]
 				}, -- [2]
 				{
-					3926, -- [1]
-					1469650963, -- [2]
+					3566, -- [1]
+					1469564540, -- [2]
 				}, -- [3]
 				{
-					3946, -- [1]
-					1469650963, -- [2]
+					3587, -- [1]
+					1469564540, -- [2]
 				}, -- [4]
 				{
-					3971, -- [1]
-					1469650963, -- [2]
+					3611, -- [1]
+					1469564540, -- [2]
 				}, -- [5]
 				{
-					8838, -- [1]
-					1470252147, -- [2]
+					3629, -- [1]
+					1469564540, -- [2]
 				}, -- [6]
 				{
-					8860, -- [1]
-					1470252147, -- [2]
+					3669, -- [1]
+					1469564540, -- [2]
 				}, -- [7]
 				{
-					8877, -- [1]
-					1470252147, -- [2]
+					3859, -- [1]
+					1469564960, -- [2]
 				}, -- [8]
 				{
-					8898, -- [1]
-					1470252147, -- [2]
+					3881, -- [1]
+					1469564960, -- [2]
 				}, -- [9]
+				{
+					3898, -- [1]
+					1469564960, -- [2]
+				}, -- [10]
+				{
+					3919, -- [1]
+					1469564960, -- [2]
+				}, -- [11]
+				{
+					3943, -- [1]
+					1469564960, -- [2]
+				}, -- [12]
+				{
+					3962, -- [1]
+					1469564960, -- [2]
+				}, -- [13]
+				{
+					4002, -- [1]
+					1469564960, -- [2]
+				}, -- [14]
+				{
+					4025, -- [1]
+					1469564960, -- [2]
+				}, -- [15]
+				{
+					4043, -- [1]
+					1469564960, -- [2]
+				}, -- [16]
+				{
+					4082, -- [1]
+					1469564960, -- [2]
+				}, -- [17]
+				{
+					4105, -- [1]
+					1469564960, -- [2]
+				}, -- [18]
+				{
+					4281, -- [1]
+					1469565255, -- [2]
+				}, -- [19]
+				{
+					4303, -- [1]
+					1469565255, -- [2]
+				}, -- [20]
+				{
+					4320, -- [1]
+					1469565255, -- [2]
+				}, -- [21]
+				{
+					4340, -- [1]
+					1469565255, -- [2]
+				}, -- [22]
+				{
+					4365, -- [1]
+					1469565255, -- [2]
+				}, -- [23]
+				{
+					4383, -- [1]
+					1469565255, -- [2]
+				}, -- [24]
+				{
+					4602, -- [1]
+					1469565781, -- [2]
+				}, -- [25]
+				{
+					4624, -- [1]
+					1469565781, -- [2]
+				}, -- [26]
+				{
+					4641, -- [1]
+					1469565781, -- [2]
+				}, -- [27]
+				{
+					4662, -- [1]
+					1469565781, -- [2]
+				}, -- [28]
+				{
+					4686, -- [1]
+					1469565781, -- [2]
+				}, -- [29]
+				{
+					4704, -- [1]
+					1469565781, -- [2]
+				}, -- [30]
+				{
+					4744, -- [1]
+					1469565781, -- [2]
+				}, -- [31]
+				{
+					4767, -- [1]
+					1469565781, -- [2]
+				}, -- [32]
+				{
+					4786, -- [1]
+					1469565781, -- [2]
+				}, -- [33]
+				{
+					4824, -- [1]
+					1469565781, -- [2]
+				}, -- [34]
+				{
+					4847, -- [1]
+					1469565781, -- [2]
+				}, -- [35]
+				{
+					4866, -- [1]
+					1469565781, -- [2]
+				}, -- [36]
+				{
+					4906, -- [1]
+					1469565781, -- [2]
+				}, -- [37]
+				{
+					4937, -- [1]
+					1469565781, -- [2]
+				}, -- [38]
+				{
+					5190, -- [1]
+					1469566228, -- [2]
+				}, -- [39]
+				{
+					5212, -- [1]
+					1469566228, -- [2]
+				}, -- [40]
+				{
+					5229, -- [1]
+					1469566228, -- [2]
+				}, -- [41]
+				{
+					5250, -- [1]
+					1469566228, -- [2]
+				}, -- [42]
+				{
+					5274, -- [1]
+					1469566228, -- [2]
+				}, -- [43]
+				{
+					5292, -- [1]
+					1469566228, -- [2]
+				}, -- [44]
+				{
+					5373, -- [1]
+					1469566228, -- [2]
+				}, -- [45]
+				{
+					2515, -- [1]
+					1470773323, -- [2]
+				}, -- [46]
+				{
+					2537, -- [1]
+					1470773323, -- [2]
+				}, -- [47]
+				{
+					2554, -- [1]
+					1470773323, -- [2]
+				}, -- [48]
+				{
+					2574, -- [1]
+					1470773323, -- [2]
+				}, -- [49]
+				{
+					2599, -- [1]
+					1470773323, -- [2]
+				}, -- [50]
+				{
+					2617, -- [1]
+					1470773323, -- [2]
+				}, -- [51]
+				{
+					2657, -- [1]
+					1470773323, -- [2]
+				}, -- [52]
+				{
+					2680, -- [1]
+					1470773323, -- [2]
+				}, -- [53]
+				{
+					2698, -- [1]
+					1470773323, -- [2]
+				}, -- [54]
 			},
 		},
 		["ids"] = {
 			["Blood Splatter"] = 188864,
-			["Savage Strikes"] = 180163,
+			["Lunar Strike"] = 194153,
+			["Regrowth"] = 8936,
 			["Blood Pact"] = 180178,
-			["Rending Howl"] = 183917,
+			["Vivify"] = 116670,
+			["Fel Flames"] = 180570,
+			["Renewing Mist"] = 115151,
 			["Death Throes"] = 180224,
-			["Heart Seeker"] = 180389,
+			["Lifebloom"] = 33763,
 			["Fel Blood Surge"] = 180143,
 			["Death's Door"] = 184551,
+			["Rejuvenation"] = 774,
+			["Dash"] = 1850,
+			["Blood Surge"] = 180127,
+			["Soothing Mist"] = 115175,
+			["Heart Seeker"] = 180389,
+			["Shadowy Apparition"] = 147193,
+			["Mind Blast"] = 8092,
+			["Void Eruption"] = 228260,
+			["Savage Strikes"] = 180163,
+			["Shadow Word: Pain"] = 589,
+			["Shadow Word: Death"] = 199911,
+			["Starsurge"] = 78674,
+			["Chi Torpedo"] = 115008,
 			["Vision of Death"] = 182428,
-			["Fel Claws"] = 182153,
 			["Fel Rupture"] = 180243,
+			["Fel Claws"] = 182153,
+			["Displacer Beast"] = 102280,
+			["Sunfire"] = 93402,
+			["Rending Howl"] = 183917,
 			["Shred Armor"] = 180199,
 		},
 	},
-	["143815"] = {
+	["139115"] = {
 		["deaths"] = {
-			[73] = {
-				1470768248, -- [1]
+			[118] = {
+				1471375992, -- [1]
 			},
-			[48] = {
-				1470768248, -- [1]
+			[143] = {
+				1471375992, -- [1]
 			},
-			[70] = {
-				1470768248, -- [1]
+			[33] = {
+				1470776127, -- [1]
 			},
-			[4] = {
-				1472417922, -- [1]
+			[105] = {
+				1470777024, -- [1]
+				1470777024, -- [2]
+				1470777990, -- [3]
+			},
+			[117] = {
+				1470777676, -- [1]
+				1470777676, -- [2]
+			},
+			[101] = {
+				1470776370, -- [1]
+				1470776370, -- [2]
+				1470776370, -- [3]
+				1470776370, -- [4]
+				1470776370, -- [5]
+				1470777327, -- [6]
+				1470777327, -- [7]
+			},
+			[37] = {
+				1470777024, -- [1]
+				1470777327, -- [2]
+			},
+			[38] = {
+				1470776127, -- [1]
+			},
+			[107] = {
+				1470777990, -- [1]
+				1470777990, -- [2]
+			},
+			[109] = {
+				1470777990, -- [1]
+			},
+			[156] = {
+				1471375628, -- [1]
+			},
+			[113] = {
+				1470777990, -- [1]
+			},
+			[115] = {
+				1470777676, -- [1]
+			},
+			[44] = {
+				1470777024, -- [1]
+			},
+			[172] = {
+				1471375992, -- [1]
+			},
+			[46] = {
+				1470776127, -- [1]
+			},
+			[92] = {
+				1470777024, -- [1]
+			},
+			[144] = {
+				1470777676, -- [1]
+			},
+			[49] = {
+				1470776127, -- [1]
+				1470776127, -- [2]
+			},
+			[103] = {
+				1470776701, -- [1]
+				1470776701, -- [2]
+				1470777327, -- [3]
+			},
+			[102] = {
+				1470776701, -- [1]
+				1470776701, -- [2]
+				1470777327, -- [3]
+			},
+			[138] = {
+				1471375628, -- [1]
 			},
 			[142] = {
-				1472417922, -- [1]
+				1471375628, -- [1]
 			},
-			[203] = {
-				1470769794, -- [1]
+			[106] = {
+				1470777676, -- [1]
 			},
-			[166] = {
-				1470769794, -- [1]
+			[108] = {
+				1470776701, -- [1]
 			},
-			[197] = {
-				1470769273, -- [1]
-				1470769273, -- [2]
+			[176] = {
+				1471375628, -- [1]
+				1471375628, -- [2]
 			},
-			[182] = {
-				1470769273, -- [1]
-				1470769273, -- [2]
-				1470769273, -- [3]
+			[170] = {
+				1471375992, -- [1]
 			},
-			[99] = {
-				1470768248, -- [1]
-			},
-			[25] = {
-				1470768248, -- [1]
+			[174] = {
+				1471375992, -- [1]
 			},
 		},
 		["spells"] = {
-			["Wrought Chaos"] = {
+			["Seed of Destruction"] = {
 				{
-					136, -- [1]
-					1470768248, -- [2]
+					5514, -- [1]
+					1470776127, -- [2]
 				}, -- [1]
 				{
-					1027, -- [1]
-					1470769273, -- [2]
+					5727, -- [1]
+					1470776370, -- [2]
 				}, -- [2]
 				{
-					1080, -- [1]
-					1470769273, -- [2]
+					5742, -- [1]
+					1470776370, -- [2]
 				}, -- [3]
 				{
-					1133, -- [1]
-					1470769273, -- [2]
+					6041, -- [1]
+					1470776701, -- [2]
 				}, -- [4]
 				{
-					1535, -- [1]
-					1470769794, -- [2]
+					6055, -- [1]
+					1470776701, -- [2]
 				}, -- [5]
 				{
-					1587, -- [1]
-					1470769794, -- [2]
+					6084, -- [1]
+					1470776701, -- [2]
 				}, -- [6]
 				{
-					1639, -- [1]
-					1470769794, -- [2]
+					6365, -- [1]
+					1470777024, -- [2]
 				}, -- [7]
 				{
-					1691, -- [1]
-					1470769794, -- [2]
+					6380, -- [1]
+					1470777024, -- [2]
 				}, -- [8]
 				{
-					537, -- [1]
-					1472417922, -- [2]
+					6658, -- [1]
+					1470777327, -- [2]
 				}, -- [9]
 				{
-					608, -- [1]
-					1472417922, -- [2]
-				}, -- [10]
-			},
-			["Desecration"] = {
-				{
-					50, -- [1]
-					1470768248, -- [2]
-				}, -- [1]
-				{
-					50, -- [1]
-					1470768248, -- [2]
-				}, -- [2]
-				{
-					52, -- [1]
-					1470768248, -- [2]
-				}, -- [3]
-				{
-					52, -- [1]
-					1470768248, -- [2]
-				}, -- [4]
-				{
-					76, -- [1]
-					1470768248, -- [2]
-				}, -- [5]
-				{
-					76, -- [1]
-					1470768248, -- [2]
-				}, -- [6]
-				{
-					79, -- [1]
-					1470768248, -- [2]
-				}, -- [7]
-				{
-					79, -- [1]
-					1470768248, -- [2]
-				}, -- [8]
-				{
-					109, -- [1]
-					1470768248, -- [2]
-				}, -- [9]
-				{
-					109, -- [1]
-					1470768248, -- [2]
+					6673, -- [1]
+					1470777327, -- [2]
 				}, -- [10]
 				{
-					112, -- [1]
-					1470768248, -- [2]
+					6995, -- [1]
+					1470777676, -- [2]
 				}, -- [11]
 				{
-					112, -- [1]
-					1470768248, -- [2]
+					7010, -- [1]
+					1470777676, -- [2]
 				}, -- [12]
 				{
-					998, -- [1]
-					1470769273, -- [2]
+					7040, -- [1]
+					1470777676, -- [2]
 				}, -- [13]
 				{
-					998, -- [1]
-					1470769273, -- [2]
+					7317, -- [1]
+					1470777990, -- [2]
 				}, -- [14]
 				{
-					1001, -- [1]
-					1470769273, -- [2]
+					7331, -- [1]
+					1470777990, -- [2]
 				}, -- [15]
 				{
-					1001, -- [1]
-					1470769273, -- [2]
+					7365, -- [1]
+					1470777990, -- [2]
 				}, -- [16]
 				{
-					1515, -- [1]
-					1470769794, -- [2]
+					284, -- [1]
+					1471375628, -- [2]
 				}, -- [17]
 				{
-					1515, -- [1]
-					1470769794, -- [2]
+					299, -- [1]
+					1471375628, -- [2]
 				}, -- [18]
 				{
-					1518, -- [1]
-					1470769794, -- [2]
+					360, -- [1]
+					1471375628, -- [2]
 				}, -- [19]
 				{
-					1518, -- [1]
-					1470769794, -- [2]
+					643, -- [1]
+					1471375992, -- [2]
 				}, -- [20]
 				{
-					520, -- [1]
-					1472417922, -- [2]
+					658, -- [1]
+					1471375992, -- [2]
 				}, -- [21]
 				{
-					520, -- [1]
-					1472417922, -- [2]
+					711, -- [1]
+					1471375992, -- [2]
 				}, -- [22]
-				{
-					523, -- [1]
-					1472417922, -- [2]
-				}, -- [23]
-				{
-					523, -- [1]
-					1472417922, -- [2]
-				}, -- [24]
 			},
-			["Heart of Argus"] = {
+			["Foul"] = {
 				{
-					1052, -- [1]
-					1470769273, -- [2]
+					5435, -- [1]
+					1470776127, -- [2]
 				}, -- [1]
 				{
-					1558, -- [1]
-					1470769794, -- [2]
+					5475, -- [1]
+					1470776127, -- [2]
 				}, -- [2]
 				{
-					555, -- [1]
-					1472417922, -- [2]
-				}, -- [3]
-			},
-			["Devour Life"] = {
-				{
-					1128, -- [1]
-					1470769273, -- [2]
-				}, -- [1]
-				{
-					1147, -- [1]
-					1470769273, -- [2]
-				}, -- [2]
-				{
-					1166, -- [1]
-					1470769273, -- [2]
+					5648, -- [1]
+					1470776370, -- [2]
 				}, -- [3]
 				{
-					1655, -- [1]
-					1470769794, -- [2]
+					5688, -- [1]
+					1470776370, -- [2]
 				}, -- [4]
 				{
-					1675, -- [1]
-					1470769794, -- [2]
+					5961, -- [1]
+					1470776701, -- [2]
 				}, -- [5]
 				{
-					1695, -- [1]
-					1470769794, -- [2]
+					6002, -- [1]
+					1470776701, -- [2]
 				}, -- [6]
 				{
-					1698, -- [1]
-					1470769794, -- [2]
-				}, -- [7]
-			},
-			["Flames of Argus"] = {
-				{
-					559, -- [1]
-					1472417922, -- [2]
-				}, -- [1]
-				{
-					562, -- [1]
-					1472417922, -- [2]
-				}, -- [2]
-			},
-			["Death Brand"] = {
-				{
-					18, -- [1]
-					1470768248, -- [2]
-				}, -- [1]
-				{
-					65, -- [1]
-					1470768248, -- [2]
-				}, -- [2]
-				{
-					117, -- [1]
-					1470768248, -- [2]
-				}, -- [3]
-				{
-					993, -- [1]
-					1470769273, -- [2]
-				}, -- [4]
-				{
-					1058, -- [1]
-					1470769273, -- [2]
-				}, -- [5]
-				{
-					1510, -- [1]
-					1470769794, -- [2]
-				}, -- [6]
-				{
-					1565, -- [1]
-					1470769794, -- [2]
+					6075, -- [1]
+					1470776701, -- [2]
 				}, -- [7]
 				{
-					528, -- [1]
-					1472417922, -- [2]
+					6286, -- [1]
+					1470777024, -- [2]
 				}, -- [8]
 				{
-					571, -- [1]
-					1472417922, -- [2]
-				}, -- [9]
-			},
-			["Desecrate"] = {
-				{
-					50, -- [1]
-					1470768248, -- [2]
-				}, -- [1]
-				{
-					76, -- [1]
-					1470768248, -- [2]
-				}, -- [2]
-				{
-					109, -- [1]
-					1470768248, -- [2]
-				}, -- [3]
-				{
-					998, -- [1]
-					1470769273, -- [2]
-				}, -- [4]
-				{
-					1515, -- [1]
-					1470769794, -- [2]
-				}, -- [5]
-				{
-					520, -- [1]
-					1472417922, -- [2]
-				}, -- [6]
-			},
-			["Shackled Torment"] = {
-				{
-					155, -- [1]
-					1470768248, -- [2]
-				}, -- [1]
-				{
-					1047, -- [1]
-					1470769273, -- [2]
-				}, -- [2]
-				{
-					1087, -- [1]
-					1470769273, -- [2]
-				}, -- [3]
-				{
-					1145, -- [1]
-					1470769273, -- [2]
-				}, -- [4]
-				{
-					1177, -- [1]
-					1470769273, -- [2]
-				}, -- [5]
-				{
-					1554, -- [1]
-					1470769794, -- [2]
-				}, -- [6]
-				{
-					1594, -- [1]
-					1470769794, -- [2]
-				}, -- [7]
-				{
-					1652, -- [1]
-					1470769794, -- [2]
-				}, -- [8]
-				{
-					1684, -- [1]
-					1470769794, -- [2]
+					6326, -- [1]
+					1470777024, -- [2]
 				}, -- [9]
 				{
-					557, -- [1]
-					1472417922, -- [2]
+					6406, -- [1]
+					1470777024, -- [2]
 				}, -- [10]
 				{
-					638, -- [1]
-					1472417922, -- [2]
-				}, -- [11]
-			},
-			["Shadow Blast"] = {
-				{
-					21, -- [1]
-					1470768248, -- [2]
-				}, -- [1]
-				{
-					31, -- [1]
-					1470768248, -- [2]
-				}, -- [2]
-				{
-					68, -- [1]
-					1470768248, -- [2]
-				}, -- [3]
-				{
-					78, -- [1]
-					1470768248, -- [2]
-				}, -- [4]
-				{
-					88, -- [1]
-					1470768248, -- [2]
-				}, -- [5]
-				{
-					997, -- [1]
-					1470769273, -- [2]
-				}, -- [6]
-				{
-					1006, -- [1]
-					1470769273, -- [2]
-				}, -- [7]
-				{
-					1061, -- [1]
-					1470769273, -- [2]
-				}, -- [8]
-				{
-					1071, -- [1]
-					1470769273, -- [2]
-				}, -- [9]
-				{
-					1514, -- [1]
-					1470769794, -- [2]
-				}, -- [10]
-				{
-					1523, -- [1]
-					1470769794, -- [2]
+					6579, -- [1]
+					1470777327, -- [2]
 				}, -- [11]
 				{
-					1568, -- [1]
-					1470769794, -- [2]
+					6619, -- [1]
+					1470777327, -- [2]
 				}, -- [12]
 				{
-					1578, -- [1]
-					1470769794, -- [2]
+					6699, -- [1]
+					1470777327, -- [2]
 				}, -- [13]
 				{
-					532, -- [1]
-					1472417922, -- [2]
+					6916, -- [1]
+					1470777676, -- [2]
 				}, -- [14]
 				{
-					542, -- [1]
-					1472417922, -- [2]
+					6956, -- [1]
+					1470777676, -- [2]
 				}, -- [15]
 				{
-					575, -- [1]
-					1472417922, -- [2]
+					7031, -- [1]
+					1470777676, -- [2]
 				}, -- [16]
 				{
-					584, -- [1]
-					1472417922, -- [2]
-				}, -- [17]
-			},
-			["Doomfire"] = {
-				{
-					7, -- [1]
-					1470768248, -- [2]
-				}, -- [1]
-				{
-					57, -- [1]
-					1470768248, -- [2]
-				}, -- [2]
-				{
-					102, -- [1]
-					1470768248, -- [2]
-				}, -- [3]
-				{
-					982, -- [1]
-					1470769273, -- [2]
-				}, -- [4]
-				{
-					1499, -- [1]
-					1470769794, -- [2]
-				}, -- [5]
-				{
-					512, -- [1]
-					1472417922, -- [2]
-				}, -- [6]
-			},
-			["Eternal Flame"] = {
-				{
-					1137, -- [1]
-					1470769273, -- [2]
-				}, -- [1]
-				{
-					1141, -- [1]
-					1470769273, -- [2]
-				}, -- [2]
-				{
-					1145, -- [1]
-					1470769273, -- [2]
-				}, -- [3]
-				{
-					1648, -- [1]
-					1470769794, -- [2]
-				}, -- [4]
-				{
-					1652, -- [1]
-					1470769794, -- [2]
-				}, -- [5]
-				{
-					1656, -- [1]
-					1470769794, -- [2]
-				}, -- [6]
-				{
-					625, -- [1]
-					1472417922, -- [2]
-				}, -- [7]
-				{
-					629, -- [1]
-					1472417922, -- [2]
-				}, -- [8]
-				{
-					633, -- [1]
-					1472417922, -- [2]
-				}, -- [9]
-			},
-			["Nether Banish"] = {
-				{
-					1100, -- [1]
-					1470769273, -- [2]
-				}, -- [1]
-				{
-					1162, -- [1]
-					1470769273, -- [2]
-				}, -- [2]
-				{
-					1608, -- [1]
-					1470769794, -- [2]
-				}, -- [3]
-				{
-					1669, -- [1]
-					1470769794, -- [2]
-				}, -- [4]
-				{
-					593, -- [1]
-					1472417922, -- [2]
-				}, -- [5]
-			},
-			["Rain of Chaos"] = {
-				{
-					1131, -- [1]
-					1470769273, -- [2]
-				}, -- [1]
-				{
-					1131, -- [1]
-					1470769273, -- [2]
-				}, -- [2]
-				{
-					1134, -- [1]
-					1470769273, -- [2]
-				}, -- [3]
-				{
-					1135, -- [1]
-					1470769273, -- [2]
-				}, -- [4]
-				{
-					1136, -- [1]
-					1470769273, -- [2]
-				}, -- [5]
-				{
-					1138, -- [1]
-					1470769273, -- [2]
-				}, -- [6]
-				{
-					1139, -- [1]
-					1470769273, -- [2]
-				}, -- [7]
-				{
-					1140, -- [1]
-					1470769273, -- [2]
-				}, -- [8]
-				{
-					1141, -- [1]
-					1470769273, -- [2]
-				}, -- [9]
-				{
-					1142, -- [1]
-					1470769273, -- [2]
-				}, -- [10]
-				{
-					1642, -- [1]
-					1470769794, -- [2]
-				}, -- [11]
-				{
-					1643, -- [1]
-					1470769794, -- [2]
-				}, -- [12]
-				{
-					1644, -- [1]
-					1470769794, -- [2]
-				}, -- [13]
-				{
-					1645, -- [1]
-					1470769794, -- [2]
-				}, -- [14]
-				{
-					1646, -- [1]
-					1470769794, -- [2]
-				}, -- [15]
-				{
-					1647, -- [1]
-					1470769794, -- [2]
-				}, -- [16]
-				{
-					1648, -- [1]
-					1470769794, -- [2]
+					7237, -- [1]
+					1470777990, -- [2]
 				}, -- [17]
 				{
-					1649, -- [1]
-					1470769794, -- [2]
+					7278, -- [1]
+					1470777990, -- [2]
 				}, -- [18]
 				{
-					1653, -- [1]
-					1470769794, -- [2]
+					7357, -- [1]
+					1470777990, -- [2]
 				}, -- [19]
-				{
-					1705, -- [1]
-					1470769794, -- [2]
-				}, -- [20]
-				{
-					619, -- [1]
-					1472417922, -- [2]
-				}, -- [21]
-				{
-					619, -- [1]
-					1472417922, -- [2]
-				}, -- [22]
-				{
-					620, -- [1]
-					1472417922, -- [2]
-				}, -- [23]
-				{
-					622, -- [1]
-					1472417922, -- [2]
-				}, -- [24]
-				{
-					624, -- [1]
-					1472417922, -- [2]
-				}, -- [25]
-				{
-					625, -- [1]
-					1472417922, -- [2]
-				}, -- [26]
-				{
-					626, -- [1]
-					1472417922, -- [2]
-				}, -- [27]
-				{
-					627, -- [1]
-					1472417922, -- [2]
-				}, -- [28]
-				{
-					628, -- [1]
-					1472417922, -- [2]
-				}, -- [29]
-				{
-					629, -- [1]
-					1472417922, -- [2]
-				}, -- [30]
-				{
-					631, -- [1]
-					1472417922, -- [2]
-				}, -- [31]
-			},
-			["Demonic Feedback"] = {
-				{
-					1120, -- [1]
-					1470769273, -- [2]
-				}, -- [1]
-				{
-					1157, -- [1]
-					1470769273, -- [2]
-				}, -- [2]
-				{
-					1627, -- [1]
-					1470769794, -- [2]
-				}, -- [3]
-				{
-					1665, -- [1]
-					1470769794, -- [2]
-				}, -- [4]
-				{
-					1702, -- [1]
-					1470769794, -- [2]
-				}, -- [5]
-				{
-					615, -- [1]
-					1472417922, -- [2]
-				}, -- [6]
-			},
-			["Shadowfel Burst"] = {
-				{
-					43, -- [1]
-					1470768248, -- [2]
-				}, -- [1]
-				{
-					43, -- [1]
-					1470768248, -- [2]
-				}, -- [2]
-				{
-					95, -- [1]
-					1470768248, -- [2]
-				}, -- [3]
-				{
-					95, -- [1]
-					1470768248, -- [2]
-				}, -- [4]
-				{
-					1018, -- [1]
-					1470769273, -- [2]
-				}, -- [5]
-				{
-					1018, -- [1]
-					1470769273, -- [2]
-				}, -- [6]
-			},
-			["Consume Magic"] = {
-				{
-					1061, -- [1]
-					1470769273, -- [2]
-				}, -- [1]
-				{
-					1062, -- [1]
-					1470769273, -- [2]
-				}, -- [2]
-				{
-					1074, -- [1]
-					1470769273, -- [2]
-				}, -- [3]
-				{
-					1091, -- [1]
-					1470769273, -- [2]
-				}, -- [4]
-				{
-					1092, -- [1]
-					1470769273, -- [2]
-				}, -- [5]
-				{
-					1093, -- [1]
-					1470769273, -- [2]
-				}, -- [6]
-				{
-					1100, -- [1]
-					1470769273, -- [2]
-				}, -- [7]
-				{
-					1103, -- [1]
-					1470769273, -- [2]
-				}, -- [8]
-				{
-					1104, -- [1]
-					1470769273, -- [2]
-				}, -- [9]
-				{
-					1565, -- [1]
-					1470769794, -- [2]
-				}, -- [10]
-				{
-					1567, -- [1]
-					1470769794, -- [2]
-				}, -- [11]
-				{
-					1568, -- [1]
-					1470769794, -- [2]
-				}, -- [12]
-				{
-					1596, -- [1]
-					1470769794, -- [2]
-				}, -- [13]
-				{
-					1597, -- [1]
-					1470769794, -- [2]
-				}, -- [14]
-				{
-					1606, -- [1]
-					1470769794, -- [2]
-				}, -- [15]
-				{
-					1608, -- [1]
-					1470769794, -- [2]
-				}, -- [16]
-			},
-			["Allure of Flames"] = {
-				{
-					32, -- [1]
-					1470768248, -- [2]
-				}, -- [1]
-				{
-					85, -- [1]
-					1470768248, -- [2]
-				}, -- [2]
-				{
-					1008, -- [1]
-					1470769273, -- [2]
-				}, -- [3]
-				{
-					1064, -- [1]
-					1470769273, -- [2]
-				}, -- [4]
-				{
-					1526, -- [1]
-					1470769794, -- [2]
-				}, -- [5]
-				{
-					1575, -- [1]
-					1470769794, -- [2]
-				}, -- [6]
-				{
-					577, -- [1]
-					1472417922, -- [2]
-				}, -- [7]
-			},
-		},
-		["ids"] = {
-			["Wrought Chaos"] = 184265,
-			["Desecration"] = 188614,
-			["Heart of Argus"] = 186662,
-			["Devour Life"] = 187047,
-			["Flames of Argus"] = 186663,
-			["Death Brand"] = 183828,
-			["Desecrate"] = 185590,
-			["Shackled Torment"] = 184931,
-			["Shadow Blast"] = 183864,
-			["Doomfire"] = 189897,
-			["Eternal Flame"] = 187053,
-			["Nether Banish"] = 186961,
-			["Rain of Chaos"] = 187107,
-			["Demonic Feedback"] = 187180,
-			["Shadowfel Burst"] = 183817,
-			["Consume Magic"] = 186562,
-			["Allure of Flames"] = 183254,
-		},
-	},
-	["139514"] = {
-		["deaths"] = {
-			[48] = {
-				1469205248, -- [1]
-			},
-		},
-		["spells"] = {
-			["Fel Blast"] = {
-				{
-					16, -- [1]
-					1469205248, -- [2]
-				}, -- [1]
-				{
-					16, -- [1]
-					1469205248, -- [2]
-				}, -- [2]
-				{
-					19, -- [1]
-					1469205248, -- [2]
-				}, -- [3]
-				{
-					19, -- [1]
-					1469205248, -- [2]
-				}, -- [4]
-				{
-					21, -- [1]
-					1469205248, -- [2]
-				}, -- [5]
-				{
-					22, -- [1]
-					1469205248, -- [2]
-				}, -- [6]
-				{
-					24, -- [1]
-					1469205248, -- [2]
-				}, -- [7]
-				{
-					24, -- [1]
-					1469205248, -- [2]
-				}, -- [8]
-				{
-					26, -- [1]
-					1469205248, -- [2]
-				}, -- [9]
-				{
-					26, -- [1]
-					1469205248, -- [2]
-				}, -- [10]
-				{
-					29, -- [1]
-					1469205248, -- [2]
-				}, -- [11]
-				{
-					29, -- [1]
-					1469205248, -- [2]
-				}, -- [12]
-				{
-					31, -- [1]
-					1469205248, -- [2]
-				}, -- [13]
-				{
-					31, -- [1]
-					1469205248, -- [2]
-				}, -- [14]
-				{
-					34, -- [1]
-					1469205248, -- [2]
-				}, -- [15]
-				{
-					34, -- [1]
-					1469205248, -- [2]
-				}, -- [16]
-				{
-					37, -- [1]
-					1469205248, -- [2]
-				}, -- [17]
-				{
-					37, -- [1]
-					1469205248, -- [2]
-				}, -- [18]
-				{
-					40, -- [1]
-					1469205248, -- [2]
-				}, -- [19]
-				{
-					40, -- [1]
-					1469205248, -- [2]
-				}, -- [20]
-				{
-					42, -- [1]
-					1469205248, -- [2]
-				}, -- [21]
-				{
-					43, -- [1]
-					1469205248, -- [2]
-				}, -- [22]
-				{
-					45, -- [1]
-					1469205248, -- [2]
-				}, -- [23]
-				{
-					45, -- [1]
-					1469205248, -- [2]
-				}, -- [24]
-				{
-					47, -- [1]
-					1469205248, -- [2]
-				}, -- [25]
-				{
-					47, -- [1]
-					1469205248, -- [2]
-				}, -- [26]
-			},
-			["Curse of the Legion"] = {
-				{
-					5, -- [1]
-					1469205248, -- [2]
-				}, -- [1]
-			},
-			["Fel Hellfire"] = {
-				{
-					21, -- [1]
-					1469205248, -- [2]
-				}, -- [1]
-				{
-					22, -- [1]
-					1469205248, -- [2]
-				}, -- [2]
-				{
-					23, -- [1]
-					1469205248, -- [2]
-				}, -- [3]
-				{
-					24, -- [1]
-					1469205248, -- [2]
-				}, -- [4]
-				{
-					25, -- [1]
-					1469205248, -- [2]
-				}, -- [5]
-				{
-					26, -- [1]
-					1469205248, -- [2]
-				}, -- [6]
-				{
-					27, -- [1]
-					1469205248, -- [2]
-				}, -- [7]
-				{
-					28, -- [1]
-					1469205248, -- [2]
-				}, -- [8]
-				{
-					29, -- [1]
-					1469205248, -- [2]
-				}, -- [9]
-				{
-					30, -- [1]
-					1469205248, -- [2]
-				}, -- [10]
-				{
-					31, -- [1]
-					1469205248, -- [2]
-				}, -- [11]
-				{
-					32, -- [1]
-					1469205248, -- [2]
-				}, -- [12]
-				{
-					33, -- [1]
-					1469205248, -- [2]
-				}, -- [13]
-				{
-					34, -- [1]
-					1469205248, -- [2]
-				}, -- [14]
-				{
-					35, -- [1]
-					1469205248, -- [2]
-				}, -- [15]
-				{
-					36, -- [1]
-					1469205248, -- [2]
-				}, -- [16]
-				{
-					37, -- [1]
-					1469205248, -- [2]
-				}, -- [17]
-				{
-					38, -- [1]
-					1469205248, -- [2]
-				}, -- [18]
-				{
-					47, -- [1]
-					1469205248, -- [2]
-				}, -- [19]
-			},
-			["Shadow Bolt Volley"] = {
-				{
-					32, -- [1]
-					1469205248, -- [2]
-				}, -- [1]
-				{
-					46, -- [1]
-					1469205248, -- [2]
-				}, -- [2]
-			},
-			["Fel Streak"] = {
-				{
-					42, -- [1]
-					1469205248, -- [2]
-				}, -- [1]
-				{
-					43, -- [1]
-					1469205248, -- [2]
-				}, -- [2]
-			},
-			["Mark of Doom"] = {
-				{
-					39, -- [1]
-					1469205248, -- [2]
-				}, -- [1]
-			},
-		},
-		["ids"] = {
-			["Fel Blast"] = 181134,
-			["Curse of the Legion"] = 181275,
-			["Fel Hellfire"] = 181192,
-			["Shadow Bolt Volley"] = 181126,
-			["Fel Streak"] = 181193,
-			["Mark of Doom"] = 181099,
-		},
-	},
-	["142616"] = {
-		["deaths"] = {
-			[410] = {
-				1469127762, -- [1]
-			},
-			[407] = {
-				1469127762, -- [1]
-			},
-			[152] = {
-				1469649661, -- [1]
-			},
-			[149] = {
-				1469649661, -- [1]
-			},
-			[160] = {
-				1469649661, -- [1]
-			},
-			[415] = {
-				1469649661, -- [1]
-			},
-			[405] = {
-				1469127762, -- [1]
-			},
-		},
-		["spells"] = {
-			["Repair"] = {
-				{
-					2243, -- [1]
-					1469127762, -- [2]
-				}, -- [1]
-				{
-					2499, -- [1]
-					1469127762, -- [2]
-				}, -- [2]
-				{
-					2501, -- [1]
-					1469127762, -- [2]
-				}, -- [3]
-				{
-					2509, -- [1]
-					1469127762, -- [2]
-				}, -- [4]
-				{
-					2398, -- [1]
-					1469649661, -- [2]
-				}, -- [5]
-				{
-					2400, -- [1]
-					1469649661, -- [2]
-				}, -- [6]
-				{
-					2641, -- [1]
-					1469649661, -- [2]
-				}, -- [7]
-				{
-					2643, -- [1]
-					1469649661, -- [2]
-				}, -- [8]
-				{
-					2644, -- [1]
-					1469649661, -- [2]
-				}, -- [9]
-				{
-					2646, -- [1]
-					1469649661, -- [2]
-				}, -- [10]
-				{
-					2648, -- [1]
-					1469649661, -- [2]
-				}, -- [11]
-				{
-					2656, -- [1]
-					1469649661, -- [2]
-				}, -- [12]
-				{
-					2660, -- [1]
-					1469649661, -- [2]
-				}, -- [13]
-				{
-					2661, -- [1]
-					1469649661, -- [2]
-				}, -- [14]
-				{
-					2666, -- [1]
-					1469649661, -- [2]
-				}, -- [15]
-			},
-			["Slam"] = {
-				{
-					2147, -- [1]
-					1469127762, -- [2]
-				}, -- [1]
-				{
-					2200, -- [1]
-					1469127762, -- [2]
-				}, -- [2]
-				{
-					2209, -- [1]
-					1469127762, -- [2]
-				}, -- [3]
-				{
-					2210, -- [1]
-					1469127762, -- [2]
-				}, -- [4]
-				{
-					2219, -- [1]
-					1469127762, -- [2]
-				}, -- [5]
-				{
-					2249, -- [1]
-					1469127762, -- [2]
-				}, -- [6]
-				{
-					2252, -- [1]
-					1469127762, -- [2]
-				}, -- [7]
-				{
-					2258, -- [1]
-					1469127762, -- [2]
-				}, -- [8]
-				{
-					2260, -- [1]
-					1469127762, -- [2]
-				}, -- [9]
-				{
-					2310, -- [1]
-					1469127762, -- [2]
-				}, -- [10]
-				{
-					2330, -- [1]
-					1469127762, -- [2]
-				}, -- [11]
-				{
-					2403, -- [1]
-					1469127762, -- [2]
-				}, -- [12]
-				{
-					2411, -- [1]
-					1469127762, -- [2]
-				}, -- [13]
-				{
-					2438, -- [1]
-					1469127762, -- [2]
-				}, -- [14]
-				{
-					2446, -- [1]
-					1469127762, -- [2]
-				}, -- [15]
-				{
-					2491, -- [1]
-					1469127762, -- [2]
-				}, -- [16]
-				{
-					2497, -- [1]
-					1469127762, -- [2]
-				}, -- [17]
-				{
-					2499, -- [1]
-					1469127762, -- [2]
-				}, -- [18]
-				{
-					2506, -- [1]
-					1469127762, -- [2]
-				}, -- [19]
-				{
-					2508, -- [1]
-					1469127762, -- [2]
-				}, -- [20]
-				{
-					2512, -- [1]
-					1469127762, -- [2]
-				}, -- [21]
-				{
-					2514, -- [1]
-					1469127762, -- [2]
-				}, -- [22]
-				{
-					2516, -- [1]
-					1469127762, -- [2]
-				}, -- [23]
-				{
-					2518, -- [1]
-					1469127762, -- [2]
-				}, -- [24]
-				{
-					2520, -- [1]
-					1469127762, -- [2]
-				}, -- [25]
-				{
-					2525, -- [1]
-					1469127762, -- [2]
-				}, -- [26]
-				{
-					2526, -- [1]
-					1469127762, -- [2]
-				}, -- [27]
-				{
-					2305, -- [1]
-					1469649661, -- [2]
-				}, -- [28]
-				{
-					2359, -- [1]
-					1469649661, -- [2]
-				}, -- [29]
-				{
-					2366, -- [1]
-					1469649661, -- [2]
-				}, -- [30]
-				{
-					2375, -- [1]
-					1469649661, -- [2]
-				}, -- [31]
-				{
-					2407, -- [1]
-					1469649661, -- [2]
-				}, -- [32]
-				{
-					2408, -- [1]
-					1469649661, -- [2]
-				}, -- [33]
-				{
-					2415, -- [1]
-					1469649661, -- [2]
-				}, -- [34]
-				{
-					2417, -- [1]
-					1469649661, -- [2]
-				}, -- [35]
-				{
-					2425, -- [1]
-					1469649661, -- [2]
-				}, -- [36]
-				{
-					2434, -- [1]
-					1469649661, -- [2]
-				}, -- [37]
-				{
-					2468, -- [1]
-					1469649661, -- [2]
-				}, -- [38]
-				{
-					2490, -- [1]
-					1469649661, -- [2]
-				}, -- [39]
-				{
-					2499, -- [1]
-					1469649661, -- [2]
-				}, -- [40]
-				{
-					2563, -- [1]
-					1469649661, -- [2]
-				}, -- [41]
-				{
-					2572, -- [1]
-					1469649661, -- [2]
-				}, -- [42]
-				{
-					2599, -- [1]
-					1469649661, -- [2]
-				}, -- [43]
-				{
-					2608, -- [1]
-					1469649661, -- [2]
-				}, -- [44]
-				{
-					2616, -- [1]
-					1469649661, -- [2]
-				}, -- [45]
-				{
-					2625, -- [1]
-					1469649661, -- [2]
-				}, -- [46]
-				{
-					2633, -- [1]
-					1469649661, -- [2]
-				}, -- [47]
-				{
-					2654, -- [1]
-					1469649661, -- [2]
-				}, -- [48]
-				{
-					2660, -- [1]
-					1469649661, -- [2]
-				}, -- [49]
-				{
-					2663, -- [1]
-					1469649661, -- [2]
-				}, -- [50]
-				{
-					2667, -- [1]
-					1469649661, -- [2]
-				}, -- [51]
-				{
-					2668, -- [1]
-					1469649661, -- [2]
-				}, -- [52]
-				{
-					2675, -- [1]
-					1469649661, -- [2]
-				}, -- [53]
-				{
-					2676, -- [1]
-					1469649661, -- [2]
-				}, -- [54]
-				{
-					2677, -- [1]
-					1469649661, -- [2]
-				}, -- [55]
-				{
-					2685, -- [1]
-					1469649661, -- [2]
-				}, -- [56]
-			},
-			["Felfire Volley"] = {
-				{
-					2207, -- [1]
-					1469127762, -- [2]
-				}, -- [1]
-				{
-					2208, -- [1]
-					1469127762, -- [2]
-				}, -- [2]
-				{
-					2210, -- [1]
-					1469127762, -- [2]
-				}, -- [3]
-				{
-					2445, -- [1]
-					1469127762, -- [2]
-				}, -- [4]
-				{
-					2446, -- [1]
-					1469127762, -- [2]
-				}, -- [5]
-				{
-					2449, -- [1]
-					1469127762, -- [2]
-				}, -- [6]
-				{
-					2450, -- [1]
-					1469127762, -- [2]
-				}, -- [7]
-				{
-					2451, -- [1]
-					1469127762, -- [2]
-				}, -- [8]
-				{
-					2452, -- [1]
-					1469127762, -- [2]
-				}, -- [9]
-				{
-					2502, -- [1]
-					1469127762, -- [2]
-				}, -- [10]
-				{
-					2507, -- [1]
-					1469127762, -- [2]
-				}, -- [11]
-				{
-					2508, -- [1]
-					1469127762, -- [2]
-				}, -- [12]
-				{
-					2509, -- [1]
-					1469127762, -- [2]
-				}, -- [13]
-				{
-					2511, -- [1]
-					1469127762, -- [2]
-				}, -- [14]
-				{
-					2512, -- [1]
-					1469127762, -- [2]
-				}, -- [15]
-				{
-					2527, -- [1]
-					1469127762, -- [2]
-				}, -- [16]
-				{
-					2585, -- [1]
-					1469649661, -- [2]
-				}, -- [17]
-				{
-					2586, -- [1]
-					1469649661, -- [2]
-				}, -- [18]
-				{
-					2587, -- [1]
-					1469649661, -- [2]
-				}, -- [19]
-				{
-					2607, -- [1]
-					1469649661, -- [2]
-				}, -- [20]
-				{
-					2611, -- [1]
-					1469649661, -- [2]
-				}, -- [21]
-				{
-					2664, -- [1]
-					1469649661, -- [2]
-				}, -- [22]
-				{
-					2665, -- [1]
-					1469649661, -- [2]
-				}, -- [23]
-				{
-					2679, -- [1]
-					1469649661, -- [2]
-				}, -- [24]
-				{
-					2683, -- [1]
-					1469649661, -- [2]
-				}, -- [25]
-				{
-					2685, -- [1]
-					1469649661, -- [2]
-				}, -- [26]
-			},
-			["Metamorphosis"] = {
-				{
-					2163, -- [1]
-					1469127762, -- [2]
-				}, -- [1]
-				{
-					2164, -- [1]
-					1469127762, -- [2]
-				}, -- [2]
-				{
-					2203, -- [1]
-					1469127762, -- [2]
-				}, -- [3]
-				{
-					2204, -- [1]
-					1469127762, -- [2]
-				}, -- [4]
-				{
-					2336, -- [1]
-					1469127762, -- [2]
-				}, -- [5]
-				{
-					2342, -- [1]
-					1469127762, -- [2]
-				}, -- [6]
-				{
-					2410, -- [1]
-					1469127762, -- [2]
-				}, -- [7]
-				{
-					2412, -- [1]
-					1469127762, -- [2]
-				}, -- [8]
-				{
-					2423, -- [1]
-					1469127762, -- [2]
-				}, -- [9]
-				{
-					2440, -- [1]
-					1469127762, -- [2]
-				}, -- [10]
-				{
-					2444, -- [1]
-					1469127762, -- [2]
-				}, -- [11]
-				{
-					2497, -- [1]
-					1469127762, -- [2]
-				}, -- [12]
-				{
-					2502, -- [1]
-					1469127762, -- [2]
-				}, -- [13]
-				{
-					2528, -- [1]
-					1469127762, -- [2]
-				}, -- [14]
-				{
-					2323, -- [1]
-					1469649661, -- [2]
-				}, -- [15]
-				{
-					2362, -- [1]
-					1469649661, -- [2]
-				}, -- [16]
-				{
-					2363, -- [1]
-					1469649661, -- [2]
-				}, -- [17]
-				{
-					2461, -- [1]
-					1469649661, -- [2]
-				}, -- [18]
-				{
-					2497, -- [1]
-					1469649661, -- [2]
-				}, -- [19]
-				{
-					2506, -- [1]
-					1469649661, -- [2]
-				}, -- [20]
-				{
-					2508, -- [1]
-					1469649661, -- [2]
-				}, -- [21]
-				{
-					2571, -- [1]
-					1469649661, -- [2]
-				}, -- [22]
-				{
-					2580, -- [1]
-					1469649661, -- [2]
-				}, -- [23]
-				{
-					2602, -- [1]
-					1469649661, -- [2]
-				}, -- [24]
-				{
-					2606, -- [1]
-					1469649661, -- [2]
-				}, -- [25]
-				{
-					2678, -- [1]
-					1469649661, -- [2]
-				}, -- [26]
-				{
-					2682, -- [1]
-					1469649661, -- [2]
-				}, -- [27]
-			},
-			["Howling Axe"] = {
-				{
-					2120, -- [1]
-					1469127762, -- [2]
-				}, -- [1]
-				{
-					2280, -- [1]
-					1469649661, -- [2]
-				}, -- [2]
-			},
-			["Conducted Shock Pulse"] = {
-				{
-					2256, -- [1]
-					1469127762, -- [2]
-				}, -- [1]
-				{
-					2416, -- [1]
-					1469127762, -- [2]
-				}, -- [2]
-				{
-					2512, -- [1]
-					1469127762, -- [2]
-				}, -- [3]
-				{
-					2411, -- [1]
-					1469649661, -- [2]
-				}, -- [4]
-				{
-					2497, -- [1]
-					1469649661, -- [2]
-				}, -- [5]
-				{
-					2579, -- [1]
-					1469649661, -- [2]
-				}, -- [6]
-				{
-					2642, -- [1]
-					1469649661, -- [2]
-				}, -- [7]
-				{
-					2646, -- [1]
-					1469649661, -- [2]
-				}, -- [8]
-				{
-					2658, -- [1]
-					1469649661, -- [2]
-				}, -- [9]
-				{
-					2671, -- [1]
-					1469649661, -- [2]
-				}, -- [10]
-			},
-			["Corruption Bolt"] = {
-				{
-					2456, -- [1]
-					1469649661, -- [2]
-				}, -- [1]
-			},
-			["Incinerate"] = {
-				{
-					2114, -- [1]
-					1469127762, -- [2]
-				}, -- [1]
-				{
-					2151, -- [1]
-					1469127762, -- [2]
-				}, -- [2]
-				{
-					2153, -- [1]
-					1469127762, -- [2]
-				}, -- [3]
-				{
-					2161, -- [1]
-					1469127762, -- [2]
-				}, -- [4]
-				{
-					2195, -- [1]
-					1469127762, -- [2]
-				}, -- [5]
-				{
-					2197, -- [1]
-					1469127762, -- [2]
-				}, -- [6]
-				{
-					2199, -- [1]
-					1469127762, -- [2]
-				}, -- [7]
-				{
-					2330, -- [1]
-					1469127762, -- [2]
-				}, -- [8]
-				{
-					2334, -- [1]
-					1469127762, -- [2]
-				}, -- [9]
-				{
-					2336, -- [1]
-					1469127762, -- [2]
-				}, -- [10]
-				{
-					2339, -- [1]
-					1469127762, -- [2]
-				}, -- [11]
-				{
-					2341, -- [1]
-					1469127762, -- [2]
-				}, -- [12]
-				{
-					2407, -- [1]
-					1469127762, -- [2]
-				}, -- [13]
-				{
-					2408, -- [1]
-					1469127762, -- [2]
-				}, -- [14]
-				{
-					2409, -- [1]
-					1469127762, -- [2]
-				}, -- [15]
-				{
-					2411, -- [1]
-					1469127762, -- [2]
-				}, -- [16]
-				{
-					2413, -- [1]
-					1469127762, -- [2]
-				}, -- [17]
-				{
-					2416, -- [1]
-					1469127762, -- [2]
-				}, -- [18]
-				{
-					2418, -- [1]
-					1469127762, -- [2]
-				}, -- [19]
-				{
-					2420, -- [1]
-					1469127762, -- [2]
-				}, -- [20]
-				{
-					2433, -- [1]
-					1469127762, -- [2]
-				}, -- [21]
-				{
-					2438, -- [1]
-					1469127762, -- [2]
-				}, -- [22]
-				{
-					2441, -- [1]
-					1469127762, -- [2]
-				}, -- [23]
-				{
-					2487, -- [1]
-					1469127762, -- [2]
-				}, -- [24]
-				{
-					2489, -- [1]
-					1469127762, -- [2]
-				}, -- [25]
-				{
-					2492, -- [1]
-					1469127762, -- [2]
-				}, -- [26]
-				{
-					2494, -- [1]
-					1469127762, -- [2]
-				}, -- [27]
-				{
-					2496, -- [1]
-					1469127762, -- [2]
-				}, -- [28]
-				{
-					2499, -- [1]
-					1469127762, -- [2]
-				}, -- [29]
-				{
-					2512, -- [1]
-					1469127762, -- [2]
-				}, -- [30]
-				{
-					2515, -- [1]
-					1469127762, -- [2]
-				}, -- [31]
-				{
-					2517, -- [1]
-					1469127762, -- [2]
-				}, -- [32]
-				{
-					2520, -- [1]
-					1469127762, -- [2]
-				}, -- [33]
-				{
-					2522, -- [1]
-					1469127762, -- [2]
-				}, -- [34]
-				{
-					2524, -- [1]
-					1469127762, -- [2]
-				}, -- [35]
-				{
-					2319, -- [1]
-					1469649661, -- [2]
-				}, -- [36]
-				{
-					2320, -- [1]
-					1469649661, -- [2]
-				}, -- [37]
-				{
-					2352, -- [1]
-					1469649661, -- [2]
-				}, -- [38]
-				{
-					2353, -- [1]
-					1469649661, -- [2]
-				}, -- [39]
-				{
-					2355, -- [1]
-					1469649661, -- [2]
-				}, -- [40]
-				{
-					2356, -- [1]
-					1469649661, -- [2]
-				}, -- [41]
-				{
-					2357, -- [1]
-					1469649661, -- [2]
-				}, -- [42]
-				{
-					2358, -- [1]
-					1469649661, -- [2]
-				}, -- [43]
-				{
-					2360, -- [1]
-					1469649661, -- [2]
-				}, -- [44]
-				{
-					2456, -- [1]
-					1469649661, -- [2]
-				}, -- [45]
-				{
-					2488, -- [1]
-					1469649661, -- [2]
-				}, -- [46]
-				{
-					2491, -- [1]
-					1469649661, -- [2]
-				}, -- [47]
-				{
-					2494, -- [1]
-					1469649661, -- [2]
-				}, -- [48]
-				{
-					2497, -- [1]
-					1469649661, -- [2]
-				}, -- [49]
-				{
-					2499, -- [1]
-					1469649661, -- [2]
-				}, -- [50]
-				{
-					2500, -- [1]
-					1469649661, -- [2]
-				}, -- [51]
-				{
-					2502, -- [1]
-					1469649661, -- [2]
-				}, -- [52]
-				{
-					2503, -- [1]
-					1469649661, -- [2]
-				}, -- [53]
-				{
-					2504, -- [1]
-					1469649661, -- [2]
-				}, -- [54]
-				{
-					2565, -- [1]
-					1469649661, -- [2]
-				}, -- [55]
-				{
-					2567, -- [1]
-					1469649661, -- [2]
-				}, -- [56]
-				{
-					2568, -- [1]
-					1469649661, -- [2]
-				}, -- [57]
-				{
-					2570, -- [1]
-					1469649661, -- [2]
-				}, -- [58]
-				{
-					2573, -- [1]
-					1469649661, -- [2]
-				}, -- [59]
-				{
-					2575, -- [1]
-					1469649661, -- [2]
-				}, -- [60]
-				{
-					2577, -- [1]
-					1469649661, -- [2]
-				}, -- [61]
-				{
-					2599, -- [1]
-					1469649661, -- [2]
-				}, -- [62]
-				{
-					2602, -- [1]
-					1469649661, -- [2]
-				}, -- [63]
-				{
-					2649, -- [1]
-					1469649661, -- [2]
-				}, -- [64]
-				{
-					2652, -- [1]
-					1469649661, -- [2]
-				}, -- [65]
-				{
-					2654, -- [1]
-					1469649661, -- [2]
-				}, -- [66]
-				{
-					2657, -- [1]
-					1469649661, -- [2]
-				}, -- [67]
-				{
-					2659, -- [1]
-					1469649661, -- [2]
-				}, -- [68]
-				{
-					2662, -- [1]
-					1469649661, -- [2]
-				}, -- [69]
-				{
-					2663, -- [1]
-					1469649661, -- [2]
-				}, -- [70]
-				{
-					2666, -- [1]
-					1469649661, -- [2]
-				}, -- [71]
-				{
-					2668, -- [1]
-					1469649661, -- [2]
-				}, -- [72]
-				{
-					2669, -- [1]
-					1469649661, -- [2]
-				}, -- [73]
-				{
-					2670, -- [1]
-					1469649661, -- [2]
-				}, -- [74]
-				{
-					2671, -- [1]
-					1469649661, -- [2]
-				}, -- [75]
-				{
-					2673, -- [1]
-					1469649661, -- [2]
-				}, -- [76]
-				{
-					2674, -- [1]
-					1469649661, -- [2]
-				}, -- [77]
-				{
-					2675, -- [1]
-					1469649661, -- [2]
-				}, -- [78]
-				{
-					2676, -- [1]
-					1469649661, -- [2]
-				}, -- [79]
-				{
-					2677, -- [1]
-					1469649661, -- [2]
-				}, -- [80]
-				{
-					2680, -- [1]
-					1469649661, -- [2]
-				}, -- [81]
-				{
-					2682, -- [1]
-					1469649661, -- [2]
-				}, -- [82]
-			},
-			["Burn"] = {
-				{
-					2278, -- [1]
-					1469127762, -- [2]
-				}, -- [1]
-				{
-					2280, -- [1]
-					1469127762, -- [2]
-				}, -- [2]
-				{
-					2282, -- [1]
-					1469127762, -- [2]
-				}, -- [3]
-				{
-					2284, -- [1]
-					1469127762, -- [2]
-				}, -- [4]
-				{
-					2286, -- [1]
-					1469127762, -- [2]
-				}, -- [5]
-				{
-					2288, -- [1]
-					1469127762, -- [2]
-				}, -- [6]
-				{
-					2436, -- [1]
-					1469649661, -- [2]
-				}, -- [7]
-				{
-					2438, -- [1]
-					1469649661, -- [2]
-				}, -- [8]
-				{
-					2440, -- [1]
-					1469649661, -- [2]
-				}, -- [9]
-				{
-					2442, -- [1]
-					1469649661, -- [2]
-				}, -- [10]
-				{
-					2444, -- [1]
-					1469649661, -- [2]
-				}, -- [11]
-				{
-					2446, -- [1]
-					1469649661, -- [2]
-				}, -- [12]
-				{
-					2448, -- [1]
-					1469649661, -- [2]
-				}, -- [13]
-				{
-					2450, -- [1]
-					1469649661, -- [2]
-				}, -- [14]
-			},
-			["Corruption Siphon"] = {
-				{
-					2459, -- [1]
-					1469649661, -- [2]
-				}, -- [1]
-			},
-			["Siege Nova"] = {
-				{
-					2243, -- [1]
-					1469127762, -- [2]
-				}, -- [1]
-				{
-					2452, -- [1]
-					1469127762, -- [2]
-				}, -- [2]
-				{
-					2487, -- [1]
-					1469127762, -- [2]
-				}, -- [3]
-				{
-					2500, -- [1]
-					1469127762, -- [2]
-				}, -- [4]
-				{
-					2502, -- [1]
-					1469127762, -- [2]
-				}, -- [5]
-				{
-					2507, -- [1]
-					1469127762, -- [2]
-				}, -- [6]
-				{
-					2508, -- [1]
-					1469127762, -- [2]
-				}, -- [7]
-				{
-					2353, -- [1]
-					1469649661, -- [2]
-				}, -- [8]
-				{
-					2403, -- [1]
-					1469649661, -- [2]
-				}, -- [9]
-				{
-					2404, -- [1]
-					1469649661, -- [2]
-				}, -- [10]
-				{
-					2615, -- [1]
-					1469649661, -- [2]
-				}, -- [11]
-				{
-					2649, -- [1]
-					1469649661, -- [2]
-				}, -- [12]
-				{
-					2650, -- [1]
-					1469649661, -- [2]
-				}, -- [13]
-				{
-					2655, -- [1]
-					1469649661, -- [2]
-				}, -- [14]
-				{
-					2656, -- [1]
-					1469649661, -- [2]
-				}, -- [15]
-				{
-					2662, -- [1]
-					1469649661, -- [2]
-				}, -- [16]
-				{
-					2663, -- [1]
-					1469649661, -- [2]
-				}, -- [17]
-				{
-					2666, -- [1]
-					1469649661, -- [2]
-				}, -- [18]
-			},
-			["Cower!"] = {
-				{
-					2204, -- [1]
-					1469127762, -- [2]
-				}, -- [1]
-				{
-					2213, -- [1]
-					1469127762, -- [2]
-				}, -- [2]
-				{
-					2254, -- [1]
-					1469127762, -- [2]
-				}, -- [3]
-				{
-					2255, -- [1]
-					1469127762, -- [2]
-				}, -- [4]
-				{
-					2334, -- [1]
-					1469127762, -- [2]
-				}, -- [5]
-				{
-					2406, -- [1]
-					1469127762, -- [2]
-				}, -- [6]
-				{
-					2441, -- [1]
-					1469127762, -- [2]
-				}, -- [7]
-				{
-					2496, -- [1]
-					1469127762, -- [2]
-				}, -- [8]
-				{
-					2501, -- [1]
-					1469127762, -- [2]
-				}, -- [9]
-				{
-					2511, -- [1]
-					1469127762, -- [2]
-				}, -- [10]
-				{
-					2515, -- [1]
-					1469127762, -- [2]
-				}, -- [11]
-				{
-					2518, -- [1]
-					1469127762, -- [2]
-				}, -- [12]
-				{
-					2522, -- [1]
-					1469127762, -- [2]
-				}, -- [13]
-				{
-					2528, -- [1]
-					1469127762, -- [2]
-				}, -- [14]
-				{
-					2363, -- [1]
-					1469649661, -- [2]
-				}, -- [15]
-				{
-					2370, -- [1]
-					1469649661, -- [2]
-				}, -- [16]
-				{
-					2410, -- [1]
-					1469649661, -- [2]
-				}, -- [17]
-				{
-					2413, -- [1]
-					1469649661, -- [2]
-				}, -- [18]
-				{
-					2430, -- [1]
-					1469649661, -- [2]
-				}, -- [19]
-				{
-					2476, -- [1]
-					1469649661, -- [2]
-				}, -- [20]
-				{
-					2495, -- [1]
-					1469649661, -- [2]
-				}, -- [21]
-				{
-					2567, -- [1]
-					1469649661, -- [2]
-				}, -- [22]
-				{
-					2604, -- [1]
-					1469649661, -- [2]
-				}, -- [23]
-				{
-					2621, -- [1]
-					1469649661, -- [2]
-				}, -- [24]
-				{
-					2658, -- [1]
-					1469649661, -- [2]
-				}, -- [25]
-				{
-					2663, -- [1]
-					1469649661, -- [2]
-				}, -- [26]
-				{
-					2672, -- [1]
-					1469649661, -- [2]
-				}, -- [27]
-				{
-					2680, -- [1]
-					1469649661, -- [2]
-				}, -- [28]
-				{
-					2681, -- [1]
-					1469649661, -- [2]
-				}, -- [29]
-			},
-			["Shockwave"] = {
-				{
-					2117, -- [1]
-					1469127762, -- [2]
-				}, -- [1]
-				{
-					2315, -- [1]
-					1469127762, -- [2]
-				}, -- [2]
-				{
-					2276, -- [1]
-					1469649661, -- [2]
-				}, -- [3]
-				{
-					2473, -- [1]
-					1469649661, -- [2]
-				}, -- [4]
-			},
-			["Belch Flame"] = {
-				{
-					2275, -- [1]
-					1469127762, -- [2]
-				}, -- [1]
-				{
-					2506, -- [1]
-					1469127762, -- [2]
-				}, -- [2]
-				{
-					2358, -- [1]
-					1469649661, -- [2]
-				}, -- [3]
-				{
-					2430, -- [1]
-					1469649661, -- [2]
-				}, -- [4]
-				{
-					2436, -- [1]
-					1469649661, -- [2]
-				}, -- [5]
-				{
-					2442, -- [1]
-					1469649661, -- [2]
-				}, -- [6]
-				{
-					2518, -- [1]
-					1469649661, -- [2]
-				}, -- [7]
-				{
-					2523, -- [1]
-					1469649661, -- [2]
-				}, -- [8]
-				{
-					2667, -- [1]
-					1469649661, -- [2]
-				}, -- [9]
-				{
-					2672, -- [1]
-					1469649661, -- [2]
-				}, -- [10]
-				{
-					2678, -- [1]
-					1469649661, -- [2]
-				}, -- [11]
-				{
-					2684, -- [1]
-					1469649661, -- [2]
-				}, -- [12]
-			},
-			["Corruption Nova"] = {
-				{
-					2292, -- [1]
-					1469127762, -- [2]
-				}, -- [1]
-				{
-					2452, -- [1]
-					1469649661, -- [2]
-				}, -- [2]
-			},
-			["Boom"] = {
-				{
-					2150, -- [1]
-					1469127762, -- [2]
-				}, -- [1]
-				{
-					2153, -- [1]
-					1469127762, -- [2]
-				}, -- [2]
-				{
-					2244, -- [1]
-					1469127762, -- [2]
-				}, -- [3]
-				{
-					2246, -- [1]
-					1469127762, -- [2]
-				}, -- [4]
-				{
-					2247, -- [1]
-					1469127762, -- [2]
-				}, -- [5]
-				{
-					2248, -- [1]
-					1469127762, -- [2]
-				}, -- [6]
-				{
-					2248, -- [1]
-					1469127762, -- [2]
-				}, -- [7]
-				{
-					2251, -- [1]
-					1469127762, -- [2]
-				}, -- [8]
-				{
-					2333, -- [1]
-					1469127762, -- [2]
-				}, -- [9]
-				{
-					2336, -- [1]
-					1469127762, -- [2]
-				}, -- [10]
-				{
-					2410, -- [1]
-					1469127762, -- [2]
-				}, -- [11]
-				{
-					2413, -- [1]
-					1469127762, -- [2]
-				}, -- [12]
-				{
-					2423, -- [1]
-					1469127762, -- [2]
-				}, -- [13]
-				{
-					2502, -- [1]
-					1469127762, -- [2]
-				}, -- [14]
-				{
-					2505, -- [1]
-					1469127762, -- [2]
-				}, -- [15]
-				{
-					2514, -- [1]
-					1469127762, -- [2]
-				}, -- [16]
-				{
-					2311, -- [1]
-					1469649661, -- [2]
-				}, -- [17]
-				{
-					2403, -- [1]
-					1469649661, -- [2]
-				}, -- [18]
-				{
-					2404, -- [1]
-					1469649661, -- [2]
-				}, -- [19]
-				{
-					2406, -- [1]
-					1469649661, -- [2]
-				}, -- [20]
-				{
-					2407, -- [1]
-					1469649661, -- [2]
-				}, -- [21]
-				{
-					2422, -- [1]
-					1469649661, -- [2]
-				}, -- [22]
-				{
-					2424, -- [1]
-					1469649661, -- [2]
-				}, -- [23]
-				{
-					2490, -- [1]
-					1469649661, -- [2]
-				}, -- [24]
-				{
-					2493, -- [1]
-					1469649661, -- [2]
-				}, -- [25]
-				{
-					2503, -- [1]
-					1469649661, -- [2]
-				}, -- [26]
-				{
-					2505, -- [1]
-					1469649661, -- [2]
-				}, -- [27]
-				{
-					2571, -- [1]
-					1469649661, -- [2]
-				}, -- [28]
-				{
-					2574, -- [1]
-					1469649661, -- [2]
-				}, -- [29]
-				{
-					2635, -- [1]
-					1469649661, -- [2]
-				}, -- [30]
-				{
-					2637, -- [1]
-					1469649661, -- [2]
-				}, -- [31]
-				{
-					2649, -- [1]
-					1469649661, -- [2]
-				}, -- [32]
-				{
-					2652, -- [1]
-					1469649661, -- [2]
-				}, -- [33]
-				{
-					2656, -- [1]
-					1469649661, -- [2]
-				}, -- [34]
-				{
-					2661, -- [1]
-					1469649661, -- [2]
-				}, -- [35]
-				{
-					2663, -- [1]
-					1469649661, -- [2]
-				}, -- [36]
-				{
-					2664, -- [1]
-					1469649661, -- [2]
-				}, -- [37]
-				{
-					2666, -- [1]
-					1469649661, -- [2]
-				}, -- [38]
-			},
-			["Artillery Blast"] = {
-				{
-					2177, -- [1]
-					1469127762, -- [2]
-				}, -- [1]
-				{
-					2273, -- [1]
-					1469127762, -- [2]
-				}, -- [2]
-				{
-					2356, -- [1]
-					1469127762, -- [2]
-				}, -- [3]
-				{
-					2360, -- [1]
-					1469127762, -- [2]
-				}, -- [4]
-				{
-					2336, -- [1]
-					1469649661, -- [2]
-				}, -- [5]
-				{
-					2429, -- [1]
-					1469649661, -- [2]
-				}, -- [6]
-				{
-					2517, -- [1]
-					1469649661, -- [2]
-				}, -- [7]
-				{
-					2521, -- [1]
-					1469649661, -- [2]
-				}, -- [8]
-			},
-		},
-		["ids"] = {
-			["Repair"] = 188884,
-			["Slam"] = 184243,
-			["Felfire Volley"] = 180417,
-			["Metamorphosis"] = 181968,
-			["Howling Axe"] = 184370,
-			["Conducted Shock Pulse"] = 185806,
-			["Corruption Bolt"] = 184065,
-			["Incinerate"] = 181155,
-			["Burn"] = 185156,
-			["Corruption Siphon"] = 187655,
-			["Siege Nova"] = 180945,
-			["Cower!"] = 184238,
-			["Shockwave"] = 190728,
-			["Belch Flame"] = 186883,
-			["Corruption Nova"] = 187638,
-			["Boom"] = 186846,
-			["Artillery Blast"] = 180080,
-		},
-	},
-	["139515"] = {
-		["deaths"] = {
-			[41] = {
-				1472417510, -- [1]
-			},
-		},
-		["spells"] = {
-			["Fel Blast"] = {
-				{
-					14, -- [1]
-					1472417510, -- [2]
-				}, -- [1]
-				{
-					15, -- [1]
-					1472417510, -- [2]
-				}, -- [2]
-				{
-					15, -- [1]
-					1472417510, -- [2]
-				}, -- [3]
-				{
-					16, -- [1]
-					1472417510, -- [2]
-				}, -- [4]
-				{
-					16, -- [1]
-					1472417510, -- [2]
-				}, -- [5]
-				{
-					17, -- [1]
-					1472417510, -- [2]
-				}, -- [6]
-				{
-					17, -- [1]
-					1472417510, -- [2]
-				}, -- [7]
-				{
-					18, -- [1]
-					1472417510, -- [2]
-				}, -- [8]
-				{
-					19, -- [1]
-					1472417510, -- [2]
-				}, -- [9]
-				{
-					19, -- [1]
-					1472417510, -- [2]
-				}, -- [10]
-				{
-					20, -- [1]
-					1472417510, -- [2]
-				}, -- [11]
-				{
-					20, -- [1]
-					1472417510, -- [2]
-				}, -- [12]
-				{
-					21, -- [1]
-					1472417510, -- [2]
-				}, -- [13]
-				{
-					22, -- [1]
-					1472417510, -- [2]
-				}, -- [14]
-				{
-					22, -- [1]
-					1472417510, -- [2]
-				}, -- [15]
-				{
-					23, -- [1]
-					1472417510, -- [2]
-				}, -- [16]
-				{
-					24, -- [1]
-					1472417510, -- [2]
-				}, -- [17]
-				{
-					25, -- [1]
-					1472417510, -- [2]
-				}, -- [18]
-				{
-					25, -- [1]
-					1472417510, -- [2]
-				}, -- [19]
-				{
-					26, -- [1]
-					1472417510, -- [2]
-				}, -- [20]
-				{
-					27, -- [1]
-					1472417510, -- [2]
-				}, -- [21]
-				{
-					27, -- [1]
-					1472417510, -- [2]
-				}, -- [22]
-				{
-					28, -- [1]
-					1472417510, -- [2]
-				}, -- [23]
-				{
-					29, -- [1]
-					1472417510, -- [2]
-				}, -- [24]
-				{
-					30, -- [1]
-					1472417510, -- [2]
-				}, -- [25]
-				{
-					32, -- [1]
-					1472417510, -- [2]
-				}, -- [26]
-				{
-					33, -- [1]
-					1472417510, -- [2]
-				}, -- [27]
-				{
-					37, -- [1]
-					1472417510, -- [2]
-				}, -- [28]
-				{
-					37, -- [1]
-					1472417510, -- [2]
-				}, -- [29]
-				{
-					39, -- [1]
-					1472417510, -- [2]
-				}, -- [30]
-				{
-					40, -- [1]
-					1472417510, -- [2]
-				}, -- [31]
-				{
-					71, -- [1]
-					1472417510, -- [2]
-				}, -- [32]
-				{
-					72, -- [1]
-					1472417510, -- [2]
-				}, -- [33]
-				{
-					72, -- [1]
-					1472417510, -- [2]
-				}, -- [34]
-				{
-					74, -- [1]
-					1472417510, -- [2]
-				}, -- [35]
-				{
-					75, -- [1]
-					1472417510, -- [2]
-				}, -- [36]
-				{
-					77, -- [1]
-					1472417510, -- [2]
-				}, -- [37]
-				{
-					77, -- [1]
-					1472417510, -- [2]
-				}, -- [38]
-				{
-					107, -- [1]
-					1472417510, -- [2]
-				}, -- [39]
-				{
-					107, -- [1]
-					1472417510, -- [2]
-				}, -- [40]
-				{
-					108, -- [1]
-					1472417510, -- [2]
-				}, -- [41]
-				{
-					108, -- [1]
-					1472417510, -- [2]
-				}, -- [42]
-				{
-					109, -- [1]
-					1472417510, -- [2]
-				}, -- [43]
-				{
-					109, -- [1]
-					1472417510, -- [2]
-				}, -- [44]
-				{
-					110, -- [1]
-					1472417510, -- [2]
-				}, -- [45]
-				{
-					110, -- [1]
-					1472417510, -- [2]
-				}, -- [46]
-				{
-					111, -- [1]
-					1472417510, -- [2]
-				}, -- [47]
-				{
-					112, -- [1]
-					1472417510, -- [2]
-				}, -- [48]
-				{
-					147, -- [1]
-					1472417510, -- [2]
-				}, -- [49]
-				{
-					147, -- [1]
-					1472417510, -- [2]
-				}, -- [50]
-				{
-					148, -- [1]
-					1472417510, -- [2]
-				}, -- [51]
-				{
-					148, -- [1]
-					1472417510, -- [2]
-				}, -- [52]
-				{
-					149, -- [1]
-					1472417510, -- [2]
-				}, -- [53]
-				{
-					149, -- [1]
-					1472417510, -- [2]
-				}, -- [54]
-				{
-					150, -- [1]
-					1472417510, -- [2]
-				}, -- [55]
-				{
-					150, -- [1]
-					1472417510, -- [2]
-				}, -- [56]
-				{
-					152, -- [1]
-					1472417510, -- [2]
-				}, -- [57]
-				{
-					152, -- [1]
-					1472417510, -- [2]
-				}, -- [58]
-				{
-					154, -- [1]
-					1472417510, -- [2]
-				}, -- [59]
-				{
-					154, -- [1]
-					1472417510, -- [2]
-				}, -- [60]
-			},
-			["Empowered Massive Blast"] = {
-				{
-					236, -- [1]
-					1472417510, -- [2]
-				}, -- [1]
-			},
-			["Felseeker"] = {
-				{
-					122, -- [1]
-					1472417510, -- [2]
-				}, -- [1]
-				{
-					125, -- [1]
-					1472417510, -- [2]
-				}, -- [2]
-				{
-					127, -- [1]
-					1472417510, -- [2]
-				}, -- [3]
-			},
-			["Fel Hellfire"] = {
-				{
-					20, -- [1]
-					1472417510, -- [2]
-				}, -- [1]
-				{
-					21, -- [1]
-					1472417510, -- [2]
-				}, -- [2]
-				{
-					22, -- [1]
-					1472417510, -- [2]
-				}, -- [3]
-				{
-					23, -- [1]
-					1472417510, -- [2]
-				}, -- [4]
-				{
-					24, -- [1]
-					1472417510, -- [2]
-				}, -- [5]
-				{
-					25, -- [1]
-					1472417510, -- [2]
-				}, -- [6]
-				{
-					26, -- [1]
-					1472417510, -- [2]
-				}, -- [7]
-				{
-					27, -- [1]
-					1472417510, -- [2]
-				}, -- [8]
-				{
-					28, -- [1]
-					1472417510, -- [2]
-				}, -- [9]
-				{
-					29, -- [1]
-					1472417510, -- [2]
-				}, -- [10]
-				{
-					30, -- [1]
-					1472417510, -- [2]
-				}, -- [11]
-				{
-					31, -- [1]
-					1472417510, -- [2]
-				}, -- [12]
-				{
-					32, -- [1]
-					1472417510, -- [2]
-				}, -- [13]
-				{
-					33, -- [1]
-					1472417510, -- [2]
-				}, -- [14]
-				{
-					34, -- [1]
-					1472417510, -- [2]
-				}, -- [15]
-				{
-					35, -- [1]
-					1472417510, -- [2]
-				}, -- [16]
-				{
-					36, -- [1]
-					1472417510, -- [2]
-				}, -- [17]
-				{
-					37, -- [1]
-					1472417510, -- [2]
-				}, -- [18]
-				{
-					48, -- [1]
-					1472417510, -- [2]
-				}, -- [19]
-				{
-					49, -- [1]
-					1472417510, -- [2]
-				}, -- [20]
-				{
-					50, -- [1]
-					1472417510, -- [2]
-				}, -- [21]
-				{
-					51, -- [1]
-					1472417510, -- [2]
-				}, -- [22]
-				{
-					52, -- [1]
-					1472417510, -- [2]
-				}, -- [23]
-				{
-					53, -- [1]
-					1472417510, -- [2]
-				}, -- [24]
-				{
-					54, -- [1]
-					1472417510, -- [2]
-				}, -- [25]
-				{
-					55, -- [1]
-					1472417510, -- [2]
-				}, -- [26]
-				{
-					56, -- [1]
-					1472417510, -- [2]
-				}, -- [27]
-				{
-					57, -- [1]
-					1472417510, -- [2]
-				}, -- [28]
-				{
-					58, -- [1]
-					1472417510, -- [2]
-				}, -- [29]
-				{
-					59, -- [1]
-					1472417510, -- [2]
-				}, -- [30]
-				{
-					60, -- [1]
-					1472417510, -- [2]
-				}, -- [31]
-				{
-					60, -- [1]
-					1472417510, -- [2]
-				}, -- [32]
-				{
-					67, -- [1]
-					1472417510, -- [2]
-				}, -- [33]
-				{
-					68, -- [1]
-					1472417510, -- [2]
-				}, -- [34]
-				{
-					69, -- [1]
-					1472417510, -- [2]
-				}, -- [35]
-				{
-					70, -- [1]
-					1472417510, -- [2]
-				}, -- [36]
-				{
-					71, -- [1]
-					1472417510, -- [2]
-				}, -- [37]
-				{
-					72, -- [1]
-					1472417510, -- [2]
-				}, -- [38]
-				{
-					73, -- [1]
-					1472417510, -- [2]
-				}, -- [39]
-				{
-					74, -- [1]
-					1472417510, -- [2]
-				}, -- [40]
-				{
-					75, -- [1]
-					1472417510, -- [2]
-				}, -- [41]
-				{
-					131, -- [1]
-					1472417510, -- [2]
-				}, -- [42]
-				{
-					132, -- [1]
-					1472417510, -- [2]
-				}, -- [43]
-				{
-					133, -- [1]
-					1472417510, -- [2]
-				}, -- [44]
-				{
-					134, -- [1]
-					1472417510, -- [2]
-				}, -- [45]
-				{
-					135, -- [1]
-					1472417510, -- [2]
-				}, -- [46]
-				{
-					136, -- [1]
-					1472417510, -- [2]
-				}, -- [47]
-				{
-					137, -- [1]
-					1472417510, -- [2]
-				}, -- [48]
-				{
-					138, -- [1]
-					1472417510, -- [2]
-				}, -- [49]
-				{
-					139, -- [1]
-					1472417510, -- [2]
-				}, -- [50]
-				{
-					140, -- [1]
-					1472417510, -- [2]
-				}, -- [51]
-				{
-					141, -- [1]
-					1472417510, -- [2]
-				}, -- [52]
-				{
-					142, -- [1]
-					1472417510, -- [2]
-				}, -- [53]
-				{
-					143, -- [1]
-					1472417510, -- [2]
-				}, -- [54]
-				{
-					144, -- [1]
-					1472417510, -- [2]
-				}, -- [55]
-				{
-					145, -- [1]
-					1472417510, -- [2]
-				}, -- [56]
-				{
-					192, -- [1]
-					1472417510, -- [2]
-				}, -- [57]
-				{
-					193, -- [1]
-					1472417510, -- [2]
-				}, -- [58]
-				{
-					194, -- [1]
-					1472417510, -- [2]
-				}, -- [59]
-				{
-					195, -- [1]
-					1472417510, -- [2]
-				}, -- [60]
-				{
-					196, -- [1]
-					1472417510, -- [2]
-				}, -- [61]
-				{
-					197, -- [1]
-					1472417510, -- [2]
-				}, -- [62]
-				{
-					198, -- [1]
-					1472417510, -- [2]
-				}, -- [63]
-				{
-					199, -- [1]
-					1472417510, -- [2]
-				}, -- [64]
-				{
-					200, -- [1]
-					1472417510, -- [2]
-				}, -- [65]
-				{
-					201, -- [1]
-					1472417510, -- [2]
-				}, -- [66]
-				{
-					202, -- [1]
-					1472417510, -- [2]
-				}, -- [67]
-				{
-					203, -- [1]
-					1472417510, -- [2]
-				}, -- [68]
-				{
-					204, -- [1]
-					1472417510, -- [2]
-				}, -- [69]
 				{
 					205, -- [1]
-					1472417510, -- [2]
-				}, -- [70]
+					1471375628, -- [2]
+				}, -- [20]
 				{
-					206, -- [1]
-					1472417510, -- [2]
-				}, -- [71]
+					245, -- [1]
+					1471375628, -- [2]
+				}, -- [21]
 				{
-					207, -- [1]
-					1472417510, -- [2]
-				}, -- [72]
+					325, -- [1]
+					1471375628, -- [2]
+				}, -- [22]
 				{
-					208, -- [1]
-					1472417510, -- [2]
-				}, -- [73]
+					349, -- [1]
+					1471375628, -- [2]
+				}, -- [23]
 				{
-					209, -- [1]
-					1472417510, -- [2]
-				}, -- [74]
+					564, -- [1]
+					1471375992, -- [2]
+				}, -- [24]
+				{
+					604, -- [1]
+					1471375992, -- [2]
+				}, -- [25]
+				{
+					684, -- [1]
+					1471375992, -- [2]
+				}, -- [26]
+				{
+					703, -- [1]
+					1471375992, -- [2]
+				}, -- [27]
 			},
-			["Shadowforce"] = {
+			["Soul Cleave"] = {
 				{
-					178, -- [1]
-					1472417510, -- [2]
+					5446, -- [1]
+					1470776127, -- [2]
 				}, -- [1]
 				{
-					179, -- [1]
-					1472417510, -- [2]
+					5486, -- [1]
+					1470776127, -- [2]
 				}, -- [2]
 				{
-					179, -- [1]
-					1472417510, -- [2]
+					5659, -- [1]
+					1470776370, -- [2]
 				}, -- [3]
 				{
-					180, -- [1]
-					1472417510, -- [2]
+					5699, -- [1]
+					1470776370, -- [2]
 				}, -- [4]
 				{
-					181, -- [1]
-					1472417510, -- [2]
+					5973, -- [1]
+					1470776701, -- [2]
 				}, -- [5]
 				{
-					183, -- [1]
-					1472417510, -- [2]
+					6013, -- [1]
+					1470776701, -- [2]
 				}, -- [6]
-			},
-			["Fel Hellstorm"] = {
 				{
-					93, -- [1]
-					1472417510, -- [2]
+					6297, -- [1]
+					1470777024, -- [2]
+				}, -- [7]
+				{
+					6337, -- [1]
+					1470777024, -- [2]
+				}, -- [8]
+				{
+					6590, -- [1]
+					1470777327, -- [2]
+				}, -- [9]
+				{
+					6630, -- [1]
+					1470777327, -- [2]
+				}, -- [10]
+				{
+					6711, -- [1]
+					1470777327, -- [2]
+				}, -- [11]
+				{
+					6927, -- [1]
+					1470777676, -- [2]
+				}, -- [12]
+				{
+					6967, -- [1]
+					1470777676, -- [2]
+				}, -- [13]
+				{
+					7249, -- [1]
+					1470777990, -- [2]
+				}, -- [14]
+				{
+					7289, -- [1]
+					1470777990, -- [2]
+				}, -- [15]
+				{
+					216, -- [1]
+					1471375628, -- [2]
+				}, -- [16]
+				{
+					256, -- [1]
+					1471375628, -- [2]
+				}, -- [17]
+				{
+					576, -- [1]
+					1471375992, -- [2]
+				}, -- [18]
+				{
+					616, -- [1]
+					1471375992, -- [2]
+				}, -- [19]
+			},
+			["Rumbling Fissure"] = {
+				{
+					5425, -- [1]
+					1470776127, -- [2]
 				}, -- [1]
 				{
-					131, -- [1]
-					1472417510, -- [2]
+					5465, -- [1]
+					1470776127, -- [2]
 				}, -- [2]
 				{
-					173, -- [1]
-					1472417510, -- [2]
+					5637, -- [1]
+					1470776370, -- [2]
 				}, -- [3]
-			},
-			["Mannoroth's Gaze"] = {
 				{
-					103, -- [1]
-					1472417510, -- [2]
-				}, -- [1]
+					5677, -- [1]
+					1470776370, -- [2]
+				}, -- [4]
 				{
-					188, -- [1]
-					1472417510, -- [2]
-				}, -- [2]
-			},
-			["Shadow Bolt Volley"] = {
+					5758, -- [1]
+					1470776370, -- [2]
+				}, -- [5]
 				{
-					18, -- [1]
-					1472417510, -- [2]
-				}, -- [1]
-			},
-			["Empowered Glaive Thrust"] = {
+					5951, -- [1]
+					1470776701, -- [2]
+				}, -- [6]
+				{
+					5991, -- [1]
+					1470776701, -- [2]
+				}, -- [7]
+				{
+					6064, -- [1]
+					1470776701, -- [2]
+				}, -- [8]
+				{
+					6276, -- [1]
+					1470777024, -- [2]
+				}, -- [9]
+				{
+					6316, -- [1]
+					1470777024, -- [2]
+				}, -- [10]
+				{
+					6396, -- [1]
+					1470777024, -- [2]
+				}, -- [11]
+				{
+					6569, -- [1]
+					1470777327, -- [2]
+				}, -- [12]
+				{
+					6609, -- [1]
+					1470777327, -- [2]
+				}, -- [13]
+				{
+					6689, -- [1]
+					1470777327, -- [2]
+				}, -- [14]
+				{
+					6906, -- [1]
+					1470777676, -- [2]
+				}, -- [15]
+				{
+					6946, -- [1]
+					1470777676, -- [2]
+				}, -- [16]
+				{
+					7020, -- [1]
+					1470777676, -- [2]
+				}, -- [17]
+				{
+					7061, -- [1]
+					1470777676, -- [2]
+				}, -- [18]
+				{
+					7227, -- [1]
+					1470777990, -- [2]
+				}, -- [19]
+				{
+					7268, -- [1]
+					1470777990, -- [2]
+				}, -- [20]
+				{
+					7345, -- [1]
+					1470777990, -- [2]
+				}, -- [21]
+				{
+					195, -- [1]
+					1471375628, -- [2]
+				}, -- [22]
 				{
 					235, -- [1]
-					1472417510, -- [2]
+					1471375628, -- [2]
+				}, -- [23]
+				{
+					315, -- [1]
+					1471375628, -- [2]
+				}, -- [24]
+				{
+					356, -- [1]
+					1471375628, -- [2]
+				}, -- [25]
+				{
+					554, -- [1]
+					1471375992, -- [2]
+				}, -- [26]
+				{
+					594, -- [1]
+					1471375992, -- [2]
+				}, -- [27]
+				{
+					674, -- [1]
+					1471375992, -- [2]
+				}, -- [28]
+				{
+					715, -- [1]
+					1471375992, -- [2]
+				}, -- [29]
+			},
+			["Rumbling Fissures"] = {
+				{
+					5425, -- [1]
+					1470776127, -- [2]
 				}, -- [1]
 				{
-					238, -- [1]
-					1472417510, -- [2]
+					5465, -- [1]
+					1470776127, -- [2]
 				}, -- [2]
-			},
-			["Curse of the Legion"] = {
 				{
-					5, -- [1]
-					1472417510, -- [2]
-				}, -- [1]
-			},
-			["Empowered Fel Hellstorm"] = {
-				{
-					225, -- [1]
-					1472417510, -- [2]
-				}, -- [1]
-			},
-			["Glaive Thrust"] = {
-				{
-					107, -- [1]
-					1472417510, -- [2]
-				}, -- [1]
-				{
-					110, -- [1]
-					1472417510, -- [2]
-				}, -- [2]
-				{
-					137, -- [1]
-					1472417510, -- [2]
+					5637, -- [1]
+					1470776370, -- [2]
 				}, -- [3]
 				{
-					140, -- [1]
-					1472417510, -- [2]
+					5677, -- [1]
+					1470776370, -- [2]
 				}, -- [4]
 				{
-					190, -- [1]
-					1472417510, -- [2]
+					5758, -- [1]
+					1470776370, -- [2]
 				}, -- [5]
 				{
-					193, -- [1]
-					1472417510, -- [2]
+					5951, -- [1]
+					1470776701, -- [2]
 				}, -- [6]
-			},
-			["Fel Streak"] = {
 				{
-					42, -- [1]
-					1472417510, -- [2]
+					5991, -- [1]
+					1470776701, -- [2]
+				}, -- [7]
+				{
+					6064, -- [1]
+					1470776701, -- [2]
+				}, -- [8]
+				{
+					6276, -- [1]
+					1470777024, -- [2]
+				}, -- [9]
+				{
+					6316, -- [1]
+					1470777024, -- [2]
+				}, -- [10]
+				{
+					6396, -- [1]
+					1470777024, -- [2]
+				}, -- [11]
+				{
+					6569, -- [1]
+					1470777327, -- [2]
+				}, -- [12]
+				{
+					6609, -- [1]
+					1470777327, -- [2]
+				}, -- [13]
+				{
+					6689, -- [1]
+					1470777327, -- [2]
+				}, -- [14]
+				{
+					6906, -- [1]
+					1470777676, -- [2]
+				}, -- [15]
+				{
+					6946, -- [1]
+					1470777676, -- [2]
+				}, -- [16]
+				{
+					7020, -- [1]
+					1470777676, -- [2]
+				}, -- [17]
+				{
+					7061, -- [1]
+					1470777676, -- [2]
+				}, -- [18]
+				{
+					7227, -- [1]
+					1470777990, -- [2]
+				}, -- [19]
+				{
+					7268, -- [1]
+					1470777990, -- [2]
+				}, -- [20]
+				{
+					7345, -- [1]
+					1470777990, -- [2]
+				}, -- [21]
+				{
+					195, -- [1]
+					1471375628, -- [2]
+				}, -- [22]
+				{
+					235, -- [1]
+					1471375628, -- [2]
+				}, -- [23]
+				{
+					315, -- [1]
+					1471375628, -- [2]
+				}, -- [24]
+				{
+					356, -- [1]
+					1471375628, -- [2]
+				}, -- [25]
+				{
+					554, -- [1]
+					1471375992, -- [2]
+				}, -- [26]
+				{
+					594, -- [1]
+					1471375992, -- [2]
+				}, -- [27]
+				{
+					674, -- [1]
+					1471375992, -- [2]
+				}, -- [28]
+				{
+					715, -- [1]
+					1471375992, -- [2]
+				}, -- [29]
+			},
+			["Cavitation"] = {
+				{
+					5453, -- [1]
+					1470776127, -- [2]
 				}, -- [1]
 				{
-					44, -- [1]
-					1472417510, -- [2]
+					5493, -- [1]
+					1470776127, -- [2]
 				}, -- [2]
 				{
-					62, -- [1]
-					1472417510, -- [2]
+					5666, -- [1]
+					1470776370, -- [2]
 				}, -- [3]
 				{
-					63, -- [1]
-					1472417510, -- [2]
+					5979, -- [1]
+					1470776701, -- [2]
 				}, -- [4]
 				{
-					64, -- [1]
-					1472417510, -- [2]
+					6019, -- [1]
+					1470776701, -- [2]
 				}, -- [5]
 				{
-					214, -- [1]
-					1472417510, -- [2]
+					6304, -- [1]
+					1470777024, -- [2]
 				}, -- [6]
-			},
-			["Massive Blast"] = {
 				{
-					109, -- [1]
-					1472417510, -- [2]
+					6344, -- [1]
+					1470777024, -- [2]
+				}, -- [7]
+				{
+					6597, -- [1]
+					1470777327, -- [2]
+				}, -- [8]
+				{
+					6637, -- [1]
+					1470777327, -- [2]
+				}, -- [9]
+				{
+					6935, -- [1]
+					1470777676, -- [2]
+				}, -- [10]
+				{
+					6975, -- [1]
+					1470777676, -- [2]
+				}, -- [11]
+				{
+					7049, -- [1]
+					1470777676, -- [2]
+				}, -- [12]
+				{
+					7297, -- [1]
+					1470777990, -- [2]
+				}, -- [13]
+				{
+					7374, -- [1]
+					1470777990, -- [2]
+				}, -- [14]
+				{
+					224, -- [1]
+					1471375628, -- [2]
+				}, -- [15]
+				{
+					263, -- [1]
+					1471375628, -- [2]
+				}, -- [16]
+				{
+					369, -- [1]
+					1471375628, -- [2]
+				}, -- [17]
+				{
+					582, -- [1]
+					1471375992, -- [2]
+				}, -- [18]
+				{
+					721, -- [1]
+					1471375992, -- [2]
+				}, -- [19]
+			},
+			["Enrage"] = {
+				{
+					6058, -- [1]
+					1470776701, -- [2]
 				}, -- [1]
 				{
-					139, -- [1]
-					1472417510, -- [2]
+					7014, -- [1]
+					1470777676, -- [2]
 				}, -- [2]
 				{
-					191, -- [1]
-					1472417510, -- [2]
+					7339, -- [1]
+					1470777990, -- [2]
 				}, -- [3]
-			},
-			["Mark of Doom"] = {
 				{
-					25, -- [1]
-					1472417510, -- [2]
+					333, -- [1]
+					1471375628, -- [2]
+				}, -- [4]
+				{
+					685, -- [1]
+					1471375992, -- [2]
+				}, -- [5]
+			},
+			["Ring of Destruction"] = {
+				{
+					5705, -- [1]
+					1470776370, -- [2]
+				}, -- [1]
+				{
+					5711, -- [1]
+					1470776370, -- [2]
+				}, -- [2]
+				{
+					622, -- [1]
+					1471375992, -- [2]
+				}, -- [3]
+				{
+					628, -- [1]
+					1471375992, -- [2]
+				}, -- [4]
+			},
+			["Throw Axe"] = {
+				{
+					5504, -- [1]
+					1470776127, -- [2]
+				}, -- [1]
+				{
+					5718, -- [1]
+					1470776370, -- [2]
+				}, -- [2]
+				{
+					6030, -- [1]
+					1470776701, -- [2]
+				}, -- [3]
+				{
+					6356, -- [1]
+					1470777024, -- [2]
+				}, -- [4]
+				{
+					6648, -- [1]
+					1470777327, -- [2]
+				}, -- [5]
+				{
+					6986, -- [1]
+					1470777676, -- [2]
+				}, -- [6]
+				{
+					7308, -- [1]
+					1470777990, -- [2]
+				}, -- [7]
+				{
+					275, -- [1]
+					1471375628, -- [2]
+				}, -- [8]
+				{
+					634, -- [1]
+					1471375992, -- [2]
+				}, -- [9]
+			},
+		},
+		["ids"] = {
+			["Seed of Destruction"] = 181515,
+			["Foul"] = 179709,
+			["Soul Cleave"] = 179406,
+			["Rumbling Fissure"] = 179582,
+			["Rumbling Fissures"] = 179583,
+			["Cavitation"] = 189009,
+			["Enrage"] = 179681,
+			["Ring of Destruction"] = 184697,
+			["Throw Axe"] = 179668,
+		},
+	},
+	["143215"] = {
+		["deaths"] = {
+			[196] = {
+				1469563967, -- [1]
+			},
+			[242] = {
+				1470772727, -- [1]
+			},
+			[265] = {
+				1469563967, -- [1]
+			},
+			[93] = {
+				1470772727, -- [1]
+			},
+			[236] = {
+				1469563967, -- [1]
+			},
+			[234] = {
+				1470772727, -- [1]
+				1470772727, -- [2]
+			},
+			[77] = {
+				1470772727, -- [1]
+			},
+		},
+		["spells"] = {
+			["Tainted Blood"] = {
+				{
+					2906, -- [1]
+					1469563967, -- [2]
+				}, -- [1]
+				{
+					2924, -- [1]
+					1469563967, -- [2]
+				}, -- [2]
+				{
+					1905, -- [1]
+					1470772727, -- [2]
+				}, -- [3]
+				{
+					1923, -- [1]
+					1470772727, -- [2]
+				}, -- [4]
+				{
+					1941, -- [1]
+					1470772727, -- [2]
+				}, -- [5]
+			},
+			["Windwalk"] = {
+				{
+					2994, -- [1]
+					1469563967, -- [2]
+				}, -- [1]
+				{
+					2007, -- [1]
+					1470772727, -- [2]
+				}, -- [2]
+			},
+			["Felstorm"] = {
+				{
+					2997, -- [1]
+					1469563967, -- [2]
+				}, -- [1]
+				{
+					2999, -- [1]
+					1469563967, -- [2]
+				}, -- [2]
+				{
+					3005, -- [1]
+					1469563967, -- [2]
+				}, -- [3]
+				{
+					3007, -- [1]
+					1469563967, -- [2]
+				}, -- [4]
+				{
+					3015, -- [1]
+					1469563967, -- [2]
+				}, -- [5]
+				{
+					2009, -- [1]
+					1470772727, -- [2]
+				}, -- [6]
+				{
+					2011, -- [1]
+					1470772727, -- [2]
+				}, -- [7]
+				{
+					2016, -- [1]
+					1470772727, -- [2]
+				}, -- [8]
+				{
+					2019, -- [1]
+					1470772727, -- [2]
+				}, -- [9]
+				{
+					2026, -- [1]
+					1470772727, -- [2]
+				}, -- [10]
+				{
+					2027, -- [1]
+					1470772727, -- [2]
+				}, -- [11]
+				{
+					2028, -- [1]
+					1470772727, -- [2]
+				}, -- [12]
+			},
+			["Bloodboil"] = {
+				{
+					2850, -- [1]
+					1469563967, -- [2]
+				}, -- [1]
+				{
+					2861, -- [1]
+					1469563967, -- [2]
+				}, -- [2]
+				{
+					2872, -- [1]
+					1469563967, -- [2]
+				}, -- [3]
+				{
+					2883, -- [1]
+					1469563967, -- [2]
+				}, -- [4]
+				{
+					2894, -- [1]
+					1469563967, -- [2]
+				}, -- [5]
+				{
+					2905, -- [1]
+					1469563967, -- [2]
+				}, -- [6]
+				{
+					1864, -- [1]
+					1470772727, -- [2]
+				}, -- [7]
+				{
+					1875, -- [1]
+					1470772727, -- [2]
+				}, -- [8]
+				{
+					1885, -- [1]
+					1470772727, -- [2]
+				}, -- [9]
+				{
+					1895, -- [1]
+					1470772727, -- [2]
+				}, -- [10]
+				{
+					1906, -- [1]
+					1470772727, -- [2]
+				}, -- [11]
+				{
+					1917, -- [1]
+					1470772727, -- [2]
+				}, -- [12]
+				{
+					1927, -- [1]
+					1470772727, -- [2]
+				}, -- [13]
+			},
+			["Nightmare Visage"] = {
+				{
+					2857, -- [1]
+					1469563967, -- [2]
+				}, -- [1]
+				{
+					2860, -- [1]
+					1469563967, -- [2]
+				}, -- [2]
+				{
+					2890, -- [1]
+					1469563967, -- [2]
+				}, -- [3]
+				{
+					2893, -- [1]
+					1469563967, -- [2]
+				}, -- [4]
+				{
+					2923, -- [1]
+					1469563967, -- [2]
+				}, -- [5]
+				{
+					2926, -- [1]
+					1469563967, -- [2]
+				}, -- [6]
+				{
+					2955, -- [1]
+					1469563967, -- [2]
+				}, -- [7]
+				{
+					2959, -- [1]
+					1469563967, -- [2]
+				}, -- [8]
+				{
+					2988, -- [1]
+					1469563967, -- [2]
+				}, -- [9]
+				{
+					2991, -- [1]
+					1469563967, -- [2]
+				}, -- [10]
+				{
+					3021, -- [1]
+					1469563967, -- [2]
+				}, -- [11]
+				{
+					3024, -- [1]
+					1469563967, -- [2]
+				}, -- [12]
+				{
+					3054, -- [1]
+					1469563967, -- [2]
+				}, -- [13]
+				{
+					3057, -- [1]
+					1469563967, -- [2]
+				}, -- [14]
+				{
+					3087, -- [1]
+					1469563967, -- [2]
+				}, -- [15]
+				{
+					3090, -- [1]
+					1469563967, -- [2]
+				}, -- [16]
+				{
+					3117, -- [1]
+					1469563967, -- [2]
+				}, -- [17]
+				{
+					3120, -- [1]
+					1469563967, -- [2]
+				}, -- [18]
+				{
+					1871, -- [1]
+					1470772727, -- [2]
+				}, -- [19]
+				{
+					1875, -- [1]
+					1470772727, -- [2]
+				}, -- [20]
+				{
+					1904, -- [1]
+					1470772727, -- [2]
+				}, -- [21]
+				{
+					1906, -- [1]
+					1470772727, -- [2]
+				}, -- [22]
+				{
+					1937, -- [1]
+					1470772727, -- [2]
+				}, -- [23]
+				{
+					1940, -- [1]
+					1470772727, -- [2]
+				}, -- [24]
+				{
+					1971, -- [1]
+					1470772727, -- [2]
+				}, -- [25]
+				{
+					1974, -- [1]
+					1470772727, -- [2]
+				}, -- [26]
+				{
+					2005, -- [1]
+					1470772727, -- [2]
+				}, -- [27]
+				{
+					2008, -- [1]
+					1470772727, -- [2]
+				}, -- [28]
+				{
+					2037, -- [1]
+					1470772727, -- [2]
+				}, -- [29]
+				{
+					2041, -- [1]
+					1470772727, -- [2]
+				}, -- [30]
+				{
+					2070, -- [1]
+					1470772727, -- [2]
+				}, -- [31]
+				{
+					2074, -- [1]
+					1470772727, -- [2]
+				}, -- [32]
+				{
+					2105, -- [1]
+					1470772727, -- [2]
+				}, -- [33]
+				{
+					2109, -- [1]
+					1470772727, -- [2]
+				}, -- [34]
+			},
+			["Disarm"] = {
+				{
+					3038, -- [1]
+					1469563967, -- [2]
+				}, -- [1]
+				{
+					3039, -- [1]
+					1469563967, -- [2]
+				}, -- [2]
+				{
+					3048, -- [1]
+					1469563967, -- [2]
+				}, -- [3]
+				{
+					3049, -- [1]
+					1469563967, -- [2]
+				}, -- [4]
+				{
+					3063, -- [1]
+					1469563967, -- [2]
+				}, -- [5]
+				{
+					3064, -- [1]
+					1469563967, -- [2]
+				}, -- [6]
+				{
+					3074, -- [1]
+					1469563967, -- [2]
+				}, -- [7]
+				{
+					3085, -- [1]
+					1469563967, -- [2]
+				}, -- [8]
+				{
+					3086, -- [1]
+					1469563967, -- [2]
+				}, -- [9]
+				{
+					3096, -- [1]
+					1469563967, -- [2]
+				}, -- [10]
+				{
+					3097, -- [1]
+					1469563967, -- [2]
+				}, -- [11]
+				{
+					3107, -- [1]
+					1469563967, -- [2]
+				}, -- [12]
+				{
+					3108, -- [1]
+					1469563967, -- [2]
+				}, -- [13]
+				{
+					3118, -- [1]
+					1469563967, -- [2]
+				}, -- [14]
+				{
+					3119, -- [1]
+					1469563967, -- [2]
+				}, -- [15]
+				{
+					2053, -- [1]
+					1470772727, -- [2]
+				}, -- [16]
+				{
+					2054, -- [1]
+					1470772727, -- [2]
+				}, -- [17]
+				{
+					2064, -- [1]
+					1470772727, -- [2]
+				}, -- [18]
+				{
+					2076, -- [1]
+					1470772727, -- [2]
+				}, -- [19]
+				{
+					2087, -- [1]
+					1470772727, -- [2]
+				}, -- [20]
+				{
+					2099, -- [1]
+					1470772727, -- [2]
+				}, -- [21]
+				{
+					2109, -- [1]
+					1470772727, -- [2]
+				}, -- [22]
+				{
+					2110, -- [1]
+					1470772727, -- [2]
+				}, -- [23]
+			},
+			["Reap"] = {
+				{
+					2910, -- [1]
+					1469563967, -- [2]
+				}, -- [1]
+				{
+					2976, -- [1]
+					1469563967, -- [2]
+				}, -- [2]
+				{
+					3041, -- [1]
+					1469563967, -- [2]
+				}, -- [3]
+				{
+					3103, -- [1]
+					1469563967, -- [2]
+				}, -- [4]
+				{
+					1922, -- [1]
+					1470772727, -- [2]
+				}, -- [5]
+				{
+					1990, -- [1]
+					1470772727, -- [2]
+				}, -- [6]
+				{
+					2058, -- [1]
+					1470772727, -- [2]
+				}, -- [7]
+				{
+					2092, -- [1]
+					1470772727, -- [2]
+				}, -- [8]
+			},
+			["Mark of the Necromancer"] = {
+				{
+					2847, -- [1]
+					1469563967, -- [2]
+				}, -- [1]
+				{
+					1860, -- [1]
+					1470772727, -- [2]
+				}, -- [2]
+			},
+			["Mirror Images"] = {
+				{
+					2994, -- [1]
+					1469563967, -- [2]
+				}, -- [1]
+				{
+					2007, -- [1]
+					1470772727, -- [2]
+				}, -- [2]
+			},
+			["Void Bolt"] = {
+				{
+					2855, -- [1]
+					1469563967, -- [2]
+				}, -- [1]
+				{
+					2873, -- [1]
+					1469563967, -- [2]
+				}, -- [2]
+				{
+					2876, -- [1]
+					1469563967, -- [2]
+				}, -- [3]
+				{
+					2878, -- [1]
+					1469563967, -- [2]
+				}, -- [4]
+				{
+					2880, -- [1]
+					1469563967, -- [2]
+				}, -- [5]
+				{
+					2883, -- [1]
+					1469563967, -- [2]
+				}, -- [6]
+				{
+					2885, -- [1]
+					1469563967, -- [2]
+				}, -- [7]
+				{
+					2888, -- [1]
+					1469563967, -- [2]
+				}, -- [8]
+				{
+					2906, -- [1]
+					1469563967, -- [2]
+				}, -- [9]
+				{
+					2913, -- [1]
+					1469563967, -- [2]
+				}, -- [10]
+				{
+					2916, -- [1]
+					1469563967, -- [2]
+				}, -- [11]
+				{
+					2918, -- [1]
+					1469563967, -- [2]
+				}, -- [12]
+				{
+					2920, -- [1]
+					1469563967, -- [2]
+				}, -- [13]
+				{
+					2939, -- [1]
+					1469563967, -- [2]
+				}, -- [14]
+				{
+					2941, -- [1]
+					1469563967, -- [2]
+				}, -- [15]
+				{
+					2943, -- [1]
+					1469563967, -- [2]
+				}, -- [16]
+				{
+					2946, -- [1]
+					1469563967, -- [2]
+				}, -- [17]
+				{
+					2948, -- [1]
+					1469563967, -- [2]
+				}, -- [18]
+				{
+					2951, -- [1]
+					1469563967, -- [2]
+				}, -- [19]
+				{
+					2953, -- [1]
+					1469563967, -- [2]
+				}, -- [20]
+				{
+					2979, -- [1]
+					1469563967, -- [2]
+				}, -- [21]
+				{
+					2981, -- [1]
+					1469563967, -- [2]
+				}, -- [22]
+				{
+					2984, -- [1]
+					1469563967, -- [2]
+				}, -- [23]
+				{
+					2986, -- [1]
+					1469563967, -- [2]
+				}, -- [24]
+				{
+					3010, -- [1]
+					1469563967, -- [2]
+				}, -- [25]
+				{
+					3013, -- [1]
+					1469563967, -- [2]
+				}, -- [26]
+				{
+					3015, -- [1]
+					1469563967, -- [2]
+				}, -- [27]
+				{
+					3037, -- [1]
+					1469563967, -- [2]
+				}, -- [28]
+				{
+					3044, -- [1]
+					1469563967, -- [2]
+				}, -- [29]
+				{
+					3047, -- [1]
+					1469563967, -- [2]
+				}, -- [30]
+				{
+					3049, -- [1]
+					1469563967, -- [2]
+				}, -- [31]
+				{
+					3052, -- [1]
+					1469563967, -- [2]
+				}, -- [32]
+				{
+					3070, -- [1]
+					1469563967, -- [2]
+				}, -- [33]
+				{
+					3072, -- [1]
+					1469563967, -- [2]
+				}, -- [34]
+				{
+					3075, -- [1]
+					1469563967, -- [2]
+				}, -- [35]
+				{
+					3077, -- [1]
+					1469563967, -- [2]
+				}, -- [36]
+				{
+					3079, -- [1]
+					1469563967, -- [2]
+				}, -- [37]
+				{
+					3082, -- [1]
+					1469563967, -- [2]
+				}, -- [38]
+				{
+					3084, -- [1]
+					1469563967, -- [2]
+				}, -- [39]
+				{
+					1867, -- [1]
+					1470772727, -- [2]
+				}, -- [40]
+				{
+					1869, -- [1]
+					1470772727, -- [2]
+				}, -- [41]
+				{
+					1887, -- [1]
+					1470772727, -- [2]
+				}, -- [42]
+				{
+					1890, -- [1]
+					1470772727, -- [2]
+				}, -- [43]
+				{
+					1892, -- [1]
+					1470772727, -- [2]
+				}, -- [44]
+				{
+					1895, -- [1]
+					1470772727, -- [2]
+				}, -- [45]
+				{
+					1897, -- [1]
+					1470772727, -- [2]
+				}, -- [46]
+				{
+					1900, -- [1]
+					1470772727, -- [2]
+				}, -- [47]
+				{
+					1902, -- [1]
+					1470772727, -- [2]
+				}, -- [48]
+				{
+					1925, -- [1]
+					1470772727, -- [2]
+				}, -- [49]
+				{
+					1928, -- [1]
+					1470772727, -- [2]
+				}, -- [50]
+				{
+					1930, -- [1]
+					1470772727, -- [2]
+				}, -- [51]
+				{
+					1966, -- [1]
+					1470772727, -- [2]
+				}, -- [52]
+				{
+					1969, -- [1]
+					1470772727, -- [2]
+				}, -- [53]
+				{
+					1993, -- [1]
+					1470772727, -- [2]
+				}, -- [54]
+				{
+					1995, -- [1]
+					1470772727, -- [2]
+				}, -- [55]
+				{
+					1998, -- [1]
+					1470772727, -- [2]
+				}, -- [56]
+				{
+					2000, -- [1]
+					1470772727, -- [2]
+				}, -- [57]
+				{
+					2003, -- [1]
+					1470772727, -- [2]
+				}, -- [58]
+				{
+					2021, -- [1]
+					1470772727, -- [2]
+				}, -- [59]
+				{
+					2023, -- [1]
+					1470772727, -- [2]
+				}, -- [60]
+				{
+					2026, -- [1]
+					1470772727, -- [2]
+				}, -- [61]
+				{
+					2028, -- [1]
+					1470772727, -- [2]
+				}, -- [62]
+				{
+					2030, -- [1]
+					1470772727, -- [2]
+				}, -- [63]
+				{
+					2033, -- [1]
+					1470772727, -- [2]
+				}, -- [64]
+				{
+					2035, -- [1]
+					1470772727, -- [2]
+				}, -- [65]
+				{
+					2054, -- [1]
+					1470772727, -- [2]
+				}, -- [66]
+				{
+					2061, -- [1]
+					1470772727, -- [2]
+				}, -- [67]
+				{
+					2063, -- [1]
+					1470772727, -- [2]
+				}, -- [68]
+				{
+					2066, -- [1]
+					1470772727, -- [2]
+				}, -- [69]
+				{
+					2068, -- [1]
+					1470772727, -- [2]
+				}, -- [70]
+				{
+					2087, -- [1]
+					1470772727, -- [2]
+				}, -- [71]
+				{
+					2095, -- [1]
+					1470772727, -- [2]
+				}, -- [72]
+			},
+			["Fel Rage"] = {
+				{
+					2870, -- [1]
+					1469563967, -- [2]
+				}, -- [1]
+				{
+					1883, -- [1]
+					1470772727, -- [2]
+				}, -- [2]
+			},
+			["Charge"] = {
+				{
+					1949, -- [1]
+					1470772727, -- [2]
 				}, -- [1]
 			},
 		},
 		["ids"] = {
-			["Fel Blast"] = 181134,
-			["Empowered Massive Blast"] = 185830,
-			["Felseeker"] = 181738,
-			["Fel Hellfire"] = 181192,
-			["Shadowforce"] = 181841,
-			["Fel Hellstorm"] = 181557,
-			["Mannoroth's Gaze"] = 181597,
-			["Shadow Bolt Volley"] = 181126,
-			["Empowered Glaive Thrust"] = 185831,
-			["Curse of the Legion"] = 181275,
-			["Empowered Fel Hellstorm"] = 181948,
-			["Glaive Thrust"] = 183377,
-			["Fel Streak"] = 181190,
-			["Massive Blast"] = 183376,
-			["Mark of Doom"] = 181099,
+			["Tainted Blood"] = 184357,
+			["Windwalk"] = 183480,
+			["Felstorm"] = 183701,
+			["Bloodboil"] = 184355,
+			["Nightmare Visage"] = 184673,
+			["Disarm"] = 41062,
+			["Reap"] = 184476,
+			["Mark of the Necromancer"] = 184449,
+			["Mirror Images"] = 183885,
+			["Void Bolt"] = 184675,
+			["Fel Rage"] = 184358,
+			["Charge"] = 184881,
 		},
 	},
-	["142516"] = {
+	["142515"] = {
 		["deaths"] = {
-			[17] = {
-				1470250342, -- [1]
-				1470250342, -- [2]
+			[135] = {
+				1470771383, -- [1]
+				1471381468, -- [2]
+			},
+			[87] = {
+				1471381468, -- [1]
+			},
+			[61] = {
+				1469561678, -- [1]
+			},
+			[62] = {
+				1471380668, -- [1]
+				1471380668, -- [2]
+				1471380668, -- [3]
+			},
+			[35] = {
+				1471380668, -- [1]
+			},
+			[198] = {
+				1471381468, -- [1]
+			},
+			[175] = {
+				1471381185, -- [1]
+			},
+			[76] = {
+				1471381185, -- [1]
+			},
+			[40] = {
+				1469561678, -- [1]
+			},
+			[80] = {
+				1471381185, -- [1]
+			},
+			[133] = {
+				1470771383, -- [1]
+			},
+			[94] = {
+				1470771383, -- [1]
+			},
+			[69] = {
+				1469561678, -- [1]
+			},
+			[60] = {
+				1471380668, -- [1]
+			},
+			[110] = {
+				1469561678, -- [1]
+			},
+			[85] = {
+				1471381185, -- [1]
+				1471381185, -- [2]
+			},
+			[48] = {
+				1469561678, -- [1]
 			},
 		},
 		["spells"] = {
-			["Artillery"] = {
+			["Full Charge"] = {
 				{
-					7069, -- [1]
-					1470250342, -- [2]
+					711, -- [1]
+					1469561678, -- [2]
 				}, -- [1]
 				{
-					7078, -- [1]
-					1470250342, -- [2]
+					693, -- [1]
+					1470771383, -- [2]
 				}, -- [2]
+				{
+					5829, -- [1]
+					1471381185, -- [2]
+				}, -- [3]
+				{
+					6123, -- [1]
+					1471381468, -- [2]
+				}, -- [4]
 			},
 			["Firebomb"] = {
 				{
-					7057, -- [1]
-					1470250342, -- [2]
+					721, -- [1]
+					1469561678, -- [2]
 				}, -- [1]
+				{
+					736, -- [1]
+					1469561678, -- [2]
+				}, -- [2]
+				{
+					751, -- [1]
+					1469561678, -- [2]
+				}, -- [3]
+				{
+					703, -- [1]
+					1470771383, -- [2]
+				}, -- [4]
+				{
+					718, -- [1]
+					1470771383, -- [2]
+				}, -- [5]
+				{
+					733, -- [1]
+					1470771383, -- [2]
+				}, -- [6]
+				{
+					5839, -- [1]
+					1471381185, -- [2]
+				}, -- [7]
+				{
+					5854, -- [1]
+					1471381185, -- [2]
+				}, -- [8]
+				{
+					5869, -- [1]
+					1471381185, -- [2]
+				}, -- [9]
+				{
+					6133, -- [1]
+					1471381468, -- [2]
+				}, -- [10]
+				{
+					6148, -- [1]
+					1471381468, -- [2]
+				}, -- [11]
+				{
+					6163, -- [1]
+					1471381468, -- [2]
+				}, -- [12]
+			},
+			["Fuel Streak"] = {
+				{
+					718, -- [1]
+					1469561678, -- [2]
+				}, -- [1]
+				{
+					733, -- [1]
+					1469561678, -- [2]
+				}, -- [2]
+				{
+					748, -- [1]
+					1469561678, -- [2]
+				}, -- [3]
+				{
+					701, -- [1]
+					1470771383, -- [2]
+				}, -- [4]
+				{
+					716, -- [1]
+					1470771383, -- [2]
+				}, -- [5]
+				{
+					731, -- [1]
+					1470771383, -- [2]
+				}, -- [6]
+				{
+					5836, -- [1]
+					1471381185, -- [2]
+				}, -- [7]
+				{
+					5851, -- [1]
+					1471381185, -- [2]
+				}, -- [8]
+				{
+					5867, -- [1]
+					1471381185, -- [2]
+				}, -- [9]
+				{
+					6130, -- [1]
+					1471381468, -- [2]
+				}, -- [10]
+				{
+					6145, -- [1]
+					1471381468, -- [2]
+				}, -- [11]
+				{
+					6160, -- [1]
+					1471381468, -- [2]
+				}, -- [12]
+			},
+			["Falling Slam"] = {
+				{
+					768, -- [1]
+					1469561678, -- [2]
+				}, -- [1]
+				{
+					750, -- [1]
+					1470771383, -- [2]
+				}, -- [2]
+				{
+					5886, -- [1]
+					1471381185, -- [2]
+				}, -- [3]
+				{
+					6180, -- [1]
+					1471381468, -- [2]
+				}, -- [4]
+			},
+			["Artillery"] = {
+				{
+					592, -- [1]
+					1469561678, -- [2]
+				}, -- [1]
+				{
+					601, -- [1]
+					1469561678, -- [2]
+				}, -- [2]
+				{
+					631, -- [1]
+					1469561678, -- [2]
+				}, -- [3]
+				{
+					646, -- [1]
+					1469561678, -- [2]
+				}, -- [4]
+				{
+					655, -- [1]
+					1469561678, -- [2]
+				}, -- [5]
+				{
+					679, -- [1]
+					1469561678, -- [2]
+				}, -- [6]
+				{
+					694, -- [1]
+					1469561678, -- [2]
+				}, -- [7]
+				{
+					730, -- [1]
+					1469561678, -- [2]
+				}, -- [8]
+				{
+					745, -- [1]
+					1469561678, -- [2]
+				}, -- [9]
+				{
+					760, -- [1]
+					1469561678, -- [2]
+				}, -- [10]
+				{
+					793, -- [1]
+					1469561678, -- [2]
+				}, -- [11]
+				{
+					802, -- [1]
+					1469561678, -- [2]
+				}, -- [12]
+				{
+					832, -- [1]
+					1469561678, -- [2]
+				}, -- [13]
+				{
+					575, -- [1]
+					1470771383, -- [2]
+				}, -- [14]
+				{
+					584, -- [1]
+					1470771383, -- [2]
+				}, -- [15]
+				{
+					614, -- [1]
+					1470771383, -- [2]
+				}, -- [16]
+				{
+					629, -- [1]
+					1470771383, -- [2]
+				}, -- [17]
+				{
+					638, -- [1]
+					1470771383, -- [2]
+				}, -- [18]
+				{
+					662, -- [1]
+					1470771383, -- [2]
+				}, -- [19]
+				{
+					677, -- [1]
+					1470771383, -- [2]
+				}, -- [20]
+				{
+					712, -- [1]
+					1470771383, -- [2]
+				}, -- [21]
+				{
+					727, -- [1]
+					1470771383, -- [2]
+				}, -- [22]
+				{
+					742, -- [1]
+					1470771383, -- [2]
+				}, -- [23]
+				{
+					5347, -- [1]
+					1471380668, -- [2]
+				}, -- [24]
+				{
+					5356, -- [1]
+					1471380668, -- [2]
+				}, -- [25]
+				{
+					5386, -- [1]
+					1471380668, -- [2]
+				}, -- [26]
+				{
+					5401, -- [1]
+					1471380668, -- [2]
+				}, -- [27]
+				{
+					5410, -- [1]
+					1471380668, -- [2]
+				}, -- [28]
+				{
+					5711, -- [1]
+					1471381185, -- [2]
+				}, -- [29]
+				{
+					5720, -- [1]
+					1471381185, -- [2]
+				}, -- [30]
+				{
+					5750, -- [1]
+					1471381185, -- [2]
+				}, -- [31]
+				{
+					5765, -- [1]
+					1471381185, -- [2]
+				}, -- [32]
+				{
+					5774, -- [1]
+					1471381185, -- [2]
+				}, -- [33]
+				{
+					5798, -- [1]
+					1471381185, -- [2]
+				}, -- [34]
+				{
+					5813, -- [1]
+					1471381185, -- [2]
+				}, -- [35]
+				{
+					5848, -- [1]
+					1471381185, -- [2]
+				}, -- [36]
+				{
+					5863, -- [1]
+					1471381185, -- [2]
+				}, -- [37]
+				{
+					5878, -- [1]
+					1471381185, -- [2]
+				}, -- [38]
+				{
+					5911, -- [1]
+					1471381185, -- [2]
+				}, -- [39]
+				{
+					5920, -- [1]
+					1471381185, -- [2]
+				}, -- [40]
+				{
+					6004, -- [1]
+					1471381468, -- [2]
+				}, -- [41]
+				{
+					6013, -- [1]
+					1471381468, -- [2]
+				}, -- [42]
+				{
+					6043, -- [1]
+					1471381468, -- [2]
+				}, -- [43]
+				{
+					6058, -- [1]
+					1471381468, -- [2]
+				}, -- [44]
+				{
+					6067, -- [1]
+					1471381468, -- [2]
+				}, -- [45]
+				{
+					6091, -- [1]
+					1471381468, -- [2]
+				}, -- [46]
+				{
+					6106, -- [1]
+					1471381468, -- [2]
+				}, -- [47]
+				{
+					6142, -- [1]
+					1471381468, -- [2]
+				}, -- [48]
+				{
+					6157, -- [1]
+					1471381468, -- [2]
+				}, -- [49]
+				{
+					6172, -- [1]
+					1471381468, -- [2]
+				}, -- [50]
+				{
+					6205, -- [1]
+					1471381468, -- [2]
+				}, -- [51]
+			},
+			["Immolation"] = {
+				{
+					723, -- [1]
+					1469561678, -- [2]
+				}, -- [1]
+				{
+					738, -- [1]
+					1469561678, -- [2]
+				}, -- [2]
+				{
+					753, -- [1]
+					1469561678, -- [2]
+				}, -- [3]
+				{
+					705, -- [1]
+					1470771383, -- [2]
+				}, -- [4]
+				{
+					720, -- [1]
+					1470771383, -- [2]
+				}, -- [5]
+				{
+					735, -- [1]
+					1470771383, -- [2]
+				}, -- [6]
+				{
+					5841, -- [1]
+					1471381185, -- [2]
+				}, -- [7]
+				{
+					5856, -- [1]
+					1471381185, -- [2]
+				}, -- [8]
+				{
+					5871, -- [1]
+					1471381185, -- [2]
+				}, -- [9]
+				{
+					6135, -- [1]
+					1471381468, -- [2]
+				}, -- [10]
+				{
+					6150, -- [1]
+					1471381468, -- [2]
+				}, -- [11]
+				{
+					6165, -- [1]
+					1471381468, -- [2]
+				}, -- [12]
+			},
+			["Blitz"] = {
+				{
+					635, -- [1]
+					1469561678, -- [2]
+				}, -- [1]
+				{
+					639, -- [1]
+					1469561678, -- [2]
+				}, -- [2]
+				{
+					698, -- [1]
+					1469561678, -- [2]
+				}, -- [3]
+				{
+					702, -- [1]
+					1469561678, -- [2]
+				}, -- [4]
+				{
+					618, -- [1]
+					1470771383, -- [2]
+				}, -- [5]
+				{
+					623, -- [1]
+					1470771383, -- [2]
+				}, -- [6]
+				{
+					681, -- [1]
+					1470771383, -- [2]
+				}, -- [7]
+				{
+					685, -- [1]
+					1470771383, -- [2]
+				}, -- [8]
+				{
+					5390, -- [1]
+					1471380668, -- [2]
+				}, -- [9]
+				{
+					5395, -- [1]
+					1471380668, -- [2]
+				}, -- [10]
+				{
+					5754, -- [1]
+					1471381185, -- [2]
+				}, -- [11]
+				{
+					5758, -- [1]
+					1471381185, -- [2]
+				}, -- [12]
+				{
+					5817, -- [1]
+					1471381185, -- [2]
+				}, -- [13]
+				{
+					5821, -- [1]
+					1471381185, -- [2]
+				}, -- [14]
+				{
+					6047, -- [1]
+					1471381468, -- [2]
+				}, -- [15]
+				{
+					6051, -- [1]
+					1471381468, -- [2]
+				}, -- [16]
+				{
+					6110, -- [1]
+					1471381468, -- [2]
+				}, -- [17]
+				{
+					6115, -- [1]
+					1471381468, -- [2]
+				}, -- [18]
 			},
 			["Barrage"] = {
 				{
-					7063, -- [1]
-					1470250342, -- [2]
+					586, -- [1]
+					1469561678, -- [2]
 				}, -- [1]
 				{
-					7093, -- [1]
-					1470250342, -- [2]
+					616, -- [1]
+					1469561678, -- [2]
 				}, -- [2]
+				{
+					628, -- [1]
+					1469561678, -- [2]
+				}, -- [3]
+				{
+					673, -- [1]
+					1469561678, -- [2]
+				}, -- [4]
+				{
+					787, -- [1]
+					1469561678, -- [2]
+				}, -- [5]
+				{
+					817, -- [1]
+					1469561678, -- [2]
+				}, -- [6]
+				{
+					829, -- [1]
+					1469561678, -- [2]
+				}, -- [7]
+				{
+					569, -- [1]
+					1470771383, -- [2]
+				}, -- [8]
+				{
+					599, -- [1]
+					1470771383, -- [2]
+				}, -- [9]
+				{
+					611, -- [1]
+					1470771383, -- [2]
+				}, -- [10]
+				{
+					656, -- [1]
+					1470771383, -- [2]
+				}, -- [11]
+				{
+					770, -- [1]
+					1470771383, -- [2]
+				}, -- [12]
+				{
+					5341, -- [1]
+					1471380668, -- [2]
+				}, -- [13]
+				{
+					5371, -- [1]
+					1471380668, -- [2]
+				}, -- [14]
+				{
+					5383, -- [1]
+					1471380668, -- [2]
+				}, -- [15]
+				{
+					5705, -- [1]
+					1471381185, -- [2]
+				}, -- [16]
+				{
+					5735, -- [1]
+					1471381185, -- [2]
+				}, -- [17]
+				{
+					5747, -- [1]
+					1471381185, -- [2]
+				}, -- [18]
+				{
+					5792, -- [1]
+					1471381185, -- [2]
+				}, -- [19]
+				{
+					5905, -- [1]
+					1471381185, -- [2]
+				}, -- [20]
+				{
+					5998, -- [1]
+					1471381468, -- [2]
+				}, -- [21]
+				{
+					6028, -- [1]
+					1471381468, -- [2]
+				}, -- [22]
+				{
+					6040, -- [1]
+					1471381468, -- [2]
+				}, -- [23]
+				{
+					6085, -- [1]
+					1471381468, -- [2]
+				}, -- [24]
+				{
+					6198, -- [1]
+					1471381468, -- [2]
+				}, -- [25]
 			},
 		},
 		["ids"] = {
-			["Artillery"] = 182094,
+			["Full Charge"] = 182055,
 			["Firebomb"] = 181999,
+			["Fuel Streak"] = 182668,
+			["Falling Slam"] = 182066,
+			["Artillery"] = 182094,
+			["Immolation"] = 179896,
+			["Blitz"] = 179889,
 			["Barrage"] = 185282,
 		},
 	},
-	["143316"] = {
+	["137215"] = {
 		["deaths"] = {
-			[126] = {
-				1470857245, -- [1]
-				1470857245, -- [2]
+			[285] = {
+				1469568322, -- [1]
 			},
-			[100] = {
-				1470255392, -- [1]
+			[118] = {
+				1470774117, -- [1]
 			},
-			[133] = {
-				1469648876, -- [1]
-			},
-			[8] = {
-				1470255392, -- [1]
-			},
-			[16] = {
-				1470255392, -- [1]
-			},
-			[109] = {
-				1470255392, -- [1]
-				1470255392, -- [2]
+			[205] = {
+				1469567779, -- [1]
 			},
 			[128] = {
-				1470857245, -- [1]
+				1469568322, -- [1]
 			},
-			[136] = {
-				1469648876, -- [1]
+			[68] = {
+				1470774117, -- [1]
 			},
-			[127] = {
-				1470857245, -- [1]
+			[198] = {
+				1469567355, -- [1]
 			},
-			[124] = {
-				1470857245, -- [1]
+			[109] = {
+				1469567779, -- [1]
 			},
-			[117] = {
-				1469648876, -- [1]
+			[83] = {
+				1469567355, -- [1]
+			},
+			[277] = {
+				1469568322, -- [1]
+			},
+			[101] = {
+				1470774587, -- [1]
+			},
+			[255] = {
+				1470774587, -- [1]
+			},
+			[90] = {
+				1469567779, -- [1]
+			},
+			[69] = {
+				1469567355, -- [1]
+			},
+			[94] = {
+				1469567355, -- [1]
+			},
+			[49] = {
+				1469567779, -- [1]
+			},
+			[283] = {
+				1470774587, -- [1]
+			},
+			[100] = {
+				1470774117, -- [1]
+			},
+			[138] = {
+				1469567779, -- [1]
+			},
+			[276] = {
+				1470774587, -- [1]
+			},
+			[239] = {
+				1469567355, -- [1]
+			},
+			[275] = {
+				1470774587, -- [1]
+			},
+			[110] = {
+				1470774117, -- [1]
+			},
+			[251] = {
+				1469568322, -- [1]
+				1469568322, -- [2]
+			},
+			[201] = {
+				1470774117, -- [1]
+			},
+		},
+		["spells"] = {
+			["Gathering Darkness"] = {
+				{
+					6378, -- [1]
+					1469567355, -- [2]
+				}, -- [1]
+				{
+					6913, -- [1]
+					1469567779, -- [2]
+				}, -- [2]
+				{
+					6921, -- [1]
+					1469567779, -- [2]
+				}, -- [3]
+				{
+					6928, -- [1]
+					1469567779, -- [2]
+				}, -- [4]
+				{
+					6932, -- [1]
+					1469567779, -- [2]
+				}, -- [5]
+				{
+					6936, -- [1]
+					1469567779, -- [2]
+				}, -- [6]
+			},
+			["Fel Flames"] = {
+				{
+					6156, -- [1]
+					1469567355, -- [2]
+				}, -- [1]
+				{
+					6707, -- [1]
+					1469567779, -- [2]
+				}, -- [2]
+				{
+					6883, -- [1]
+					1469567779, -- [2]
+				}, -- [3]
+				{
+					7357, -- [1]
+					1469568322, -- [2]
+				}, -- [4]
+				{
+					3289, -- [1]
+					1470774117, -- [2]
+				}, -- [5]
+				{
+					3476, -- [1]
+					1470774117, -- [2]
+				}, -- [6]
+				{
+					3675, -- [1]
+					1470774587, -- [2]
+				}, -- [7]
+				{
+					3860, -- [1]
+					1470774587, -- [2]
+				}, -- [8]
+			},
+			["Disarm"] = {
+				{
+					6159, -- [1]
+					1469567355, -- [2]
+				}, -- [1]
+				{
+					6169, -- [1]
+					1469567355, -- [2]
+				}, -- [2]
+				{
+					6179, -- [1]
+					1469567355, -- [2]
+				}, -- [3]
+				{
+					6187, -- [1]
+					1469567355, -- [2]
+				}, -- [4]
+				{
+					6197, -- [1]
+					1469567355, -- [2]
+				}, -- [5]
+				{
+					6223, -- [1]
+					1469567355, -- [2]
+				}, -- [6]
+				{
+					6232, -- [1]
+					1469567355, -- [2]
+				}, -- [7]
+				{
+					6338, -- [1]
+					1469567355, -- [2]
+				}, -- [8]
+				{
+					6348, -- [1]
+					1469567355, -- [2]
+				}, -- [9]
+				{
+					6358, -- [1]
+					1469567355, -- [2]
+				}, -- [10]
+				{
+					6382, -- [1]
+					1469567355, -- [2]
+				}, -- [11]
+				{
+					6411, -- [1]
+					1469567355, -- [2]
+				}, -- [12]
+				{
+					6710, -- [1]
+					1469567779, -- [2]
+				}, -- [13]
+				{
+					6728, -- [1]
+					1469567779, -- [2]
+				}, -- [14]
+				{
+					6738, -- [1]
+					1469567779, -- [2]
+				}, -- [15]
+				{
+					6745, -- [1]
+					1469567779, -- [2]
+				}, -- [16]
+				{
+					6763, -- [1]
+					1469567779, -- [2]
+				}, -- [17]
+				{
+					6907, -- [1]
+					1469567779, -- [2]
+				}, -- [18]
+				{
+					6925, -- [1]
+					1469567779, -- [2]
+				}, -- [19]
+				{
+					6931, -- [1]
+					1469567779, -- [2]
+				}, -- [20]
+				{
+					7168, -- [1]
+					1469568322, -- [2]
+				}, -- [21]
+				{
+					7178, -- [1]
+					1469568322, -- [2]
+				}, -- [22]
+				{
+					7188, -- [1]
+					1469568322, -- [2]
+				}, -- [23]
+				{
+					7196, -- [1]
+					1469568322, -- [2]
+				}, -- [24]
+				{
+					7205, -- [1]
+					1469568322, -- [2]
+				}, -- [25]
+				{
+					7211, -- [1]
+					1469568322, -- [2]
+				}, -- [26]
+				{
+					7231, -- [1]
+					1469568322, -- [2]
+				}, -- [27]
+				{
+					7241, -- [1]
+					1469568322, -- [2]
+				}, -- [28]
+				{
+					7351, -- [1]
+					1469568322, -- [2]
+				}, -- [29]
+				{
+					7379, -- [1]
+					1469568322, -- [2]
+				}, -- [30]
+				{
+					7389, -- [1]
+					1469568322, -- [2]
+				}, -- [31]
+				{
+					7395, -- [1]
+					1469568322, -- [2]
+				}, -- [32]
+				{
+					7424, -- [1]
+					1469568322, -- [2]
+				}, -- [33]
+				{
+					3293, -- [1]
+					1470774117, -- [2]
+				}, -- [34]
+				{
+					3321, -- [1]
+					1470774117, -- [2]
+				}, -- [35]
+				{
+					3331, -- [1]
+					1470774117, -- [2]
+				}, -- [36]
+				{
+					3366, -- [1]
+					1470774117, -- [2]
+				}, -- [37]
+				{
+					3475, -- [1]
+					1470774117, -- [2]
+				}, -- [38]
+				{
+					3485, -- [1]
+					1470774117, -- [2]
+				}, -- [39]
+				{
+					3495, -- [1]
+					1470774117, -- [2]
+				}, -- [40]
+				{
+					3677, -- [1]
+					1470774587, -- [2]
+				}, -- [41]
+				{
+					3705, -- [1]
+					1470774587, -- [2]
+				}, -- [42]
+				{
+					3716, -- [1]
+					1470774587, -- [2]
+				}, -- [43]
+				{
+					3722, -- [1]
+					1470774587, -- [2]
+				}, -- [44]
+				{
+					3742, -- [1]
+					1470774587, -- [2]
+				}, -- [45]
+				{
+					3751, -- [1]
+					1470774587, -- [2]
+				}, -- [46]
+				{
+					3860, -- [1]
+					1470774587, -- [2]
+				}, -- [47]
+				{
+					3870, -- [1]
+					1470774587, -- [2]
+				}, -- [48]
+				{
+					3880, -- [1]
+					1470774587, -- [2]
+				}, -- [49]
+				{
+					3888, -- [1]
+					1470774587, -- [2]
+				}, -- [50]
+				{
+					3904, -- [1]
+					1470774587, -- [2]
+				}, -- [51]
+				{
+					3933, -- [1]
+					1470774587, -- [2]
+				}, -- [52]
+			},
+			["Fel Fury"] = {
+				{
+					6145, -- [1]
+					1469567355, -- [2]
+				}, -- [1]
+				{
+					6323, -- [1]
+					1469567355, -- [2]
+				}, -- [2]
+				{
+					6505, -- [1]
+					1469567355, -- [2]
+				}, -- [3]
+				{
+					6686, -- [1]
+					1469567779, -- [2]
+				}, -- [4]
+				{
+					6697, -- [1]
+					1469567779, -- [2]
+				}, -- [5]
+				{
+					7153, -- [1]
+					1469568322, -- [2]
+				}, -- [6]
+			},
+			["Slam"] = {
+				{
+					6327, -- [1]
+					1469567355, -- [2]
+				}, -- [1]
+			},
+			["Surging Shadows"] = {
+				{
+					6123, -- [1]
+					1469567355, -- [2]
+				}, -- [1]
+				{
+					6128, -- [1]
+					1469567355, -- [2]
+				}, -- [2]
+				{
+					6156, -- [1]
+					1469567355, -- [2]
+				}, -- [3]
+				{
+					6166, -- [1]
+					1469567355, -- [2]
+				}, -- [4]
+				{
+					6174, -- [1]
+					1469567355, -- [2]
+				}, -- [5]
+				{
+					6181, -- [1]
+					1469567355, -- [2]
+				}, -- [6]
+				{
+					6198, -- [1]
+					1469567355, -- [2]
+				}, -- [7]
+				{
+					6203, -- [1]
+					1469567355, -- [2]
+				}, -- [8]
+				{
+					6217, -- [1]
+					1469567355, -- [2]
+				}, -- [9]
+				{
+					6225, -- [1]
+					1469567355, -- [2]
+				}, -- [10]
+				{
+					6231, -- [1]
+					1469567355, -- [2]
+				}, -- [11]
+				{
+					6302, -- [1]
+					1469567355, -- [2]
+				}, -- [12]
+				{
+					6307, -- [1]
+					1469567355, -- [2]
+				}, -- [13]
+				{
+					6335, -- [1]
+					1469567355, -- [2]
+				}, -- [14]
+				{
+					6345, -- [1]
+					1469567355, -- [2]
+				}, -- [15]
+				{
+					6353, -- [1]
+					1469567355, -- [2]
+				}, -- [16]
+				{
+					6360, -- [1]
+					1469567355, -- [2]
+				}, -- [17]
+				{
+					6377, -- [1]
+					1469567355, -- [2]
+				}, -- [18]
+				{
+					6382, -- [1]
+					1469567355, -- [2]
+				}, -- [19]
+				{
+					6396, -- [1]
+					1469567355, -- [2]
+				}, -- [20]
+				{
+					6404, -- [1]
+					1469567355, -- [2]
+				}, -- [21]
+				{
+					6410, -- [1]
+					1469567355, -- [2]
+				}, -- [22]
+				{
+					6483, -- [1]
+					1469567355, -- [2]
+				}, -- [23]
+				{
+					6488, -- [1]
+					1469567355, -- [2]
+				}, -- [24]
+				{
+					6664, -- [1]
+					1469567779, -- [2]
+				}, -- [25]
+				{
+					6669, -- [1]
+					1469567779, -- [2]
+				}, -- [26]
+				{
+					6707, -- [1]
+					1469567779, -- [2]
+				}, -- [27]
+				{
+					6715, -- [1]
+					1469567779, -- [2]
+				}, -- [28]
+				{
+					6722, -- [1]
+					1469567779, -- [2]
+				}, -- [29]
+				{
+					6739, -- [1]
+					1469567779, -- [2]
+				}, -- [30]
+				{
+					6744, -- [1]
+					1469567779, -- [2]
+				}, -- [31]
+				{
+					6758, -- [1]
+					1469567779, -- [2]
+				}, -- [32]
+				{
+					6766, -- [1]
+					1469567779, -- [2]
+				}, -- [33]
+				{
+					6772, -- [1]
+					1469567779, -- [2]
+				}, -- [34]
+				{
+					6851, -- [1]
+					1469567779, -- [2]
+				}, -- [35]
+				{
+					6856, -- [1]
+					1469567779, -- [2]
+				}, -- [36]
+				{
+					6871, -- [1]
+					1469567779, -- [2]
+				}, -- [37]
+				{
+					6878, -- [1]
+					1469567779, -- [2]
+				}, -- [38]
+				{
+					6884, -- [1]
+					1469567779, -- [2]
+				}, -- [39]
+				{
+					6894, -- [1]
+					1469567779, -- [2]
+				}, -- [40]
+				{
+					6902, -- [1]
+					1469567779, -- [2]
+				}, -- [41]
+				{
+					6909, -- [1]
+					1469567779, -- [2]
+				}, -- [42]
+				{
+					6926, -- [1]
+					1469567779, -- [2]
+				}, -- [43]
+				{
+					6931, -- [1]
+					1469567779, -- [2]
+				}, -- [44]
+				{
+					7132, -- [1]
+					1469568322, -- [2]
+				}, -- [45]
+				{
+					7137, -- [1]
+					1469568322, -- [2]
+				}, -- [46]
+				{
+					7175, -- [1]
+					1469568322, -- [2]
+				}, -- [47]
+				{
+					7183, -- [1]
+					1469568322, -- [2]
+				}, -- [48]
+				{
+					7190, -- [1]
+					1469568322, -- [2]
+				}, -- [49]
+				{
+					7207, -- [1]
+					1469568322, -- [2]
+				}, -- [50]
+				{
+					7212, -- [1]
+					1469568322, -- [2]
+				}, -- [51]
+				{
+					7226, -- [1]
+					1469568322, -- [2]
+				}, -- [52]
+				{
+					7234, -- [1]
+					1469568322, -- [2]
+				}, -- [53]
+				{
+					7240, -- [1]
+					1469568322, -- [2]
+				}, -- [54]
+				{
+					7315, -- [1]
+					1469568322, -- [2]
+				}, -- [55]
+				{
+					7320, -- [1]
+					1469568322, -- [2]
+				}, -- [56]
+				{
+					7335, -- [1]
+					1469568322, -- [2]
+				}, -- [57]
+				{
+					7342, -- [1]
+					1469568322, -- [2]
+				}, -- [58]
+				{
+					7348, -- [1]
+					1469568322, -- [2]
+				}, -- [59]
+				{
+					7358, -- [1]
+					1469568322, -- [2]
+				}, -- [60]
+				{
+					7366, -- [1]
+					1469568322, -- [2]
+				}, -- [61]
+				{
+					7373, -- [1]
+					1469568322, -- [2]
+				}, -- [62]
+				{
+					7390, -- [1]
+					1469568322, -- [2]
+				}, -- [63]
+				{
+					7395, -- [1]
+					1469568322, -- [2]
+				}, -- [64]
+				{
+					7409, -- [1]
+					1469568322, -- [2]
+				}, -- [65]
+				{
+					7417, -- [1]
+					1469568322, -- [2]
+				}, -- [66]
+				{
+					7423, -- [1]
+					1469568322, -- [2]
+				}, -- [67]
+				{
+					7480, -- [1]
+					1469568322, -- [2]
+				}, -- [68]
+				{
+					3257, -- [1]
+					1470774117, -- [2]
+				}, -- [69]
+				{
+					3262, -- [1]
+					1470774117, -- [2]
+				}, -- [70]
+				{
+					3277, -- [1]
+					1470774117, -- [2]
+				}, -- [71]
+				{
+					3284, -- [1]
+					1470774117, -- [2]
+				}, -- [72]
+				{
+					3290, -- [1]
+					1470774117, -- [2]
+				}, -- [73]
+				{
+					3300, -- [1]
+					1470774117, -- [2]
+				}, -- [74]
+				{
+					3308, -- [1]
+					1470774117, -- [2]
+				}, -- [75]
+				{
+					3315, -- [1]
+					1470774117, -- [2]
+				}, -- [76]
+				{
+					3332, -- [1]
+					1470774117, -- [2]
+				}, -- [77]
+				{
+					3337, -- [1]
+					1470774117, -- [2]
+				}, -- [78]
+				{
+					3351, -- [1]
+					1470774117, -- [2]
+				}, -- [79]
+				{
+					3359, -- [1]
+					1470774117, -- [2]
+				}, -- [80]
+				{
+					3365, -- [1]
+					1470774117, -- [2]
+				}, -- [81]
+				{
+					3439, -- [1]
+					1470774117, -- [2]
+				}, -- [82]
+				{
+					3444, -- [1]
+					1470774117, -- [2]
+				}, -- [83]
+				{
+					3459, -- [1]
+					1470774117, -- [2]
+				}, -- [84]
+				{
+					3466, -- [1]
+					1470774117, -- [2]
+				}, -- [85]
+				{
+					3472, -- [1]
+					1470774117, -- [2]
+				}, -- [86]
+				{
+					3482, -- [1]
+					1470774117, -- [2]
+				}, -- [87]
+				{
+					3490, -- [1]
+					1470774117, -- [2]
+				}, -- [88]
+				{
+					3497, -- [1]
+					1470774117, -- [2]
+				}, -- [89]
+				{
+					3641, -- [1]
+					1470774587, -- [2]
+				}, -- [90]
+				{
+					3646, -- [1]
+					1470774587, -- [2]
+				}, -- [91]
+				{
+					3661, -- [1]
+					1470774587, -- [2]
+				}, -- [92]
+				{
+					3668, -- [1]
+					1470774587, -- [2]
+				}, -- [93]
+				{
+					3674, -- [1]
+					1470774587, -- [2]
+				}, -- [94]
+				{
+					3684, -- [1]
+					1470774587, -- [2]
+				}, -- [95]
+				{
+					3692, -- [1]
+					1470774587, -- [2]
+				}, -- [96]
+				{
+					3699, -- [1]
+					1470774587, -- [2]
+				}, -- [97]
+				{
+					3716, -- [1]
+					1470774587, -- [2]
+				}, -- [98]
+				{
+					3721, -- [1]
+					1470774587, -- [2]
+				}, -- [99]
+				{
+					3735, -- [1]
+					1470774587, -- [2]
+				}, -- [100]
+				{
+					3743, -- [1]
+					1470774587, -- [2]
+				}, -- [101]
+				{
+					3749, -- [1]
+					1470774587, -- [2]
+				}, -- [102]
+				{
+					3824, -- [1]
+					1470774587, -- [2]
+				}, -- [103]
+				{
+					3829, -- [1]
+					1470774587, -- [2]
+				}, -- [104]
+				{
+					3844, -- [1]
+					1470774587, -- [2]
+				}, -- [105]
+				{
+					3851, -- [1]
+					1470774587, -- [2]
+				}, -- [106]
+				{
+					3857, -- [1]
+					1470774587, -- [2]
+				}, -- [107]
+				{
+					3867, -- [1]
+					1470774587, -- [2]
+				}, -- [108]
+				{
+					3875, -- [1]
+					1470774587, -- [2]
+				}, -- [109]
+				{
+					3882, -- [1]
+					1470774587, -- [2]
+				}, -- [110]
+				{
+					3899, -- [1]
+					1470774587, -- [2]
+				}, -- [111]
+				{
+					3904, -- [1]
+					1470774587, -- [2]
+				}, -- [112]
+				{
+					3926, -- [1]
+					1470774587, -- [2]
+				}, -- [113]
+				{
+					3932, -- [1]
+					1470774587, -- [2]
+				}, -- [114]
+			},
+			["Shared Fate"] = {
+				{
+					6131, -- [1]
+					1469567355, -- [2]
+				}, -- [1]
+				{
+					6159, -- [1]
+					1469567355, -- [2]
+				}, -- [2]
+				{
+					6184, -- [1]
+					1469567355, -- [2]
+				}, -- [3]
+				{
+					6206, -- [1]
+					1469567355, -- [2]
+				}, -- [4]
+				{
+					6309, -- [1]
+					1469567355, -- [2]
+				}, -- [5]
+				{
+					6337, -- [1]
+					1469567355, -- [2]
+				}, -- [6]
+				{
+					6362, -- [1]
+					1469567355, -- [2]
+				}, -- [7]
+				{
+					6384, -- [1]
+					1469567355, -- [2]
+				}, -- [8]
+				{
+					6491, -- [1]
+					1469567355, -- [2]
+				}, -- [9]
+				{
+					6672, -- [1]
+					1469567779, -- [2]
+				}, -- [10]
+				{
+					6725, -- [1]
+					1469567779, -- [2]
+				}, -- [11]
+				{
+					6747, -- [1]
+					1469567779, -- [2]
+				}, -- [12]
+				{
+					6859, -- [1]
+					1469567779, -- [2]
+				}, -- [13]
+				{
+					6887, -- [1]
+					1469567779, -- [2]
+				}, -- [14]
+				{
+					6934, -- [1]
+					1469567779, -- [2]
+				}, -- [15]
+				{
+					7139, -- [1]
+					1469568322, -- [2]
+				}, -- [16]
+				{
+					7167, -- [1]
+					1469568322, -- [2]
+				}, -- [17]
+				{
+					7192, -- [1]
+					1469568322, -- [2]
+				}, -- [18]
+				{
+					7214, -- [1]
+					1469568322, -- [2]
+				}, -- [19]
+				{
+					7323, -- [1]
+					1469568322, -- [2]
+				}, -- [20]
+				{
+					7351, -- [1]
+					1469568322, -- [2]
+				}, -- [21]
+				{
+					7376, -- [1]
+					1469568322, -- [2]
+				}, -- [22]
+				{
+					7398, -- [1]
+					1469568322, -- [2]
+				}, -- [23]
+				{
+					3264, -- [1]
+					1470774117, -- [2]
+				}, -- [24]
+				{
+					3292, -- [1]
+					1470774117, -- [2]
+				}, -- [25]
+				{
+					3317, -- [1]
+					1470774117, -- [2]
+				}, -- [26]
+				{
+					3339, -- [1]
+					1470774117, -- [2]
+				}, -- [27]
+				{
+					3447, -- [1]
+					1470774117, -- [2]
+				}, -- [28]
+				{
+					3475, -- [1]
+					1470774117, -- [2]
+				}, -- [29]
+				{
+					3500, -- [1]
+					1470774117, -- [2]
+				}, -- [30]
+				{
+					3649, -- [1]
+					1470774587, -- [2]
+				}, -- [31]
+				{
+					3677, -- [1]
+					1470774587, -- [2]
+				}, -- [32]
+				{
+					3702, -- [1]
+					1470774587, -- [2]
+				}, -- [33]
+				{
+					3724, -- [1]
+					1470774587, -- [2]
+				}, -- [34]
+				{
+					3832, -- [1]
+					1470774587, -- [2]
+				}, -- [35]
+				{
+					3860, -- [1]
+					1470774587, -- [2]
+				}, -- [36]
+				{
+					3885, -- [1]
+					1470774587, -- [2]
+				}, -- [37]
+				{
+					3907, -- [1]
+					1470774587, -- [2]
+				}, -- [38]
+			},
+			["Bellowing Shout"] = {
+				{
+					6169, -- [1]
+					1469567355, -- [2]
+				}, -- [1]
+				{
+					6348, -- [1]
+					1469567355, -- [2]
+				}, -- [2]
+				{
+					6691, -- [1]
+					1469567779, -- [2]
+				}, -- [3]
+				{
+					3502, -- [1]
+					1470774117, -- [2]
+				}, -- [4]
+				{
+					3884, -- [1]
+					1470774587, -- [2]
+				}, -- [5]
+				{
+					3898, -- [1]
+					1470774587, -- [2]
+				}, -- [6]
+			},
+			["Feast of Souls"] = {
+				{
+					6236, -- [1]
+					1469567355, -- [2]
+				}, -- [1]
+				{
+					6414, -- [1]
+					1469567355, -- [2]
+				}, -- [2]
+				{
+					6780, -- [1]
+					1469567779, -- [2]
+				}, -- [3]
+				{
+					7244, -- [1]
+					1469568322, -- [2]
+				}, -- [4]
+				{
+					7428, -- [1]
+					1469568322, -- [2]
+				}, -- [5]
+				{
+					3368, -- [1]
+					1470774117, -- [2]
+				}, -- [6]
+				{
+					3753, -- [1]
+					1470774587, -- [2]
+				}, -- [7]
+				{
+					3939, -- [1]
+					1470774587, -- [2]
+				}, -- [8]
+			},
+			["Touch of Doom"] = {
+				{
+					6121, -- [1]
+					1469567355, -- [2]
+				}, -- [1]
+				{
+					6171, -- [1]
+					1469567355, -- [2]
+				}, -- [2]
+				{
+					6196, -- [1]
+					1469567355, -- [2]
+				}, -- [3]
+				{
+					6221, -- [1]
+					1469567355, -- [2]
+				}, -- [4]
+				{
+					6299, -- [1]
+					1469567355, -- [2]
+				}, -- [5]
+				{
+					6349, -- [1]
+					1469567355, -- [2]
+				}, -- [6]
+				{
+					6374, -- [1]
+					1469567355, -- [2]
+				}, -- [7]
+				{
+					6399, -- [1]
+					1469567355, -- [2]
+				}, -- [8]
+				{
+					6481, -- [1]
+					1469567355, -- [2]
+				}, -- [9]
+				{
+					6662, -- [1]
+					1469567779, -- [2]
+				}, -- [10]
+				{
+					6712, -- [1]
+					1469567779, -- [2]
+				}, -- [11]
+				{
+					6737, -- [1]
+					1469567779, -- [2]
+				}, -- [12]
+				{
+					6762, -- [1]
+					1469567779, -- [2]
+				}, -- [13]
+				{
+					6849, -- [1]
+					1469567779, -- [2]
+				}, -- [14]
+				{
+					6874, -- [1]
+					1469567779, -- [2]
+				}, -- [15]
+				{
+					6899, -- [1]
+					1469567779, -- [2]
+				}, -- [16]
+				{
+					6924, -- [1]
+					1469567779, -- [2]
+				}, -- [17]
+				{
+					7129, -- [1]
+					1469568322, -- [2]
+				}, -- [18]
+				{
+					7179, -- [1]
+					1469568322, -- [2]
+				}, -- [19]
+				{
+					7204, -- [1]
+					1469568322, -- [2]
+				}, -- [20]
+				{
+					7229, -- [1]
+					1469568322, -- [2]
+				}, -- [21]
+				{
+					7313, -- [1]
+					1469568322, -- [2]
+				}, -- [22]
+				{
+					7338, -- [1]
+					1469568322, -- [2]
+				}, -- [23]
+				{
+					7363, -- [1]
+					1469568322, -- [2]
+				}, -- [24]
+				{
+					7388, -- [1]
+					1469568322, -- [2]
+				}, -- [25]
+				{
+					7413, -- [1]
+					1469568322, -- [2]
+				}, -- [26]
+				{
+					7477, -- [1]
+					1469568322, -- [2]
+				}, -- [27]
+				{
+					3254, -- [1]
+					1470774117, -- [2]
+				}, -- [28]
+				{
+					3279, -- [1]
+					1470774117, -- [2]
+				}, -- [29]
+				{
+					3304, -- [1]
+					1470774117, -- [2]
+				}, -- [30]
+				{
+					3329, -- [1]
+					1470774117, -- [2]
+				}, -- [31]
+				{
+					3354, -- [1]
+					1470774117, -- [2]
+				}, -- [32]
+				{
+					3437, -- [1]
+					1470774117, -- [2]
+				}, -- [33]
+				{
+					3462, -- [1]
+					1470774117, -- [2]
+				}, -- [34]
+				{
+					3487, -- [1]
+					1470774117, -- [2]
+				}, -- [35]
+				{
+					3639, -- [1]
+					1470774587, -- [2]
+				}, -- [36]
+				{
+					3664, -- [1]
+					1470774587, -- [2]
+				}, -- [37]
+				{
+					3689, -- [1]
+					1470774587, -- [2]
+				}, -- [38]
+				{
+					3714, -- [1]
+					1470774587, -- [2]
+				}, -- [39]
+				{
+					3739, -- [1]
+					1470774587, -- [2]
+				}, -- [40]
+				{
+					3822, -- [1]
+					1470774587, -- [2]
+				}, -- [41]
+				{
+					3847, -- [1]
+					1470774587, -- [2]
+				}, -- [42]
+				{
+					3872, -- [1]
+					1470774587, -- [2]
+				}, -- [43]
+				{
+					3897, -- [1]
+					1470774587, -- [2]
+				}, -- [44]
+				{
+					3922, -- [1]
+					1470774587, -- [2]
+				}, -- [45]
+			},
+			["Hunger for Life"] = {
+				{
+					6158, -- [1]
+					1469567355, -- [2]
+				}, -- [1]
+				{
+					6162, -- [1]
+					1469567355, -- [2]
+				}, -- [2]
+				{
+					6170, -- [1]
+					1469567355, -- [2]
+				}, -- [3]
+				{
+					6172, -- [1]
+					1469567355, -- [2]
+				}, -- [4]
+				{
+					6176, -- [1]
+					1469567355, -- [2]
+				}, -- [5]
+				{
+					6183, -- [1]
+					1469567355, -- [2]
+				}, -- [6]
+				{
+					6186, -- [1]
+					1469567355, -- [2]
+				}, -- [7]
+				{
+					6201, -- [1]
+					1469567355, -- [2]
+				}, -- [8]
+				{
+					6210, -- [1]
+					1469567355, -- [2]
+				}, -- [9]
+				{
+					6214, -- [1]
+					1469567355, -- [2]
+				}, -- [10]
+				{
+					6218, -- [1]
+					1469567355, -- [2]
+				}, -- [11]
+				{
+					6222, -- [1]
+					1469567355, -- [2]
+				}, -- [12]
+				{
+					6226, -- [1]
+					1469567355, -- [2]
+				}, -- [13]
+				{
+					6231, -- [1]
+					1469567355, -- [2]
+				}, -- [14]
+				{
+					6239, -- [1]
+					1469567355, -- [2]
+				}, -- [15]
+				{
+					6240, -- [1]
+					1469567355, -- [2]
+				}, -- [16]
+				{
+					6337, -- [1]
+					1469567355, -- [2]
+				}, -- [17]
+				{
+					6341, -- [1]
+					1469567355, -- [2]
+				}, -- [18]
+				{
+					6342, -- [1]
+					1469567355, -- [2]
+				}, -- [19]
+				{
+					6345, -- [1]
+					1469567355, -- [2]
+				}, -- [20]
+				{
+					6346, -- [1]
+					1469567355, -- [2]
+				}, -- [21]
+				{
+					6349, -- [1]
+					1469567355, -- [2]
+				}, -- [22]
+				{
+					6352, -- [1]
+					1469567355, -- [2]
+				}, -- [23]
+				{
+					6354, -- [1]
+					1469567355, -- [2]
+				}, -- [24]
+				{
+					6357, -- [1]
+					1469567355, -- [2]
+				}, -- [25]
+				{
+					6371, -- [1]
+					1469567355, -- [2]
+				}, -- [26]
+				{
+					6372, -- [1]
+					1469567355, -- [2]
+				}, -- [27]
+				{
+					6380, -- [1]
+					1469567355, -- [2]
+				}, -- [28]
+				{
+					6381, -- [1]
+					1469567355, -- [2]
+				}, -- [29]
+				{
+					6382, -- [1]
+					1469567355, -- [2]
+				}, -- [30]
+				{
+					6383, -- [1]
+					1469567355, -- [2]
+				}, -- [31]
+				{
+					6383, -- [1]
+					1469567355, -- [2]
+				}, -- [32]
+				{
+					6385, -- [1]
+					1469567355, -- [2]
+				}, -- [33]
+				{
+					6389, -- [1]
+					1469567355, -- [2]
+				}, -- [34]
+				{
+					6392, -- [1]
+					1469567355, -- [2]
+				}, -- [35]
+				{
+					6397, -- [1]
+					1469567355, -- [2]
+				}, -- [36]
+				{
+					6400, -- [1]
+					1469567355, -- [2]
+				}, -- [37]
+				{
+					6408, -- [1]
+					1469567355, -- [2]
+				}, -- [38]
+				{
+					6409, -- [1]
+					1469567355, -- [2]
+				}, -- [39]
+				{
+					6416, -- [1]
+					1469567355, -- [2]
+				}, -- [40]
+				{
+					6417, -- [1]
+					1469567355, -- [2]
+				}, -- [41]
+				{
+					6417, -- [1]
+					1469567355, -- [2]
+				}, -- [42]
+				{
+					6420, -- [1]
+					1469567355, -- [2]
+				}, -- [43]
+				{
+					6707, -- [1]
+					1469567779, -- [2]
+				}, -- [44]
+				{
+					6710, -- [1]
+					1469567779, -- [2]
+				}, -- [45]
+				{
+					6716, -- [1]
+					1469567779, -- [2]
+				}, -- [46]
+				{
+					6723, -- [1]
+					1469567779, -- [2]
+				}, -- [47]
+				{
+					6731, -- [1]
+					1469567779, -- [2]
+				}, -- [48]
+				{
+					6732, -- [1]
+					1469567779, -- [2]
+				}, -- [49]
+				{
+					6736, -- [1]
+					1469567779, -- [2]
+				}, -- [50]
+				{
+					6739, -- [1]
+					1469567779, -- [2]
+				}, -- [51]
+				{
+					6742, -- [1]
+					1469567779, -- [2]
+				}, -- [52]
+				{
+					6743, -- [1]
+					1469567779, -- [2]
+				}, -- [53]
+				{
+					6753, -- [1]
+					1469567779, -- [2]
+				}, -- [54]
+				{
+					6767, -- [1]
+					1469567779, -- [2]
+				}, -- [55]
+				{
+					6771, -- [1]
+					1469567779, -- [2]
+				}, -- [56]
+				{
+					6783, -- [1]
+					1469567779, -- [2]
+				}, -- [57]
+				{
+					6792, -- [1]
+					1469567779, -- [2]
+				}, -- [58]
+				{
+					6874, -- [1]
+					1469567779, -- [2]
+				}, -- [59]
+				{
+					6881, -- [1]
+					1469567779, -- [2]
+				}, -- [60]
+				{
+					6883, -- [1]
+					1469567779, -- [2]
+				}, -- [61]
+				{
+					6885, -- [1]
+					1469567779, -- [2]
+				}, -- [62]
+				{
+					6894, -- [1]
+					1469567779, -- [2]
+				}, -- [63]
+				{
+					6895, -- [1]
+					1469567779, -- [2]
+				}, -- [64]
+				{
+					6898, -- [1]
+					1469567779, -- [2]
+				}, -- [65]
+				{
+					6903, -- [1]
+					1469567779, -- [2]
+				}, -- [66]
+				{
+					6909, -- [1]
+					1469567779, -- [2]
+				}, -- [67]
+				{
+					6915, -- [1]
+					1469567779, -- [2]
+				}, -- [68]
+				{
+					6917, -- [1]
+					1469567779, -- [2]
+				}, -- [69]
+				{
+					6919, -- [1]
+					1469567779, -- [2]
+				}, -- [70]
+				{
+					6919, -- [1]
+					1469567779, -- [2]
+				}, -- [71]
+				{
+					6921, -- [1]
+					1469567779, -- [2]
+				}, -- [72]
+				{
+					6923, -- [1]
+					1469567779, -- [2]
+				}, -- [73]
+				{
+					6925, -- [1]
+					1469567779, -- [2]
+				}, -- [74]
+				{
+					6925, -- [1]
+					1469567779, -- [2]
+				}, -- [75]
+				{
+					6930, -- [1]
+					1469567779, -- [2]
+				}, -- [76]
+				{
+					6934, -- [1]
+					1469567779, -- [2]
+				}, -- [77]
+				{
+					7167, -- [1]
+					1469568322, -- [2]
+				}, -- [78]
+				{
+					7172, -- [1]
+					1469568322, -- [2]
+				}, -- [79]
+				{
+					7186, -- [1]
+					1469568322, -- [2]
+				}, -- [80]
+				{
+					7198, -- [1]
+					1469568322, -- [2]
+				}, -- [81]
+				{
+					7203, -- [1]
+					1469568322, -- [2]
+				}, -- [82]
+				{
+					7210, -- [1]
+					1469568322, -- [2]
+				}, -- [83]
+				{
+					7218, -- [1]
+					1469568322, -- [2]
+				}, -- [84]
+				{
+					7223, -- [1]
+					1469568322, -- [2]
+				}, -- [85]
+				{
+					7230, -- [1]
+					1469568322, -- [2]
+				}, -- [86]
+				{
+					7238, -- [1]
+					1469568322, -- [2]
+				}, -- [87]
+				{
+					7333, -- [1]
+					1469568322, -- [2]
+				}, -- [88]
+				{
+					7354, -- [1]
+					1469568322, -- [2]
+				}, -- [89]
+				{
+					7358, -- [1]
+					1469568322, -- [2]
+				}, -- [90]
+				{
+					7371, -- [1]
+					1469568322, -- [2]
+				}, -- [91]
+				{
+					7377, -- [1]
+					1469568322, -- [2]
+				}, -- [92]
+				{
+					7378, -- [1]
+					1469568322, -- [2]
+				}, -- [93]
+				{
+					7382, -- [1]
+					1469568322, -- [2]
+				}, -- [94]
+				{
+					7383, -- [1]
+					1469568322, -- [2]
+				}, -- [95]
+				{
+					7386, -- [1]
+					1469568322, -- [2]
+				}, -- [96]
+				{
+					7394, -- [1]
+					1469568322, -- [2]
+				}, -- [97]
+				{
+					7397, -- [1]
+					1469568322, -- [2]
+				}, -- [98]
+				{
+					7399, -- [1]
+					1469568322, -- [2]
+				}, -- [99]
+				{
+					7403, -- [1]
+					1469568322, -- [2]
+				}, -- [100]
+				{
+					7405, -- [1]
+					1469568322, -- [2]
+				}, -- [101]
+				{
+					7409, -- [1]
+					1469568322, -- [2]
+				}, -- [102]
+				{
+					7409, -- [1]
+					1469568322, -- [2]
+				}, -- [103]
+				{
+					7418, -- [1]
+					1469568322, -- [2]
+				}, -- [104]
+				{
+					7422, -- [1]
+					1469568322, -- [2]
+				}, -- [105]
+				{
+					7429, -- [1]
+					1469568322, -- [2]
+				}, -- [106]
+				{
+					3275, -- [1]
+					1470774117, -- [2]
+				}, -- [107]
+				{
+					3279, -- [1]
+					1470774117, -- [2]
+				}, -- [108]
+				{
+					3291, -- [1]
+					1470774117, -- [2]
+				}, -- [109]
+				{
+					3296, -- [1]
+					1470774117, -- [2]
+				}, -- [110]
+				{
+					3300, -- [1]
+					1470774117, -- [2]
+				}, -- [111]
+				{
+					3304, -- [1]
+					1470774117, -- [2]
+				}, -- [112]
+				{
+					3311, -- [1]
+					1470774117, -- [2]
+				}, -- [113]
+				{
+					3318, -- [1]
+					1470774117, -- [2]
+				}, -- [114]
+				{
+					3321, -- [1]
+					1470774117, -- [2]
+				}, -- [115]
+				{
+					3327, -- [1]
+					1470774117, -- [2]
+				}, -- [116]
+				{
+					3335, -- [1]
+					1470774117, -- [2]
+				}, -- [117]
+				{
+					3336, -- [1]
+					1470774117, -- [2]
+				}, -- [118]
+				{
+					3339, -- [1]
+					1470774117, -- [2]
+				}, -- [119]
+				{
+					3352, -- [1]
+					1470774117, -- [2]
+				}, -- [120]
+				{
+					3355, -- [1]
+					1470774117, -- [2]
+				}, -- [121]
+				{
+					3355, -- [1]
+					1470774117, -- [2]
+				}, -- [122]
+				{
+					3359, -- [1]
+					1470774117, -- [2]
+				}, -- [123]
+				{
+					3363, -- [1]
+					1470774117, -- [2]
+				}, -- [124]
+				{
+					3363, -- [1]
+					1470774117, -- [2]
+				}, -- [125]
+				{
+					3461, -- [1]
+					1470774117, -- [2]
+				}, -- [126]
+				{
+					3468, -- [1]
+					1470774117, -- [2]
+				}, -- [127]
+				{
+					3473, -- [1]
+					1470774117, -- [2]
+				}, -- [128]
+				{
+					3473, -- [1]
+					1470774117, -- [2]
+				}, -- [129]
+				{
+					3482, -- [1]
+					1470774117, -- [2]
+				}, -- [130]
+				{
+					3482, -- [1]
+					1470774117, -- [2]
+				}, -- [131]
+				{
+					3484, -- [1]
+					1470774117, -- [2]
+				}, -- [132]
+				{
+					3486, -- [1]
+					1470774117, -- [2]
+				}, -- [133]
+				{
+					3490, -- [1]
+					1470774117, -- [2]
+				}, -- [134]
+				{
+					3494, -- [1]
+					1470774117, -- [2]
+				}, -- [135]
+				{
+					3498, -- [1]
+					1470774117, -- [2]
+				}, -- [136]
+				{
+					3499, -- [1]
+					1470774117, -- [2]
+				}, -- [137]
+				{
+					3500, -- [1]
+					1470774117, -- [2]
+				}, -- [138]
+				{
+					3501, -- [1]
+					1470774117, -- [2]
+				}, -- [139]
+				{
+					3501, -- [1]
+					1470774117, -- [2]
+				}, -- [140]
+				{
+					3502, -- [1]
+					1470774117, -- [2]
+				}, -- [141]
+				{
+					3504, -- [1]
+					1470774117, -- [2]
+				}, -- [142]
+				{
+					3505, -- [1]
+					1470774117, -- [2]
+				}, -- [143]
+				{
+					3661, -- [1]
+					1470774587, -- [2]
+				}, -- [144]
+				{
+					3670, -- [1]
+					1470774587, -- [2]
+				}, -- [145]
+				{
+					3684, -- [1]
+					1470774587, -- [2]
+				}, -- [146]
+				{
+					3685, -- [1]
+					1470774587, -- [2]
+				}, -- [147]
+				{
+					3688, -- [1]
+					1470774587, -- [2]
+				}, -- [148]
+				{
+					3693, -- [1]
+					1470774587, -- [2]
+				}, -- [149]
+				{
+					3696, -- [1]
+					1470774587, -- [2]
+				}, -- [150]
+				{
+					3704, -- [1]
+					1470774587, -- [2]
+				}, -- [151]
+				{
+					3708, -- [1]
+					1470774587, -- [2]
+				}, -- [152]
+				{
+					3709, -- [1]
+					1470774587, -- [2]
+				}, -- [153]
+				{
+					3712, -- [1]
+					1470774587, -- [2]
+				}, -- [154]
+				{
+					3712, -- [1]
+					1470774587, -- [2]
+				}, -- [155]
+				{
+					3713, -- [1]
+					1470774587, -- [2]
+				}, -- [156]
+				{
+					3720, -- [1]
+					1470774587, -- [2]
+				}, -- [157]
+				{
+					3724, -- [1]
+					1470774587, -- [2]
+				}, -- [158]
+				{
+					3731, -- [1]
+					1470774587, -- [2]
+				}, -- [159]
+				{
+					3749, -- [1]
+					1470774587, -- [2]
+				}, -- [160]
+				{
+					3848, -- [1]
+					1470774587, -- [2]
+				}, -- [161]
+				{
+					3860, -- [1]
+					1470774587, -- [2]
+				}, -- [162]
+				{
+					3865, -- [1]
+					1470774587, -- [2]
+				}, -- [163]
+				{
+					3871, -- [1]
+					1470774587, -- [2]
+				}, -- [164]
+				{
+					3875, -- [1]
+					1470774587, -- [2]
+				}, -- [165]
+				{
+					3926, -- [1]
+					1470774587, -- [2]
+				}, -- [166]
+				{
+					3930, -- [1]
+					1470774587, -- [2]
+				}, -- [167]
+				{
+					3931, -- [1]
+					1470774587, -- [2]
+				}, -- [168]
+				{
+					3934, -- [1]
+					1470774587, -- [2]
+				}, -- [169]
+				{
+					3941, -- [1]
+					1470774587, -- [2]
+				}, -- [170]
+				{
+					3941, -- [1]
+					1470774587, -- [2]
+				}, -- [171]
+			},
+			["Raging Charge"] = {
+				{
+					6920, -- [1]
+					1469567779, -- [2]
+				}, -- [1]
+				{
+					6921, -- [1]
+					1469567779, -- [2]
+				}, -- [2]
+				{
+					7167, -- [1]
+					1469568322, -- [2]
+				}, -- [3]
+				{
+					7167, -- [1]
+					1469568322, -- [2]
+				}, -- [4]
+			},
+			["Gorebound Fortitude"] = {
+				{
+					6147, -- [1]
+					1469567355, -- [2]
+				}, -- [1]
+				{
+					6326, -- [1]
+					1469567355, -- [2]
+				}, -- [2]
+				{
+					6698, -- [1]
+					1469567779, -- [2]
+				}, -- [3]
+				{
+					7154, -- [1]
+					1469568322, -- [2]
+				}, -- [4]
+			},
+			["Spirit Volley"] = {
+				{
+					6165, -- [1]
+					1469567355, -- [2]
+				}, -- [1]
+				{
+					6169, -- [1]
+					1469567355, -- [2]
+				}, -- [2]
+				{
+					6176, -- [1]
+					1469567355, -- [2]
+				}, -- [3]
+				{
+					6193, -- [1]
+					1469567355, -- [2]
+				}, -- [4]
+				{
+					6197, -- [1]
+					1469567355, -- [2]
+				}, -- [5]
+				{
+					6203, -- [1]
+					1469567355, -- [2]
+				}, -- [6]
+				{
+					6207, -- [1]
+					1469567355, -- [2]
+				}, -- [7]
+				{
+					6230, -- [1]
+					1469567355, -- [2]
+				}, -- [8]
+				{
+					6346, -- [1]
+					1469567355, -- [2]
+				}, -- [9]
+				{
+					6350, -- [1]
+					1469567355, -- [2]
+				}, -- [10]
+				{
+					6354, -- [1]
+					1469567355, -- [2]
+				}, -- [11]
+				{
+					6355, -- [1]
+					1469567355, -- [2]
+				}, -- [12]
+				{
+					6357, -- [1]
+					1469567355, -- [2]
+				}, -- [13]
+				{
+					6359, -- [1]
+					1469567355, -- [2]
+				}, -- [14]
+				{
+					6361, -- [1]
+					1469567355, -- [2]
+				}, -- [15]
+				{
+					6362, -- [1]
+					1469567355, -- [2]
+				}, -- [16]
+				{
+					6365, -- [1]
+					1469567355, -- [2]
+				}, -- [17]
+				{
+					6366, -- [1]
+					1469567355, -- [2]
+				}, -- [18]
+				{
+					6368, -- [1]
+					1469567355, -- [2]
+				}, -- [19]
+				{
+					6369, -- [1]
+					1469567355, -- [2]
+				}, -- [20]
+				{
+					6373, -- [1]
+					1469567355, -- [2]
+				}, -- [21]
+				{
+					6377, -- [1]
+					1469567355, -- [2]
+				}, -- [22]
+				{
+					6389, -- [1]
+					1469567355, -- [2]
+				}, -- [23]
+				{
+					6417, -- [1]
+					1469567355, -- [2]
+				}, -- [24]
+				{
+					6420, -- [1]
+					1469567355, -- [2]
+				}, -- [25]
+				{
+					6424, -- [1]
+					1469567355, -- [2]
+				}, -- [26]
+				{
+					6428, -- [1]
+					1469567355, -- [2]
+				}, -- [27]
+				{
+					6431, -- [1]
+					1469567355, -- [2]
+				}, -- [28]
+				{
+					6435, -- [1]
+					1469567355, -- [2]
+				}, -- [29]
+				{
+					6439, -- [1]
+					1469567355, -- [2]
+				}, -- [30]
+				{
+					6442, -- [1]
+					1469567355, -- [2]
+				}, -- [31]
+				{
+					6716, -- [1]
+					1469567779, -- [2]
+				}, -- [32]
+				{
+					6769, -- [1]
+					1469567779, -- [2]
+				}, -- [33]
+				{
+					6773, -- [1]
+					1469567779, -- [2]
+				}, -- [34]
+				{
+					6914, -- [1]
+					1469567779, -- [2]
+				}, -- [35]
+				{
+					6917, -- [1]
+					1469567779, -- [2]
+				}, -- [36]
+				{
+					6921, -- [1]
+					1469567779, -- [2]
+				}, -- [37]
+				{
+					6925, -- [1]
+					1469567779, -- [2]
+				}, -- [38]
+				{
+					6928, -- [1]
+					1469567779, -- [2]
+				}, -- [39]
+				{
+					6932, -- [1]
+					1469567779, -- [2]
+				}, -- [40]
+				{
+					6936, -- [1]
+					1469567779, -- [2]
+				}, -- [41]
+				{
+					7175, -- [1]
+					1469568322, -- [2]
+				}, -- [42]
+				{
+					7179, -- [1]
+					1469568322, -- [2]
+				}, -- [43]
+				{
+					7183, -- [1]
+					1469568322, -- [2]
+				}, -- [44]
+				{
+					7203, -- [1]
+					1469568322, -- [2]
+				}, -- [45]
+				{
+					7211, -- [1]
+					1469568322, -- [2]
+				}, -- [46]
+				{
+					7248, -- [1]
+					1469568322, -- [2]
+				}, -- [47]
+				{
+					7252, -- [1]
+					1469568322, -- [2]
+				}, -- [48]
+				{
+					7357, -- [1]
+					1469568322, -- [2]
+				}, -- [49]
+				{
+					7396, -- [1]
+					1469568322, -- [2]
+				}, -- [50]
+				{
+					7400, -- [1]
+					1469568322, -- [2]
+				}, -- [51]
+				{
+					7403, -- [1]
+					1469568322, -- [2]
+				}, -- [52]
+				{
+					7407, -- [1]
+					1469568322, -- [2]
+				}, -- [53]
+				{
+					7411, -- [1]
+					1469568322, -- [2]
+				}, -- [54]
+				{
+					7414, -- [1]
+					1469568322, -- [2]
+				}, -- [55]
+				{
+					7418, -- [1]
+					1469568322, -- [2]
+				}, -- [56]
+				{
+					7422, -- [1]
+					1469568322, -- [2]
+				}, -- [57]
+				{
+					7425, -- [1]
+					1469568322, -- [2]
+				}, -- [58]
+				{
+					7430, -- [1]
+					1469568322, -- [2]
+				}, -- [59]
+				{
+					7434, -- [1]
+					1469568322, -- [2]
+				}, -- [60]
+				{
+					3300, -- [1]
+					1470774117, -- [2]
+				}, -- [61]
+				{
+					3304, -- [1]
+					1470774117, -- [2]
+				}, -- [62]
+				{
+					3327, -- [1]
+					1470774117, -- [2]
+				}, -- [63]
+				{
+					3331, -- [1]
+					1470774117, -- [2]
+				}, -- [64]
+				{
+					3334, -- [1]
+					1470774117, -- [2]
+				}, -- [65]
+				{
+					3338, -- [1]
+					1470774117, -- [2]
+				}, -- [66]
+				{
+					3342, -- [1]
+					1470774117, -- [2]
+				}, -- [67]
+				{
+					3373, -- [1]
+					1470774117, -- [2]
+				}, -- [68]
+				{
+					3481, -- [1]
+					1470774117, -- [2]
+				}, -- [69]
+				{
+					3485, -- [1]
+					1470774117, -- [2]
+				}, -- [70]
+				{
+					3488, -- [1]
+					1470774117, -- [2]
+				}, -- [71]
+				{
+					3492, -- [1]
+					1470774117, -- [2]
+				}, -- [72]
+				{
+					3496, -- [1]
+					1470774117, -- [2]
+				}, -- [73]
+				{
+					3499, -- [1]
+					1470774117, -- [2]
+				}, -- [74]
+				{
+					3502, -- [1]
+					1470774117, -- [2]
+				}, -- [75]
+				{
+					3503, -- [1]
+					1470774117, -- [2]
+				}, -- [76]
+				{
+					3505, -- [1]
+					1470774117, -- [2]
+				}, -- [77]
+				{
+					3685, -- [1]
+					1470774587, -- [2]
+				}, -- [78]
+				{
+					3689, -- [1]
+					1470774587, -- [2]
+				}, -- [79]
+				{
+					3693, -- [1]
+					1470774587, -- [2]
+				}, -- [80]
+				{
+					3696, -- [1]
+					1470774587, -- [2]
+				}, -- [81]
+				{
+					3700, -- [1]
+					1470774587, -- [2]
+				}, -- [82]
+				{
+					3704, -- [1]
+					1470774587, -- [2]
+				}, -- [83]
+				{
+					3712, -- [1]
+					1470774587, -- [2]
+				}, -- [84]
+				{
+					3716, -- [1]
+					1470774587, -- [2]
+				}, -- [85]
+				{
+					3719, -- [1]
+					1470774587, -- [2]
+				}, -- [86]
+				{
+					3721, -- [1]
+					1470774587, -- [2]
+				}, -- [87]
+				{
+					3724, -- [1]
+					1470774587, -- [2]
+				}, -- [88]
+				{
+					3728, -- [1]
+					1470774587, -- [2]
+				}, -- [89]
+				{
+					3732, -- [1]
+					1470774587, -- [2]
+				}, -- [90]
+				{
+					3749, -- [1]
+					1470774587, -- [2]
+				}, -- [91]
+				{
+					3750, -- [1]
+					1470774587, -- [2]
+				}, -- [92]
+				{
+					3759, -- [1]
+					1470774587, -- [2]
+				}, -- [93]
+				{
+					3868, -- [1]
+					1470774587, -- [2]
+				}, -- [94]
+				{
+					3876, -- [1]
+					1470774587, -- [2]
+				}, -- [95]
+				{
+					3880, -- [1]
+					1470774587, -- [2]
+				}, -- [96]
+				{
+					3883, -- [1]
+					1470774587, -- [2]
+				}, -- [97]
+				{
+					3887, -- [1]
+					1470774587, -- [2]
+				}, -- [98]
+				{
+					3891, -- [1]
+					1470774587, -- [2]
+				}, -- [99]
+				{
+					3894, -- [1]
+					1470774587, -- [2]
+				}, -- [100]
+				{
+					3898, -- [1]
+					1470774587, -- [2]
+				}, -- [101]
+				{
+					3902, -- [1]
+					1470774587, -- [2]
+				}, -- [102]
+				{
+					3905, -- [1]
+					1470774587, -- [2]
+				}, -- [103]
+				{
+					3910, -- [1]
+					1470774587, -- [2]
+				}, -- [104]
+				{
+					3941, -- [1]
+					1470774587, -- [2]
+				}, -- [105]
+				{
+					3944, -- [1]
+					1470774587, -- [2]
+				}, -- [106]
+				{
+					3948, -- [1]
+					1470774587, -- [2]
+				}, -- [107]
+				{
+					3951, -- [1]
+					1470774587, -- [2]
+				}, -- [108]
+				{
+					3955, -- [1]
+					1470774587, -- [2]
+				}, -- [109]
+			},
+		},
+		["ids"] = {
+			["Gathering Darkness"] = 182273,
+			["Fel Flames"] = 185190,
+			["Disarm"] = 41062,
+			["Fel Fury"] = 181282,
+			["Slam"] = 182557,
+			["Surging Shadows"] = 182049,
+			["Shared Fate"] = 181085,
+			["Bellowing Shout"] = 181582,
+			["Feast of Souls"] = 181973,
+			["Touch of Doom"] = 182170,
+			["Hunger for Life"] = 180146,
+			["Raging Charge"] = 187815,
+			["Gorebound Fortitude"] = 185982,
+			["Spirit Volley"] = 180093,
+		},
+	},
+	["139215"] = {
+		["deaths"] = {
+			[40] = {
+				1470772120, -- [1]
+			},
+			[149] = {
+				1470772120, -- [1]
+			},
+			[111] = {
+				1469562708, -- [1]
+				1469562708, -- [2]
+				1469562708, -- [3]
+				1469562708, -- [4]
+				1469562708, -- [5]
+			},
+			[160] = {
+				1470772120, -- [1]
+			},
+		},
+		["spells"] = {
+			["Dragging Hands"] = {
+				{
+					1761, -- [1]
+					1469562708, -- [2]
+				}, -- [1]
+				{
+					1356, -- [1]
+					1470772120, -- [2]
+				}, -- [2]
+				{
+					1464, -- [1]
+					1470772120, -- [2]
+				}, -- [3]
+			},
+			["Explosive Runes"] = {
+				{
+					1831, -- [1]
+					1469562708, -- [2]
+				}, -- [1]
+				{
+					1426, -- [1]
+					1470772120, -- [2]
+				}, -- [2]
+			},
+			["Swat"] = {
+				{
+					1508, -- [1]
+					1470772120, -- [2]
+				}, -- [1]
+			},
+			["Pound"] = {
+				{
+					1783, -- [1]
+					1469562708, -- [2]
+				}, -- [1]
+				{
+					1845, -- [1]
+					1469562708, -- [2]
+				}, -- [2]
+				{
+					1378, -- [1]
+					1470772120, -- [2]
+				}, -- [3]
+				{
+					1440, -- [1]
+					1470772120, -- [2]
+				}, -- [4]
+			},
+			["Grab"] = {
+				{
+					1763, -- [1]
+					1469562708, -- [2]
+				}, -- [1]
+				{
+					1771, -- [1]
+					1469562708, -- [2]
+				}, -- [2]
+				{
+					1821, -- [1]
+					1469562708, -- [2]
+				}, -- [3]
+				{
+					1859, -- [1]
+					1469562708, -- [2]
+				}, -- [4]
+				{
+					1358, -- [1]
+					1470772120, -- [2]
+				}, -- [5]
+				{
+					1366, -- [1]
+					1470772120, -- [2]
+				}, -- [6]
+				{
+					1416, -- [1]
+					1470772120, -- [2]
+				}, -- [7]
+				{
+					1454, -- [1]
+					1470772120, -- [2]
+				}, -- [8]
+				{
+					1466, -- [1]
+					1470772120, -- [2]
+				}, -- [9]
+			},
+			["Foul Crush"] = {
+				{
+					1771, -- [1]
+					1469562708, -- [2]
+				}, -- [1]
+				{
+					1821, -- [1]
+					1469562708, -- [2]
+				}, -- [2]
+				{
+					1859, -- [1]
+					1469562708, -- [2]
+				}, -- [3]
+				{
+					1366, -- [1]
+					1470772120, -- [2]
+				}, -- [4]
+				{
+					1416, -- [1]
+					1470772120, -- [2]
+				}, -- [5]
+				{
+					1454, -- [1]
+					1470772120, -- [2]
+				}, -- [6]
+			},
+			["Fel Outpouring"] = {
+				{
+					1800, -- [1]
+					1469562708, -- [2]
+				}, -- [1]
+				{
+					1395, -- [1]
+					1470772120, -- [2]
+				}, -- [2]
+			},
+			["Empowered Fel Outpouring"] = {
+				{
+					1490, -- [1]
+					1470772120, -- [2]
+				}, -- [1]
+			},
+		},
+		["ids"] = {
+			["Dragging Hands"] = 181300,
+			["Explosive Runes"] = 181296,
+			["Swat"] = 181305,
+			["Pound"] = 180244,
+			["Grab"] = 181356,
+			["Foul Crush"] = 181307,
+			["Fel Outpouring"] = 181292,
+			["Empowered Fel Outpouring"] = 181293,
+		},
+	},
+	["143315"] = {
+		["deaths"] = {
+			[147] = {
+				1471378371, -- [1]
+			},
+			[148] = {
+				1471378371, -- [1]
+			},
+			[180] = {
+				1471377922, -- [1]
+				1471377922, -- [2]
+				1471377922, -- [3]
+			},
+			[62] = {
+				1471377209, -- [1]
+			},
+			[216] = {
+				1471379165, -- [1]
+			},
+			[63] = {
+				1471379463, -- [1]
+			},
+			[217] = {
+				1471379165, -- [1]
+			},
+			[32] = {
+				1471377209, -- [1]
+			},
+			[64] = {
+				1471377209, -- [1]
+			},
+			[80] = {
+				1471378371, -- [1]
+			},
+			[159] = {
+				1471377922, -- [1]
+				1471378371, -- [2]
+				1471379757, -- [3]
+			},
+			[192] = {
+				1471378772, -- [1]
+			},
+			[162] = {
+				1471379757, -- [1]
+			},
+			[29] = {
+				1471377209, -- [1]
+			},
+			[195] = {
+				1471379165, -- [1]
+			},
+			[165] = {
+				1471379463, -- [1]
+			},
+			[229] = {
+				1471378772, -- [1]
+			},
+			[116] = {
+				1471379757, -- [1]
+			},
+			[69] = {
+				1471377551, -- [1]
+			},
+			[137] = {
+				1471379463, -- [1]
+			},
+			[59] = {
+				1471377551, -- [1]
+				1471377551, -- [2]
+			},
+			[30] = {
+				1471377209, -- [1]
+			},
+			[203] = {
+				1471378772, -- [1]
+			},
+			[235] = {
+				1471378772, -- [1]
+				1471378772, -- [2]
+			},
+			[142] = {
+				1471379463, -- [1]
+			},
+			[88] = {
+				1471377922, -- [1]
+			},
+			[153] = {
+				1471379463, -- [1]
+			},
+			[241] = {
+				1471379165, -- [1]
+			},
+			[123] = {
+				1471379757, -- [1]
+			},
+			[109] = {
+				1471378371, -- [1]
+			},
+			[74] = {
+				1471377551, -- [1]
+				1471377551, -- [2]
+			},
+			[90] = {
+				1471379165, -- [1]
+			},
+			[158] = {
+				1471379757, -- [1]
 			},
 		},
 		["spells"] = {
 			["Fel Chakram"] = {
 				{
-					1750, -- [1]
-					1469648876, -- [2]
+					1877, -- [1]
+					1471377209, -- [2]
 				}, -- [1]
 				{
-					1750, -- [1]
-					1469648876, -- [2]
+					1877, -- [1]
+					1471377209, -- [2]
 				}, -- [2]
 				{
-					1754, -- [1]
-					1469648876, -- [2]
+					1881, -- [1]
+					1471377209, -- [2]
 				}, -- [3]
 				{
-					11987, -- [1]
-					1470255392, -- [2]
+					1910, -- [1]
+					1471377209, -- [2]
 				}, -- [4]
 				{
-					11987, -- [1]
-					1470255392, -- [2]
+					1910, -- [1]
+					1471377209, -- [2]
 				}, -- [5]
 				{
-					11991, -- [1]
-					1470255392, -- [2]
+					1914, -- [1]
+					1471377209, -- [2]
 				}, -- [6]
 				{
-					5027, -- [1]
-					1470857245, -- [2]
+					2199, -- [1]
+					1471377551, -- [2]
 				}, -- [7]
 				{
-					5027, -- [1]
-					1470857245, -- [2]
+					2199, -- [1]
+					1471377551, -- [2]
 				}, -- [8]
 				{
-					5031, -- [1]
-					1470857245, -- [2]
+					2202, -- [1]
+					1471377551, -- [2]
 				}, -- [9]
+				{
+					2277, -- [1]
+					1471377551, -- [2]
+				}, -- [10]
+				{
+					2278, -- [1]
+					1471377551, -- [2]
+				}, -- [11]
+				{
+					2281, -- [1]
+					1471377551, -- [2]
+				}, -- [12]
+				{
+					2400, -- [1]
+					1471377922, -- [2]
+				}, -- [13]
+				{
+					2401, -- [1]
+					1471377922, -- [2]
+				}, -- [14]
+				{
+					2404, -- [1]
+					1471377922, -- [2]
+				}, -- [15]
+				{
+					2434, -- [1]
+					1471377922, -- [2]
+				}, -- [16]
+				{
+					2435, -- [1]
+					1471377922, -- [2]
+				}, -- [17]
+				{
+					2438, -- [1]
+					1471377922, -- [2]
+				}, -- [18]
+				{
+					2515, -- [1]
+					1471377922, -- [2]
+				}, -- [19]
+				{
+					2515, -- [1]
+					1471377922, -- [2]
+				}, -- [20]
+				{
+					2519, -- [1]
+					1471377922, -- [2]
+				}, -- [21]
+				{
+					2591, -- [1]
+					1471377922, -- [2]
+				}, -- [22]
+				{
+					2591, -- [1]
+					1471377922, -- [2]
+				}, -- [23]
+				{
+					2595, -- [1]
+					1471377922, -- [2]
+				}, -- [24]
+				{
+					2628, -- [1]
+					1471377922, -- [2]
+				}, -- [25]
+				{
+					2628, -- [1]
+					1471377922, -- [2]
+				}, -- [26]
+				{
+					2632, -- [1]
+					1471377922, -- [2]
+				}, -- [27]
+				{
+					2942, -- [1]
+					1471378371, -- [2]
+				}, -- [28]
+				{
+					2942, -- [1]
+					1471378371, -- [2]
+				}, -- [29]
+				{
+					2943, -- [1]
+					1471378371, -- [2]
+				}, -- [30]
+				{
+					2946, -- [1]
+					1471378371, -- [2]
+				}, -- [31]
+				{
+					2975, -- [1]
+					1471378371, -- [2]
+				}, -- [32]
+				{
+					2975, -- [1]
+					1471378371, -- [2]
+				}, -- [33]
+				{
+					2979, -- [1]
+					1471378371, -- [2]
+				}, -- [34]
+				{
+					3053, -- [1]
+					1471378371, -- [2]
+				}, -- [35]
+				{
+					3053, -- [1]
+					1471378371, -- [2]
+				}, -- [36]
+				{
+					3057, -- [1]
+					1471378371, -- [2]
+				}, -- [37]
+				{
+					3272, -- [1]
+					1471378772, -- [2]
+				}, -- [38]
+				{
+					3272, -- [1]
+					1471378772, -- [2]
+				}, -- [39]
+				{
+					3273, -- [1]
+					1471378772, -- [2]
+				}, -- [40]
+				{
+					3276, -- [1]
+					1471378772, -- [2]
+				}, -- [41]
+				{
+					3305, -- [1]
+					1471378772, -- [2]
+				}, -- [42]
+				{
+					3305, -- [1]
+					1471378772, -- [2]
+				}, -- [43]
+				{
+					3309, -- [1]
+					1471378772, -- [2]
+				}, -- [44]
+				{
+					3380, -- [1]
+					1471378772, -- [2]
+				}, -- [45]
+				{
+					3380, -- [1]
+					1471378772, -- [2]
+				}, -- [46]
+				{
+					3384, -- [1]
+					1471378772, -- [2]
+				}, -- [47]
+				{
+					3464, -- [1]
+					1471378772, -- [2]
+				}, -- [48]
+				{
+					3464, -- [1]
+					1471378772, -- [2]
+				}, -- [49]
+				{
+					3468, -- [1]
+					1471378772, -- [2]
+				}, -- [50]
+				{
+					3627, -- [1]
+					1471379165, -- [2]
+				}, -- [51]
+				{
+					3627, -- [1]
+					1471379165, -- [2]
+				}, -- [52]
+				{
+					3631, -- [1]
+					1471379165, -- [2]
+				}, -- [53]
+				{
+					3660, -- [1]
+					1471379165, -- [2]
+				}, -- [54]
+				{
+					3660, -- [1]
+					1471379165, -- [2]
+				}, -- [55]
+				{
+					3664, -- [1]
+					1471379165, -- [2]
+				}, -- [56]
+				{
+					3736, -- [1]
+					1471379165, -- [2]
+				}, -- [57]
+				{
+					3736, -- [1]
+					1471379165, -- [2]
+				}, -- [58]
+				{
+					3740, -- [1]
+					1471379165, -- [2]
+				}, -- [59]
+				{
+					3817, -- [1]
+					1471379165, -- [2]
+				}, -- [60]
+				{
+					3818, -- [1]
+					1471379165, -- [2]
+				}, -- [61]
+				{
+					3821, -- [1]
+					1471379165, -- [2]
+				}, -- [62]
+				{
+					3889, -- [1]
+					1471379165, -- [2]
+				}, -- [63]
+				{
+					3889, -- [1]
+					1471379165, -- [2]
+				}, -- [64]
+				{
+					3893, -- [1]
+					1471379165, -- [2]
+				}, -- [65]
+				{
+					4039, -- [1]
+					1471379463, -- [2]
+				}, -- [66]
+				{
+					4039, -- [1]
+					1471379463, -- [2]
+				}, -- [67]
+				{
+					4043, -- [1]
+					1471379463, -- [2]
+				}, -- [68]
+				{
+					4072, -- [1]
+					1471379463, -- [2]
+				}, -- [69]
+				{
+					4072, -- [1]
+					1471379463, -- [2]
+				}, -- [70]
+				{
+					4076, -- [1]
+					1471379463, -- [2]
+				}, -- [71]
+				{
+					4150, -- [1]
+					1471379463, -- [2]
+				}, -- [72]
+				{
+					4150, -- [1]
+					1471379463, -- [2]
+				}, -- [73]
+				{
+					4154, -- [1]
+					1471379463, -- [2]
+				}, -- [74]
+				{
+					4327, -- [1]
+					1471379757, -- [2]
+				}, -- [75]
+				{
+					4327, -- [1]
+					1471379757, -- [2]
+				}, -- [76]
+				{
+					4331, -- [1]
+					1471379757, -- [2]
+				}, -- [77]
+				{
+					4360, -- [1]
+					1471379757, -- [2]
+				}, -- [78]
+				{
+					4360, -- [1]
+					1471379757, -- [2]
+				}, -- [79]
+				{
+					4364, -- [1]
+					1471379757, -- [2]
+				}, -- [80]
+				{
+					4440, -- [1]
+					1471379757, -- [2]
+				}, -- [81]
+				{
+					4440, -- [1]
+					1471379757, -- [2]
+				}, -- [82]
+				{
+					4444, -- [1]
+					1471379757, -- [2]
+				}, -- [83]
 			},
 			["Fel Conduit"] = {
 				{
-					12129, -- [1]
-					1470255392, -- [2]
+					2560, -- [1]
+					1471377922, -- [2]
 				}, -- [1]
 				{
-					5130, -- [1]
-					1470857245, -- [2]
+					3077, -- [1]
+					1471378371, -- [2]
 				}, -- [2]
 				{
-					5162, -- [1]
-					1470857245, -- [2]
-				}, -- [3]
-			},
-			["Chains of Despair"] = {
-				{
-					1880, -- [1]
-					1469648876, -- [2]
-				}, -- [1]
-				{
-					12062, -- [1]
-					1470255392, -- [2]
-				}, -- [2]
-				{
-					12130, -- [1]
-					1470255392, -- [2]
+					3093, -- [1]
+					1471378371, -- [2]
 				}, -- [3]
 				{
-					5147, -- [1]
-					1470857245, -- [2]
+					3109, -- [1]
+					1471378371, -- [2]
 				}, -- [4]
+				{
+					3493, -- [1]
+					1471378772, -- [2]
+				}, -- [5]
+				{
+					3509, -- [1]
+					1471378772, -- [2]
+				}, -- [6]
+				{
+					3758, -- [1]
+					1471379165, -- [2]
+				}, -- [7]
+				{
+					3774, -- [1]
+					1471379165, -- [2]
+				}, -- [8]
+				{
+					3789, -- [1]
+					1471379165, -- [2]
+				}, -- [9]
+				{
+					3898, -- [1]
+					1471379165, -- [2]
+				}, -- [10]
+				{
+					4166, -- [1]
+					1471379463, -- [2]
+				}, -- [11]
+				{
+					4182, -- [1]
+					1471379463, -- [2]
+				}, -- [12]
+				{
+					4198, -- [1]
+					1471379463, -- [2]
+				}, -- [13]
+				{
+					4452, -- [1]
+					1471379757, -- [2]
+				}, -- [14]
+				{
+					4468, -- [1]
+					1471379757, -- [2]
+				}, -- [15]
+				{
+					4484, -- [1]
+					1471379757, -- [2]
+				}, -- [16]
 			},
 			["Phantasmal Corruption"] = {
 				{
-					1878, -- [1]
-					1469648876, -- [2]
+					3865, -- [1]
+					1471379165, -- [2]
 				}, -- [1]
 				{
-					12129, -- [1]
-					1470255392, -- [2]
+					3881, -- [1]
+					1471379165, -- [2]
 				}, -- [2]
 				{
-					5144, -- [1]
-					1470857245, -- [2]
+					3900, -- [1]
+					1471379165, -- [2]
 				}, -- [3]
 			},
 			["Fel Bomb"] = {
 				{
-					1773, -- [1]
-					1469648876, -- [2]
+					1932, -- [1]
+					1471377209, -- [2]
 				}, -- [1]
 				{
-					1809, -- [1]
-					1469648876, -- [2]
+					1950, -- [1]
+					1471377209, -- [2]
 				}, -- [2]
 				{
-					1869, -- [1]
-					1469648876, -- [2]
+					2246, -- [1]
+					1471377551, -- [2]
 				}, -- [3]
 				{
-					12009, -- [1]
-					1470255392, -- [2]
+					2265, -- [1]
+					1471377551, -- [2]
 				}, -- [4]
 				{
-					12052, -- [1]
-					1470255392, -- [2]
+					2283, -- [1]
+					1471377551, -- [2]
 				}, -- [5]
 				{
-					12070, -- [1]
-					1470255392, -- [2]
+					2454, -- [1]
+					1471377922, -- [2]
 				}, -- [6]
 				{
-					12119, -- [1]
-					1470255392, -- [2]
+					2472, -- [1]
+					1471377922, -- [2]
 				}, -- [7]
 				{
-					12137, -- [1]
-					1470255392, -- [2]
+					2534, -- [1]
+					1471377922, -- [2]
 				}, -- [8]
 				{
-					5049, -- [1]
-					1470857245, -- [2]
+					2552, -- [1]
+					1471377922, -- [2]
 				}, -- [9]
 				{
-					5085, -- [1]
-					1470857245, -- [2]
+					2571, -- [1]
+					1471377922, -- [2]
 				}, -- [10]
 				{
-					5136, -- [1]
-					1470857245, -- [2]
+					2996, -- [1]
+					1471378371, -- [2]
 				}, -- [11]
 				{
-					5154, -- [1]
-					1470857245, -- [2]
+					3014, -- [1]
+					1471378371, -- [2]
 				}, -- [12]
-			},
-			["Phantasmal Fel Bomb"] = {
 				{
-					1773, -- [1]
-					1469648876, -- [2]
-				}, -- [1]
+					3085, -- [1]
+					1471378371, -- [2]
+				}, -- [13]
 				{
-					1809, -- [1]
-					1469648876, -- [2]
-				}, -- [2]
+					3102, -- [1]
+					1471378371, -- [2]
+				}, -- [14]
 				{
-					1869, -- [1]
-					1469648876, -- [2]
-				}, -- [3]
+					3323, -- [1]
+					1471378772, -- [2]
+				}, -- [15]
 				{
-					12009, -- [1]
-					1470255392, -- [2]
-				}, -- [4]
+					3342, -- [1]
+					1471378772, -- [2]
+				}, -- [16]
 				{
-					12052, -- [1]
-					1470255392, -- [2]
-				}, -- [5]
+					3411, -- [1]
+					1471378772, -- [2]
+				}, -- [17]
 				{
-					12070, -- [1]
-					1470255392, -- [2]
-				}, -- [6]
+					3429, -- [1]
+					1471378772, -- [2]
+				}, -- [18]
 				{
-					12119, -- [1]
-					1470255392, -- [2]
-				}, -- [7]
+					3498, -- [1]
+					1471378772, -- [2]
+				}, -- [19]
 				{
-					12137, -- [1]
-					1470255392, -- [2]
-				}, -- [8]
+					3679, -- [1]
+					1471379165, -- [2]
+				}, -- [20]
 				{
-					5049, -- [1]
-					1470857245, -- [2]
-				}, -- [9]
+					3697, -- [1]
+					1471379165, -- [2]
+				}, -- [21]
 				{
-					5085, -- [1]
-					1470857245, -- [2]
-				}, -- [10]
+					3765, -- [1]
+					1471379165, -- [2]
+				}, -- [22]
 				{
-					5136, -- [1]
-					1470857245, -- [2]
-				}, -- [11]
+					3784, -- [1]
+					1471379165, -- [2]
+				}, -- [23]
 				{
-					5154, -- [1]
-					1470857245, -- [2]
-				}, -- [12]
-			},
-			["Phantasmal Winds"] = {
+					3857, -- [1]
+					1471379165, -- [2]
+				}, -- [24]
 				{
-					1841, -- [1]
-					1469648876, -- [2]
-				}, -- [1]
+					3875, -- [1]
+					1471379165, -- [2]
+				}, -- [25]
 				{
-					12086, -- [1]
-					1470255392, -- [2]
-				}, -- [2]
+					3893, -- [1]
+					1471379165, -- [2]
+				}, -- [26]
 				{
-					5117, -- [1]
-					1470857245, -- [2]
-				}, -- [3]
+					4092, -- [1]
+					1471379463, -- [2]
+				}, -- [27]
+				{
+					4110, -- [1]
+					1471379463, -- [2]
+				}, -- [28]
+				{
+					4173, -- [1]
+					1471379463, -- [2]
+				}, -- [29]
+				{
+					4191, -- [1]
+					1471379463, -- [2]
+				}, -- [30]
+				{
+					4380, -- [1]
+					1471379757, -- [2]
+				}, -- [31]
+				{
+					4398, -- [1]
+					1471379757, -- [2]
+				}, -- [32]
+				{
+					4458, -- [1]
+					1471379757, -- [2]
+				}, -- [33]
+				{
+					4477, -- [1]
+					1471379757, -- [2]
+				}, -- [34]
+				{
+					4495, -- [1]
+					1471379757, -- [2]
+				}, -- [35]
 			},
 			["Phantasmal Obliteration"] = {
 				{
-					1773, -- [1]
-					1469648876, -- [2]
+					1932, -- [1]
+					1471377209, -- [2]
 				}, -- [1]
 				{
-					1809, -- [1]
-					1469648876, -- [2]
+					1950, -- [1]
+					1471377209, -- [2]
 				}, -- [2]
 				{
-					1869, -- [1]
-					1469648876, -- [2]
+					2246, -- [1]
+					1471377551, -- [2]
 				}, -- [3]
 				{
-					12009, -- [1]
-					1470255392, -- [2]
+					2265, -- [1]
+					1471377551, -- [2]
 				}, -- [4]
 				{
-					12052, -- [1]
-					1470255392, -- [2]
+					2283, -- [1]
+					1471377551, -- [2]
 				}, -- [5]
 				{
-					12070, -- [1]
-					1470255392, -- [2]
+					2454, -- [1]
+					1471377922, -- [2]
 				}, -- [6]
 				{
-					12119, -- [1]
-					1470255392, -- [2]
+					2472, -- [1]
+					1471377922, -- [2]
 				}, -- [7]
 				{
-					12137, -- [1]
-					1470255392, -- [2]
+					2534, -- [1]
+					1471377922, -- [2]
 				}, -- [8]
 				{
-					5049, -- [1]
-					1470857245, -- [2]
+					2552, -- [1]
+					1471377922, -- [2]
 				}, -- [9]
 				{
-					5085, -- [1]
-					1470857245, -- [2]
+					2571, -- [1]
+					1471377922, -- [2]
 				}, -- [10]
 				{
-					5136, -- [1]
-					1470857245, -- [2]
+					2996, -- [1]
+					1471378371, -- [2]
 				}, -- [11]
 				{
-					5154, -- [1]
-					1470857245, -- [2]
+					3014, -- [1]
+					1471378371, -- [2]
 				}, -- [12]
-			},
-			["Shadow Riposte"] = {
 				{
-					1756, -- [1]
-					1469648876, -- [2]
+					3085, -- [1]
+					1471378371, -- [2]
+				}, -- [13]
+				{
+					3102, -- [1]
+					1471378371, -- [2]
+				}, -- [14]
+				{
+					3323, -- [1]
+					1471378772, -- [2]
+				}, -- [15]
+				{
+					3342, -- [1]
+					1471378772, -- [2]
+				}, -- [16]
+				{
+					3411, -- [1]
+					1471378772, -- [2]
+				}, -- [17]
+				{
+					3429, -- [1]
+					1471378772, -- [2]
+				}, -- [18]
+				{
+					3498, -- [1]
+					1471378772, -- [2]
+				}, -- [19]
+				{
+					3679, -- [1]
+					1471379165, -- [2]
+				}, -- [20]
+				{
+					3697, -- [1]
+					1471379165, -- [2]
+				}, -- [21]
+				{
+					3765, -- [1]
+					1471379165, -- [2]
+				}, -- [22]
+				{
+					3784, -- [1]
+					1471379165, -- [2]
+				}, -- [23]
+				{
+					3857, -- [1]
+					1471379165, -- [2]
+				}, -- [24]
+				{
+					3875, -- [1]
+					1471379165, -- [2]
+				}, -- [25]
+				{
+					3893, -- [1]
+					1471379165, -- [2]
+				}, -- [26]
+				{
+					4092, -- [1]
+					1471379463, -- [2]
+				}, -- [27]
+				{
+					4110, -- [1]
+					1471379463, -- [2]
+				}, -- [28]
+				{
+					4173, -- [1]
+					1471379463, -- [2]
+				}, -- [29]
+				{
+					4191, -- [1]
+					1471379463, -- [2]
+				}, -- [30]
+				{
+					4380, -- [1]
+					1471379757, -- [2]
+				}, -- [31]
+				{
+					4398, -- [1]
+					1471379757, -- [2]
+				}, -- [32]
+				{
+					4458, -- [1]
+					1471379757, -- [2]
+				}, -- [33]
+				{
+					4477, -- [1]
+					1471379757, -- [2]
+				}, -- [34]
+				{
+					4495, -- [1]
+					1471379757, -- [2]
+				}, -- [35]
+			},
+			["Phantasmal Winds"] = {
+				{
+					1889, -- [1]
+					1471377209, -- [2]
 				}, -- [1]
 				{
-					1900, -- [1]
-					1469648876, -- [2]
+					2210, -- [1]
+					1471377551, -- [2]
 				}, -- [2]
 				{
-					11994, -- [1]
-					1470255392, -- [2]
+					2290, -- [1]
+					1471377551, -- [2]
 				}, -- [3]
 				{
-					12103, -- [1]
-					1470255392, -- [2]
+					2414, -- [1]
+					1471377922, -- [2]
 				}, -- [4]
 				{
-					5034, -- [1]
-					1470857245, -- [2]
+					2494, -- [1]
+					1471377922, -- [2]
 				}, -- [5]
+				{
+					2570, -- [1]
+					1471377922, -- [2]
+				}, -- [6]
+				{
+					2607, -- [1]
+					1471377922, -- [2]
+				}, -- [7]
+				{
+					2644, -- [1]
+					1471377922, -- [2]
+				}, -- [8]
+				{
+					2955, -- [1]
+					1471378371, -- [2]
+				}, -- [9]
+				{
+					3032, -- [1]
+					1471378371, -- [2]
+				}, -- [10]
+				{
+					3069, -- [1]
+					1471378371, -- [2]
+				}, -- [11]
+				{
+					3285, -- [1]
+					1471378772, -- [2]
+				}, -- [12]
+				{
+					3360, -- [1]
+					1471378772, -- [2]
+				}, -- [13]
+				{
+					3444, -- [1]
+					1471378772, -- [2]
+				}, -- [14]
+				{
+					3480, -- [1]
+					1471378772, -- [2]
+				}, -- [15]
+				{
+					3639, -- [1]
+					1471379165, -- [2]
+				}, -- [16]
+				{
+					3716, -- [1]
+					1471379165, -- [2]
+				}, -- [17]
+				{
+					3797, -- [1]
+					1471379165, -- [2]
+				}, -- [18]
+				{
+					3836, -- [1]
+					1471379165, -- [2]
+				}, -- [19]
+				{
+					4051, -- [1]
+					1471379463, -- [2]
+				}, -- [20]
+				{
+					4129, -- [1]
+					1471379463, -- [2]
+				}, -- [21]
+				{
+					4339, -- [1]
+					1471379757, -- [2]
+				}, -- [22]
+				{
+					4419, -- [1]
+					1471379757, -- [2]
+				}, -- [23]
+				{
+					4497, -- [1]
+					1471379757, -- [2]
+				}, -- [24]
+			},
+			["Fel Chain Lightning"] = {
+				{
+					3079, -- [1]
+					1471378371, -- [2]
+				}, -- [1]
+				{
+					3080, -- [1]
+					1471378371, -- [2]
+				}, -- [2]
+				{
+					3082, -- [1]
+					1471378371, -- [2]
+				}, -- [3]
+				{
+					3085, -- [1]
+					1471378371, -- [2]
+				}, -- [4]
+				{
+					3086, -- [1]
+					1471378371, -- [2]
+				}, -- [5]
+				{
+					3095, -- [1]
+					1471378371, -- [2]
+				}, -- [6]
+				{
+					3096, -- [1]
+					1471378371, -- [2]
+				}, -- [7]
+				{
+					3098, -- [1]
+					1471378371, -- [2]
+				}, -- [8]
+				{
+					3099, -- [1]
+					1471378371, -- [2]
+				}, -- [9]
+				{
+					3101, -- [1]
+					1471378371, -- [2]
+				}, -- [10]
+				{
+					3102, -- [1]
+					1471378371, -- [2]
+				}, -- [11]
+				{
+					3111, -- [1]
+					1471378371, -- [2]
+				}, -- [12]
+				{
+					3112, -- [1]
+					1471378371, -- [2]
+				}, -- [13]
+				{
+					3114, -- [1]
+					1471378371, -- [2]
+				}, -- [14]
+				{
+					3494, -- [1]
+					1471378772, -- [2]
+				}, -- [15]
+				{
+					3496, -- [1]
+					1471378772, -- [2]
+				}, -- [16]
+				{
+					3497, -- [1]
+					1471378772, -- [2]
+				}, -- [17]
+				{
+					3510, -- [1]
+					1471378772, -- [2]
+				}, -- [18]
+				{
+					3512, -- [1]
+					1471378772, -- [2]
+				}, -- [19]
+				{
+					3515, -- [1]
+					1471378772, -- [2]
+				}, -- [20]
+				{
+					3759, -- [1]
+					1471379165, -- [2]
+				}, -- [21]
+				{
+					3900, -- [1]
+					1471379165, -- [2]
+				}, -- [22]
+				{
+					4167, -- [1]
+					1471379463, -- [2]
+				}, -- [23]
+				{
+					4169, -- [1]
+					1471379463, -- [2]
+				}, -- [24]
+				{
+					4171, -- [1]
+					1471379463, -- [2]
+				}, -- [25]
+				{
+					4172, -- [1]
+					1471379463, -- [2]
+				}, -- [26]
+				{
+					4173, -- [1]
+					1471379463, -- [2]
+				}, -- [27]
+				{
+					4175, -- [1]
+					1471379463, -- [2]
+				}, -- [28]
+				{
+					4183, -- [1]
+					1471379463, -- [2]
+				}, -- [29]
+				{
+					4185, -- [1]
+					1471379463, -- [2]
+				}, -- [30]
+				{
+					4186, -- [1]
+					1471379463, -- [2]
+				}, -- [31]
+				{
+					4188, -- [1]
+					1471379463, -- [2]
+				}, -- [32]
+				{
+					4199, -- [1]
+					1471379463, -- [2]
+				}, -- [33]
+				{
+					4201, -- [1]
+					1471379463, -- [2]
+				}, -- [34]
+				{
+					4202, -- [1]
+					1471379463, -- [2]
+				}, -- [35]
+				{
+					4204, -- [1]
+					1471379463, -- [2]
+				}, -- [36]
+			},
+			["Phantasmal Fel Bomb"] = {
+				{
+					1932, -- [1]
+					1471377209, -- [2]
+				}, -- [1]
+				{
+					1950, -- [1]
+					1471377209, -- [2]
+				}, -- [2]
+				{
+					2246, -- [1]
+					1471377551, -- [2]
+				}, -- [3]
+				{
+					2265, -- [1]
+					1471377551, -- [2]
+				}, -- [4]
+				{
+					2283, -- [1]
+					1471377551, -- [2]
+				}, -- [5]
+				{
+					2454, -- [1]
+					1471377922, -- [2]
+				}, -- [6]
+				{
+					2472, -- [1]
+					1471377922, -- [2]
+				}, -- [7]
+				{
+					2534, -- [1]
+					1471377922, -- [2]
+				}, -- [8]
+				{
+					2552, -- [1]
+					1471377922, -- [2]
+				}, -- [9]
+				{
+					2571, -- [1]
+					1471377922, -- [2]
+				}, -- [10]
+				{
+					2996, -- [1]
+					1471378371, -- [2]
+				}, -- [11]
+				{
+					3014, -- [1]
+					1471378371, -- [2]
+				}, -- [12]
+				{
+					3085, -- [1]
+					1471378371, -- [2]
+				}, -- [13]
+				{
+					3102, -- [1]
+					1471378371, -- [2]
+				}, -- [14]
+				{
+					3323, -- [1]
+					1471378772, -- [2]
+				}, -- [15]
+				{
+					3342, -- [1]
+					1471378772, -- [2]
+				}, -- [16]
+				{
+					3411, -- [1]
+					1471378772, -- [2]
+				}, -- [17]
+				{
+					3429, -- [1]
+					1471378772, -- [2]
+				}, -- [18]
+				{
+					3498, -- [1]
+					1471378772, -- [2]
+				}, -- [19]
+				{
+					3679, -- [1]
+					1471379165, -- [2]
+				}, -- [20]
+				{
+					3697, -- [1]
+					1471379165, -- [2]
+				}, -- [21]
+				{
+					3765, -- [1]
+					1471379165, -- [2]
+				}, -- [22]
+				{
+					3784, -- [1]
+					1471379165, -- [2]
+				}, -- [23]
+				{
+					3857, -- [1]
+					1471379165, -- [2]
+				}, -- [24]
+				{
+					3875, -- [1]
+					1471379165, -- [2]
+				}, -- [25]
+				{
+					3893, -- [1]
+					1471379165, -- [2]
+				}, -- [26]
+				{
+					4092, -- [1]
+					1471379463, -- [2]
+				}, -- [27]
+				{
+					4110, -- [1]
+					1471379463, -- [2]
+				}, -- [28]
+				{
+					4173, -- [1]
+					1471379463, -- [2]
+				}, -- [29]
+				{
+					4191, -- [1]
+					1471379463, -- [2]
+				}, -- [30]
+				{
+					4380, -- [1]
+					1471379757, -- [2]
+				}, -- [31]
+				{
+					4398, -- [1]
+					1471379757, -- [2]
+				}, -- [32]
+				{
+					4458, -- [1]
+					1471379757, -- [2]
+				}, -- [33]
+				{
+					4477, -- [1]
+					1471379757, -- [2]
+				}, -- [34]
+				{
+					4495, -- [1]
+					1471379757, -- [2]
+				}, -- [35]
 			},
 			["Shadow Escape"] = {
 				{
-					1761, -- [1]
-					1469648876, -- [2]
+					1918, -- [1]
+					1471377209, -- [2]
 				}, -- [1]
 				{
-					1796, -- [1]
-					1469648876, -- [2]
+					2233, -- [1]
+					1471377551, -- [2]
 				}, -- [2]
 				{
-					1857, -- [1]
-					1469648876, -- [2]
+					2441, -- [1]
+					1471377922, -- [2]
 				}, -- [3]
 				{
-					11997, -- [1]
-					1470255392, -- [2]
+					2522, -- [1]
+					1471377922, -- [2]
 				}, -- [4]
 				{
-					12039, -- [1]
-					1470255392, -- [2]
+					2665, -- [1]
+					1471377922, -- [2]
 				}, -- [5]
 				{
-					12107, -- [1]
-					1470255392, -- [2]
+					2984, -- [1]
+					1471378371, -- [2]
 				}, -- [6]
 				{
-					5036, -- [1]
-					1470857245, -- [2]
+					3071, -- [1]
+					1471378371, -- [2]
 				}, -- [7]
 				{
-					5071, -- [1]
-					1470857245, -- [2]
+					3311, -- [1]
+					1471378772, -- [2]
 				}, -- [8]
 				{
-					5123, -- [1]
-					1470857245, -- [2]
+					3399, -- [1]
+					1471378772, -- [2]
 				}, -- [9]
+				{
+					3486, -- [1]
+					1471378772, -- [2]
+				}, -- [10]
+				{
+					3666, -- [1]
+					1471379165, -- [2]
+				}, -- [11]
+				{
+					3752, -- [1]
+					1471379165, -- [2]
+				}, -- [12]
+				{
+					3844, -- [1]
+					1471379165, -- [2]
+				}, -- [13]
+				{
+					4078, -- [1]
+					1471379463, -- [2]
+				}, -- [14]
+				{
+					4160, -- [1]
+					1471379463, -- [2]
+				}, -- [15]
+				{
+					4366, -- [1]
+					1471379757, -- [2]
+				}, -- [16]
+				{
+					4446, -- [1]
+					1471379757, -- [2]
+				}, -- [17]
 			},
 			["Focused Blast"] = {
 				{
-					1779, -- [1]
-					1469648876, -- [2]
+					1936, -- [1]
+					1471377209, -- [2]
 				}, -- [1]
 				{
-					1795, -- [1]
-					1469648876, -- [2]
+					1952, -- [1]
+					1471377209, -- [2]
 				}, -- [2]
 				{
-					1814, -- [1]
-					1469648876, -- [2]
+					2251, -- [1]
+					1471377551, -- [2]
 				}, -- [3]
 				{
-					1830, -- [1]
-					1469648876, -- [2]
+					2266, -- [1]
+					1471377551, -- [2]
 				}, -- [4]
 				{
-					1874, -- [1]
-					1469648876, -- [2]
+					2458, -- [1]
+					1471377922, -- [2]
 				}, -- [5]
 				{
-					1890, -- [1]
-					1469648876, -- [2]
+					2474, -- [1]
+					1471377922, -- [2]
 				}, -- [6]
 				{
-					12015, -- [1]
-					1470255392, -- [2]
+					2540, -- [1]
+					1471377922, -- [2]
 				}, -- [7]
 				{
-					12030, -- [1]
-					1470255392, -- [2]
+					2555, -- [1]
+					1471377922, -- [2]
 				}, -- [8]
 				{
-					12057, -- [1]
-					1470255392, -- [2]
+					3001, -- [1]
+					1471378371, -- [2]
 				}, -- [9]
 				{
-					12073, -- [1]
-					1470255392, -- [2]
+					3017, -- [1]
+					1471378371, -- [2]
 				}, -- [10]
 				{
-					12124, -- [1]
-					1470255392, -- [2]
+					3089, -- [1]
+					1471378371, -- [2]
 				}, -- [11]
 				{
-					12140, -- [1]
-					1470255392, -- [2]
+					3105, -- [1]
+					1471378371, -- [2]
 				}, -- [12]
 				{
-					5054, -- [1]
-					1470857245, -- [2]
+					3329, -- [1]
+					1471378772, -- [2]
 				}, -- [13]
 				{
-					5070, -- [1]
-					1470857245, -- [2]
+					3345, -- [1]
+					1471378772, -- [2]
 				}, -- [14]
 				{
-					5089, -- [1]
-					1470857245, -- [2]
+					3416, -- [1]
+					1471378772, -- [2]
 				}, -- [15]
 				{
-					5105, -- [1]
-					1470857245, -- [2]
+					3432, -- [1]
+					1471378772, -- [2]
 				}, -- [16]
 				{
-					5141, -- [1]
-					1470857245, -- [2]
+					3504, -- [1]
+					1471378772, -- [2]
 				}, -- [17]
 				{
-					5157, -- [1]
-					1470857245, -- [2]
+					3683, -- [1]
+					1471379165, -- [2]
 				}, -- [18]
+				{
+					3699, -- [1]
+					1471379165, -- [2]
+				}, -- [19]
+				{
+					3769, -- [1]
+					1471379165, -- [2]
+				}, -- [20]
+				{
+					3785, -- [1]
+					1471379165, -- [2]
+				}, -- [21]
+				{
+					3862, -- [1]
+					1471379165, -- [2]
+				}, -- [22]
+				{
+					3878, -- [1]
+					1471379165, -- [2]
+				}, -- [23]
+				{
+					4096, -- [1]
+					1471379463, -- [2]
+				}, -- [24]
+				{
+					4112, -- [1]
+					1471379463, -- [2]
+				}, -- [25]
+				{
+					4177, -- [1]
+					1471379463, -- [2]
+				}, -- [26]
+				{
+					4193, -- [1]
+					1471379463, -- [2]
+				}, -- [27]
+				{
+					4385, -- [1]
+					1471379757, -- [2]
+				}, -- [28]
+				{
+					4401, -- [1]
+					1471379757, -- [2]
+				}, -- [29]
+				{
+					4465, -- [1]
+					1471379757, -- [2]
+				}, -- [30]
+				{
+					4481, -- [1]
+					1471379757, -- [2]
+				}, -- [31]
 			},
 		},
 		["ids"] = {
 			["Fel Chakram"] = 182216,
 			["Fel Conduit"] = 181827,
-			["Chains of Despair"] = 185456,
 			["Phantasmal Corruption"] = 181824,
 			["Fel Bomb"] = 181753,
-			["Phantasmal Fel Bomb"] = 179219,
-			["Phantasmal Winds"] = 181956,
 			["Phantasmal Obliteration"] = 179218,
-			["Shadow Riposte"] = 185345,
+			["Phantasmal Winds"] = 181956,
+			["Fel Chain Lightning"] = 181832,
+			["Phantasmal Fel Bomb"] = 179219,
 			["Shadow Escape"] = 181873,
 			["Focused Blast"] = 181912,
-		},
-	},
-	["144716"] = {
-		["deaths"] = {
-			[85] = {
-				1469041191, -- [1]
-			},
-			[60] = {
-				1469041461, -- [1]
-				1469041461, -- [2]
-				1469041461, -- [3]
-				1469041461, -- [4]
-			},
-			[72] = {
-				1470253595, -- [1]
-			},
-			[78] = {
-				1469042016, -- [1]
-			},
-			[11] = {
-				1470253595, -- [1]
-			},
-			[84] = {
-				1469041191, -- [1]
-				1469041191, -- [2]
-				1469041191, -- [3]
-				1469041191, -- [4]
-			},
-			[86] = {
-				1469042016, -- [1]
-			},
-			[45] = {
-				1470855693, -- [1]
-				1470855693, -- [2]
-			},
-			[47] = {
-				1469040559, -- [1]
-				1469040559, -- [2]
-			},
-			[125] = {
-				1470253595, -- [1]
-			},
-			[49] = {
-				1469040559, -- [1]
-				1469040559, -- [2]
-			},
-			[100] = {
-				1469647377, -- [1]
-				1469647377, -- [2]
-			},
-			[104] = {
-				1469040931, -- [1]
-				1469040931, -- [2]
-				1469040931, -- [3]
-				1469040931, -- [4]
-				1469040931, -- [5]
-			},
-			[75] = {
-				1469041461, -- [1]
-				1470855693, -- [2]
-			},
-			[48] = {
-				1469040559, -- [1]
-				1469647377, -- [2]
-				1469647377, -- [3]
-			},
-			[57] = {
-				1469042016, -- [1]
-				1469042016, -- [2]
-			},
-			[54] = {
-				1469042016, -- [1]
-			},
-		},
-		["spells"] = {
-			["Void Strike"] = {
-				{
-					1348, -- [1]
-					1469040559, -- [2]
-				}, -- [1]
-				{
-					1348, -- [1]
-					1469040559, -- [2]
-				}, -- [2]
-				{
-					1362, -- [1]
-					1469040559, -- [2]
-				}, -- [3]
-				{
-					1362, -- [1]
-					1469040559, -- [2]
-				}, -- [4]
-				{
-					1377, -- [1]
-					1469040559, -- [2]
-				}, -- [5]
-				{
-					1377, -- [1]
-					1469040559, -- [2]
-				}, -- [6]
-				{
-					1661, -- [1]
-					1469040931, -- [2]
-				}, -- [7]
-				{
-					1661, -- [1]
-					1469040931, -- [2]
-				}, -- [8]
-				{
-					1675, -- [1]
-					1469040931, -- [2]
-				}, -- [9]
-				{
-					1675, -- [1]
-					1469040931, -- [2]
-				}, -- [10]
-				{
-					1690, -- [1]
-					1469040931, -- [2]
-				}, -- [11]
-				{
-					1690, -- [1]
-					1469040931, -- [2]
-				}, -- [12]
-				{
-					1705, -- [1]
-					1469040931, -- [2]
-				}, -- [13]
-				{
-					1705, -- [1]
-					1469040931, -- [2]
-				}, -- [14]
-				{
-					1720, -- [1]
-					1469040931, -- [2]
-				}, -- [15]
-				{
-					1720, -- [1]
-					1469040931, -- [2]
-				}, -- [16]
-				{
-					1735, -- [1]
-					1469040931, -- [2]
-				}, -- [17]
-				{
-					1735, -- [1]
-					1469040931, -- [2]
-				}, -- [18]
-				{
-					1750, -- [1]
-					1469040931, -- [2]
-				}, -- [19]
-				{
-					1750, -- [1]
-					1469040931, -- [2]
-				}, -- [20]
-				{
-					1933, -- [1]
-					1469041191, -- [2]
-				}, -- [21]
-				{
-					1933, -- [1]
-					1469041191, -- [2]
-				}, -- [22]
-				{
-					1945, -- [1]
-					1469041191, -- [2]
-				}, -- [23]
-				{
-					1945, -- [1]
-					1469041191, -- [2]
-				}, -- [24]
-				{
-					1960, -- [1]
-					1469041191, -- [2]
-				}, -- [25]
-				{
-					1960, -- [1]
-					1469041191, -- [2]
-				}, -- [26]
-				{
-					1975, -- [1]
-					1469041191, -- [2]
-				}, -- [27]
-				{
-					1975, -- [1]
-					1469041191, -- [2]
-				}, -- [28]
-				{
-					1984, -- [1]
-					1469041191, -- [2]
-				}, -- [29]
-				{
-					1984, -- [1]
-					1469041191, -- [2]
-				}, -- [30]
-				{
-					1999, -- [1]
-					1469041191, -- [2]
-				}, -- [31]
-				{
-					1999, -- [1]
-					1469041191, -- [2]
-				}, -- [32]
-				{
-					2014, -- [1]
-					1469041191, -- [2]
-				}, -- [33]
-				{
-					2014, -- [1]
-					1469041191, -- [2]
-				}, -- [34]
-				{
-					2228, -- [1]
-					1469041461, -- [2]
-				}, -- [35]
-				{
-					2228, -- [1]
-					1469041461, -- [2]
-				}, -- [36]
-				{
-					2244, -- [1]
-					1469041461, -- [2]
-				}, -- [37]
-				{
-					2244, -- [1]
-					1469041461, -- [2]
-				}, -- [38]
-				{
-					2259, -- [1]
-					1469041461, -- [2]
-				}, -- [39]
-				{
-					2259, -- [1]
-					1469041461, -- [2]
-				}, -- [40]
-				{
-					2274, -- [1]
-					1469041461, -- [2]
-				}, -- [41]
-				{
-					2274, -- [1]
-					1469041461, -- [2]
-				}, -- [42]
-				{
-					2290, -- [1]
-					1469041461, -- [2]
-				}, -- [43]
-				{
-					2290, -- [1]
-					1469041461, -- [2]
-				}, -- [44]
-				{
-					30, -- [1]
-					1469042016, -- [2]
-				}, -- [45]
-				{
-					30, -- [1]
-					1469042016, -- [2]
-				}, -- [46]
-				{
-					41, -- [1]
-					1469042016, -- [2]
-				}, -- [47]
-				{
-					41, -- [1]
-					1469042016, -- [2]
-				}, -- [48]
-				{
-					56, -- [1]
-					1469042016, -- [2]
-				}, -- [49]
-				{
-					56, -- [1]
-					1469042016, -- [2]
-				}, -- [50]
-				{
-					71, -- [1]
-					1469042016, -- [2]
-				}, -- [51]
-				{
-					71, -- [1]
-					1469042016, -- [2]
-				}, -- [52]
-				{
-					86, -- [1]
-					1469042016, -- [2]
-				}, -- [53]
-				{
-					86, -- [1]
-					1469042016, -- [2]
-				}, -- [54]
-				{
-					101, -- [1]
-					1469042016, -- [2]
-				}, -- [55]
-				{
-					101, -- [1]
-					1469042016, -- [2]
-				}, -- [56]
-				{
-					323, -- [1]
-					1469647377, -- [2]
-				}, -- [57]
-				{
-					323, -- [1]
-					1469647377, -- [2]
-				}, -- [58]
-				{
-					333, -- [1]
-					1469647377, -- [2]
-				}, -- [59]
-				{
-					333, -- [1]
-					1469647377, -- [2]
-				}, -- [60]
-				{
-					349, -- [1]
-					1469647377, -- [2]
-				}, -- [61]
-				{
-					349, -- [1]
-					1469647377, -- [2]
-				}, -- [62]
-				{
-					364, -- [1]
-					1469647377, -- [2]
-				}, -- [63]
-				{
-					364, -- [1]
-					1469647377, -- [2]
-				}, -- [64]
-				{
-					379, -- [1]
-					1469647377, -- [2]
-				}, -- [65]
-				{
-					379, -- [1]
-					1469647377, -- [2]
-				}, -- [66]
-				{
-					394, -- [1]
-					1469647377, -- [2]
-				}, -- [67]
-				{
-					394, -- [1]
-					1469647377, -- [2]
-				}, -- [68]
-				{
-					10250, -- [1]
-					1470253595, -- [2]
-				}, -- [69]
-				{
-					10250, -- [1]
-					1470253595, -- [2]
-				}, -- [70]
-				{
-					10265, -- [1]
-					1470253595, -- [2]
-				}, -- [71]
-				{
-					10265, -- [1]
-					1470253595, -- [2]
-				}, -- [72]
-				{
-					10268, -- [1]
-					1470253595, -- [2]
-				}, -- [73]
-				{
-					10268, -- [1]
-					1470253595, -- [2]
-				}, -- [74]
-				{
-					10283, -- [1]
-					1470253595, -- [2]
-				}, -- [75]
-				{
-					10283, -- [1]
-					1470253595, -- [2]
-				}, -- [76]
-				{
-					10299, -- [1]
-					1470253595, -- [2]
-				}, -- [77]
-				{
-					10299, -- [1]
-					1470253595, -- [2]
-				}, -- [78]
-				{
-					10314, -- [1]
-					1470253595, -- [2]
-				}, -- [79]
-				{
-					10314, -- [1]
-					1470253595, -- [2]
-				}, -- [80]
-				{
-					10329, -- [1]
-					1470253595, -- [2]
-				}, -- [81]
-				{
-					10329, -- [1]
-					1470253595, -- [2]
-				}, -- [82]
-				{
-					10344, -- [1]
-					1470253595, -- [2]
-				}, -- [83]
-				{
-					10344, -- [1]
-					1470253595, -- [2]
-				}, -- [84]
-				{
-					3544, -- [1]
-					1470855693, -- [2]
-				}, -- [85]
-				{
-					3544, -- [1]
-					1470855693, -- [2]
-				}, -- [86]
-				{
-					3549, -- [1]
-					1470855693, -- [2]
-				}, -- [87]
-				{
-					3549, -- [1]
-					1470855693, -- [2]
-				}, -- [88]
-				{
-					3564, -- [1]
-					1470855693, -- [2]
-				}, -- [89]
-				{
-					3564, -- [1]
-					1470855693, -- [2]
-				}, -- [90]
-				{
-					3579, -- [1]
-					1470855693, -- [2]
-				}, -- [91]
-				{
-					3579, -- [1]
-					1470855693, -- [2]
-				}, -- [92]
-				{
-					3594, -- [1]
-					1470855693, -- [2]
-				}, -- [93]
-				{
-					3594, -- [1]
-					1470855693, -- [2]
-				}, -- [94]
-				{
-					3609, -- [1]
-					1470855693, -- [2]
-				}, -- [95]
-				{
-					3609, -- [1]
-					1470855693, -- [2]
-				}, -- [96]
-			},
-			["Fel Surge"] = {
-				{
-					1351, -- [1]
-					1469040559, -- [2]
-				}, -- [1]
-				{
-					1365, -- [1]
-					1469040559, -- [2]
-				}, -- [2]
-				{
-					1649, -- [1]
-					1469040931, -- [2]
-				}, -- [3]
-				{
-					1664, -- [1]
-					1469040931, -- [2]
-				}, -- [4]
-				{
-					1678, -- [1]
-					1469040931, -- [2]
-				}, -- [5]
-				{
-					1708, -- [1]
-					1469040931, -- [2]
-				}, -- [6]
-				{
-					1738, -- [1]
-					1469040931, -- [2]
-				}, -- [7]
-				{
-					1921, -- [1]
-					1469041191, -- [2]
-				}, -- [8]
-				{
-					1936, -- [1]
-					1469041191, -- [2]
-				}, -- [9]
-				{
-					1948, -- [1]
-					1469041191, -- [2]
-				}, -- [10]
-				{
-					1978, -- [1]
-					1469041191, -- [2]
-				}, -- [11]
-				{
-					1987, -- [1]
-					1469041191, -- [2]
-				}, -- [12]
-				{
-					2017, -- [1]
-					1469041191, -- [2]
-				}, -- [13]
-				{
-					2216, -- [1]
-					1469041461, -- [2]
-				}, -- [14]
-				{
-					2231, -- [1]
-					1469041461, -- [2]
-				}, -- [15]
-				{
-					2247, -- [1]
-					1469041461, -- [2]
-				}, -- [16]
-				{
-					2277, -- [1]
-					1469041461, -- [2]
-				}, -- [17]
-				{
-					18, -- [1]
-					1469042016, -- [2]
-				}, -- [18]
-				{
-					33, -- [1]
-					1469042016, -- [2]
-				}, -- [19]
-				{
-					44, -- [1]
-					1469042016, -- [2]
-				}, -- [20]
-				{
-					74, -- [1]
-					1469042016, -- [2]
-				}, -- [21]
-				{
-					89, -- [1]
-					1469042016, -- [2]
-				}, -- [22]
-				{
-					326, -- [1]
-					1469647377, -- [2]
-				}, -- [23]
-				{
-					336, -- [1]
-					1469647377, -- [2]
-				}, -- [24]
-				{
-					366, -- [1]
-					1469647377, -- [2]
-				}, -- [25]
-				{
-					382, -- [1]
-					1469647377, -- [2]
-				}, -- [26]
-				{
-					10253, -- [1]
-					1470253595, -- [2]
-				}, -- [27]
-				{
-					10271, -- [1]
-					1470253595, -- [2]
-				}, -- [28]
-				{
-					10302, -- [1]
-					1470253595, -- [2]
-				}, -- [29]
-				{
-					10332, -- [1]
-					1470253595, -- [2]
-				}, -- [30]
-				{
-					3546, -- [1]
-					1470855693, -- [2]
-				}, -- [31]
-				{
-					3582, -- [1]
-					1470855693, -- [2]
-				}, -- [32]
-			},
-			["Fel Strike"] = {
-				{
-					1335, -- [1]
-					1469040559, -- [2]
-				}, -- [1]
-				{
-					1335, -- [1]
-					1469040559, -- [2]
-				}, -- [2]
-				{
-					1355, -- [1]
-					1469040559, -- [2]
-				}, -- [3]
-				{
-					1355, -- [1]
-					1469040559, -- [2]
-				}, -- [4]
-				{
-					1369, -- [1]
-					1469040559, -- [2]
-				}, -- [5]
-				{
-					1369, -- [1]
-					1469040559, -- [2]
-				}, -- [6]
-				{
-					1384, -- [1]
-					1469040559, -- [2]
-				}, -- [7]
-				{
-					1384, -- [1]
-					1469040559, -- [2]
-				}, -- [8]
-				{
-					1647, -- [1]
-					1469040931, -- [2]
-				}, -- [9]
-				{
-					1647, -- [1]
-					1469040931, -- [2]
-				}, -- [10]
-				{
-					1668, -- [1]
-					1469040931, -- [2]
-				}, -- [11]
-				{
-					1668, -- [1]
-					1469040931, -- [2]
-				}, -- [12]
-				{
-					1682, -- [1]
-					1469040931, -- [2]
-				}, -- [13]
-				{
-					1682, -- [1]
-					1469040931, -- [2]
-				}, -- [14]
-				{
-					1697, -- [1]
-					1469040931, -- [2]
-				}, -- [15]
-				{
-					1697, -- [1]
-					1469040931, -- [2]
-				}, -- [16]
-				{
-					1712, -- [1]
-					1469040931, -- [2]
-				}, -- [17]
-				{
-					1712, -- [1]
-					1469040931, -- [2]
-				}, -- [18]
-				{
-					1727, -- [1]
-					1469040931, -- [2]
-				}, -- [19]
-				{
-					1727, -- [1]
-					1469040931, -- [2]
-				}, -- [20]
-				{
-					1742, -- [1]
-					1469040931, -- [2]
-				}, -- [21]
-				{
-					1742, -- [1]
-					1469040931, -- [2]
-				}, -- [22]
-				{
-					1757, -- [1]
-					1469040931, -- [2]
-				}, -- [23]
-				{
-					1757, -- [1]
-					1469040931, -- [2]
-				}, -- [24]
-				{
-					1919, -- [1]
-					1469041191, -- [2]
-				}, -- [25]
-				{
-					1919, -- [1]
-					1469041191, -- [2]
-				}, -- [26]
-				{
-					1940, -- [1]
-					1469041191, -- [2]
-				}, -- [27]
-				{
-					1940, -- [1]
-					1469041191, -- [2]
-				}, -- [28]
-				{
-					1952, -- [1]
-					1469041191, -- [2]
-				}, -- [29]
-				{
-					1952, -- [1]
-					1469041191, -- [2]
-				}, -- [30]
-				{
-					1967, -- [1]
-					1469041191, -- [2]
-				}, -- [31]
-				{
-					1967, -- [1]
-					1469041191, -- [2]
-				}, -- [32]
-				{
-					1982, -- [1]
-					1469041191, -- [2]
-				}, -- [33]
-				{
-					1982, -- [1]
-					1469041191, -- [2]
-				}, -- [34]
-				{
-					2004, -- [1]
-					1469041191, -- [2]
-				}, -- [35]
-				{
-					2004, -- [1]
-					1469041191, -- [2]
-				}, -- [36]
-				{
-					2213, -- [1]
-					1469041461, -- [2]
-				}, -- [37]
-				{
-					2213, -- [1]
-					1469041461, -- [2]
-				}, -- [38]
-				{
-					2235, -- [1]
-					1469041461, -- [2]
-				}, -- [39]
-				{
-					2235, -- [1]
-					1469041461, -- [2]
-				}, -- [40]
-				{
-					2251, -- [1]
-					1469041461, -- [2]
-				}, -- [41]
-				{
-					2251, -- [1]
-					1469041461, -- [2]
-				}, -- [42]
-				{
-					2266, -- [1]
-					1469041461, -- [2]
-				}, -- [43]
-				{
-					2266, -- [1]
-					1469041461, -- [2]
-				}, -- [44]
-				{
-					2281, -- [1]
-					1469041461, -- [2]
-				}, -- [45]
-				{
-					2281, -- [1]
-					1469041461, -- [2]
-				}, -- [46]
-				{
-					15, -- [1]
-					1469042016, -- [2]
-				}, -- [47]
-				{
-					15, -- [1]
-					1469042016, -- [2]
-				}, -- [48]
-				{
-					37, -- [1]
-					1469042016, -- [2]
-				}, -- [49]
-				{
-					37, -- [1]
-					1469042016, -- [2]
-				}, -- [50]
-				{
-					48, -- [1]
-					1469042016, -- [2]
-				}, -- [51]
-				{
-					48, -- [1]
-					1469042016, -- [2]
-				}, -- [52]
-				{
-					63, -- [1]
-					1469042016, -- [2]
-				}, -- [53]
-				{
-					63, -- [1]
-					1469042016, -- [2]
-				}, -- [54]
-				{
-					78, -- [1]
-					1469042016, -- [2]
-				}, -- [55]
-				{
-					78, -- [1]
-					1469042016, -- [2]
-				}, -- [56]
-				{
-					93, -- [1]
-					1469042016, -- [2]
-				}, -- [57]
-				{
-					93, -- [1]
-					1469042016, -- [2]
-				}, -- [58]
-				{
-					312, -- [1]
-					1469647377, -- [2]
-				}, -- [59]
-				{
-					312, -- [1]
-					1469647377, -- [2]
-				}, -- [60]
-				{
-					330, -- [1]
-					1469647377, -- [2]
-				}, -- [61]
-				{
-					330, -- [1]
-					1469647377, -- [2]
-				}, -- [62]
-				{
-					340, -- [1]
-					1469647377, -- [2]
-				}, -- [63]
-				{
-					340, -- [1]
-					1469647377, -- [2]
-				}, -- [64]
-				{
-					356, -- [1]
-					1469647377, -- [2]
-				}, -- [65]
-				{
-					356, -- [1]
-					1469647377, -- [2]
-				}, -- [66]
-				{
-					371, -- [1]
-					1469647377, -- [2]
-				}, -- [67]
-				{
-					371, -- [1]
-					1469647377, -- [2]
-				}, -- [68]
-				{
-					386, -- [1]
-					1469647377, -- [2]
-				}, -- [69]
-				{
-					386, -- [1]
-					1469647377, -- [2]
-				}, -- [70]
-				{
-					10238, -- [1]
-					1470253595, -- [2]
-				}, -- [71]
-				{
-					10238, -- [1]
-					1470253595, -- [2]
-				}, -- [72]
-				{
-					10257, -- [1]
-					1470253595, -- [2]
-				}, -- [73]
-				{
-					10257, -- [1]
-					1470253595, -- [2]
-				}, -- [74]
-				{
-					10275, -- [1]
-					1470253595, -- [2]
-				}, -- [75]
-				{
-					10275, -- [1]
-					1470253595, -- [2]
-				}, -- [76]
-				{
-					10290, -- [1]
-					1470253595, -- [2]
-				}, -- [77]
-				{
-					10290, -- [1]
-					1470253595, -- [2]
-				}, -- [78]
-				{
-					10306, -- [1]
-					1470253595, -- [2]
-				}, -- [79]
-				{
-					10306, -- [1]
-					1470253595, -- [2]
-				}, -- [80]
-				{
-					10321, -- [1]
-					1470253595, -- [2]
-				}, -- [81]
-				{
-					10321, -- [1]
-					1470253595, -- [2]
-				}, -- [82]
-				{
-					10336, -- [1]
-					1470253595, -- [2]
-				}, -- [83]
-				{
-					10336, -- [1]
-					1470253595, -- [2]
-				}, -- [84]
-				{
-					10351, -- [1]
-					1470253595, -- [2]
-				}, -- [85]
-				{
-					10351, -- [1]
-					1470253595, -- [2]
-				}, -- [86]
-				{
-					3532, -- [1]
-					1470855693, -- [2]
-				}, -- [87]
-				{
-					3532, -- [1]
-					1470855693, -- [2]
-				}, -- [88]
-				{
-					3556, -- [1]
-					1470855693, -- [2]
-				}, -- [89]
-				{
-					3556, -- [1]
-					1470855693, -- [2]
-				}, -- [90]
-				{
-					3571, -- [1]
-					1470855693, -- [2]
-				}, -- [91]
-				{
-					3571, -- [1]
-					1470855693, -- [2]
-				}, -- [92]
-				{
-					3586, -- [1]
-					1470855693, -- [2]
-				}, -- [93]
-				{
-					3586, -- [1]
-					1470855693, -- [2]
-				}, -- [94]
-				{
-					3601, -- [1]
-					1470855693, -- [2]
-				}, -- [95]
-				{
-					3601, -- [1]
-					1470855693, -- [2]
-				}, -- [96]
-			},
-			["Withering Gaze"] = {
-				{
-					1355, -- [1]
-					1469040559, -- [2]
-				}, -- [1]
-				{
-					1380, -- [1]
-					1469040559, -- [2]
-				}, -- [2]
-				{
-					1668, -- [1]
-					1469040931, -- [2]
-				}, -- [3]
-				{
-					1692, -- [1]
-					1469040931, -- [2]
-				}, -- [4]
-				{
-					1940, -- [1]
-					1469041191, -- [2]
-				}, -- [5]
-				{
-					1964, -- [1]
-					1469041191, -- [2]
-				}, -- [6]
-				{
-					2234, -- [1]
-					1469041461, -- [2]
-				}, -- [7]
-				{
-					2259, -- [1]
-					1469041461, -- [2]
-				}, -- [8]
-				{
-					2283, -- [1]
-					1469041461, -- [2]
-				}, -- [9]
-				{
-					37, -- [1]
-					1469042016, -- [2]
-				}, -- [10]
-				{
-					61, -- [1]
-					1469042016, -- [2]
-				}, -- [11]
-				{
-					330, -- [1]
-					1469647377, -- [2]
-				}, -- [12]
-				{
-					354, -- [1]
-					1469647377, -- [2]
-				}, -- [13]
-				{
-					10257, -- [1]
-					1470253595, -- [2]
-				}, -- [14]
-				{
-					10281, -- [1]
-					1470253595, -- [2]
-				}, -- [15]
-				{
-					3550, -- [1]
-					1470855693, -- [2]
-				}, -- [16]
-				{
-					3574, -- [1]
-					1470855693, -- [2]
-				}, -- [17]
-			},
-			["Black Hole"] = {
-				{
-					1370, -- [1]
-					1469040559, -- [2]
-				}, -- [1]
-				{
-					1683, -- [1]
-					1469040931, -- [2]
-				}, -- [2]
-				{
-					1955, -- [1]
-					1469041191, -- [2]
-				}, -- [3]
-				{
-					2250, -- [1]
-					1469041461, -- [2]
-				}, -- [4]
-				{
-					2280, -- [1]
-					1469041461, -- [2]
-				}, -- [5]
-				{
-					52, -- [1]
-					1469042016, -- [2]
-				}, -- [6]
-				{
-					82, -- [1]
-					1469042016, -- [2]
-				}, -- [7]
-				{
-					345, -- [1]
-					1469647377, -- [2]
-				}, -- [8]
-				{
-					376, -- [1]
-					1469647377, -- [2]
-				}, -- [9]
-				{
-					10273, -- [1]
-					1470253595, -- [2]
-				}, -- [10]
-				{
-					3565, -- [1]
-					1470855693, -- [2]
-				}, -- [11]
-			},
-			["Felblaze Flurry"] = {
-				{
-					1348, -- [1]
-					1469040559, -- [2]
-				}, -- [1]
-				{
-					1662, -- [1]
-					1469040931, -- [2]
-				}, -- [2]
-				{
-					1932, -- [1]
-					1469041191, -- [2]
-				}, -- [3]
-				{
-					2227, -- [1]
-					1469041461, -- [2]
-				}, -- [4]
-				{
-					2241, -- [1]
-					1469041461, -- [2]
-				}, -- [5]
-				{
-					29, -- [1]
-					1469042016, -- [2]
-				}, -- [6]
-				{
-					10251, -- [1]
-					1470253595, -- [2]
-				}, -- [7]
-				{
-					3545, -- [1]
-					1470855693, -- [2]
-				}, -- [8]
-			},
-			["Volatile Voidstep"] = {
-				{
-					1354, -- [1]
-					1469040559, -- [2]
-				}, -- [1]
-				{
-					1357, -- [1]
-					1469040559, -- [2]
-				}, -- [2]
-				{
-					1360, -- [1]
-					1469040559, -- [2]
-				}, -- [3]
-				{
-					1361, -- [1]
-					1469040559, -- [2]
-				}, -- [4]
-				{
-					1362, -- [1]
-					1469040559, -- [2]
-				}, -- [5]
-				{
-					1365, -- [1]
-					1469040559, -- [2]
-				}, -- [6]
-				{
-					1368, -- [1]
-					1469040559, -- [2]
-				}, -- [7]
-				{
-					1370, -- [1]
-					1469040559, -- [2]
-				}, -- [8]
-				{
-					1372, -- [1]
-					1469040559, -- [2]
-				}, -- [9]
-				{
-					1375, -- [1]
-					1469040559, -- [2]
-				}, -- [10]
-				{
-					1377, -- [1]
-					1469040559, -- [2]
-				}, -- [11]
-				{
-					1379, -- [1]
-					1469040559, -- [2]
-				}, -- [12]
-				{
-					1382, -- [1]
-					1469040559, -- [2]
-				}, -- [13]
-				{
-					1383, -- [1]
-					1469040559, -- [2]
-				}, -- [14]
-				{
-					1384, -- [1]
-					1469040559, -- [2]
-				}, -- [15]
-				{
-					1386, -- [1]
-					1469040559, -- [2]
-				}, -- [16]
-				{
-					1387, -- [1]
-					1469040559, -- [2]
-				}, -- [17]
-				{
-					1388, -- [1]
-					1469040559, -- [2]
-				}, -- [18]
-				{
-					1389, -- [1]
-					1469040559, -- [2]
-				}, -- [19]
-				{
-					1390, -- [1]
-					1469040559, -- [2]
-				}, -- [20]
-				{
-					1667, -- [1]
-					1469040931, -- [2]
-				}, -- [21]
-				{
-					1671, -- [1]
-					1469040931, -- [2]
-				}, -- [22]
-				{
-					1674, -- [1]
-					1469040931, -- [2]
-				}, -- [23]
-				{
-					1677, -- [1]
-					1469040931, -- [2]
-				}, -- [24]
-				{
-					1679, -- [1]
-					1469040931, -- [2]
-				}, -- [25]
-				{
-					1681, -- [1]
-					1469040931, -- [2]
-				}, -- [26]
-				{
-					1684, -- [1]
-					1469040931, -- [2]
-				}, -- [27]
-				{
-					1686, -- [1]
-					1469040931, -- [2]
-				}, -- [28]
-				{
-					1697, -- [1]
-					1469040931, -- [2]
-				}, -- [29]
-				{
-					1700, -- [1]
-					1469040931, -- [2]
-				}, -- [30]
-				{
-					1704, -- [1]
-					1469040931, -- [2]
-				}, -- [31]
-				{
-					1706, -- [1]
-					1469040931, -- [2]
-				}, -- [32]
-				{
-					1708, -- [1]
-					1469040931, -- [2]
-				}, -- [33]
-				{
-					1711, -- [1]
-					1469040931, -- [2]
-				}, -- [34]
-				{
-					1713, -- [1]
-					1469040931, -- [2]
-				}, -- [35]
-				{
-					1716, -- [1]
-					1469040931, -- [2]
-				}, -- [36]
-				{
-					1718, -- [1]
-					1469040931, -- [2]
-				}, -- [37]
-				{
-					1720, -- [1]
-					1469040931, -- [2]
-				}, -- [38]
-				{
-					1727, -- [1]
-					1469040931, -- [2]
-				}, -- [39]
-				{
-					1730, -- [1]
-					1469040931, -- [2]
-				}, -- [40]
-				{
-					1731, -- [1]
-					1469040931, -- [2]
-				}, -- [41]
-				{
-					1733, -- [1]
-					1469040931, -- [2]
-				}, -- [42]
-				{
-					1734, -- [1]
-					1469040931, -- [2]
-				}, -- [43]
-				{
-					1736, -- [1]
-					1469040931, -- [2]
-				}, -- [44]
-				{
-					1737, -- [1]
-					1469040931, -- [2]
-				}, -- [45]
-				{
-					1739, -- [1]
-					1469040931, -- [2]
-				}, -- [46]
-				{
-					1741, -- [1]
-					1469040931, -- [2]
-				}, -- [47]
-				{
-					1743, -- [1]
-					1469040931, -- [2]
-				}, -- [48]
-				{
-					1744, -- [1]
-					1469040931, -- [2]
-				}, -- [49]
-				{
-					1746, -- [1]
-					1469040931, -- [2]
-				}, -- [50]
-				{
-					1748, -- [1]
-					1469040931, -- [2]
-				}, -- [51]
-				{
-					1750, -- [1]
-					1469040931, -- [2]
-				}, -- [52]
-				{
-					1753, -- [1]
-					1469040931, -- [2]
-				}, -- [53]
-				{
-					1755, -- [1]
-					1469040931, -- [2]
-				}, -- [54]
-				{
-					1757, -- [1]
-					1469040931, -- [2]
-				}, -- [55]
-				{
-					1759, -- [1]
-					1469040931, -- [2]
-				}, -- [56]
-				{
-					1760, -- [1]
-					1469040931, -- [2]
-				}, -- [57]
-				{
-					1761, -- [1]
-					1469040931, -- [2]
-				}, -- [58]
-				{
-					1762, -- [1]
-					1469040931, -- [2]
-				}, -- [59]
-				{
-					1939, -- [1]
-					1469041191, -- [2]
-				}, -- [60]
-				{
-					1941, -- [1]
-					1469041191, -- [2]
-				}, -- [61]
-				{
-					1945, -- [1]
-					1469041191, -- [2]
-				}, -- [62]
-				{
-					1948, -- [1]
-					1469041191, -- [2]
-				}, -- [63]
-				{
-					1951, -- [1]
-					1469041191, -- [2]
-				}, -- [64]
-				{
-					1968, -- [1]
-					1469041191, -- [2]
-				}, -- [65]
-				{
-					1971, -- [1]
-					1469041191, -- [2]
-				}, -- [66]
-				{
-					1972, -- [1]
-					1469041191, -- [2]
-				}, -- [67]
-				{
-					1974, -- [1]
-					1469041191, -- [2]
-				}, -- [68]
-				{
-					1975, -- [1]
-					1469041191, -- [2]
-				}, -- [69]
-				{
-					1978, -- [1]
-					1469041191, -- [2]
-				}, -- [70]
-				{
-					1979, -- [1]
-					1469041191, -- [2]
-				}, -- [71]
-				{
-					1980, -- [1]
-					1469041191, -- [2]
-				}, -- [72]
-				{
-					1981, -- [1]
-					1469041191, -- [2]
-				}, -- [73]
-				{
-					1982, -- [1]
-					1469041191, -- [2]
-				}, -- [74]
-				{
-					1984, -- [1]
-					1469041191, -- [2]
-				}, -- [75]
-				{
-					1985, -- [1]
-					1469041191, -- [2]
-				}, -- [76]
-				{
-					1986, -- [1]
-					1469041191, -- [2]
-				}, -- [77]
-				{
-					1987, -- [1]
-					1469041191, -- [2]
-				}, -- [78]
-				{
-					1988, -- [1]
-					1469041191, -- [2]
-				}, -- [79]
-				{
-					1998, -- [1]
-					1469041191, -- [2]
-				}, -- [80]
-				{
-					2002, -- [1]
-					1469041191, -- [2]
-				}, -- [81]
-				{
-					2006, -- [1]
-					1469041191, -- [2]
-				}, -- [82]
-				{
-					2008, -- [1]
-					1469041191, -- [2]
-				}, -- [83]
-				{
-					2010, -- [1]
-					1469041191, -- [2]
-				}, -- [84]
-				{
-					2013, -- [1]
-					1469041191, -- [2]
-				}, -- [85]
-				{
-					2015, -- [1]
-					1469041191, -- [2]
-				}, -- [86]
-				{
-					2017, -- [1]
-					1469041191, -- [2]
-				}, -- [87]
-				{
-					2020, -- [1]
-					1469041191, -- [2]
-				}, -- [88]
-				{
-					2022, -- [1]
-					1469041191, -- [2]
-				}, -- [89]
-				{
-					2234, -- [1]
-					1469041461, -- [2]
-				}, -- [90]
-				{
-					2237, -- [1]
-					1469041461, -- [2]
-				}, -- [91]
-				{
-					2241, -- [1]
-					1469041461, -- [2]
-				}, -- [92]
-				{
-					2245, -- [1]
-					1469041461, -- [2]
-				}, -- [93]
-				{
-					2247, -- [1]
-					1469041461, -- [2]
-				}, -- [94]
-				{
-					2249, -- [1]
-					1469041461, -- [2]
-				}, -- [95]
-				{
-					2252, -- [1]
-					1469041461, -- [2]
-				}, -- [96]
-				{
-					2254, -- [1]
-					1469041461, -- [2]
-				}, -- [97]
-				{
-					2256, -- [1]
-					1469041461, -- [2]
-				}, -- [98]
-				{
-					2263, -- [1]
-					1469041461, -- [2]
-				}, -- [99]
-				{
-					2267, -- [1]
-					1469041461, -- [2]
-				}, -- [100]
-				{
-					2271, -- [1]
-					1469041461, -- [2]
-				}, -- [101]
-				{
-					2273, -- [1]
-					1469041461, -- [2]
-				}, -- [102]
-				{
-					2275, -- [1]
-					1469041461, -- [2]
-				}, -- [103]
-				{
-					2278, -- [1]
-					1469041461, -- [2]
-				}, -- [104]
-				{
-					2280, -- [1]
-					1469041461, -- [2]
-				}, -- [105]
-				{
-					2282, -- [1]
-					1469041461, -- [2]
-				}, -- [106]
-				{
-					2285, -- [1]
-					1469041461, -- [2]
-				}, -- [107]
-				{
-					2287, -- [1]
-					1469041461, -- [2]
-				}, -- [108]
-				{
-					2289, -- [1]
-					1469041461, -- [2]
-				}, -- [109]
-				{
-					2291, -- [1]
-					1469041461, -- [2]
-				}, -- [110]
-				{
-					35, -- [1]
-					1469042016, -- [2]
-				}, -- [111]
-				{
-					36, -- [1]
-					1469042016, -- [2]
-				}, -- [112]
-				{
-					38, -- [1]
-					1469042016, -- [2]
-				}, -- [113]
-				{
-					39, -- [1]
-					1469042016, -- [2]
-				}, -- [114]
-				{
-					41, -- [1]
-					1469042016, -- [2]
-				}, -- [115]
-				{
-					43, -- [1]
-					1469042016, -- [2]
-				}, -- [116]
-				{
-					47, -- [1]
-					1469042016, -- [2]
-				}, -- [117]
-				{
-					49, -- [1]
-					1469042016, -- [2]
-				}, -- [118]
-				{
-					51, -- [1]
-					1469042016, -- [2]
-				}, -- [119]
-				{
-					54, -- [1]
-					1469042016, -- [2]
-				}, -- [120]
-				{
-					56, -- [1]
-					1469042016, -- [2]
-				}, -- [121]
-				{
-					58, -- [1]
-					1469042016, -- [2]
-				}, -- [122]
-				{
-					61, -- [1]
-					1469042016, -- [2]
-				}, -- [123]
-				{
-					63, -- [1]
-					1469042016, -- [2]
-				}, -- [124]
-				{
-					65, -- [1]
-					1469042016, -- [2]
-				}, -- [125]
-				{
-					66, -- [1]
-					1469042016, -- [2]
-				}, -- [126]
-				{
-					67, -- [1]
-					1469042016, -- [2]
-				}, -- [127]
-				{
-					69, -- [1]
-					1469042016, -- [2]
-				}, -- [128]
-				{
-					70, -- [1]
-					1469042016, -- [2]
-				}, -- [129]
-				{
-					71, -- [1]
-					1469042016, -- [2]
-				}, -- [130]
-				{
-					72, -- [1]
-					1469042016, -- [2]
-				}, -- [131]
-				{
-					73, -- [1]
-					1469042016, -- [2]
-				}, -- [132]
-				{
-					74, -- [1]
-					1469042016, -- [2]
-				}, -- [133]
-				{
-					75, -- [1]
-					1469042016, -- [2]
-				}, -- [134]
-				{
-					76, -- [1]
-					1469042016, -- [2]
-				}, -- [135]
-				{
-					77, -- [1]
-					1469042016, -- [2]
-				}, -- [136]
-				{
-					78, -- [1]
-					1469042016, -- [2]
-				}, -- [137]
-				{
-					79, -- [1]
-					1469042016, -- [2]
-				}, -- [138]
-				{
-					81, -- [1]
-					1469042016, -- [2]
-				}, -- [139]
-				{
-					82, -- [1]
-					1469042016, -- [2]
-				}, -- [140]
-				{
-					83, -- [1]
-					1469042016, -- [2]
-				}, -- [141]
-				{
-					84, -- [1]
-					1469042016, -- [2]
-				}, -- [142]
-				{
-					85, -- [1]
-					1469042016, -- [2]
-				}, -- [143]
-				{
-					87, -- [1]
-					1469042016, -- [2]
-				}, -- [144]
-				{
-					88, -- [1]
-					1469042016, -- [2]
-				}, -- [145]
-				{
-					89, -- [1]
-					1469042016, -- [2]
-				}, -- [146]
-				{
-					92, -- [1]
-					1469042016, -- [2]
-				}, -- [147]
-				{
-					94, -- [1]
-					1469042016, -- [2]
-				}, -- [148]
-				{
-					95, -- [1]
-					1469042016, -- [2]
-				}, -- [149]
-				{
-					96, -- [1]
-					1469042016, -- [2]
-				}, -- [150]
-				{
-					99, -- [1]
-					1469042016, -- [2]
-				}, -- [151]
-				{
-					101, -- [1]
-					1469042016, -- [2]
-				}, -- [152]
-				{
-					102, -- [1]
-					1469042016, -- [2]
-				}, -- [153]
-				{
-					103, -- [1]
-					1469042016, -- [2]
-				}, -- [154]
-				{
-					104, -- [1]
-					1469042016, -- [2]
-				}, -- [155]
-				{
-					105, -- [1]
-					1469042016, -- [2]
-				}, -- [156]
-				{
-					106, -- [1]
-					1469042016, -- [2]
-				}, -- [157]
-				{
-					107, -- [1]
-					1469042016, -- [2]
-				}, -- [158]
-				{
-					329, -- [1]
-					1469647377, -- [2]
-				}, -- [159]
-				{
-					333, -- [1]
-					1469647377, -- [2]
-				}, -- [160]
-				{
-					336, -- [1]
-					1469647377, -- [2]
-				}, -- [161]
-				{
-					358, -- [1]
-					1469647377, -- [2]
-				}, -- [162]
-				{
-					359, -- [1]
-					1469647377, -- [2]
-				}, -- [163]
-				{
-					362, -- [1]
-					1469647377, -- [2]
-				}, -- [164]
-				{
-					363, -- [1]
-					1469647377, -- [2]
-				}, -- [165]
-				{
-					365, -- [1]
-					1469647377, -- [2]
-				}, -- [166]
-				{
-					366, -- [1]
-					1469647377, -- [2]
-				}, -- [167]
-				{
-					368, -- [1]
-					1469647377, -- [2]
-				}, -- [168]
-				{
-					370, -- [1]
-					1469647377, -- [2]
-				}, -- [169]
-				{
-					371, -- [1]
-					1469647377, -- [2]
-				}, -- [170]
-				{
-					372, -- [1]
-					1469647377, -- [2]
-				}, -- [171]
-				{
-					373, -- [1]
-					1469647377, -- [2]
-				}, -- [172]
-				{
-					375, -- [1]
-					1469647377, -- [2]
-				}, -- [173]
-				{
-					378, -- [1]
-					1469647377, -- [2]
-				}, -- [174]
-				{
-					10255, -- [1]
-					1470253595, -- [2]
-				}, -- [175]
-				{
-					10284, -- [1]
-					1470253595, -- [2]
-				}, -- [176]
-				{
-					10288, -- [1]
-					1470253595, -- [2]
-				}, -- [177]
-				{
-					10292, -- [1]
-					1470253595, -- [2]
-				}, -- [178]
-				{
-					10294, -- [1]
-					1470253595, -- [2]
-				}, -- [179]
-				{
-					10314, -- [1]
-					1470253595, -- [2]
-				}, -- [180]
-				{
-					10315, -- [1]
-					1470253595, -- [2]
-				}, -- [181]
-				{
-					10318, -- [1]
-					1470253595, -- [2]
-				}, -- [182]
-				{
-					10321, -- [1]
-					1470253595, -- [2]
-				}, -- [183]
-				{
-					10323, -- [1]
-					1470253595, -- [2]
-				}, -- [184]
-				{
-					10324, -- [1]
-					1470253595, -- [2]
-				}, -- [185]
-				{
-					10325, -- [1]
-					1470253595, -- [2]
-				}, -- [186]
-				{
-					10326, -- [1]
-					1470253595, -- [2]
-				}, -- [187]
-				{
-					3549, -- [1]
-					1470855693, -- [2]
-				}, -- [188]
-				{
-					3553, -- [1]
-					1470855693, -- [2]
-				}, -- [189]
-				{
-					3556, -- [1]
-					1470855693, -- [2]
-				}, -- [190]
-				{
-					3578, -- [1]
-					1470855693, -- [2]
-				}, -- [191]
-				{
-					3581, -- [1]
-					1470855693, -- [2]
-				}, -- [192]
-				{
-					3582, -- [1]
-					1470855693, -- [2]
-				}, -- [193]
-				{
-					3584, -- [1]
-					1470855693, -- [2]
-				}, -- [194]
-				{
-					3587, -- [1]
-					1470855693, -- [2]
-				}, -- [195]
-			},
-			["Fel Orb"] = {
-				{
-					1365, -- [1]
-					1469040559, -- [2]
-				}, -- [1]
-				{
-					1367, -- [1]
-					1469040559, -- [2]
-				}, -- [2]
-				{
-					1368, -- [1]
-					1469040559, -- [2]
-				}, -- [3]
-				{
-					1370, -- [1]
-					1469040559, -- [2]
-				}, -- [4]
-				{
-					1372, -- [1]
-					1469040559, -- [2]
-				}, -- [5]
-				{
-					1373, -- [1]
-					1469040559, -- [2]
-				}, -- [6]
-				{
-					1374, -- [1]
-					1469040559, -- [2]
-				}, -- [7]
-				{
-					1375, -- [1]
-					1469040559, -- [2]
-				}, -- [8]
-				{
-					1376, -- [1]
-					1469040559, -- [2]
-				}, -- [9]
-				{
-					1378, -- [1]
-					1469040559, -- [2]
-				}, -- [10]
-				{
-					1380, -- [1]
-					1469040559, -- [2]
-				}, -- [11]
-				{
-					1382, -- [1]
-					1469040559, -- [2]
-				}, -- [12]
-				{
-					1385, -- [1]
-					1469040559, -- [2]
-				}, -- [13]
-				{
-					1387, -- [1]
-					1469040559, -- [2]
-				}, -- [14]
-				{
-					1390, -- [1]
-					1469040559, -- [2]
-				}, -- [15]
-				{
-					1653, -- [1]
-					1469040931, -- [2]
-				}, -- [16]
-				{
-					1679, -- [1]
-					1469040931, -- [2]
-				}, -- [17]
-				{
-					1681, -- [1]
-					1469040931, -- [2]
-				}, -- [18]
-				{
-					1684, -- [1]
-					1469040931, -- [2]
-				}, -- [19]
-				{
-					1686, -- [1]
-					1469040931, -- [2]
-				}, -- [20]
-				{
-					1703, -- [1]
-					1469040931, -- [2]
-				}, -- [21]
-				{
-					1705, -- [1]
-					1469040931, -- [2]
-				}, -- [22]
-				{
-					1708, -- [1]
-					1469040931, -- [2]
-				}, -- [23]
-				{
-					1710, -- [1]
-					1469040931, -- [2]
-				}, -- [24]
-				{
-					1713, -- [1]
-					1469040931, -- [2]
-				}, -- [25]
-				{
-					1729, -- [1]
-					1469040931, -- [2]
-				}, -- [26]
-				{
-					1731, -- [1]
-					1469040931, -- [2]
-				}, -- [27]
-				{
-					1733, -- [1]
-					1469040931, -- [2]
-				}, -- [28]
-				{
-					1736, -- [1]
-					1469040931, -- [2]
-				}, -- [29]
-				{
-					1738, -- [1]
-					1469040931, -- [2]
-				}, -- [30]
-				{
-					1741, -- [1]
-					1469040931, -- [2]
-				}, -- [31]
-				{
-					1743, -- [1]
-					1469040931, -- [2]
-				}, -- [32]
-				{
-					1746, -- [1]
-					1469040931, -- [2]
-				}, -- [33]
-				{
-					1748, -- [1]
-					1469040931, -- [2]
-				}, -- [34]
-				{
-					1750, -- [1]
-					1469040931, -- [2]
-				}, -- [35]
-				{
-					1925, -- [1]
-					1469041191, -- [2]
-				}, -- [36]
-				{
-					1927, -- [1]
-					1469041191, -- [2]
-				}, -- [37]
-				{
-					1949, -- [1]
-					1469041191, -- [2]
-				}, -- [38]
-				{
-					1952, -- [1]
-					1469041191, -- [2]
-				}, -- [39]
-				{
-					1954, -- [1]
-					1469041191, -- [2]
-				}, -- [40]
-				{
-					1975, -- [1]
-					1469041191, -- [2]
-				}, -- [41]
-				{
-					1977, -- [1]
-					1469041191, -- [2]
-				}, -- [42]
-				{
-					1980, -- [1]
-					1469041191, -- [2]
-				}, -- [43]
-				{
-					1982, -- [1]
-					1469041191, -- [2]
-				}, -- [44]
-				{
-					1985, -- [1]
-					1469041191, -- [2]
-				}, -- [45]
-				{
-					1987, -- [1]
-					1469041191, -- [2]
-				}, -- [46]
-				{
-					1992, -- [1]
-					1469041191, -- [2]
-				}, -- [47]
-				{
-					1994, -- [1]
-					1469041191, -- [2]
-				}, -- [48]
-				{
-					1999, -- [1]
-					1469041191, -- [2]
-				}, -- [49]
-				{
-					2002, -- [1]
-					1469041191, -- [2]
-				}, -- [50]
-				{
-					2004, -- [1]
-					1469041191, -- [2]
-				}, -- [51]
-				{
-					2219, -- [1]
-					1469041461, -- [2]
-				}, -- [52]
-				{
-					2243, -- [1]
-					1469041461, -- [2]
-				}, -- [53]
-				{
-					2245, -- [1]
-					1469041461, -- [2]
-				}, -- [54]
-				{
-					2248, -- [1]
-					1469041461, -- [2]
-				}, -- [55]
-				{
-					2250, -- [1]
-					1469041461, -- [2]
-				}, -- [56]
-				{
-					2253, -- [1]
-					1469041461, -- [2]
-				}, -- [57]
-				{
-					2255, -- [1]
-					1469041461, -- [2]
-				}, -- [58]
-				{
-					2268, -- [1]
-					1469041461, -- [2]
-				}, -- [59]
-				{
-					2271, -- [1]
-					1469041461, -- [2]
-				}, -- [60]
-				{
-					2273, -- [1]
-					1469041461, -- [2]
-				}, -- [61]
-				{
-					2276, -- [1]
-					1469041461, -- [2]
-				}, -- [62]
-				{
-					2278, -- [1]
-					1469041461, -- [2]
-				}, -- [63]
-				{
-					2281, -- [1]
-					1469041461, -- [2]
-				}, -- [64]
-				{
-					2283, -- [1]
-					1469041461, -- [2]
-				}, -- [65]
-				{
-					2286, -- [1]
-					1469041461, -- [2]
-				}, -- [66]
-				{
-					2288, -- [1]
-					1469041461, -- [2]
-				}, -- [67]
-				{
-					2290, -- [1]
-					1469041461, -- [2]
-				}, -- [68]
-				{
-					22, -- [1]
-					1469042016, -- [2]
-				}, -- [69]
-				{
-					46, -- [1]
-					1469042016, -- [2]
-				}, -- [70]
-				{
-					48, -- [1]
-					1469042016, -- [2]
-				}, -- [71]
-				{
-					72, -- [1]
-					1469042016, -- [2]
-				}, -- [72]
-				{
-					86, -- [1]
-					1469042016, -- [2]
-				}, -- [73]
-				{
-					88, -- [1]
-					1469042016, -- [2]
-				}, -- [74]
-				{
-					91, -- [1]
-					1469042016, -- [2]
-				}, -- [75]
-				{
-					93, -- [1]
-					1469042016, -- [2]
-				}, -- [76]
-				{
-					96, -- [1]
-					1469042016, -- [2]
-				}, -- [77]
-				{
-					98, -- [1]
-					1469042016, -- [2]
-				}, -- [78]
-				{
-					99, -- [1]
-					1469042016, -- [2]
-				}, -- [79]
-				{
-					100, -- [1]
-					1469042016, -- [2]
-				}, -- [80]
-				{
-					103, -- [1]
-					1469042016, -- [2]
-				}, -- [81]
-				{
-					105, -- [1]
-					1469042016, -- [2]
-				}, -- [82]
-				{
-					107, -- [1]
-					1469042016, -- [2]
-				}, -- [83]
-				{
-					108, -- [1]
-					1469042016, -- [2]
-				}, -- [84]
-				{
-					343, -- [1]
-					1469647377, -- [2]
-				}, -- [85]
-				{
-					345, -- [1]
-					1469647377, -- [2]
-				}, -- [86]
-				{
-					348, -- [1]
-					1469647377, -- [2]
-				}, -- [87]
-				{
-					350, -- [1]
-					1469647377, -- [2]
-				}, -- [88]
-				{
-					353, -- [1]
-					1469647377, -- [2]
-				}, -- [89]
-				{
-					355, -- [1]
-					1469647377, -- [2]
-				}, -- [90]
-				{
-					367, -- [1]
-					1469647377, -- [2]
-				}, -- [91]
-				{
-					370, -- [1]
-					1469647377, -- [2]
-				}, -- [92]
-				{
-					372, -- [1]
-					1469647377, -- [2]
-				}, -- [93]
-				{
-					375, -- [1]
-					1469647377, -- [2]
-				}, -- [94]
-				{
-					377, -- [1]
-					1469647377, -- [2]
-				}, -- [95]
-				{
-					10268, -- [1]
-					1470253595, -- [2]
-				}, -- [96]
-				{
-					10293, -- [1]
-					1470253595, -- [2]
-				}, -- [97]
-				{
-					3562, -- [1]
-					1470855693, -- [2]
-				}, -- [98]
-				{
-					3564, -- [1]
-					1470855693, -- [2]
-				}, -- [99]
-				{
-					3567, -- [1]
-					1470855693, -- [2]
-				}, -- [100]
-				{
-					3569, -- [1]
-					1470855693, -- [2]
-				}, -- [101]
-			},
-			["Void Surge"] = {
-				{
-					1375, -- [1]
-					1469040559, -- [2]
-				}, -- [1]
-				{
-					1688, -- [1]
-					1469040931, -- [2]
-				}, -- [2]
-				{
-					1718, -- [1]
-					1469040931, -- [2]
-				}, -- [3]
-				{
-					1748, -- [1]
-					1469040931, -- [2]
-				}, -- [4]
-				{
-					1958, -- [1]
-					1469041191, -- [2]
-				}, -- [5]
-				{
-					1997, -- [1]
-					1469041191, -- [2]
-				}, -- [6]
-				{
-					2241, -- [1]
-					1469041461, -- [2]
-				}, -- [7]
-				{
-					2271, -- [1]
-					1469041461, -- [2]
-				}, -- [8]
-				{
-					54, -- [1]
-					1469042016, -- [2]
-				}, -- [9]
-				{
-					84, -- [1]
-					1469042016, -- [2]
-				}, -- [10]
-				{
-					346, -- [1]
-					1469647377, -- [2]
-				}, -- [11]
-				{
-					376, -- [1]
-					1469647377, -- [2]
-				}, -- [12]
-				{
-					10263, -- [1]
-					1470253595, -- [2]
-				}, -- [13]
-				{
-					10281, -- [1]
-					1470253595, -- [2]
-				}, -- [14]
-				{
-					10312, -- [1]
-					1470253595, -- [2]
-				}, -- [15]
-				{
-					10342, -- [1]
-					1470253595, -- [2]
-				}, -- [16]
-				{
-					3562, -- [1]
-					1470855693, -- [2]
-				}, -- [17]
-				{
-					3592, -- [1]
-					1470855693, -- [2]
-				}, -- [18]
-			},
-			["Empowered Black Hole"] = {
-				{
-					1723, -- [1]
-					1469040931, -- [2]
-				}, -- [1]
-				{
-					1753, -- [1]
-					1469040931, -- [2]
-				}, -- [2]
-				{
-					2002, -- [1]
-					1469041191, -- [2]
-				}, -- [3]
-				{
-					105, -- [1]
-					1469042016, -- [2]
-				}, -- [4]
-				{
-					397, -- [1]
-					1469647377, -- [2]
-				}, -- [5]
-				{
-					10317, -- [1]
-					1470253595, -- [2]
-				}, -- [6]
-				{
-					10347, -- [1]
-					1470253595, -- [2]
-				}, -- [7]
-				{
-					3597, -- [1]
-					1470855693, -- [2]
-				}, -- [8]
-			},
-		},
-		["ids"] = {
-			["Void Strike"] = 190224,
-			["Fel Surge"] = 186407,
-			["Fel Strike"] = 190223,
-			["Withering Gaze"] = 186783,
-			["Black Hole"] = 186546,
-			["Felblaze Flurry"] = 186453,
-			["Volatile Voidstep"] = 188939,
-			["Fel Orb"] = 186532,
-			["Void Surge"] = 186333,
-			["Empowered Black Hole"] = 189779,
-		},
-	},
-	["142716"] = {
-		["deaths"] = {
-			[27] = {
-				1470254159, -- [1]
-			},
-			[80] = {
-				1469647829, -- [1]
-			},
-			[75] = {
-				1470254159, -- [1]
-			},
-			[98] = {
-				1470254159, -- [1]
-			},
-			[72] = {
-				1469647829, -- [1]
-			},
-			[41] = {
-				1470254159, -- [1]
-			},
-			[58] = {
-				1470856106, -- [1]
-			},
-			[50] = {
-				1470254159, -- [1]
-			},
-		},
-		["spells"] = {
-			["Apocalypse"] = {
-				{
-					830, -- [1]
-					1469647829, -- [2]
-				}, -- [1]
-				{
-					10864, -- [1]
-					1470254159, -- [2]
-				}, -- [2]
-				{
-					10915, -- [1]
-					1470254159, -- [2]
-				}, -- [3]
-				{
-					4003, -- [1]
-					1470856106, -- [2]
-				}, -- [4]
-			},
-			["Volatile Fel Orb"] = {
-				{
-					774, -- [1]
-					1469647829, -- [2]
-				}, -- [1]
-				{
-					10807, -- [1]
-					1470254159, -- [2]
-				}, -- [2]
-				{
-					3948, -- [1]
-					1470856106, -- [2]
-				}, -- [3]
-			},
-			["Virulent Haunt"] = {
-				{
-					10860, -- [1]
-					1470254159, -- [2]
-				}, -- [1]
-				{
-					3985, -- [1]
-					1470856106, -- [2]
-				}, -- [2]
-			},
-			["Gift of the Man'ari"] = {
-				{
-					802, -- [1]
-					1469647829, -- [2]
-				}, -- [1]
-				{
-					10839, -- [1]
-					1470254159, -- [2]
-				}, -- [2]
-				{
-					3975, -- [1]
-					1470856106, -- [2]
-				}, -- [3]
-			},
-			["Eternal Hunger"] = {
-				{
-					10819, -- [1]
-					1470254159, -- [2]
-				}, -- [1]
-				{
-					10822, -- [1]
-					1470254159, -- [2]
-				}, -- [2]
-				{
-					10834, -- [1]
-					1470254159, -- [2]
-				}, -- [3]
-				{
-					10836, -- [1]
-					1470254159, -- [2]
-				}, -- [4]
-				{
-					10842, -- [1]
-					1470254159, -- [2]
-				}, -- [5]
-			},
-			["Exert Dominance"] = {
-				{
-					798, -- [1]
-					1469647829, -- [2]
-				}, -- [1]
-				{
-					800, -- [1]
-					1469647829, -- [2]
-				}, -- [2]
-				{
-					802, -- [1]
-					1469647829, -- [2]
-				}, -- [3]
-				{
-					805, -- [1]
-					1469647829, -- [2]
-				}, -- [4]
-				{
-					807, -- [1]
-					1469647829, -- [2]
-				}, -- [5]
-				{
-					10834, -- [1]
-					1470254159, -- [2]
-				}, -- [6]
-				{
-					10837, -- [1]
-					1470254159, -- [2]
-				}, -- [7]
-				{
-					10839, -- [1]
-					1470254159, -- [2]
-				}, -- [8]
-				{
-					10842, -- [1]
-					1470254159, -- [2]
-				}, -- [9]
-				{
-					10844, -- [1]
-					1470254159, -- [2]
-				}, -- [10]
-				{
-					10855, -- [1]
-					1470254159, -- [2]
-				}, -- [11]
-				{
-					3974, -- [1]
-					1470856106, -- [2]
-				}, -- [12]
-				{
-					3977, -- [1]
-					1470856106, -- [2]
-				}, -- [13]
-				{
-					3979, -- [1]
-					1470856106, -- [2]
-				}, -- [14]
-			},
-			["Fel Barrier"] = {
-				{
-					796, -- [1]
-					1469647829, -- [2]
-				}, -- [1]
-				{
-					10833, -- [1]
-					1470254159, -- [2]
-				}, -- [2]
-				{
-					3970, -- [1]
-					1470856106, -- [2]
-				}, -- [3]
-			},
-			["Socrethar's Contingency"] = {
-				{
-					10813, -- [1]
-					1470254159, -- [2]
-				}, -- [1]
-			},
-			["Soul Regeneration"] = {
-				{
-					10840, -- [1]
-					1470254159, -- [2]
-				}, -- [1]
-			},
-			["Fel Prison"] = {
-				{
-					850, -- [1]
-					1469647829, -- [2]
-				}, -- [1]
-				{
-					10830, -- [1]
-					1470254159, -- [2]
-				}, -- [2]
-				{
-					10847, -- [1]
-					1470254159, -- [2]
-				}, -- [3]
-				{
-					10847, -- [1]
-					1470254159, -- [2]
-				}, -- [4]
-				{
-					10849, -- [1]
-					1470254159, -- [2]
-				}, -- [5]
-				{
-					10849, -- [1]
-					1470254159, -- [2]
-				}, -- [6]
-				{
-					10849, -- [1]
-					1470254159, -- [2]
-				}, -- [7]
-				{
-					10867, -- [1]
-					1470254159, -- [2]
-				}, -- [8]
-				{
-					10868, -- [1]
-					1470254159, -- [2]
-				}, -- [9]
-				{
-					10868, -- [1]
-					1470254159, -- [2]
-				}, -- [10]
-				{
-					10898, -- [1]
-					1470254159, -- [2]
-				}, -- [11]
-				{
-					10898, -- [1]
-					1470254159, -- [2]
-				}, -- [12]
-				{
-					10898, -- [1]
-					1470254159, -- [2]
-				}, -- [13]
-			},
-			["Eject Soul"] = {
-				{
-					773, -- [1]
-					1469647829, -- [2]
-				}, -- [1]
-				{
-					10809, -- [1]
-					1470254159, -- [2]
-				}, -- [2]
-				{
-					3946, -- [1]
-					1470856106, -- [2]
-				}, -- [3]
-			},
-			["Reverberating Blow"] = {
-				{
-					768, -- [1]
-					1469647829, -- [2]
-				}, -- [1]
-				{
-					10802, -- [1]
-					1470254159, -- [2]
-				}, -- [2]
-				{
-					3942, -- [1]
-					1470856106, -- [2]
-				}, -- [3]
-			},
-			["Shadow Bolt Volley"] = {
-				{
-					820, -- [1]
-					1469647829, -- [2]
-				}, -- [1]
-				{
-					828, -- [1]
-					1469647829, -- [2]
-				}, -- [2]
-				{
-					839, -- [1]
-					1469647829, -- [2]
-				}, -- [3]
-				{
-					848, -- [1]
-					1469647829, -- [2]
-				}, -- [4]
-				{
-					10860, -- [1]
-					1470254159, -- [2]
-				}, -- [5]
-				{
-					10898, -- [1]
-					1470254159, -- [2]
-				}, -- [6]
-				{
-					10915, -- [1]
-					1470254159, -- [2]
-				}, -- [7]
-				{
-					4013, -- [1]
-					1470856106, -- [2]
-				}, -- [8]
-			},
-			["Shadow Word: Agony"] = {
-				{
-					816, -- [1]
-					1469647829, -- [2]
-				}, -- [1]
-				{
-					817, -- [1]
-					1469647829, -- [2]
-				}, -- [2]
-				{
-					823, -- [1]
-					1469647829, -- [2]
-				}, -- [3]
-				{
-					825, -- [1]
-					1469647829, -- [2]
-				}, -- [4]
-				{
-					830, -- [1]
-					1469647829, -- [2]
-				}, -- [5]
-				{
-					833, -- [1]
-					1469647829, -- [2]
-				}, -- [6]
-				{
-					835, -- [1]
-					1469647829, -- [2]
-				}, -- [7]
-				{
-					841, -- [1]
-					1469647829, -- [2]
-				}, -- [8]
-				{
-					843, -- [1]
-					1469647829, -- [2]
-				}, -- [9]
-				{
-					845, -- [1]
-					1469647829, -- [2]
-				}, -- [10]
-				{
-					850, -- [1]
-					1469647829, -- [2]
-				}, -- [11]
-				{
-					852, -- [1]
-					1469647829, -- [2]
-				}, -- [12]
-				{
-					10853, -- [1]
-					1470254159, -- [2]
-				}, -- [13]
-				{
-					10855, -- [1]
-					1470254159, -- [2]
-				}, -- [14]
-				{
-					10857, -- [1]
-					1470254159, -- [2]
-				}, -- [15]
-				{
-					10870, -- [1]
-					1470254159, -- [2]
-				}, -- [16]
-				{
-					10881, -- [1]
-					1470254159, -- [2]
-				}, -- [17]
-				{
-					10891, -- [1]
-					1470254159, -- [2]
-				}, -- [18]
-				{
-					10893, -- [1]
-					1470254159, -- [2]
-				}, -- [19]
-				{
-					10900, -- [1]
-					1470254159, -- [2]
-				}, -- [20]
-				{
-					10903, -- [1]
-					1470254159, -- [2]
-				}, -- [21]
-				{
-					3991, -- [1]
-					1470856106, -- [2]
-				}, -- [22]
-				{
-					4007, -- [1]
-					1470856106, -- [2]
-				}, -- [23]
-				{
-					4010, -- [1]
-					1470856106, -- [2]
-				}, -- [24]
-				{
-					4014, -- [1]
-					1470856106, -- [2]
-				}, -- [25]
-			},
-			["Ghastly Fixation"] = {
-				{
-					806, -- [1]
-					1469647829, -- [2]
-				}, -- [1]
-				{
-					836, -- [1]
-					1469647829, -- [2]
-				}, -- [2]
-				{
-					10842, -- [1]
-					1470254159, -- [2]
-				}, -- [3]
-				{
-					10870, -- [1]
-					1470254159, -- [2]
-				}, -- [4]
-				{
-					10902, -- [1]
-					1470254159, -- [2]
-				}, -- [5]
-				{
-					3979, -- [1]
-					1470856106, -- [2]
-				}, -- [6]
-				{
-					4009, -- [1]
-					1470856106, -- [2]
-				}, -- [7]
-			},
-		},
-		["ids"] = {
-			["Apocalypse"] = 183329,
-			["Volatile Fel Orb"] = 180221,
-			["Virulent Haunt"] = 182925,
-			["Gift of the Man'ari"] = 184124,
-			["Eternal Hunger"] = 188666,
-			["Exert Dominance"] = 183331,
-			["Fel Barrier"] = 184053,
-			["Socrethar's Contingency"] = 190776,
-			["Soul Regeneration"] = 190413,
-			["Fel Prison"] = 183017,
-			["Eject Soul"] = 183023,
-			["Reverberating Blow"] = 180008,
-			["Shadow Bolt Volley"] = 182392,
-			["Shadow Word: Agony"] = 184239,
-			["Ghastly Fixation"] = 182769,
 		},
 	},
 }

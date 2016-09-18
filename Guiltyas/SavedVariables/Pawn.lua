@@ -1,8 +1,8 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0011,
-	["LastPlayerFullName"] = "Guiltyas-Auchindoun",
-	["AutoSelectScales"] = false,
+	["LastVersion"] = 2.0008,
+	["LastPlayerFullName"] = "Guiltyas-Defias Brotherhood",
+	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
 	["LastKeybindingsSet"] = 1,
 }

@@ -69,9 +69,9 @@ EnemyGridDBChr = {
 	["debuffsBanned"] = {
 	},
 	["spellRangeCheck"] = {
-		[103] = "Moonfire",
-		[104] = "Moonfire",
-		[102] = "Moonfire",
+		[103] = "Growl",
+		[104] = "Growl",
+		[102] = "Sunfire",
 		[105] = "Solar Wrath",
 	},
 }
